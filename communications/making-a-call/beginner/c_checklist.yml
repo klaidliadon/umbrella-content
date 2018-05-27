@@ -1,0 +1,13 @@
+index: 100
+list:
+- text: Avoid regular phone calls for sensitive conversations
+- text: Use Ostel or Redphone for calls on your phone
+- text: Use Jitsi instead of Skype on your computer
+- text: If you must use Skype
+  label: true
+- text: Download from official website
+- text: Change password regularly
+- text: Adjust settings so you don't keep chat history
+- text: Verify who you're speaking to
+- text: Consider using anonymous username
+- text: Use codes for sensitive topics

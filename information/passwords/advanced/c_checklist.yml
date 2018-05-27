@@ -1,0 +1,7 @@
+index: 100
+list:
+- text: Install KeePassXC
+- text: Create strong password for KeePassXC
+- text: Back up KeePassXC database
+- text: Ensure computer has no malware
+- text: Install two-step authentication

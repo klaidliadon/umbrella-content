@@ -1,0 +1,25 @@
+index: 100
+list:
+- text: Make sure it says HTTPS in browser before you log in
+- text: Download the HTTPS Everywhere browser add-on
+- text: If using Gmail, set up 2-Step Verification
+- text: Create a RiseUp account if possible
+- text: Use secure email services hosted in safe countries
+- text: Use same email provider as sensitive contacts
+- text: Be careful opening email attachments
+- text: If needed, use different email accounts for different groups
+- text: If needed, use a code for sensitive information
+- text: Use strong passwords
+- text: Protect your computer from malware
+- text: Do not use phone as primary means for email
+- text: If your email has been hacked
+  label: true
+- text: Don't send any sensitive information
+- text: Change your password
+- text: Reclaim your account
+- text: Determine who to alert/what to cancel
+- text: Find out how you were compromised
+- text: Review security on all devices
+- text: Consider reporting it
+- text: Consider moving to more secure account
+- text: Avoid storing read emails

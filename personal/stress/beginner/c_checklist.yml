@@ -1,0 +1,23 @@
+index: 100
+list:
+- text: For individuals
+  label: true
+- text: Learn about stress
+- text: Know yourself
+- text: Eat well and exercise
+- text: Get rest and relaxation
+- text: Practice belief systems
+- text: Maintain humour and perspective
+- text: Be informed
+- text: Talk to people
+- text: Change the stressful environment
+- text: Think positive
+- text: For managers
+  label: true
+- text: Acknowledge your limitations
+- text: Get support from your manager
+- text: Delegate
+- text: Buddy up
+- text: Recognise staff efforts
+- text: Regular time off
+- text: Provide a good example

@@ -1,0 +1,80 @@
+index: 100
+list:
+- text: WEAR A SEATBELT
+- text: Park in well lit, busy places
+- text: Close windows and lock doors on leaving
+- text: Have keys in hand returning to vehicle
+- text: Lock doors on entry
+- text: Open windows no more than 5cm
+- text: Do not speed
+- text: Observe local driving regulations
+- text: Avoid driving at night/alone
+- text: Avoid letting fuel tank fall below half full
+- text: Keep spare key in office
+- text: Don't carry unauthorized passengers unless threatened
+- text: Meet incoming staff on arrival
+- text: Vary regular journey times/routes
+- text: Have alternate routes planned
+- text: Avoid criminal areas and chokepoints
+- text: Consult with other agencies
+- text: Notify team of travel plans
+- text: Mark vehicles appropriately
+- text: Avoid transporting sensitive items through volatile areas
+- text: Journey considerations
+  label: true
+- text: Recent incidents
+- text: Weather
+- text: Length
+- text: Communications
+- text: Checkpoints/ other dangerous points
+- text: Safe 'waypoints'
+- text: Refuelling stops
+- text: Food stops
+- text: Plan in case of breakdown
+- text: Appropriate vehicle type
+- text: Ethnicity of driver if dangerous area
+- text: Checks
+  label: true
+- text: Tyres
+- text: Seatbelts
+- text: Fuel
+- text: Brakes
+- text: Oil
+- text: Steering
+- text: Loading
+- text: Keep in vehicle
+  label: true
+- text: Communication equipment and key telephone numbers
+- text: Additional fuel & oil
+- text: Water
+- text: Maps
+- text: GPS
+- text: Spare parts for car
+- text: Spare wheel (x2) and jack
+- text: Basic tools
+- text: Fluorescent warning triangle
+- text: Tow rope
+- text: First aid kit
+- text: Torch
+- text: Permission to travel, if required
+- text: Visas
+- text: Car documents
+- text: Driver's licence & insurance
+- text: Personal ID
+- text: Organisational ID if possible
+- text: Medical vaccination certificates
+- text: Food
+- text: Water
+- text: Cold/ hot weather clothing
+- text: Blankets/ shade structure
+- text: In case of accident
+  label: true
+- text: Ascertain risk of staying
+- text: Do not leave site unless at risk
+- text: If at risk, drive to nearest police/military post
+- text: Make site safe and visible to others
+- text: Provide assistance as appropriate
+- text: Contact and cooperate with authorities
+- text: Contact your office
+- text: Take pictures of scene and details of those involved
+- text: Complete accident report form in log book if applicable

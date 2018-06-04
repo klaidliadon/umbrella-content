@@ -4,9 +4,14 @@ title: What now?
 ---
 Swipe right for this lesson's checklist.
 
+Learn about hate speech in [Social Media Advanced](umbrella://lesson/social-media/1).
+
+Learn to combat other types of abuse in [Social Media Expert](umbrella://lesson/social-media/2).
+
 ### RELATED LESSONS/TOOLS
 
 *   [Passwords](umbrella://lesson/passwords)
+*	[Phishing] (umbrella://lesson/phishing)
 *   [How to change your Facebook privacy settings](umbrella://lesson/facebook)
 *   [ObscuraCam](umbrella://lesson/obscuracam)
 *   [Sending a Message](umbrella://lesson/sending-a-message)

@@ -23,7 +23,7 @@ Consider:
 
 * Computers, phones, and other devices.
 * Remote servers operated by email or cloud storage providers.
-* USB sticks, portable hard drives, or CD-ROMs.
+* USB sticks, portable hard drives, SD cards, or CD-ROMs.
 * Websites.
 * Filing cabinets. 
 

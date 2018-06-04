@@ -1,9 +1,9 @@
 index: 100
 list:
 - text: Avoid regular phone calls for sensitive conversations
-- text: Use Ostel or Redphone for calls on your phone
-- text: Use Jitsi instead of Skype on your computer
-- text: If you must use Skype
+- text: Use Signal for secure calls
+- text: Use JitsiMeet for video conferencing
+- text: If you must use less secure options
   label: true
 - text: Download from official website
 - text: Change password regularly

@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 1
 title: Kidnap Stages
 ---
 Your main goal if you have been kidnapped is to survive and regain freedom.

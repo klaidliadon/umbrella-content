@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 8
 title: Maintain it!
 ---
 # Backups are vital.

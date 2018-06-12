@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 1
 title: How to protect sensitive files
 ---
 # Why protect your files? 

@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 2
 title: Operating in Warzones
 ---
 Human rights defenders requiring body armor should choose a vest according to the expected threat. The U.S. National Institute of Justice has developed a six-tier rating system used by most manufacturers around the world. If you are covering armed conflict, you should choose a vest rated to stop high-velocity bullets fired by military rifles. Be aware, however, that no vest is completely bulletproof. One may still be severely injured or die from the trauma of blunt impact, even if the body armor does stop the projectile. Consider gender-specific designs and whether you require options such as side or groin protectors.

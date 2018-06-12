@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 1
 title: How to delete information securely
 ---
 # Emptying the trash

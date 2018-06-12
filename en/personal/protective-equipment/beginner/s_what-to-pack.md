@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 2
 title: What to Pack
 ---
 A grab bag might include:

@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 7
 title: 'Tactics: Create a force-past'
 ---
 # Tactics: Create a force-past

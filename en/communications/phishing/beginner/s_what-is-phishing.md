@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 1
 title: What is Phishing?
 ---
 Phishing attacks try to trick people into revealing information or downloading malware that can be used to spy on them or disrupt their work. 

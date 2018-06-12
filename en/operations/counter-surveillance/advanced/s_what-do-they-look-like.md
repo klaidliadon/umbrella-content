@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 2
 title: What do they look like?
 ---
 # What do they look like?

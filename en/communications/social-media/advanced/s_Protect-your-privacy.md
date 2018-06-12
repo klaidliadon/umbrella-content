@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 4
 title: Protect your privacy
 ---
 # Privacy for writers, bloggers, journalists, and commentators 

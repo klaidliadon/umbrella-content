@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 3
 title: Take care registering
 ---
 # Withhold information

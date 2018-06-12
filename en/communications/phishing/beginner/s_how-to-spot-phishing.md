@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 2
 title: How to Spot Phishing
 ---
 Web browsers and mail services can detect some phishing attempts. If you see a warning about a suspicious website or message, don't ignore it!   

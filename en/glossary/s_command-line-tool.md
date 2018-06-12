@@ -1,5 +1,4 @@
 ---
-index: 0
 title: Command line tool
 ---
 # Command line tool

@@ -1,5 +1,4 @@
 ---
-index: 0
 title: Off-the-Record (OTR)
 ---
 # Off-the-Record (OTR)

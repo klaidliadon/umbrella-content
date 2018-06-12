@@ -1,5 +1,4 @@
 ---
-index: 0
 title: ""
 ---
 # TOR FOR WINDOWS TOOL GUIDE

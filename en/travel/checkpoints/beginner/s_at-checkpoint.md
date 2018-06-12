@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 3
 title: At Checkpoint
 ---
 You should know the accepted etiquette for passing through a checkpoint in your area. It is always important to stay calm and clearly demonstrate that you are not a threat.

@@ -1,5 +1,4 @@
 ---
-index: 0
 title: Key-signing party
 ---
 # Key-signing party

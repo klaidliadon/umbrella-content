@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 2
 title: Communications
 ---
 1. Choose a communications method.

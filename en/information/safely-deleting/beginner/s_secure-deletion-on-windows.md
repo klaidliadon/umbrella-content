@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 2
 title: Secure deletion on Windows
 ---
 # Bleachbit

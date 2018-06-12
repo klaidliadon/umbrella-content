@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 5
 title: When encryption is illegal
 ---
 # Encryption is illegal in some countries. 

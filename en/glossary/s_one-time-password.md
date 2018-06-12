@@ -1,5 +1,4 @@
 ---
-index: 0
 title: One-time password
 ---
 # One-time password

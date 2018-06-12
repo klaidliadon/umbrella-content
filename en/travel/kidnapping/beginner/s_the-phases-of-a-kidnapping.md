@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 2
 title: The Phases of a Kidnapping
 ---
 1.  Surveillance

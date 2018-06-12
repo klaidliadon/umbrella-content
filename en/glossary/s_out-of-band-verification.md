@@ -1,5 +1,4 @@
 ---
-index: 0
 title: Out-of-band verification
 ---
 # Out-of-band verification

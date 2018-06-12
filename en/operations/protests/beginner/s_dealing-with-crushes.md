@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 2
 title: Dealing with Crushes
 ---
 # Dealing with Crushes

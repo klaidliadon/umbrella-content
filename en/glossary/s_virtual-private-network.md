@@ -1,5 +1,4 @@
 ---
-index: 0
 title: Virtual Private Network
 ---
 # Virtual Private Network

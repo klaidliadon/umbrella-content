@@ -1,5 +1,4 @@
 ---
-index: 0
 title: Secure Sockets Layer (SSL)
 ---
 # Secure Sockets Layer (SSL)

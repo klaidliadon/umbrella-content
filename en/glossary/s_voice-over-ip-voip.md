@@ -1,5 +1,4 @@
 ---
-index: 0
 title: Voice over IP (VoIP)
 ---
 # Voice over IP (VoIP)

@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 6
 title: Aftermath
 ---
 *   Regardless of the method of freedom, expect to be immediately and thoroughly debriefed. Cooperate with the authorities, giving as much detail as possible.

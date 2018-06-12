@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 9
 title: 'Tactics: Get on a bus'
 ---
 # Tactics: Get on a bus

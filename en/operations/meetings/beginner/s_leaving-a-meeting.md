@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 7
 title: Leaving a Meeting
 ---
 # Leaving a Meeting

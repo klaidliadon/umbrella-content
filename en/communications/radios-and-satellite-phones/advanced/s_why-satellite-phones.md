@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 1
 title: Why Satellite Phones
 ---
 *	High-quality, direct-dial voice, fax, and email.

@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 6
 title: Signs your email has been hacked
 ---
 # Monitor your email account

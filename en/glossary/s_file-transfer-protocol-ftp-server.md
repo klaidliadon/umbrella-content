@@ -1,5 +1,4 @@
 ---
-index: 0
 title: File Transfer Protocol (FTP server)
 ---
 # File Transfer Protocol (FTP server)

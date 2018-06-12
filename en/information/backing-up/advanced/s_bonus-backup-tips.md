@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 6
 title: Bonus backup tips
 ---
 ## Organise files. 

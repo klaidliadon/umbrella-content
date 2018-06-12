@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 10
 title: 'Tactics: Get in a train or taxi'
 ---
 # Tactics: Get in a train or taxi

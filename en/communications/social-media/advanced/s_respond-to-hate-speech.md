@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 3
 title: How to respond to hate speech
 ---
 You may feel helpless, but you can take action and know that it's not your fault. The following strategies have proven useful for other survivors, with examples from women writers and journalists.

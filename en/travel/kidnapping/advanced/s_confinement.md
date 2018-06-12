@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 4
 title: Confinement
 ---
 *   Anticipate periods of isolation and other methods of intimidation and prepare for a long wait. Do not believe everything you are told. Try to persuade your abductors to contact your colleagues or the authorities, find reasons why this would benefit them.

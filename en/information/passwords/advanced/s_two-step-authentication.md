@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 3
 title: 2FA
 ---
 # Two-Factor Authentication (2FA)  

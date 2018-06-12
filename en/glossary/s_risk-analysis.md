@@ -1,5 +1,4 @@
 ---
-index: 0
 title: Risk analysis
 ---
 # Risk analysis

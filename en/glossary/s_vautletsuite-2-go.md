@@ -1,5 +1,4 @@
 ---
-index: 0
 title: VautletSuite 2 Go
 ---
 # VautletSuite 2 Go

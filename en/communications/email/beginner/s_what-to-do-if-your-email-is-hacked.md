@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 7
 title: What to do if your email is hacked
 ---
 # Act fast.

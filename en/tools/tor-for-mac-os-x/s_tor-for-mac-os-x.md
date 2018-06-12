@@ -1,5 +1,4 @@
 ---
-index: 0
 title: ""
 ---
 # TOR FOR MAC OS TOOL GUIDE

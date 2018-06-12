@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 3
 title: Reduce promoting factors
 ---
 *   **Stay low profile**Don't use big expensive cars; avoid 'no-go' areas in town; don't display assets etc.

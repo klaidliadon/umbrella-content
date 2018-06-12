@@ -1,5 +1,4 @@
 ---
-index: 0
 title: VeraCrypt Tool Guide
 ---
 VeraCrypt Tool Guide 

@@ -1,5 +1,4 @@
 ---
-index: 0
 title: End-to-end encryption
 ---
 # End-to-end encryption

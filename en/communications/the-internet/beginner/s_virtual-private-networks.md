@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 5
 title: VPNs
 ---
 A virtual private network (VPN) encrypts Internet data sent from your device to disguise your location. 

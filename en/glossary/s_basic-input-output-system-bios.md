@@ -1,5 +1,4 @@
 ---
-index: 0
 title: Basic Input/Output System (BIOS)
 ---
 # Basic Input/Output System (BIOS)

@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 1
 title: Regular SMS Text messages
 ---
 # SMS is insecure

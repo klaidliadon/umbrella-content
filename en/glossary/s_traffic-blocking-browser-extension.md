@@ -1,5 +1,4 @@
 ---
-index: 0
 title: Traffic-blocking browser extension
 ---
 # Traffic-blocking browser extension

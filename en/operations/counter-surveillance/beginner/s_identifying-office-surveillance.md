@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 3
 title: Identifying office surveillance
 ---
 ## How to Identify if Your Office is Under Surveillance

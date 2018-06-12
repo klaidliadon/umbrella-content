@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 4
 title: Less Secure Options
 ---
 # Transport encryption is not end-to-end

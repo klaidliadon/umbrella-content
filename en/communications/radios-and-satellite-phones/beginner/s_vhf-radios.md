@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 2
 title: VHF radios
 ---
 *	30 to 300 MHz frequency; 

@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 5
 title: Secure deletion when discarding hardware
 ---
 # Wipe hard drives

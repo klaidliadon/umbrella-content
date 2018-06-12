@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 3
 title: HF radios
 ---
 *	3 to 30 MHz frequency; 

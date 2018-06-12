@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 3
 title: Information stored
 ---
 # Protect personal information

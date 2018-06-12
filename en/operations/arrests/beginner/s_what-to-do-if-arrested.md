@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 3
 title: What to do if Arrested
 ---
 # What to do if Arrested

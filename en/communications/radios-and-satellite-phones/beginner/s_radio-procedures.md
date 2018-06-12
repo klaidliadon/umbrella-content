@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 5
 title: Radio procedures
 ---
 # Follow simple, standard procedures

@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 6
 title: Equipment
 ---
 What you need on your trip will depend on many factors, but here are some ideas. 

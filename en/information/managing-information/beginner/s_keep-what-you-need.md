@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 1
 title: Keep what you need
 ---
 # Two rules to manage information 

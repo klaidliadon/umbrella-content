@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 1
 title: Before You Leave
 ---
 Borders represent the possibility for detention, intimidation, interrogation, and search.

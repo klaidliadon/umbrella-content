@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 3
 title: Secure calls
 ---
 # Signal

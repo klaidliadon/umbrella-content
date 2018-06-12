@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 3
 title: Assessment questions
 ---
 ## 1. What do you want to protect?

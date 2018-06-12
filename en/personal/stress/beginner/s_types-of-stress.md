@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 1
 title: Types of Stress
 ---
 # Types of Stress

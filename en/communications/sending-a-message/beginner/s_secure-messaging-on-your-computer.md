@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 5
 title: Other secure messaging options
 ---
 For secure messaging on a computer, we also recommend:

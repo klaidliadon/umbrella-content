@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 5
 title: 'Tactics: Identify the Trigger'
 ---
 #  Tactics: Identify the Trigger

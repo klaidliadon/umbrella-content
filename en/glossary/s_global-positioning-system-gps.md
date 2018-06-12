@@ -1,5 +1,4 @@
 ---
-index: 0
 title: Global Positioning System (GPS)
 ---
 # Global Positioning System (GPS)

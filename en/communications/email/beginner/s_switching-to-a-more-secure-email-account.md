@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 2
 title: Switching to a more secure email account
 ---
 # Choose a secure provider

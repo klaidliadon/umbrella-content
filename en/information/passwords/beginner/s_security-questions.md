@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 4
 title: Security Questions
 ---
 # Security questions are also passwords

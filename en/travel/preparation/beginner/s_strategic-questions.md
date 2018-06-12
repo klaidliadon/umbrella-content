@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 1
 title: Strategic Questions
 ---
 # Before your trip

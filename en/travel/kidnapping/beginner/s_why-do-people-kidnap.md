@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 1
 title: Why do kidnappings occur?
 ---
 The best defence against kidnapping is having and practising a high-quality, well-managed security management plan, which is based on a thorough understanding of the general context and risks, and on the context and threat of kidnapping specific to your location. Understanding who carries out kidnappings, and why, will help shape your avoidance and survival strategies.

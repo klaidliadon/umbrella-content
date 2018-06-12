@@ -1,5 +1,4 @@
 ---
-index: 0
 title: .apk file
 ---
 # .apk file

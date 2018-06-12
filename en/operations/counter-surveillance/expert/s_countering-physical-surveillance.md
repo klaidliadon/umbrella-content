@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 1
 title: Countering Physical Surveillance
 ---
 # Countering Physical Surveillance

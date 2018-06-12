@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 7
 title: Accidents
 ---
 Accidents can be minimized, but not avoided entirely. 

@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 4
 title: When Exiting Country
 ---
 When leaving the country, the same principles as entering apply.

@@ -1,5 +1,4 @@
 ---
-index: 0
 title: SMTP settings
 ---
 # SMTP settings

@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 2
 title: Tor
 ---
 [Tor] (https://www.torproject.org/) is free, open-source software designed to give you anonymity on the web. 

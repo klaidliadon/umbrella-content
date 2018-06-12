@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 1
 title: Wear a seatbelt
 ---
 ## The most important security advice you will ever hear is: 

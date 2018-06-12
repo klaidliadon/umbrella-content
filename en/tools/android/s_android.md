@@ -1,5 +1,4 @@
 ---
-index: 0
 title: ""
 ---
 # BASIC SECURITY SETUP FOR ANDROID GUIDE

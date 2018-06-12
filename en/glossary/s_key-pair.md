@@ -1,5 +1,4 @@
 ---
-index: 0
 title: Key pair
 ---
 # Key pair

@@ -1,5 +1,4 @@
 ---
-index: 0
 title: Full disk encryption
 ---
 # Full disk encryption

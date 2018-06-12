@@ -1,5 +1,4 @@
 ---
-index: 0
 title: Two-factor authentication
 ---
 # Two-factor authentication

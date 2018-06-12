@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 1
 title: Kidnapping
 ---
 Dealing with the kidnapping of a member of staff is a very sensitive and complex task. This lesson provides only the basic outline for recommended actions.

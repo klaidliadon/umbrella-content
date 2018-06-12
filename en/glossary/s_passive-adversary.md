@@ -1,5 +1,4 @@
 ---
-index: 0
 title: Passive adversary
 ---
 # Passive adversary

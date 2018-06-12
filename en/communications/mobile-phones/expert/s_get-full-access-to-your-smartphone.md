@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 1
 title: Get full access to your smartphone
 ---
 # Experts only

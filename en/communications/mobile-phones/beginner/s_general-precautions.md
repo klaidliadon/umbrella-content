@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 6
 title: General Precautions
 ---
 # Physically protect your device and SIM

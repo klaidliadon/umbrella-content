@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 4
 title: What to do?
 ---
 # What To Do If Your Office Is Under Surveillance

@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 3
 title: Remembering secure passwords
 ---
 ## A few tricks will help you create passwords that are easy to remember but difficult to guess.

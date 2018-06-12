@@ -1,5 +1,4 @@
 ---
-index: 0
 title: ""
 ---
 # PGP FOR WINDOWS PC TOOL GUIDE

@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 8
 title: Three Sides to a Square
 ---
 # Three Sides to a Square

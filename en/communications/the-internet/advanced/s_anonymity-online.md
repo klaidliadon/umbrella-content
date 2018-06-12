@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 1
 title: Anonymity Online
 ---
 Accessing the Internet and publishing information on the Internet leaves traces.

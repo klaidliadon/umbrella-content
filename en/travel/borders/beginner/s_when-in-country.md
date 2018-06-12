@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 3
 title: When In Country
 ---
 # Don't leave a paper trail 

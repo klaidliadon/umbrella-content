@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 1
 title: Should You Bring Your Phone?
 ---
 # Should You Bring Your Phone?

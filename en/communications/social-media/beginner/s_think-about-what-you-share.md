@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 6
 title: Think about what you share
 ---
 # Investigate yourself

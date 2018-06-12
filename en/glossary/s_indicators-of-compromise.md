@@ -1,5 +1,4 @@
 ---
-index: 0
 title: Indicators of compromise
 ---
 # Indicators of compromise

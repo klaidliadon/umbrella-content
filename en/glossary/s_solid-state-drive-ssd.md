@@ -1,5 +1,4 @@
 ---
-index: 0
 title: Solid State Drive (SSD)
 ---
 # Solid State Drive (SSD)

@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 4
 title: Five Rules of Counter-Surveillance
 ---
 # Five Rules of Counter-Surveillance

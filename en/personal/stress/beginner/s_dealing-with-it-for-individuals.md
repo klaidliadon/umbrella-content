@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 4
 title: Dealing with it - For Individuals
 ---
 # Dealing with it - For Individuals

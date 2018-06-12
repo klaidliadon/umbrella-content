@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 2
 title: Public Key Encryption
 ---
 PGP is based on a cryptographic system called public key encryption. 

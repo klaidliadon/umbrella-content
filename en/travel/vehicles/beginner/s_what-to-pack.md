@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 6
 title: What to Pack
 ---
 What you need to keep in your vehicle will depend on many factors, but here are some ideas. 

@@ -1,5 +1,4 @@
 ---
-index: 0
 title: Web-based proxy
 ---
 # Web-based proxy

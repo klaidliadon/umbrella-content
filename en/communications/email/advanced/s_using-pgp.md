@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 3
 title: Using PGP
 ---
 PGP is built on an old design and has a reputation for being difficult to use.

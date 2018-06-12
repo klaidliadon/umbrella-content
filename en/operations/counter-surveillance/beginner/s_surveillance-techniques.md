@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 2
 title: Surveillance techniques
 ---
 # What techniques are available to carry out surveillance?

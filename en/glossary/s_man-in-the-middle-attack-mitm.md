@@ -1,5 +1,4 @@
 ---
-index: 0
 title: Man-in-the-middle attack (MITM)
 ---
 # Man-in-the-middle attack (MITM)

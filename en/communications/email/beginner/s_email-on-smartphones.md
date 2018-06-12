@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 5
 title: Email on Smartphones
 ---
 # Avoid email on your smartphone

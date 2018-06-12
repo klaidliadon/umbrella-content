@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 2
 title: Tips for using password managers
 ---
 ## Back it up. 

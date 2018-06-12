@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 1
 title: Digital
 ---
 ### If you are having a digital security emergency, the following are useful resources.

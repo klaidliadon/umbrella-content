@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 1
 title: Protecting Yourself on Social Networks
 ---
 Sites like Facebook, Google+, and Twitter are some of the most popular on the Internet, with hundreds of millions of users each. 

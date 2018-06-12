@@ -1,5 +1,4 @@
 ---
-index: 0
 title: Internet filtering
 ---
 # Internet filtering

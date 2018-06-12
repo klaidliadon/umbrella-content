@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 1
 title: Grab Bags
 ---
 Grab bags are bags filled with an individual's survival essentials in case they need to move rapidly. They should be prepared for high-risk activists, journalists and humanitarians at times of heightened risk and kept close to an exit in their residence - somewhere easy to grab and run.

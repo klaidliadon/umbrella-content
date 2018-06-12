@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 3
 title: How to Spot Spear Phishing
 ---
 # Targeted attacks are called spear phishing. 

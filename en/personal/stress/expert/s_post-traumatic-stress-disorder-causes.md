@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 1
 title: Post-Traumatic Stress Disorder - Causes
 ---
 # Post-Traumatic Stress Disorder - Causes

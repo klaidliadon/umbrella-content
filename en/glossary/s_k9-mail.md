@@ -1,5 +1,4 @@
 ---
-index: 0
 title: K9 Mail
 ---
 # K9 Mail

@@ -1,5 +1,4 @@
 ---
-index: 0
 title: ""
 ---
 # HOW TO CHANGE YOUR FACEBOOK PRIVACY SETTINGS

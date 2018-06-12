@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 4
 title: Standard Operating Procedures
 ---
 Standard operating procedures are step-by-step instructions for any scenario.  

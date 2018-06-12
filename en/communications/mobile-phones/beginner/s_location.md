@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 4
 title: Location
 ---
 # Your phone broadcasts your location all day and all night. 

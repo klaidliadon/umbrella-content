@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 4
 title: 'What PGP Can''t Do: Metadata'
 ---
 # Metadata is very revealing

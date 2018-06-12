@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 2
 title: Tips on using file encryption safely
 ---
 No matter how sturdy your safe is, it won't do you a whole lot of good if you leave the door open.

@@ -1,5 +1,4 @@
 ---
-index: 0
 title: Java Applications (Applets)
 ---
 # Java Applications (Applets)

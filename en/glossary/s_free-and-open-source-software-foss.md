@@ -1,5 +1,4 @@
 ---
-index: 0
 title: Free and Open Source Software (FOSS)
 ---
 # Free and Open Source Software (FOSS)

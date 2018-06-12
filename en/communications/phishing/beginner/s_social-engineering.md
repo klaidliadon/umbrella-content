@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 6
 title: Social Engineering
 ---
 Phishing is a form of social engineering, an attack which exploits human psycology to gain access to something confidential. An attacker without the skills or resources to break encryption, for example, could easily pick up the phone and pretend to be a systems administrator in order to convince someone to share their password. (Never share your password, by the way.)   

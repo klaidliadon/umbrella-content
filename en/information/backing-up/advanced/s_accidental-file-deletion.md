@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 7
 title: File recovery
 ---
 # Accidental deletion

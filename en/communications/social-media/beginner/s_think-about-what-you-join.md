@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 9
 title: Think about what you join
 ---
 # Online groups and communities

@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 4
 title: Privacy Policies
 ---
 Social media sites can use, store, and share data about you, subject to their own policies.  

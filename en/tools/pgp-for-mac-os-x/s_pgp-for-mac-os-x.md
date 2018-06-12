@@ -1,5 +1,4 @@
 ---
-index: 0
 title: ""
 ---
 # PGP FOR MAC OS TOOL GUIDE

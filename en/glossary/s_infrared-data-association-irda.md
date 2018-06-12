@@ -1,5 +1,4 @@
 ---
-index: 0
 title: Infrared Data Association (IrDA)
 ---
 # Infrared Data Association (IrDA)

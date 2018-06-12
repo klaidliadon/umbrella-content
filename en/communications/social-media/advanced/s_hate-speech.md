@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 1
 title: Hate speech
 ---
 Hate speech includes written, spoken or visual discrimination, harassment, threats or violence against a person or group on the basis of their gender, disability, sexual orientation, race, etc.

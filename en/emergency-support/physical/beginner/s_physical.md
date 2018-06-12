@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 1
 title: Physical
 ---
 ### If you are having a physical security emergency, the following are useful resources.

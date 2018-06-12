@@ -1,5 +1,4 @@
 ---
-index: 0
 title: Distributed Denial of Service attack (DDoS)
 ---
 # Distributed Denial of Service attack (DDoS)

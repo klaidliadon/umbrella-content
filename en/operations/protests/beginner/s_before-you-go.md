@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 1
 title: Before You Go
 ---
 # Before You Go

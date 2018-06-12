@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 10
 title: Don't rely on social media sites
 ---
 # Messaging

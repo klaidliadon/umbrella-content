@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 3
 title: Make a Plan
 ---
 *   Make a plan. Will you negotiate directly with the kidnappers, if that is possible?  Or will you appoint an intermediary?  (A trusted intermediary is often thought preferable, to give time for decision-makers to consider their responses to any messages from the kidnappers.)

@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 5
 title: Aftermath
 ---
 *   Attend to the needs of the victim, including making arrangements for them to speak to their loved ones and for their physical reunion.

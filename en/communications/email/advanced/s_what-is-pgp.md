@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 1
 title: What is PGP?
 ---
 # Pretty Good Privacy (PGP)

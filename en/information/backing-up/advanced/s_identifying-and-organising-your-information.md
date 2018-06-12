@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 2
 title: Identifying and organising your information
 ---
 # Do you know where your data is? 

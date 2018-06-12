@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 4
 title: Dangers of Surveillance
 ---
 # Weak encryption

@@ -1,5 +1,4 @@
 ---
-index: 0
 title: Internet Protocol address (IP address)
 ---
 # Internet Protocol address (IP address)

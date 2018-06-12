@@ -1,5 +1,5 @@
 ---
-index: 0
+index: 5
 title: Dealing with it - For Managers
 ---
 # Dealing with it - For Managers

@@ -1,5 +1,4 @@
 ---
-index: 0
 title: Secure password database
 ---
 # Secure password database

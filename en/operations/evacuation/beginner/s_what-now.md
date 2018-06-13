@@ -1,8 +1,10 @@
 ---
-index: 7
+index: 5
 title: What now?
 ---
 Swipe right for this lesson's checklist.
+
+Learn about pre-evacuation, evacuation, and return in [evacuation advanced](umbrella://lesson/evacuation/1). 
 
 ### RELATED LESSONS/TOOLS
 

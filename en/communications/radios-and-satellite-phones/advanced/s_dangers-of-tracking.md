@@ -2,7 +2,7 @@
 index: 2
 title: Dangers of Tracking
 ---
-Satellite phones can be tracked. 
+# Satellite phones can be tracked
 
 ## Through radio frequency emissions
 

@@ -1,37 +1,34 @@
 index: 100
 list:
-- text: Capture
-  label: true
-- text: Be calm & cooperative
-- text: Try not to be separated
-- text: Do not attempt escape
-- text: Do not make eye contact
-- text: Accept that fear and shock are normal
-- text: Transport
-  label: true
-- text: Do not resist efforts to make you more submissive
-- text: Use time to compose yourself & mentally prepare
-- text: Confinement
-  label: true
-- text: Anticipate isolation
-- text: Do not believe everything you're told
-- text: Advocate for contact
-- text: Build relationship of respect
-- text: Try to retain personal belongings
-- text: Be aware of body language
-- text: Do not threaten abductors
-- text: Eat and drink even if you don't want to
-- text: Exercise daily
-- text: Maintain hygiene
-- text: Keep track of time
-- text: Maintain personal values
-- text: Meditate
-- text: Reconstruct positive memories or stories
-- text: Keep a low profile
-- text: Watch behaviour for indicators of intentions
-- text: Agree to demands if not doing so will endanger you or others Release
-- text: Obey all instructions
-- text: If force is used, lie on floor with hands over your head
-- text: Escape should ONLY be considered if necessary to save your life
-- text: Cooperate with authorities
-- text: Manage your mental health
+- label: Capture
+- check: Be calm & cooperative
+- check: Try not to be separated
+- check: Do not attempt escape
+- check: Do not make eye contact
+- check: Accept that fear and shock are normal
+- label: Transport
+- check: Do not resist efforts to make you more submissive
+- check: Use time to compose yourself & mentally prepare
+- label: Confinement
+- check: Anticipate isolation
+- check: Do not believe everything you're told
+- check: Advocate for contact
+- check: Build relationship of respect
+- check: Try to retain personal belongings
+- check: Be aware of body language
+- check: Do not threaten abductors
+- check: Eat and drink even if you don't want to
+- check: Exercise daily
+- check: Maintain hygiene
+- check: Keep track of time
+- check: Maintain personal values
+- check: Meditate
+- check: Reconstruct positive memories or stories
+- check: Keep a low profile
+- check: Watch behaviour for indicators of intentions
+- check: Agree to demands if not doing so will endanger you or others Release
+- check: Obey all instructions
+- check: If force is used, lie on floor with hands over your head
+- check: Escape should ONLY be considered if necessary to save your life
+- check: Cooperate with authorities
+- check: Manage your mental health

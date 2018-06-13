@@ -1,17 +1,15 @@
 index: 100
 list:
-- text: To identify on foot surveillance
-  label: true
-- text: Look for typical comfortable clothing and accessories
-- text: Don't overlook atypical people
-- text: Look for behavioural tells that they're concentrating or communicating
-- text: Actions to help you spot them
-  label: true
-- text: Be discreet
-- text: Look for 3 sightings
-- text: If being followed you should change plans
-- text: Identify the trigger
-- text: Create situations to find the eyeball
-- text: Create a force-past
-- text: Make 3 sides of a square
-- text: Get on a bus/train/taxi
+- label: To identify on foot surveillance
+- check: Look for typical comfortable clothing and accessories
+- check: Don't overlook atypical people
+- check: Look for behavioural tells that they're concentrating or communicating
+- label: Actions to help you spot them
+- check: Be discreet
+- check: Look for 3 sightings
+- check: If being followed you should change plans
+- check: Identify the trigger
+- check: Create situations to find the eyeball
+- check: Create a force-past
+- check: Make 3 sides of a square
+- check: Get on a bus/train/taxi

@@ -1,10 +1,10 @@
 index: 100
 list:
-- text: Make a table with info type, device and location
-- text: Identify your vulnerable information
-- text: Figure out what storage device is right for you
-- text: Install Cobian Backup
-- text: Organise your files to back up
-- text: Back up information on regular schedule
-- text: Install Recuva
-- text: If recovering files, do as little as possible before using Recuva
+- check: Make a table with info type, device and location
+- check: Identify your vulnerable information
+- check: Figure out what storage device is right for you
+- check: Install Cobian Backup
+- check: Organise your files to back up
+- check: Back up information on regular schedule
+- check: Install Recuva
+- check: If recovering files, do as little as possible before using Recuva

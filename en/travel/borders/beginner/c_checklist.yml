@@ -1,47 +1,43 @@
 index: 100
 list:
-- text: Before you go
-  label: true
-- text: Identify all sensitive information and where its carried
-- text: Bring minimal data
-- text: Bring clean equipment
-- text: Carry equipment in hand luggage
-- text: Bring small encrypted storage devices
-- text: Bring notebook that you can rip pages from
-- text: Bring tamper proof scotch tape
-- text: Check bag/wallets before travelling
-- text: Entering country
-  label: true
-- text: Agree what you'll say/ not say
-- text: Say nothing sensitive on plane
-- text: Consider approaching immigration separately
-- text: Provide only minimal info on activities
-- text: Be prepared to be questioned on passport
-- text: Be polite but firm
-- text: Decide on which accommodation to report
-- text: If separated from equipment, assume it's compromised
-- text: Keep phones and Wi-Fi off till out of airport
-- text: Agree meeting point with colleagues
-- text: In country
-  label: true
-- text: Use codes for sensitive written info
-- text: Be careful with receipts that could link you to activists
-- text: Avoid collecting paper reports
-- text: Keep sensitive info separately/ encrypted
-- text: Dispose of sensitive notes ASAP
-- text: Minimize sensitive info you share
-- text: Change up your travel routes
-- text: Avoid walking alone at night
-- text: Ask hotel staff not to share info about you
-- text: Memorize emergency phone numbers
-- text: Agree emergency signal with colleagues
-- text: Always wear seatbelts!
-- text: Exiting country
-  label: true
-- text: Prepare for stop and search
-- text: Make sure all sensitive notes are remote/encrypted
-- text: Back up all equipment remotely
-- text: Check room/pockets/wallet for sensitive papers
-- text: Soak sensitive waste papers in water
-- text: Agree what to say at border with colleagues
-- text: Keep equipment with you at all times
+- label: Before you go
+- check: Identify all sensitive information and where its carried
+- check: Bring minimal data
+- check: Bring clean equipment
+- check: Carry equipment in hand luggage
+- check: Bring small encrypted storage devices
+- check: Bring notebook that you can rip pages from
+- check: Bring tamper proof scotch tape
+- check: Check bag/wallets before travelling
+- label: Entering country
+- check: Agree what you'll say/ not say
+- check: Say nothing sensitive on plane
+- check: Consider approaching immigration separately
+- check: Provide only minimal info on activities
+- check: Be prepared to be questioned on passport
+- check: Be polite but firm
+- check: Decide on which accommodation to report
+- check: If separated from equipment, assume it's compromised
+- check: Keep phones and Wi-Fi off till out of airport
+- check: Agree meeting point with colleagues
+- label: In country
+- check: Use codes for sensitive written info
+- check: Be careful with receipts that could link you to activists
+- check: Avoid collecting paper reports
+- check: Keep sensitive info separately/ encrypted
+- check: Dispose of sensitive notes ASAP
+- check: Minimize sensitive info you share
+- check: Change up your travel routes
+- check: Avoid walking alone at night
+- check: Ask hotel staff not to share info about you
+- check: Memorize emergency phone numbers
+- check: Agree emergency signal with colleagues
+- check: Always wear seatbelts!
+- label: Exiting country
+- check: Prepare for stop and search
+- check: Make sure all sensitive notes are remote/encrypted
+- check: Back up all equipment remotely
+- check: Check room/pockets/wallet for sensitive papers
+- check: Soak sensitive waste papers in water
+- check: Agree what to say at border with colleagues
+- check: Keep equipment with you at all times

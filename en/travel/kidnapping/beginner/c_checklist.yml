@@ -1,23 +1,20 @@
 index: 100
 list:
-- text: Understand local kidnapping threat
-- text: Reduce promoting factors
-  label: true
-- text: Stay low profile
-- text: Build key relationships
-- text: Be aware of how work is received
-- text: Have public policy of no ransom
-- text: Reduce opportunity
-  label: true
-- text: Be cautious
-- text: Avoid predictability
-- text: Reduce visibility
-- text: Ensure good site security
-- text: Practice counter-surveillance
-  label: true
-- text: Be observant
-- text: Note unusual interest
-- text: Maintain situational awareness
-- text: Know choke points on route
-- text: Look out for multiple sightings
-- text: Practice counter-surveillance techniques and watch for response
+- check: Understand local kidnapping threat
+- label: Reduce promoting factors
+- check: Stay low profile
+- check: Build key relationships
+- check: Be aware of how work is received
+- check: Have public policy of no ransom
+- label: Reduce opportunity
+- check: Be cautious
+- check: Avoid predictability
+- check: Reduce visibility
+- check: Ensure good site security
+- label: Practice counter-surveillance
+- check: Be observant
+- check: Note unusual interest
+- check: Maintain situational awareness
+- check: Know choke points on route
+- check: Look out for multiple sightings
+- check: Practice counter-surveillance techniques and watch for response

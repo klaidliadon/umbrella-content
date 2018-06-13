@@ -1,23 +1,23 @@
 index: 100
 list:
-- text: Consider using a pseudonym
-- text: Don't provide more registration information than necessary
-- text: Consider registering anonymously
-- text: Consider separate accounts for campaigns
-- text: Choose a strong password
-- text: Use two-factor-authentication
-- text: Use false answers to security questions
-- text: Only connect to people you know
-- text: Be aware of the privacy policy
-- text: Opt out of data broker relationships
-- text: Change default privacy settings
-- text: Be careful about what you share
-- text: Don't post about people without their consent
-- text: Use ObscuraCam for sensitive photos
-- text: Agree with friends what they shouldn't post about you
-- text: Be careful about joining groups
-- text: Don't use social media for instant chats
-- text: Never engage with people you don't know
-- text: Don't rely on social media for storage
-- text: Use https://
-- text: Delete browsing history when using public computers
+- check: Consider using a pseudonym
+- check: Don't provide more registration information than necessary
+- check: Consider registering anonymously
+- check: Consider separate accounts for campaigns
+- check: Choose a strong password
+- check: Use two-factor-authentication
+- check: Use false answers to security questions
+- check: Only connect to people you know
+- check: Be aware of the privacy policy
+- check: Opt out of data broker relationships
+- check: Change default privacy settings
+- check: Be careful about what you share
+- check: Don't post about people without their consent
+- check: Use ObscuraCam for sensitive photos
+- check: Agree with friends what they shouldn't post about you
+- check: Be careful about joining groups
+- check: Don't use social media for instant chats
+- check: Never engage with people you don't know
+- check: Don't rely on social media for storage
+- check: Use https://
+- check: Delete browsing history when using public computers

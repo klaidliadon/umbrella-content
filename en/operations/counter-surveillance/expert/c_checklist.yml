@@ -1,19 +1,17 @@
 index: 100
 list:
-- text: To identify on mobile surveillance
-  label: true
-- text: Be aware of the most common types of vehicle
-- text: Don't overlook taxis or service vehicles
-- text: Look for aerials or modifications
-- text: Look for signs of people being in the car for long periods of time
-- text: Look for signs of people communicating covertly
-- text: Actions to help you spot them
-  label: true
-- text: Be discreet
-- text: Look for 3 sightings
-- text: If being followed you should change plans
-- text: Create situations to stop
-- text: Use your mirrors
-- text: Use chokepoints
-- text: Monitor several cars back
-- text: Check for trackers
+- label: To identify on mobile surveillance
+- check: Be aware of the most common types of vehicle
+- check: Don't overlook taxis or service vehicles
+- check: Look for aerials or modifications
+- check: Look for signs of people being in the car for long periods of time
+- check: Look for signs of people communicating covertly
+- label: Actions to help you spot them
+- check: Be discreet
+- check: Look for 3 sightings
+- check: If being followed you should change plans
+- check: Create situations to stop
+- check: Use your mirrors
+- check: Use chokepoints
+- check: Monitor several cars back
+- check: Check for trackers

@@ -1,27 +1,24 @@
 index: 100
 list:
-- text: 'To prevent phishing:'
-  label: true
-- text: Who is message from—could it be fake?
-- text: Is anything wrong or odd, like spelling or logo?
-- text: Does message make promises or require urgent action?
-- text: Does message include attachment or link?
-- text: In messages from contacts, do they sound like themselves?
-- text: Mouseover links to check URLs.
-- text: Unshorten URLs at https://unshorten.it/.
-- text: Type out URLs yourself, especially before logging in.
-- text: Open attachments through Google Drive, or at the very least, a program on
+- label: 'To prevent phishing:'
+- check: Who is message from—could it be fake?
+- check: Is anything wrong or odd, like spelling or logo?
+- check: Does message make promises or require urgent action?
+- check: Does message include attachment or link?
+- check: In messages from contacts, do they sound like themselves?
+- check: Mouseover links to check URLs.
+- check: Unshorten URLs at https://unshorten.it/.
+- check: Type out URLs yourself, especially before logging in.
+- check: Open attachments through Google Drive, or at the very least, a program on
     your computer
-- text: Contact the sender through a different, secure channel to confirm they sent
+- check: Contact the sender through a different, secure channel to confirm they sent
     unusual messages
-- text: Check links and attachments at VirusTotal
-- text: 'If you''ve been phished:'
-  label: true
-- text: Disconnect and shut down malware-infected devices
-- text: Change passwords
-- text: Warn contacts
-- text: Report the attack to IT or security expert
-- text: Consider reinstalling your operating system on malware-infected devices
-- text: 'TIP: Share this checklist with yourself by email and print a copy to post
+- check: Check links and attachments at VirusTotal
+- label: 'If you''ve been phished:'
+- check: Disconnect and shut down malware-infected devices
+- check: Change passwords
+- check: Warn contacts
+- check: Report the attack to IT or security expert
+- check: Consider reinstalling your operating system on malware-infected devices
+- label: 'TIP: Share this checklist with yourself by email and print a copy to post
     in your workspace.'
-  label: true

@@ -1,15 +1,14 @@
 index: 100
 list:
-- text: Create a strong password
-  label: true
-- text: Make it long
-- text: Make it complex
-- text: Make sure it's not personal
-- text: Keep it secret
-- text: Make it unique
-- text: Change it regularly
-- text: Make it memorable
-- text: Give fake answers to security questions
-- text: Check the strength of passwords on Passfault
-- text: Change old or weak passwords
-- text: Change weak answers to security questions
+- label: Create a strong password
+- check: Make it long
+- check: Make it complex
+- check: Make sure it's not personal
+- check: Keep it secret
+- check: Make it unique
+- check: Change it regularly
+- check: Make it memorable
+- check: Give fake answers to security questions
+- check: Check the strength of passwords on Passfault
+- check: Change old or weak passwords
+- check: Change weak answers to security questions

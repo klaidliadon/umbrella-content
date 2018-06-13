@@ -1,7 +1,21 @@
 ---
 index: 2
-title: When Entering Country
+title: At the border
 ---
+# Arrivals or Departures
+
+## Prepare for anything
+
+Assume that:
+
+*   You will be searched. 
+*   Anything written will be read or copied.
+*   Your equipment will be confiscated. 
+
+_Note: Authorities may delay you or seize your devices if you refuse to give up a password or unlock your device._
+
+(Learn more about this in [passwords expert](umbrella://lesson/passwords/2).)
+
 ## Know your cover story
 
 What you reveal to border authorities depends on context and risk. 
@@ -46,18 +60,6 @@ It may not be wise, or possible, to lie, but neither should you volunteer inform
 *	Working may attract attention, especially if you are travelling low profile.   
 
 *   Do not discuss your trip, either with your team or on the phone. You may be overheard. 
-
-## Arrange to be met.
-
-Airports, stations, and ports are high-crime areas. Arrange to be met on arrival.
-
-In order of preference, choose:
-
-*	Someone you know;
-*	A pre-booked service including driver name and vehicle registration (check identification);
-*	Official taxi with a meter.
-
-*Risks of local taxis vary by country.*
 
 ## Remember:
 

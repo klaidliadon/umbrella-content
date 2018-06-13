@@ -1,11 +1,9 @@
 ---
-index: 5
+index: 4
 title: What now?
 ---
-Swipe right for this lesson's checklist
+Swipe right for this lesson's checklist.
 
-Go to the Advanced Lesson for advice on how to practice counter-surveillance when you are out on foot.
-[Go to Advanced Lesson](umbrella://lesson/counter_surveillance/1)
+Learn about counter-surveillance on foot in [counter-surveillance advanced](umbrella://lesson/counter_surveillance/1).
 
-Go to the Expert Lesson for advice on how to practice counter-surveillance when you are out in a vehicle.
-[Go to Expert Lesson](umbrella://lesson/counter_surveillance/2)
+Learn about counter-surveillance in a vehicle in [counter-surveillance expert](umbrella://lesson/counter_surveillance/2).

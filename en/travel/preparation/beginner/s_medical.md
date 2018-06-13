@@ -2,11 +2,12 @@
 index: 5
 title: Medical
 ---
-# Take medical precautions
+# Precautions
 
 *	Obtain insurance and check what it covers.
 
 *   Get advice for your destination, including: 
+
 		*	Health and hygiene;
 		*	Vaccinations;
         *	Malaria prophylaxis.
@@ -17,10 +18,10 @@ title: Medical
 
 *	Obtain first aid kits and training if necessary. 
 
-> "Basic health and hygiene precautions greatly reduce
-the chances of illness." ECHO, Generic Security Guide for Humanitarian Organisations
+> *"Basic health and hygiene precautions greatly reduce
+the chances of illness." ECHO, Generic Security Guide for Humanitarian Organisations*
 
-# Plan for medical emergencies 
+# Plan for emergencies 
 
 *   Inform your team of medical conditions, emergency contacts, and treatment needed in an emergency.
 

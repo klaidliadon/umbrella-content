@@ -1,31 +1,31 @@
 index: 100
 list:
-- text: Ensure clear objectives for trip
-- text: Gather information from partners
-- text: Conduct a risk assessment
-- text: Establish threshold of acceptable risk
-- text: Bring working burner phone and SIM card with funds
-- text: Bring satellite phone if appropriate
-- text: Program essential numbers into phone, but keep sensitive ones coded
-- text: Keep key numbers on paper also
-- text: Note emergency number
-- text: Ensure valid passport, visa, insurance etc. and securely email to yourself
+- check: Ensure clear objectives for trip
+- check: Gather information from partners
+- check: Conduct a risk assessment
+- check: Establish threshold of acceptable risk
+- check: Bring working burner phone and SIM card with funds
+- check: Bring satellite phone if appropriate
+- check: Program essential numbers into phone, but keep sensitive ones coded
+- check: Keep key numbers on paper also
+- check: Note emergency number
+- check: Ensure valid passport, visa, insurance etc. and securely email to yourself
     and trusted colleague
-- text: Consider bringing an org identity card
-- text: Understand Standard Operating Procedures and Security policy
-- text: Agree itinerary and comms schedule
-- text: Carry your 'constant companion'
-- text: Bring minimal data
-- text: Plan what to say at borders
-- text: Plan sensitive meetings in advance
-- text: Plan for an emergency exit
-- text: Follow advice for driving in vehicles
-- text: Understand advice for situations of arrest or kidnapping
-- text: Inform appropriate authorities/embassies
-- text: Ensure you have all vaccine/ medicines required
-- text: Inform org of potentially serious medical concerns
-- text: Carry medical emergency card and check area's hospitals
-- text: Bring adequate cash
-- text: Bring locks, door wedge, security tape, mosquito net etc.
-- text: Ensure digital equipment is wiped 'clean'
-- text: Keep advance knowledge of your trip need to know
+- check: Consider bringing an org identity card
+- check: Understand Standard Operating Procedures and Security policy
+- check: Agree itinerary and comms schedule
+- check: Carry your 'constant companion'
+- check: Bring minimal data
+- check: Plan what to say at borders
+- check: Plan sensitive meetings in advance
+- check: Plan for an emergency exit
+- check: Follow advice for driving in vehicles
+- check: Understand advice for situations of arrest or kidnapping
+- check: Inform appropriate authorities/embassies
+- check: Ensure you have all vaccine/ medicines required
+- check: Inform org of potentially serious medical concerns
+- check: Carry medical emergency card and check area's hospitals
+- check: Bring adequate cash
+- check: Bring locks, door wedge, security tape, mosquito net etc.
+- check: Ensure digital equipment is wiped 'clean'
+- check: Keep advance knowledge of your trip need to know

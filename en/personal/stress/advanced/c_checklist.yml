@@ -1,15 +1,15 @@
 index: 100
 list:
-- text: Get enough rest
-- text: Eat as regularly as possible and drink water
-- text: Talk and spend time with family and friends
-- text: Discuss problems with someone you trust
-- text: Do activities that help you relax
-- text: Do physical exercise
-- text: Find safe ways to help others
-- text: Don't take drugs, smoke or drink alcohol
-- text: Don't sleep all day
-- text: Don't work all the time without any rest or relaxation
-- text: Don't isolate yourself from friends and loved ones
-- text: Don't neglect basic personal hygiene
-- text: Don't be violent
+- check: Get enough rest
+- check: Eat as regularly as possible and drink water
+- check: Talk and spend time with family and friends
+- check: Discuss problems with someone you trust
+- check: Do activities that help you relax
+- check: Do physical exercise
+- check: Find safe ways to help others
+- check: Don't take drugs, smoke or drink alcohol
+- check: Don't sleep all day
+- check: Don't work all the time without any rest or relaxation
+- check: Don't isolate yourself from friends and loved ones
+- check: Don't neglect basic personal hygiene
+- check: Don't be violent

@@ -1,5 +1,5 @@
 ---
-index: 6
+index: 7
 title: What now?
 ---
 Swipe right for this lesson's checklist.

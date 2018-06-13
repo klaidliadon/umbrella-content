@@ -2,6 +2,7 @@
 index: 7
 title: Leaving a Meeting
 ---
-# Leaving a Meeting
+*	Let others leave first and monitor for surveillance.  
+*	Wait about ten minutes before you leave. 
 
-It is best to get the person you are meeting to leave first - that way you can check for any third party reactions to see if they're clean as they leave. Wait about ten minutes before you leave. If possible your colleague (who should still look unconnected to you) should remain behind for a further ten minutes to check that you are clean.
+If collaborating, your team member should wait for a further ten minutes to check that you are clean.

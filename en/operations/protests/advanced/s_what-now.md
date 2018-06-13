@@ -2,9 +2,9 @@
 index: 6
 title: What now?
 ---
-Swipe right for this lesson's checklist
+Swipe right for this lesson's checklist.
 
-Go to the Beginner lesson for advice on covering a protest as a journalist.[Go to Beginner Lesson](umbrella://lesson/protests/0)
+Learn about witnessing protests in [protests beginner](umbrella://lesson/protests/0).
 
 ### RELATED LESSONS/TOOLS
 
@@ -14,9 +14,6 @@ Go to the Beginner lesson for advice on covering a protest as a journalist.[Go t
 * 	[Signal for Android tool guide] (umbrella://lesson/signal-for-android) 
 * 	[Signal for iOS tool guide] (umbrella://lesson/signal-for-ios)
 *	[ObscuraCam tool guide] (umbrella://lesson/obscuracam)
-
-
-
 
 ### FURTHER READING
 

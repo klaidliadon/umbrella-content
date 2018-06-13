@@ -1,10 +1,10 @@
 index: 100
 list:
-- text: Avoid radios for sensitive communications
-- text: Ensure proper training in radio usage
-- text: Use code words if necessary
-- text: Pre-program distress signals
-- text: Carefully consider use of GPS tracking software
-- text: Do not identify organisations or individuals over radio
-- text: Never transmit security-related information or travel plans
-- text: Set duress code words
+- check: Avoid radios for sensitive communications
+- check: Ensure proper training in radio usage
+- check: Use code words if necessary
+- check: Pre-program distress signals
+- check: Carefully consider use of GPS tracking software
+- check: Do not identify organisations or individuals over radio
+- check: Never transmit security-related information or travel plans
+- check: Set duress code words

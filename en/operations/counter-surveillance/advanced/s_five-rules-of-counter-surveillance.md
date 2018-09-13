@@ -5,6 +5,7 @@ title: Five Rules of Counter-Surveillance
 ## 1 is the trigger
 
 The trigger: 
+
 *	Alerts the surveillance team when the target is on the move. 
 *	Is the easiest member of the team to identify.
 

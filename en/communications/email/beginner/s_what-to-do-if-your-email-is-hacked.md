@@ -20,7 +20,7 @@ Choose new, strong passwords for your email and all linked accounts. Linked acco
 
 ## Secure your devices
 
-Any device you use to access email from the compromised account is vulnerable. Scan your computer for [malware](umbrella://lesson/malware/0) and refresh your [mobile phone] ((umbrella://lesson/mobile-phones/0) security.
+Any device you use to access email from the compromised account is vulnerable. Scan your computer for [malware](umbrella://lesson/malware/0) and refresh your [mobile phone] (umbrella://lesson/mobile-phones/0) security.
 
 (Learn [basic security for Android](umbrella://lesson/android) and how to [encrypt your iPhone] (umbrella://lesson/encrypt-your-iphone).)
 
@@ -37,11 +37,16 @@ Review all settings for signs of this activity. Include folders, signatures, awa
 
 ## Debrief.
 
-How was your account compromised? Was your password broken? Were you tricked into installing malware? The more you understand the attack, the better you can respond.
+*	How was your account compromised? 
+*	Was your password broken? 
+*	Were you tricked into installing malware? 
+
+The more you understand the attack, the better you can respond.
 
 ## Alert your community.
 
-Determine what sensitive information and contacts may be exposed and inform those affected. Share information to prevent others from falling victim to a similar attack.  
+*	Determine what sensitive information and contacts may be exposed and inform those affected.
+*	Share information to prevent others from falling victim to a similar attack.  
  
 ## Report the attack. 
 

@@ -1,168 +1,215 @@
 screens:
-- title: Contact Information for this Incident
+- title: Your Contact Information
   items:
   - name: name
     type: text_input
     label: 'Name:'
-  - name: title
-    type: text_input
-    label: 'Title:'
   - name: phone
     type: text_input
     label: 'Phone:'
   - name: email-address
     type: text_input
-    label: 'Email address:'
+    label: 'Email:'
   - name: secure-communication-method-e-g-signal-safety-number-pgp-email-id
     type: text_input
-    label: 'Secure Communication Method (e.g Signal Safety Number, PGP Email ID):'
-- title: Incident Description
+    label: 'Security information (Signal safety number, PGP key ID):'
+- title: Details
   items:
   - name: provide-brief-description
-    type: text_area
-    label: 'Provide a brief description:'
-- title: Impact / Potential Impact Check all of the following that apply to this incident.
-  items:
-  - name: impact-potential-impact-check-following-apply-incident
     type: multiple_choice
-    label: Impact / Potential Impact Check all of the following that apply to this
-      incident.
+    label: What happened? (Check all that apply)
     options:
-    - label: Outside access to data
-      value: Outside access to data
-    - label: Loss of access to account
-      value: Loss of access to account
-    - label: Phishing / Malware attacks on contacts
-      value: Phishing / Malware attacks on contacts
-    - label: Loss / Compromise of Data
-      value: Loss / Compromise of Data
-    - label: Damage to Systems
-      value: Damage to Systems
-    - label: Website down
-      value: Website down
-    - label: Financial Loss
-      value: Financial Loss
-    - label: Other Organizations’ Systems/ Data Affected
-      value: Other Organizations’ Systems/ Data Affected
-    - label: Damage to the Integrity or Delivery of Critical Services or Information
-      value: Damage to the Integrity or Delivery of Critical Services or Information
-    - label: Unknown at this time
-      value: Unknown at this time
-    - label: Public
-      value: Public
-    - label: Internal Use Only
-      value: Internal Use Only
-    - label: Restricted / Confidential (Privacy violation)
-      value: Restricted / Confidential (Privacy violation)
-    - label: 'Unknown / Other – please describe:'
-      value: 'Unknown / Other – please describe:'
+    - label: Private data was accessed or exposed
+      value: Private data was accessed or exposed
+    - label: ' I’m shut out of my account or device'
+      value: ' I’m shut out of my account or device'
+    - label: ' I''ve encountered a virus or malware'
+      value: ' I''ve encountered a virus or malware'
+    - label: ' My system or device is damaged'
+      value: ' My system or device is damaged'
+    - label: ' My website or service is disabled'
+      value: ' My website or service is disabled'
+    - label: ' Information or assets have been stolen'
+      value: ' Information or assets have been stolen'
+    - label: ' The incident is confidential, contact me for details'
+      value: ' The incident is confidential, contact me for details'
+    - label: ' I have another digital security problem (please describe)'
+      value: ' I have another digital security problem (please describe)'
   - name: provide-brief-description-2
     type: text_area
-- title: Sensitivity of Data/Information Involved Check all of the following that
-    apply to this incident.
-  items:
-  - name: sensitivity-data-information-involved-check-following-apply-incident
-    type: multiple_choice
-    label: Sensitivity of Data/Information Involved Check all of the following that
-      apply to this incident.
-  - name: provide-brief-description-data-compromised
-    type: text_area
-    label: 'Provide a brief description of data that may be compromised:'
-- title: Are accounts possibly compromised? Please name all, including any individuals
-    who maybe at risk and need to be contacted by the compromised account.
-  items:
-  - name: accounts-possibly-compromised-including-individuals-maybe-risk-need-contacted-compromised-account
-    type: text_area
-    label: Are accounts possibly compromised? Please name all, including any individuals
-      who maybe at risk and need to be contacted by the compromised account.
-- title: Do You Have an Inclination As To What The Motive Was Or Who The Perpetrators
-    Were?
-  items:
-  - name: inclination-motive-perpetrators
-    type: text_area
-    label: Do You Have an Inclination As To What The Motive Was Or Who The Perpetrators
-      Were?
-- title: 'Who Else Has Been Notified? '
-  items:
-  - name: notified
-    type: text_area
-    hint: 'Provide Person and Title:'
-    label: 'Who Else Has Been Notified? '
-- title: What Steps Have Been Taken So Far? Check all of the following that apply
-    to this incident.
-  items:
-  - name: steps-taken-far-check-following-apply-incident
-    type: multiple_choice
-    label: What Steps Have Been Taken So Far? Check all of the following that apply
-      to this incident.
-    options:
-    - label: No action taken
-      value: No action taken
-    - label: System/ Device Disconnected from network & taken offline
-      value: System/ Device Disconnected from network & taken offline
-    - label: Updated virus definitions & scanned system
-      value: Updated virus definitions & scanned system
-    - label: Contacts alerted
-      value: Contacts alerted
-    - label: Restored backup
-      value: Restored backup
-    - label: Log files examined (saved & secured)
-      value: Log files examined (saved & secured)
-    - label: Account passwords of all on network changed
-      value: Account passwords of all on network changed
-    - label: 'Other – please describe:'
-      value: 'Other – please describe:'
-  - name: provide-brief-description-3
-    type: text_area
-- title: Incident Details
+    label: Please provide details
+- title: Time
   items:
   - name: date-time-incident-discovered
     type: text_input
-    label: 'Date and Time the Incident was discovered:'
-  - name: incident-resolved
-    type: text_input
-    label: Has the incident been resolved?
-  - name: physical-location-affected-device-s
-    type: text_input
-    label: 'Physical location of affected device/ system(s):'
-  - name: number-sites-affected-incident
-    type: text_input
-    label: 'Number of sites affected by the incident:'
+    hint: Date, time
+    label: When did you discover the incident?
+- title: Impact
+  items:
+  - name: sensitivity-data-information-involved-check-following-apply-incident
+    type: multiple_choice
+    label: How serious is the incident? Check all that apply
+    options:
+    - label: Someone’s physical security is at risk
+      value: Someone’s physical security is at risk
+    - label: ' information or assets are at risk'
+      value: ' information or assets are at risk'
+    - label: ' Someone’s reputation is at risk'
+      value: ' Someone’s reputation is at risk'
+    - label: ' I’m not sure'
+      value: ' I’m not sure'
+    - label: ' Other (please describe)'
+      value: ' Other (please describe)'
+  - name: provide-brief-description-5
+    type: text_area
+    label: Please provide details
+- title: Impact details
+  items:
+  - name: devices-accounts-services
+    type: multiple_choice
+    label: Which devices, accounts, or services may be compromised? Check all that
+      apply
+    options:
+    - label: Email
+      value: Email
+    - label: ' Website'
+      value: ' Website'
+    - label: ' Social media'
+      value: ' Social media'
+    - label: ' Messaging or VOIP'
+      value: ' Messaging or VOIP'
+    - label: ' Mobile phone or tablet'
+      value: ' Mobile phone or tablet'
+    - label: ' Mobile computer'
+      value: ' Mobile computer'
+    - label: ' Desktop computer'
+      value: ' Desktop computer'
+    - label: ' Server'
+      value: ' Server'
+    - label: ' External storage device'
+      value: ' External storage device'
+    - label: ' Other'
+      value: ' Other'
+  - name: provide-brief-description-8
+    type: text_area
+    label: Please provide details
+- title: Scale
+  items:
   - name: approximate-number-users-affected-incident
     type: text_input
-    label: 'Approximate number of users affected by the incident:'
-  - name: provide-additional-information-feel-important-provided-form
-    type: text_input
-    label: Please provide any additional information that you feel is important but
-      has not been provided elsewhere on this form.
-- title: Do Your Security Guidelines Cover This Type Of Incident? Were The Guidelines
-    Followed?
+    label: How many people could be affected?
+- title: Status
+  items:
+  - name: incident-resolved
+    type: multiple_choice
+    label: Has the incident been resolved?
+    options:
+    - label: Yes, I’m using this form to document what happened
+      value: Yes, I’m using this form to document what happened
+    - label: ' No, I’m using this form to help me seek support'
+      value: ' No, I’m using this form to help me seek support'
+- title: Guidelines
   items:
   - name: security-guidelines-cover-type-incident-guidelines-followed
+    type: multiple_choice
+    label: Are you following guidelines to resolve this incident?
+    options:
+    - label: Yes, I am following guidelines
+      value: Yes, I am following guidelines
+    - label: ' No,  I am using information available in Umbrella and other free sources
+        to resolve the incident'
+      value: ' No,  I am using information available in Umbrella and other free sources
+        to resolve the incident'
+    - label: ' I have guidelines but I have not been able to follow them. (Please
+        explain:)'
+      value: ' I have guidelines but I have not been able to follow them. (Please
+        explain:)'
+  - name: provide-brief-description-4
     type: text_area
-    label: Do Your Security Guidelines Cover This Type Of Incident? Were The Guidelines
-      Followed?
-- title: Do The Guidelines Or Any Other Aspect Of Security Management Need To Be Revised
-    In Any Way?
+- title: Response
+  items:
+  - name: steps-taken-far-check-following-apply-incident
+    type: multiple_choice
+    label: What action have you taken so far? Check all that apply.
+    options:
+    - label: I’ve disconnected the devices involved from the Internet
+      value: I’ve disconnected the devices involved from the Internet
+    - label: ' I’ve  documented what happened securely (taken screenshots, stored
+        the antivirus log files)'
+      value: ' I’ve  documented what happened securely (taken screenshots, stored
+        the antivirus log files)'
+    - label: ' I’ve changed my passwords and notified my contacts from a clean device'
+      value: ' I’ve changed my passwords and notified my contacts from a clean device'
+    - label: ' I’ve reported the incident to service providers'
+      value: ' I’ve reported the incident to service providers'
+    - label: ' I’ve notified an IT or security expert, or law enforcement if appropriate'
+      value: ' I’ve notified an IT or security expert, or law enforcement if appropriate'
+    - label: ' I’ve reinstalled the operating system, if necessary, and restored backup
+        files from before the attack'
+      value: ' I’ve reinstalled the operating system, if necessary, and restored backup
+        files from before the attack'
+    - label: ' Other – please describe:'
+      value: ' Other – please describe:'
+  - name: provide-brief-description-3
+    type: text_area
+- title: Notification
+  items:
+  - name: notified
+    type: text_input
+    hint: Name, title
+    label: Who has been notified?
+  - name: needs-to-be-notified
+    type: text_input
+    label: Who still needs to be notified?
+- title: Responsibility
+  items:
+  - name: inclination-motive-perpetrators
+    type: multiple_choice
+    label: Who carried out the attack?
+    options:
+    - label: The attacker identified themselves (please provide details)
+      value: The attacker identified themselves (please provide details)
+    - label: ' The attack was anonymous but I have suspicions (please provide details)'
+      value: ' The attack was anonymous but I have suspicions (please provide details)'
+    - label: ' I don''t know'
+      value: ' I don''t know'
+  - name: provide-brief-description-6
+    type: text_area
+    label: 'Details:'
+- title: Motive
+  items:
+  - name: provide-brief-description-6
+    type: text_area
+    label: What is the likely motive?
+- title: Evidence
+  items:
+  - name: supporting-information-screenshots-suspicious-attachment-emails
+    type: multiple_choice
+    label: I have saved the following information securely (Check all that apply)
+    options:
+    - label: Screenshots
+      value: Screenshots
+    - label: ' Something I was sent as an attachment'
+      value: ' Something I was sent as an attachment'
+    - label: ' Emails or messages'
+      value: ' Emails or messages'
+    - label: ' Other (please describe:)'
+      value: ' Other (please describe:)'
+  - name: provide-brief-description-7
+    type: text_area
+- title: Reflection
   items:
   - name: guidelines-aspect-security-management-need-revised-way
     type: text_area
-    label: Do The Guidelines Or Any Other Aspect Of Security Management Need To Be
-      Revised In Any Way?
-- title: Lessons Learnt?
-  items:
-  - name: lessons-learnt
-    type: text_area
-    label: Lessons Learnt?
-- title: Any Action Requested?
+    label: What would you change to prevent this incident from happening again?
+- title: Next steps
   items:
   - name: action-requested
     type: text_area
-    label: Any Action Requested?
-- title: Any supporting information? (Screenshots, suspicious attachment, emails etc.)
+    label: What action do you need someone else to take to resolve this incident?
+- title: Anything else?
   items:
-  - name: supporting-information-screenshots-suspicious-attachment-emails
-    type: text_area
-    label: Any supporting information? (Screenshots, suspicious attachment, emails
-      etc.)
+  - name: provide-additional-information-feel-important-provided-form
+    type: text_input
+    label: What else do you need to tell people about what happened?
 title: Digital Security Incident

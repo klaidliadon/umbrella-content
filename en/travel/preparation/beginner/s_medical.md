@@ -14,7 +14,7 @@ title: Medical
         
 *Note: some countries require certificates of vaccination as a condition of entry.*
 
-*   Obtain medication you need to carry on your trip.
+*   Obtain medication and prescriptions you need to carry on your trip.
 
 *	Obtain first aid kits and training if necessary. 
 
@@ -25,16 +25,15 @@ the chances of illness." ECHO, Generic Security Guide for Humanitarian Organisat
 
 *   Inform your team of medical conditions, emergency contacts, and treatment needed in an emergency.
 
-*   Create a medical emergency card. 
+*   Create a medical emergency card. Consider including:
 
-Consider including:
-		*	Name and emergency contact;
-		*	Medical conditions; 
-		*	Medications you are taking;
-		*	Blood group;
-		*	Allergies; 
-		*	Doctor and insurance contact information;
-        *	A UN language and local language translation if appropriate. 
+	*	Name and emergency contact;
+	*	Medical conditions; 
+	*	Medications you are taking;
+	*	Blood group;
+	*	Allergies; 
+	*	Doctor and insurance contact information;
+    *	A UN language and local language translation if appropriate. 
 
 *	Research the best hospital at your destination.
 

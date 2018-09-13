@@ -2,9 +2,10 @@
 index: 5
 title: Identify the Trigger
 ---
-The trigger is a member of the surveillance team who alerts others when the target is on the move.
+### The trigger is a member of the surveillance team who alerts others when the target is on the move.
 
 The trigger is: 
+
 *	The easiest member of the team to identify.
 *	Unlikely to move, which may draw attention to themselves.
 

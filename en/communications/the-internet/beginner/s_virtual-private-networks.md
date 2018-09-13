@@ -19,7 +19,7 @@ Your request for information appears to come from the other network, which may b
 
 ## Are VPNs really private? 
 
-> * Tools that promise privacy or security are not always private or secure. And tools that use terms like “anonymizer” do not always keeps your identity completely secret.*
+> *Tools that promise privacy or security are not always private or secure. And tools that use terms like “anonymizer” do not always keeps your identity completely secret.*
 
 A VPN protects your traffic from being intercepted by third parties, including your internet service provider. 
 
@@ -29,7 +29,7 @@ Whether this is a problem for you will depend on your threat model.
 
 (Learn more about threat models in [managing information.] (umbrella://lesson/managing-information))
 
-VPN providers may be commercial or non-profit, hosted in different countries, and offer different privacy policies. For information about specific VPN services, click [here]. (https://thatoneprivacysite.net/vpn-section/)
+VPN providers may be commercial or non-profit, hosted in different countries, and offer different privacy policies. For information about specific VPN services, click [here](https://thatoneprivacysite.net/vpn-section/).
 
 Do not use a VPN that you do not trust.
 

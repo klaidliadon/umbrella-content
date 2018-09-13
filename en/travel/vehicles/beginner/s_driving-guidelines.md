@@ -24,6 +24,7 @@ title: Driving Guidelines
 ## Avoid passengers
 
 Passengers: 
+
   *	May not be covered by insurance;
   * May violate organisational policies if you are driving for work;
   *	May represent a security risk;

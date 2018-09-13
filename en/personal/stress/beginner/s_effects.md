@@ -4,7 +4,7 @@ title: Effects
 ---
 ### People exhibit different symptoms of chronic stress.
 
-Some symptoms represent a security risk.  
+Be aware that some symptoms represent a security risk. Do not underestimate the effects of stress. 
 
 Possible symptoms include the following:
 

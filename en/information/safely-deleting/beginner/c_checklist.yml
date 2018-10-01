@@ -1,6 +1,6 @@
 index: 100
 list:
-- check: If Windows user, install Eraser
+- check: If you use Windows, install Bleachbit
 - check: Securely delete individual files as needed
 - check: Securely delete all previously deleted data every month
 - check: If getting rid of old hardware, wipe the hard drive

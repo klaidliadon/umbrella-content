@@ -1,6 +1,5 @@
 screens:
-- title: Your Contact Information
-  items:
+- items:
   - name: name
     type: text_input
     label: 'Name:'
@@ -13,8 +12,8 @@ screens:
   - name: secure-communication-method-e-g-signal-safety-number-pgp-email-id
     type: text_input
     label: 'Security information (Signal safety number, PGP key ID):'
-- title: Details
-  items:
+  title: Your Contact Information
+- items:
   - name: provide-brief-description
     type: multiple_choice
     label: What happened? (Check all that apply)
@@ -38,14 +37,14 @@ screens:
   - name: provide-brief-description-2
     type: text_area
     label: Please provide details
-- title: Time
-  items:
+  title: Details
+- items:
   - name: date-time-incident-discovered
     type: text_input
     hint: Date, time
     label: When did you discover the incident?
-- title: Impact
-  items:
+  title: Time
+- items:
   - name: sensitivity-data-information-involved-check-following-apply-incident
     type: multiple_choice
     label: How serious is the incident? Check all that apply
@@ -63,8 +62,8 @@ screens:
   - name: provide-brief-description-5
     type: text_area
     label: Please provide details
-- title: Impact details
-  items:
+  title: Impact
+- items:
   - name: devices-accounts-services
     type: multiple_choice
     label: Which devices, accounts, or services may be compromised? Check all that
@@ -93,13 +92,13 @@ screens:
   - name: provide-brief-description-8
     type: text_area
     label: Please provide details
-- title: Scale
-  items:
+  title: Impact details
+- items:
   - name: approximate-number-users-affected-incident
     type: text_input
     label: How many people could be affected?
-- title: Status
-  items:
+  title: Scale
+- items:
   - name: incident-resolved
     type: multiple_choice
     label: Has the incident been resolved?
@@ -108,8 +107,8 @@ screens:
       value: Yes, I’m using this form to document what happened
     - label: ' No, I’m using this form to help me seek support'
       value: ' No, I’m using this form to help me seek support'
-- title: Guidelines
-  items:
+  title: Status
+- items:
   - name: security-guidelines-cover-type-incident-guidelines-followed
     type: multiple_choice
     label: Are you following guidelines to resolve this incident?
@@ -126,8 +125,8 @@ screens:
         explain:)'
   - name: provide-brief-description-4
     type: text_area
-- title: Response
-  items:
+  title: Guidelines
+- items:
   - name: steps-taken-far-check-following-apply-incident
     type: multiple_choice
     label: What action have you taken so far? Check all that apply.
@@ -152,8 +151,8 @@ screens:
       value: ' Other – please describe:'
   - name: provide-brief-description-3
     type: text_area
-- title: Notification
-  items:
+  title: Response
+- items:
   - name: notified
     type: text_input
     hint: Name, title
@@ -161,8 +160,8 @@ screens:
   - name: needs-to-be-notified
     type: text_input
     label: Who still needs to be notified?
-- title: Responsibility
-  items:
+  title: Notification
+- items:
   - name: inclination-motive-perpetrators
     type: multiple_choice
     label: Who carried out the attack?
@@ -176,13 +175,13 @@ screens:
   - name: provide-brief-description-6
     type: text_area
     label: 'Details:'
-- title: Motive
-  items:
+  title: Responsibility
+- items:
   - name: provide-brief-description-6
     type: text_area
     label: What is the likely motive?
-- title: Evidence
-  items:
+  title: Motive
+- items:
   - name: supporting-information-screenshots-suspicious-attachment-emails
     type: multiple_choice
     label: I have saved the following information securely (Check all that apply)
@@ -197,19 +196,20 @@ screens:
       value: ' Other (please describe:)'
   - name: provide-brief-description-7
     type: text_area
-- title: Reflection
-  items:
+  title: Evidence
+- items:
   - name: guidelines-aspect-security-management-need-revised-way
     type: text_area
     label: What would you change to prevent this incident from happening again?
-- title: Next steps
-  items:
+  title: Reflection
+- items:
   - name: action-requested
     type: text_area
     label: What action do you need someone else to take to resolve this incident?
-- title: Anything else?
-  items:
+  title: Next steps
+- items:
   - name: provide-additional-information-feel-important-provided-form
     type: text_input
     label: What else do you need to tell people about what happened?
+  title: Anything else?
 title: Digital Security Incident

@@ -1,6 +1,5 @@
 screens:
-- title: Contact Information
-  items:
+- items:
   - name: name
     type: text_input
     label: 'Name:'
@@ -16,13 +15,13 @@ screens:
   - name: secure-communication-method-e-g-signal-safety-number-pgp-email-id
     type: text_input
     label: 'Secure Communication Method (e.g Signal Safety Number, PGP Email ID):'
-- title: Incident Description
-  items:
+  title: Contact Information
+- items:
   - name: provide-brief-description
     type: text_area
     label: 'Provide a brief description:'
-- title: Type of Incident
-  items:
+  title: Incident Description
+- items:
   - name: type-incident
     type: multiple_choice
     label: Type of Incident
@@ -53,52 +52,53 @@ screens:
       value: Other
   - name: type-incident-other
     type: text_input
-- title: Impact / Potential Impact
-  items:
+  title: Type of Incident
+- items:
   - name: nature-injuries-damage-threats-property-stolen
     type: text_area
     label: 'Nature of injuries or damage/ threats made/ Property stolen etc.:'
-- title: Response Steps Taken?
-  items:
+  title: Impact / Potential Impact
+- items:
   - name: provide-brief-description-2
     type: text_area
-- title: Motive Or Perpetrators?
-  items:
+  title: Response Steps Taken?
+- items:
   - name: provide-brief-description-3
     type: text_area
-- title: Who Has The Incident Been Reported To Locally?
-  items:
+  title: Motive Or Perpetrators?
+- items:
   - name: incident-reported-locally
     type: text_area
     label: Who Has The Incident Been Reported To Locally?
-- title: Do Your Security Guidelines Cover This Type Of Incident? Were The Guidelines
-    Followed?
-  items:
+  title: Who Has The Incident Been Reported To Locally?
+- items:
   - name: security-guidelines-cover-type-incident-guidelines-followed
     type: text_area
     label: Do Your Security Guidelines Cover This Type Of Incident? Were The Guidelines
       Followed?
-- title: Do The Guidelines Or Any Other Aspect Of Security Management Need To Be Revised
-    In Any Way?
-  items:
+  title: Do Your Security Guidelines Cover This Type Of Incident? Were The Guidelines
+    Followed?
+- items:
   - name: guidelines-aspect-security-management-need-revised-way
     type: text_area
     label: Do The Guidelines Or Any Other Aspect Of Security Management Need To Be
       Revised In Any Way?
-- title: Please suggest specific measures that may help avoid this type of incident
-    in the future.
-  items:
+  title: Do The Guidelines Or Any Other Aspect Of Security Management Need To Be Revised
+    In Any Way?
+- items:
   - name: lessons-learned
     type: text_area
     label: 'Lessons learned:'
-- title: Any Action Requested?
-  items:
+  title: Please suggest specific measures that may help avoid this type of incident
+    in the future.
+- items:
   - name: action-requested
     type: text_area
     label: Any Action Requested?
-- title: Any supporting information?
-  items:
+  title: Any Action Requested?
+- items:
   - name: supporting-information
     type: text_area
     label: Any supporting information?
+  title: Any supporting information?
 title: Physical Security Incident

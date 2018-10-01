@@ -1,0 +1,21 @@
+index: 100
+list:
+- label: PRE-EVACUATION
+- check: Stop work and prepare to leave.
+- check: Inform your team.
+- check: Communicate with embassies, UN agencies, NGOs if needed.
+- check: Continue to monitor the situation.
+- check: Make final arrangements based on your evacution plan, like outstanding payments,
+    hiding assets, removing logos.
+- check: Reduce looting if needed, by disabling equipment or leaving safes empty and
+    open.
+- label: Test communications with people who are staying and make sure they have what
+    they need.
+- label: EVACUATION
+- check: Follow the plan, stay calm, and maintain order.
+- check: Tell your team it's time to leave.
+- check: Get what you are carrying with you.
+- check: Assemble at the meeting point or safe house.
+- check: Evacuate by the safest route available.
+- check: Inform others about what has happened.
+- check: Prepare for the emotional impact of leaving.

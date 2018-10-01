@@ -5,7 +5,4 @@ list:
 - check: Use domain name variations
 - check: Use a web-based proxy
 - check: Check which VPN is right for you
-- check: Download and use Psiphon3
-- check: For smartphones
-- check: Download Firefox mobile and Proxy Mobile
-- check: Download and use Psiphon3
+- check: Download and use Psiphon

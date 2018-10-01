@@ -1,33 +1,26 @@
 index: 100
 list:
-- label: Phase One
-- check: Plan the who/what/when/where/how of potential evacuation
-- label: Phase Two
-- check: Brief staff
-- check: Test communications system
-- check: Prepare all payments
-- check: Back up/ safely delete files
-- check: Staff and families should carry personal documentation
-- check: Prepare grab bags
-- check: Stock the safe-house
-- check: Inventory assets
-- check: Assign and prepare vehicles
-- label: Phase Three
-- check: Keep staff informed
-- check: Coordinate with embassies and agencies
-- check: Pay all salaries
-- check: Hide high-value assets
-- check: Remove logos from vehicles remaining
-- check: Give clear responsibility to staff staying
-- label: Phase Four
-- check: Consider disabling equipment
-- check: Leave safes empty and open
-- check: Ensure effective communication with national staff
-- check: Evacuate by safest means possible
-- check: Upon evacuation, inform national staff, embassies etc
-- label: Safe-houses
-- check: Should be secure building in safe neighbourhood
-- check: Should be lived in / serviced
-- check: Should be stocked with emergency goods
-- check: Waste should be securely disposed of
-- check: Grab bags should be placed by escape routes
+- label: CREATE AN EVACUATION PLAN
+- check: How will you know when to leave? Who decides, and how will you tell your
+    team?
+- check: Who else will need to leave, and in what order of priority?
+- check: Who will stay, and what will they need? Who will you need to tell that you
+    are leaving?
+- check: Where will you go? What will you need to get there?
+- check: What will you need when you get there?
+- check: Does everyone know where to meet? How will you make sure everyone is there?
+- check: What is safe to carry with you, and what should be destroyed?
+- check: Does everyone know what they will be responsible for?
+- check: Will you be able to continue your work? What changes will you need to make?
+- check: What could go wrong, and what will you do then?
+- label: WHEN YOU ARE CONSIDERING EVACUATION
+- check: Monitor the situation and keep your team informed.
+- check: Increase security, and stop work if it's not safe.
+- check: Test equipment you will need, like vehicles and devices.
+- check: Test processes you will use, like telling your team to evacuate.
+- check: Back up files and destroy sensitive information that's not safe to carry.
+- check: Get anything you need, like cash for payments or safe house supplies.
+- check: Carry ID and whatever else you need to leave quickly.
+- check: Update the evacuation plan. What else could go wrong, and what will you do
+    then?
+- check: Arrange early departure if you need to.

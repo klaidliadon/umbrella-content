@@ -2,13 +2,9 @@
 index: 4
 title: Standard Operating Procedures
 ---
-Standard operating procedures are step-by-step instructions for any scenario.  
+### Standard operating procedures are step-by-step instructions for any scenario. Establish these before your trip and share them with your team. 
 
-Establish these before your trip and share them with your team. 
-
-# 1. The plan
-
-## Itinerary 
+## Set your itinerary 
 *   Create a schedule of travel, meetings, and events. 
 
 If required, inform authorities or embassies of your travel plans.
@@ -21,6 +17,10 @@ Check in regularly with someone who is not travelling with you and can provide s
 
 *   Establish curfews, deadlines, and no-go areas. 
 
+*	Assess the territory for known danger points like checkpoints and landmines.
+
+(Learn more about this in [Vehicles](umbrella://lesson/vehicles).)
+
 *	Arrange to be met on arrival in insecure locations or high-crime areas like airports and stations. 
 
 In order of preference, choose:
@@ -31,7 +31,7 @@ In order of preference, choose:
 
 *Risks of local taxis vary by country.*
 
-## Information security 
+## Secure your information 
 *    Prepare a cover story for airports and elsewhere. 
 
 (Learn about [borders](umbrella://lesson/borders) and [checkpoints](umbrella://lesson/checkpoints).)
@@ -50,9 +50,7 @@ In order of preference, choose:
 
 *	Schedule security or equipment training if required. 
 
-(Learn about guidelines and policies for [vehicles](umbrella://lesson/vehicles).)
-
-# 2. The backup plan
+## Make a backup plan
 
 *	Have an alternative plan to exit the country. 
 
@@ -80,8 +78,8 @@ A grab bag contains personal belongings in case of evacuation or emergency.
 
 ## Prepare for serious security incidents
 
-* 	Develop procedures based on context assessment. 
+* Develop procedures based on context assessment. 
 
-*   Schedule personal security training if necessary. 
+* Schedule personal security training if necessary. 
 
 (Learn about [kidnapping](umbrella://lesson/kidnapping).)

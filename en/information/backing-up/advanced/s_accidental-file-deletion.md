@@ -6,7 +6,7 @@ title: File recovery
 
 When you delete a file in on your computer, it may disappear, but its contents can be recovered.
 
-(Learn more about [safely deleting](umbrella://lesson/safely-deleting). 
+(Learn more about [safely deleting](umbrella://lesson/safely-deleting).) 
 
 If you accidentally delete information, this security vulnerability can work to your advantage. 
 

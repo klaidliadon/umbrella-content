@@ -1,26 +1,22 @@
 index: 100
 list:
-- label: Prevent arrest
-- check: Maintain good relations with local authorities
-- check: Observe local laws and customs on and off duty
-- check: Carry correct legal documentation
-- check: Train and brief staff
-- label: If staff member is arrested
-- check: Find out where they are held
-- check: Establish the facts
-- check: Engage a local lawyer
-- check: Advocate for their rights
-- check: Liaise with their family
-- check: Inform other organisations
-- label: If you are arrested
-- check: Identify yourself
-- check: Inform your colleagues
-- check: Prepare yourself mentally
-- check: Stay calm
-- check: Do not give false confessions
-- check: Don't sign anything you don't understand
-- check: Request your legal rights
-- check: Be cooperative when appropriate
-- check: Don't volunteer sensitive information
-- check: Establish the facts
-- check: Be alert to questioning techniques used
+- label: REDUCE YOUR RISK OF ARREST
+- check: Cultivate good relations with authorities if you can.
+- check: Understand laws and customs, and brief your team to follow the rules.
+- check: Carry correct permits and documentation.
+- check: Learn how others feel about your work.
+- label: PREPARE FOR POSSIBLE ARREST
+- check: Research your rights.
+- check: Make a communications plan for regular contact with your team.
+- check: Prepare yourself to face questioning.
+- check: Prepare yourself and your devices for search.
+- check: Create decoy accounts or files to reveal during questioning.
+- label: IF YOU ARE ARRESTED
+- check: Get help. Tell your team and ask for your lawyer.
+- check: Identify who you work for, if appropriate.
+- check: Calmly ask for what you are entitled to. Don't ask for favours.
+- check: Prepare yourself for a long wait and the possibility of mistreatment.
+- check: Pay attention and remember information that might be useful.
+- check: Do not volunteer information or confirm anything they claim to know.
+- check: Do not sign anything you can't read or don't agree with.
+- check: Stay calm. Don't allow yourself to be intimidated.

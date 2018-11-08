@@ -9,8 +9,7 @@ title: Risk factors
 * 	A conservative society which restricts contact between unmarried men and women; 
 * 	Settings where it is common practice to extort sexual favours. 
 *  The presence of many young men with access to arms: 
- 	*	Paramilitaries or police reputed to breach international
-standards of law; 
+ 	*	Paramilitaries or police reputed to breach international standards of law; 
 	*	Undisciplined government soldiers; 
 	* 	Rebel groups and violent youth movements; 
 	*	Demobilised, unemployed soldiers; 
@@ -38,13 +37,16 @@ toilet;
 
 ## People at risk
 
-Some people may be at higher risk in some contexts:
+Some people may be at higher risk in some contexts. In conflict-ridden environments, there may be a higher risk of gang rape, aggravated assault (i.e. being threatened by weapons) and HIV infection as a result of rape.
 
 *	People of a particular ethnic group; 
 * 	People living in an environment where they have
 few or no social ties; 
 *	Western women; 
 * 	Widows or female heads of household;
-*  Teenage girls (because they are thought less likely to have HIV).
+*  Teenage girls (because they are thought less likely to have HIV);
+*  Marginalized persons, including gender and sexual minorities. 
 
-*In conflict-ridden environments, there may be a higher risk of gang rape, aggravated assault (i.e. being threatened by weapons) and HIV infection as a result of rape.*
+*Fifty percent (50%) or more of all transgender and gender
+non-conforming people have experienced some form of
+sexual abuse.* Forge Transgender Sexual Violence Project, ["A Self-Help Guide to Healing and Understanding,"](https://forge-forward.org/wp-content/docs/self-help-guide-to-healing-2015-FINAL.pdf) September 2015.

@@ -4,13 +4,13 @@ title: Medical
 ---
 # Precautions
 
-*	Obtain insurance and check what it covers.
+* Obtain insurance and check what it covers.
 
 *   Get advice for your destination, including: 
 
-		*	Health and hygiene;
-		*	Vaccinations;
-        *	Malaria prophylaxis.
+	* 	Health and hygiene;
+	* 	Vaccinations;
+        * 	Malaria prophylaxis.
         
 *Note: some countries require certificates of vaccination as a condition of entry.*
 

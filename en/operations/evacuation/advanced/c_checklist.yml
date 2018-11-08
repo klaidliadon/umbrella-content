@@ -9,7 +9,7 @@ list:
     hiding assets, removing logos.
 - check: Reduce looting if needed, by disabling equipment or leaving safes empty and
     open.
-- label: Test communications with people who are staying and make sure they have what
+- check: Test communications with people who are staying and make sure they have what
     they need.
 - label: EVACUATION
 - check: Follow the plan, stay calm, and maintain order.

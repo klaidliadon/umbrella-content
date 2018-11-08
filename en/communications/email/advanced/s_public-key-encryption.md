@@ -16,9 +16,9 @@ For example:
 
 ## Use PGP to: 
 
-* 	Encrypt email for anyone, as long as you have their public key.
+* Encrypt email for anyone, as long as you have their public key.
 
-*   Stop anyone else from reading your email.
+* Stop anyone else from reading your email.
 
 (You can also use keys to sign email and verify someone else's signature.) 
 

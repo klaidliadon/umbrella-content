@@ -2,7 +2,7 @@
 index: 6
 title: VPNs
 ---
-A virtual private network (VPN) encrypts Internet data sent from your device to disguise your location. 
+### A virtual private network (VPN) encrypts Internet data sent from your device to disguise your location. 
 
 If a website or service is blocked in your location, a VPN helps you access it from a different location. 
 

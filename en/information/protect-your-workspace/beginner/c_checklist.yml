@@ -1,0 +1,17 @@
+index: 100
+list:
+- check: Review or create your [backing up](umbrella://lesson/backing-up) policy as
+    part of your physical security plan.
+- check: List the communication channels you use for work and how you use them.
+- check: List what you store sensitive information on, and its physical location.
+- check: List whether each storage device is encrypted and who can decrypt them.
+- check: When and how do you destroy sensitive information to stop others from accessing
+    it?
+- check: Which information is vulnerable to physical theft, loss or destruction?
+- check: What are you currently doing to protect your information? Write it down in
+    steps that are easy for you and others to follow.
+- check: What additional steps can you take to protect your information? Write them
+    down.
+- check: What will you need to do if something goes wrong? What information will you
+    need? Write it down.
+- check: Share the policy with your family and your team. Ask for input.

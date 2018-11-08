@@ -29,7 +29,8 @@ title: Drivers and vehicles
 
 *   If you are driving a work vehicle, decide if you are travelling high or low profile.
 
-		* Displaying a logo or driving an official vehicle may protect you in some cases (high profile). 			* Concealing your logo and blending in may protect you in other cases (low profile). 
+	* 	Displaying a logo or driving an official vehicle may protect you in some cases (high profile). 			
+	* 	Concealing your logo and blending in may protect you in other cases (low profile). 
 
 *   Consider posting a decal indicating guns are not permitted in the vehicle.
 

@@ -1,6 +1,6 @@
 ---
 index: 3
-title: _
+title: Internet filtering
 ---
 # Internet filtering
 

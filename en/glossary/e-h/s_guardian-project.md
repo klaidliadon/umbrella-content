@@ -1,6 +1,6 @@
 ---
 index: 18
-title: _
+title: Guardian Project
 ---
 # Guardian Project
 

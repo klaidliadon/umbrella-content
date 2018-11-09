@@ -1,6 +1,6 @@
 ---
 index: 10
-title: _
+title: Security policy
 ---
 # Security policy
 

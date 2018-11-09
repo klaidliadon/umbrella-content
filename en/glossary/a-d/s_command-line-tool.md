@@ -1,6 +1,6 @@
 ---
 index: 20
-title: _
+title: Command line tool
 ---
 # Command line tool
 

@@ -1,6 +1,6 @@
 ---
 index: 7
-title: _
+title: Secure Sockets Layer (SSL)
 ---
 # Secure Sockets Layer (SSL)
 

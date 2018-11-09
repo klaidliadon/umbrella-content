@@ -1,6 +1,6 @@
 ---
 index: 8
-title: _
+title: File Transfer Protocol (FTP server)
 ---
 # File Transfer Protocol (FTP server)
 

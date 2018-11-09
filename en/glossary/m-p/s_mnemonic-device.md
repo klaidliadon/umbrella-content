@@ -1,6 +1,6 @@
 ---
 index: 6
-title: _
+title: Mnemonic device
 ---
 # Mnemonic device
 

@@ -1,6 +1,6 @@
 ---
 index: 12
-title: _
+title: Server
 ---
 # Server
 

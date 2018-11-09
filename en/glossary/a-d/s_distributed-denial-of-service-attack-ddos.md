@@ -1,6 +1,6 @@
 ---
 index: 29
-title: _
+title: Distributed Denial of Service attack (DDoS)
 ---
 # Distributed Denial of Service attack (DDoS)
 

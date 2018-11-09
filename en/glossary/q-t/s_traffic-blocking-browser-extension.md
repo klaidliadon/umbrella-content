@@ -1,6 +1,6 @@
 ---
 index: 27
-title: _
+title: Traffic-blocking browser extension
 ---
 # Traffic-blocking browser extension
 

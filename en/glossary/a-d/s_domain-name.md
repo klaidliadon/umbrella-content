@@ -1,6 +1,6 @@
 ---
 index: 30
-title: _
+title: Domain name
 ---
 # Domain name
 

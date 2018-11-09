@@ -1,6 +1,6 @@
 ---
 index: 6
-title: _
+title: Secure password database
 ---
 # Secure password database
 

@@ -1,6 +1,6 @@
 ---
 index: 16
-title: _
+title: Solid State Drive (SSD)
 ---
 # Solid State Drive (SSD)
 

@@ -1,6 +1,6 @@
 ---
 index: 16
-title: _
+title: Burner phone
 ---
 # Burner phone
 

@@ -1,6 +1,6 @@
 ---
 index: 29
-title: _
+title: Two-factor authentication
 ---
 # Two-factor authentication
 

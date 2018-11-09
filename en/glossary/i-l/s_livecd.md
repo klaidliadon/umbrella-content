@@ -1,6 +1,6 @@
 ---
 index: 19
-title: _
+title: LiveCD
 ---
 # LiveCD
 

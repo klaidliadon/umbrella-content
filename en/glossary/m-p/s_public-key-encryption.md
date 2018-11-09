@@ -1,6 +1,6 @@
 ---
 index: 24
-title: _
+title: Public key encryption
 ---
 # Public key encryption
 

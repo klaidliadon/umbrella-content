@@ -1,6 +1,6 @@
 ---
 index: 23
-title: _
+title: Cookie
 ---
 # Cookie
 

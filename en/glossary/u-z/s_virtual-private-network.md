@@ -1,6 +1,6 @@
 ---
 index: 5
-title: _
+title: Virtual Private Network
 ---
 # Virtual Private Network
 

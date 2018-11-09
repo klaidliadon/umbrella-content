@@ -1,6 +1,6 @@
 ---
 index: 6
-title: _
+title: Internet Protocol address (IP address)
 ---
 # Internet Protocol address (IP address)
 

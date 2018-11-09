@@ -1,6 +1,6 @@
 ---
 index: 10
-title: _
+title: One-time password
 ---
 # One-time password
 

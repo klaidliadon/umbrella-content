@@ -1,6 +1,6 @@
 ---
 index: 14
-title: _
+title: Skype
 ---
 # Skype
 

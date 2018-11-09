@@ -1,6 +1,6 @@
 ---
 index: 15
-title: _
+title: Booting
 ---
 # Booting
 

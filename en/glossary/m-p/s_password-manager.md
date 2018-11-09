@@ -1,6 +1,6 @@
 ---
 index: 17
-title: _
+title: Password manager
 ---
 # Password manager
 

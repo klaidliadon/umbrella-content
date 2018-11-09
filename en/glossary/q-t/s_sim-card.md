@@ -1,6 +1,6 @@
 ---
 index: 13
-title: _
+title: SIM card
 ---
 # SIM card
 

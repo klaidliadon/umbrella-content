@@ -1,6 +1,6 @@
 ---
 index: 2
-title: _
+title: Adversary
 ---
 # Adversary
 

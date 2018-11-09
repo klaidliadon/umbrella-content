@@ -1,6 +1,6 @@
 ---
 index: 17
-title: _
+title: Key-signing party
 ---
 # Key-signing party
 

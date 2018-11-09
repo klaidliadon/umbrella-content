@@ -1,6 +1,6 @@
 ---
 index: 3
-title: _
+title: VautletSuite 2 Go
 ---
 # VautletSuite 2 Go
 

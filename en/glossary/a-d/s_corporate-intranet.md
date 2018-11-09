@@ -1,6 +1,6 @@
 ---
 index: 24
-title: _
+title: Corporate Intranet
 ---
 # Corporate Intranet
 

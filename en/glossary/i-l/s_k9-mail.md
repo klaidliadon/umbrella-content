@@ -1,6 +1,6 @@
 ---
 index: 11
-title: _
+title: K9 Mail
 ---
 # K9 Mail
 

@@ -1,6 +1,6 @@
 ---
 index: 1
-title: _
+title: Revocation certificate
 ---
 # Revocation certificate
 

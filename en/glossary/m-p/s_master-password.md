@@ -1,6 +1,6 @@
 ---
 index: 4
-title: _
+title: Master password
 ---
 # Master password
 

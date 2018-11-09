@@ -1,6 +1,6 @@
 ---
 index: 9
-title: _
+title: Java Applications (Applets)
 ---
 # Java Applications (Applets)
 

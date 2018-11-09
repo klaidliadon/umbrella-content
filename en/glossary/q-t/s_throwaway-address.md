@@ -1,6 +1,6 @@
 ---
 index: 25
-title: _
+title: Throwaway address
 ---
 # Throwaway address
 

@@ -1,6 +1,6 @@
 ---
 index: 4
-title: _
+title: End-to-end encryption
 ---
 # End-to-end encryption
 

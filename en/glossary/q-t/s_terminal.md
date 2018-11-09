@@ -1,6 +1,6 @@
 ---
 index: 21
-title: _
+title: Terminal
 ---
 # Terminal
 

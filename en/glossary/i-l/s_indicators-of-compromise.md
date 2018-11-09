@@ -1,6 +1,6 @@
 ---
 index: 2
-title: _
+title: Indicators of compromise
 ---
 # Indicators of compromise
 

@@ -1,6 +1,6 @@
 ---
 index: 2
-title: _
+title: Uninterruptable Power Supply (UPS)
 ---
 # Uninterruptable Power Supply (UPS)
 

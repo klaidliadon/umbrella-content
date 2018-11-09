@@ -1,6 +1,6 @@
 ---
 index: 11
-title: _
+title: Security cable
 ---
 # Security cable
 

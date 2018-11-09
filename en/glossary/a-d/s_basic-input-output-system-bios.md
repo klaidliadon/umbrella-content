@@ -1,6 +1,6 @@
 ---
 index: 10
-title: _
+title: Basic Input/Output System (BIOS)
 ---
 # Basic Input/Output System (BIOS)
 

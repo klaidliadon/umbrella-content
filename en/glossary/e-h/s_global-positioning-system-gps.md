@@ -1,6 +1,6 @@
 ---
 index: 17
-title: _
+title: Global Positioning System (GPS)
 ---
 # Global Positioning System (GPS)
 

@@ -1,6 +1,6 @@
 ---
 index: 7
-title: _
+title: Web browser
 ---
 # Web browser
 

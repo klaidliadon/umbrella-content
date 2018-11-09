@@ -1,6 +1,6 @@
 ---
 index: 16
-title: _
+title: GNU/Linux
 ---
 # GNU/Linux
 

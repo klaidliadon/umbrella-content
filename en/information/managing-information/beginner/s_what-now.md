@@ -6,6 +6,7 @@ Swipe right for this lesson's checklist.
 
 ### RELATED LESSONS
 
+*   [Security Planning](umbrella://lesson/security-planning)
 *   [Safely Deleting](umbrella://lesson/safely-deleting)
 
 ### SOURCES

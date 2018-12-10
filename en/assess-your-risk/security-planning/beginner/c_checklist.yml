@@ -1,0 +1,24 @@
+index: 100
+list:
+- check: Define your mission and goal
+- check: List factors that could affect your work, and how you know
+- check: List who could help or hinder you, their interests and resources, and how
+    they relate to each other
+- check: List as many threats as you can in as much detail as you can
+- check: List your vulnerabilities (anything that makes a threat more likely to affect
+    you) and capacities (anything that helps you prevent or respond to threats)
+- check: Rank the probability of every threat happening (very high, high, medium,
+    low, or very low)
+- check: Rank the impact of every threat if it happens (very high, high, medium, low,
+    or very low)
+- check: Decide what level of risk is unacceptable and what risk you can control.
+    Choose which threats to focus on in your security plan.
+- check: Consult people involved on how to reduce vulnerabilities and increase capacities
+    to address your high priority threats
+- check: Write a clear security plan describing threats and making realistic recommendations
+    to reduce vulnerabilites and increase capacities
+- check: Write step by step instructions to follow if the threats occur
+- check: Create a schedule to check that everyone is following the plan and revise
+    it when things change
+- check: Test ways to make the plan easier to follow (agreements, rewards, consequences,
+    examples of what could go wrong)

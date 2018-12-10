@@ -8,6 +8,8 @@ title: Confinement
 *	Prepare for a long wait;
 *	Do not believe everything you are told. 
 
+(Learn about [Discrimination and Torture](umbrella://lesson/arrests/beginner/discrimination-and-torture).)
+
 ## Be respectful 
 
 *   Try to build a relationship with kidnappers;
@@ -20,6 +22,8 @@ title: Confinement
 
 *	Cooperate without being servile or aggressive; 
 *	Do not beg or plead. 
+
+(Learn about [Sexual Assault](umbrella://lesson/sexual-assault).)
 
 ## Retain your identity
 

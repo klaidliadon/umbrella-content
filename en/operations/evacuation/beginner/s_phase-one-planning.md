@@ -9,6 +9,8 @@ title: Planning
 
 _Coordinate with embassies, UN agencies, or NGOs as appropriate._
 
+(Learn about [Security Planning](umbrella://lesson/security-planning).)
+
 # Planning questions
 
 ## When?

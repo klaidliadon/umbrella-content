@@ -1,5 +1,5 @@
 ---
-index: 1
+index: 3
 title: The Media
 ---
 ## Have a media strategy 

@@ -2,10 +2,7 @@
 index: 3
 title: Reduce promoting factors
 ---
-# To avoid kidnap 
-
-*	Reduce the incentives and opportunities for kidnap
-*	Make it hard for prospective kidnappers.
+### To avoid kidnap, reduce the incentives and opportunities, and make it hard for prospective kidnappers.
 
 ## Stay low profile.
 
@@ -13,7 +10,7 @@ title: Reduce promoting factors
 *	Avoid 'no-go' areas in town; 
 *	Don't display assets.
 
-(Learn about choosing a [vehicle](umbrella://lesson/vehicles).) 
+(Learn about [Vehicles](umbrella://lesson/vehicles).) 
 
 ## Build key relationships.
 
@@ -24,7 +21,7 @@ title: Reduce promoting factors
    *  Are hosts responsible for the wellbeing of their guests? 
    *  Can you travel or work with a local representative?
 
-(Learn about context assessments in [preparation](umbrella://lesson/preparation).)
+(Learn about [Public Communications](umbrella://lesson/public-communications).)
 
 ## Monitor the environment. 
 
@@ -32,6 +29,6 @@ title: Reduce promoting factors
 *	Be prepared to suspend your plans if necessary. 
 *	Leave the country for a period of time if necessary. 
 
-(Learn about [evacuation](umbrella://lesson/evacuation).)
+(Learn about [Evacuation](umbrella://lesson/evacuation).)
 
 ## Have a public policy of no ransom.

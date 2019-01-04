@@ -1,5 +1,5 @@
 ---
-index: 2
+index: 4
 title: The Public
 ---
 - Make language in advocacy campaigns plain and easy to understand. 

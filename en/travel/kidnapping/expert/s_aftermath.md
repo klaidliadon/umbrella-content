@@ -9,12 +9,7 @@ title: Aftermath
 *	Arrange time off with full pay and benefits.
 * 	Facilitate appropriate professional counselling and long-term support.
 
-## If the captive dies
-
-Specific preparations need to be made in case of a negative outcome, possibly including: 
-
-*	Repatriation of mortal remains;
-*	Investigation into the circumstances of the death. 
+(Learn what to do if a team member is sexually assaulted in [Sexual Assault Expert](umbrella://lesson/sexual-assault/2).)
 
 ## Debrief
 
@@ -26,3 +21,10 @@ Specific preparations need to be made in case of a negative outcome, possibly in
 
 *   Conduct an after-action review;
 *	Use lessons learned to refine future security management.
+
+## If the captive dies
+
+Specific preparations need to be made in case of a negative outcome, possibly including: 
+
+*	Repatriation of mortal remains;
+*	Investigation into the circumstances of the death.

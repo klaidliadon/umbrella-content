@@ -10,7 +10,7 @@ Learn what to do if one of your team is arrested in [arrests advanced](umbrella:
 
 *   [Security Planning](umbrella://lesson/security-planning)
 *   [Preparation](umbrella://lesson/preparation)
-*	[Protests] (umbrella://lesson/protests/1)
+*	[Protests](umbrella://lesson/protests/1)
 * [Sexual Assault](umbrella://lesson/sexual-assault)
 
 ### SOURCES

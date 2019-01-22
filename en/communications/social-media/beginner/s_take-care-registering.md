@@ -14,7 +14,7 @@ Information mined from your social media accounts can be used to impersonate or 
 
 * Create a group identity to make it harder for others to hold an individual responsible for sensitive activity. (It's wise to assume that committed adversaries will still be able to identify members of the group.)     
 
-*Note: Check the site's policy. For example, Facebook [requires] (https://www.facebook.com/help/112146705538576?helpref=faq_content) users to go by "the name they go by in everyday life." Many interpret this broadly or ignore it, but an adversary could potentially [report] (https://www.facebook.com/help/1216349518398524?helpref=hc_global_nav) a pseudonymous account for "pretending to be something or someone that doesn't exist."*
+*Note: Check the site's policy. For example, Facebook [requires](https://www.facebook.com/help/112146705538576?helpref=faq_content) users to go by "the name they go by in everyday life." Many interpret this broadly or ignore it, but an adversary could potentially [report](https://www.facebook.com/help/1216349518398524?helpref=hc_global_nav) a pseudonymous account for "pretending to be something or someone that doesn't exist."*
 
 ## Nonessential information.
 
@@ -26,7 +26,7 @@ Information mined from your social media accounts can be used to impersonate or 
 
 The social media site may still log your IP address, which can reveal your location. Use a VPN or the Tor Browser to disguise your location.
 
-(Learn more about [VPNs] (umbrella://lesson/the-internet/0) and [Tor] (umbrella://lesson/the-internet/1).)
+(Learn more about [VPNs](umbrella://lesson/the-internet/0) and [Tor](umbrella://lesson/the-internet/1).)
 
 # Secure your account
 
@@ -36,7 +36,7 @@ Social media accounts can be hijacked, and fake accounts may be used to spread m
 
 *   Add 2FA where available. Change your password regularly. 
 
-(Learn about [passwords.] (umbrella://lesson/passwords/1))
+(Learn about [passwords.](umbrella://lesson/passwords/1))
 
 ## Answer security questions randomly.
 
@@ -56,4 +56,4 @@ Attackers may befriend you to spy on your network or spread malware using social
 
 * Watch for unusual activity that may indicate a friend's account has been hacked or spoofed in order to trick you.  
 
-(Learn more about [social engineering] (umbrella://lesson/phishing).)
+(Learn more about [social engineering](umbrella://lesson/phishing).)

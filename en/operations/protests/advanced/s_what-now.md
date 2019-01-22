@@ -15,14 +15,14 @@ Learn about witnessing protests in [protests beginner](umbrella://lesson/protest
 
 ### RELATED TOOL GUIDES
 
-* 	[Signal for Android] (umbrella://lesson/signal-for-android) 
-* 	[Signal for iOS] (umbrella://lesson/signal-for-ios)
-*	[ObscuraCam] (umbrella://lesson/obscuracam)
+* 	[Signal for Android](umbrella://lesson/signal-for-android) 
+* 	[Signal for iOS](umbrella://lesson/signal-for-ios)
+*	[ObscuraCam](umbrella://lesson/obscuracam)
 
 ### SOURCES
 
-*   EFF - Attending Protests [United States] (https://ssd.eff.org/en/module/attending-protests-united-states) and [International] (https://ssd.eff.org/en/module/attending-protests-international)
-*	EFF — [Digital Security Tips for Protesters] (https://www.eff.org/deeplinks/2016/11/digital-security-tips-for-protesters)
+*   EFF - Attending Protests [United States](https://ssd.eff.org/en/module/attending-protests-united-states) and [International](https://ssd.eff.org/en/module/attending-protests-international)
+*	EFF — [Digital Security Tips for Protesters](https://www.eff.org/deeplinks/2016/11/digital-security-tips-for-protesters)
 
 ### FURTHER READING
 

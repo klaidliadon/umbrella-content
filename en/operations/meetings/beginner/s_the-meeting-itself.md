@@ -35,7 +35,7 @@ If participants are not already briefed:
 
 *	Protect sensitive recordings and files;
 
-(Learn about [Protecting Files] (umbrella://lesson/protecting-files).)  
+(Learn about [Protecting Files](umbrella://lesson/protecting-files).)  
 
 *	Destroy sensitive notes in a neutral location. 
 

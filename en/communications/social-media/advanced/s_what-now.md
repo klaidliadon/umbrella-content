@@ -11,7 +11,7 @@ Learn to combat other types of abuse in [Social Media Expert](umbrella://lesson/
 ### RELATED LESSONS/TOOLS
 
 *	[Internet](umbrella://lesson/the-internet)
-*	[Phishing] (umbrella://lesson/phishing)
+*	[Phishing](umbrella://lesson/phishing)
 *	[Passwords](umbrella://lesson/passwords)
 * 	[How to change your Facebook privacy settings](umbrella://lesson/facebook)
 

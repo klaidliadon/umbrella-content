@@ -9,7 +9,7 @@ title: Facebook
 **Lesson to read:** [Social Media](umbrella://lesson/social-media)  
 **Level:** Beginner—Advanced  
 **Updated:** April 2018 (some images date from earlier versions)  
-**Sources:** Security in a Box, [Social Networking] (https://securityinabox.org/en/guide/social-networking/web/); EFF, ["How To Change Your Facebook Settings To Opt Out of Platform API Sharing"] (https://www.eff.org/deeplinks/2018/03/how-change-your-facebook-settings-opt-out-platform-api-sharing); Facebook's [Terms](https://www.facebook.com/legal/terms) and [Data Policy](https://www.facebook.com/about/privacy/).
+**Sources:** Security in a Box, [Social Networking](https://securityinabox.org/en/guide/social-networking/web/); EFF, ["How To Change Your Facebook Settings To Opt Out of Platform API Sharing"](https://www.eff.org/deeplinks/2018/03/how-change-your-facebook-settings-opt-out-platform-api-sharing); Facebook's [Terms](https://www.facebook.com/legal/terms) and [Data Policy](https://www.facebook.com/about/privacy/).
 
 ## Quick Tips
 
@@ -19,11 +19,11 @@ title: Facebook
 
 * If you want to encrypt notification emails you receive from Facebook, read Part 1 on Security.
 
-* Access Facebook through a Tor-enabled browser at [https://facebookcorewwwi.onion/] (https://facebookcorewwwi.onion/). (Learn how to use Tor for [Linux] (umbrella://lesson/tor-for-linux), [Mac] (umbrella://lesson/tor-for-mac-os-x) or [Windows] (umbrella://lesson/tor-for-windows).) 
+* Access Facebook through a Tor-enabled browser at [https://facebookcorewwwi.onion/](https://facebookcorewwwi.onion/). (Learn how to use Tor for [Linux](umbrella://lesson/tor-for-linux), [Mac](umbrella://lesson/tor-for-mac-os-x) or [Windows](umbrella://lesson/tor-for-windows).) 
 
-* You can turn on encryption in the Facebook Messenger iOS and Android apps, though not on a desktop. Click *i*, *Settings*, *Secret Conversation*, *Turn On*, or click the lock icon when you open any new conversation. (Read Facebook's instructions [here] (https://www.facebook.com/help/messenger-app/1084673321594605?helpref=uf_permalink).) 
+* You can turn on encryption in the Facebook Messenger iOS and Android apps, though not on a desktop. Click *i*, *Settings*, *Secret Conversation*, *Turn On*, or click the lock icon when you open any new conversation. (Read Facebook's instructions [here](https://www.facebook.com/help/messenger-app/1084673321594605?helpref=uf_permalink).) 
 
-* Default privacy settings for Facebook posts apply to video streamed on Facebook Live, too. You can adjust the settings for any individual post. (Read Facebook's instructions [here] (https://www.facebook.com/help/120939471321735?helpref=related).)  
+* Default privacy settings for Facebook posts apply to video streamed on Facebook Live, too. You can adjust the settings for any individual post. (Read Facebook's instructions [here](https://www.facebook.com/help/120939471321735?helpref=related).)  
 
 * From any page on Facebook, open the Help menu under the question mark icon and select *Privacy Checkup* or *Privacy Shortcuts* for quick answers about privacy and your account.
 
@@ -61,7 +61,7 @@ This will take you to the *Settings* menu.
 
 **Note**:  If you select to receive alerts via Text Message, you will link you mobile phone number with your **Facebook** account, making your activities on the site more easily identifiable. Text messages are generally insecure, and using them to secure your account leaves you vulnerable to hacking. 
 
-**Step 6.** *Recovery Code:* This appears under *Use two-factor authentication.* Click on *Get codes* and store the codes securely. (Learn about [Protecting Files] (umbrella://lesson/protecting-files).) This is a really important step, since you will need these backup codes if you don't have access to your code generator—for example, if your phone is stolen and you need to secure your account.   
+**Step 6.** *Recovery Code:* This appears under *Use two-factor authentication.* Click on *Get codes* and store the codes securely. (Learn about [Protecting Files](umbrella://lesson/protecting-files).) This is a really important step, since you will need these backup codes if you don't have access to your code generator—for example, if your phone is stolen and you need to secure your account.   
 
 **Step 7.** *App Passwords*: Also under *Use two-factor authentication,* this option allows you to generate individual passwords if you use applications on **Facebook**. Unless you have a specific need to do so, however, we recommend avoiding Facebook applications.
 
@@ -71,11 +71,11 @@ This will take you to the *Settings* menu.
 
 **Note**: If you select to receive alerts via Text Message, this means you will link your mobile phone number to your **Facebook** account, making your activities on the site more easily identifiable.
 
-**Step 10.** *Choose 3 to 5 friends to help you if you get locked out*: This option allows you to select certain contacts from your **Facebook** friends who can help you to log in to your account if for some reason you are otherwise unable to. This is done through sharing a secret code with your contact. If you decide to use this option, be sure to choose your trusted contacts carefully and establish a secure means of communication for sharing the code. (Learn more about [Sending a message] (umbrella://lesson/sending-a-message) securely.) 
+**Step 10.** *Choose 3 to 5 friends to help you if you get locked out*: This option allows you to select certain contacts from your **Facebook** friends who can help you to log in to your account if for some reason you are otherwise unable to. This is done through sharing a secret code with your contact. If you decide to use this option, be sure to choose your trusted contacts carefully and establish a secure means of communication for sharing the code. (Learn more about [Sending a message](umbrella://lesson/sending-a-message) securely.) 
 
-**Step 11.** *Encrypted notification emails.* This *Advanced* setting allows you to upload your public PGP key and add end-to-end encryption to notification emails you receive from Facebook. (Learn more about PGP in the [Email] (umbrella://lesson/email/2) lesson, and how to generate your own key using PGP for [LINUX] (umbrella://lesson/pgp-for-linux), [Mac] (umbrella://lesson/pgp-for-mac-os-x), and [Windows] (umbrella://lesson/pgp-for-windows).) 
+**Step 11.** *Encrypted notification emails.* This *Advanced* setting allows you to upload your public PGP key and add end-to-end encryption to notification emails you receive from Facebook. (Learn more about PGP in the [Email](umbrella://lesson/email/2) lesson, and how to generate your own key using PGP for [LINUX](umbrella://lesson/pgp-for-linux), [Mac](umbrella://lesson/pgp-for-mac-os-x), and [Windows](umbrella://lesson/pgp-for-windows).) 
 
-**Steo 12.** *See recent emails from Facebook*. Use this setting to determine whether emails you receive are actually from Facebook, or could be a phishing attack. (Learn more about [Phishing] (umbrella://lesson/phishing).)
+**Steo 12.** *See recent emails from Facebook*. Use this setting to determine whether emails you receive are actually from Facebook, or could be a phishing attack. (Learn more about [Phishing](umbrella://lesson/phishing).)
 
 
 ## 2. Privacy 

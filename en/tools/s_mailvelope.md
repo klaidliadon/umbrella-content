@@ -11,7 +11,7 @@ Secure Webmail
 **Level:** Advanced  
 **Time required:** 30-60 minutes  
 **Updated:** April 2018  (some images date from earlier versions)  
-**Sources:** Security in a Box, [MAILVELOPE - OPENPGP ENCRYPTION FOR WEBMAIL] (https://securityinabox.org/en/guide/mailvelope/web/).
+**Sources:** Security in a Box, [MAILVELOPE - OPENPGP ENCRYPTION FOR WEBMAIL](https://securityinabox.org/en/guide/mailvelope/web/).
 
 **Using Mailvelope will give you:**
 

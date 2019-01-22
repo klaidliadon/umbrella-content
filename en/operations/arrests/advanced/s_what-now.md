@@ -10,7 +10,7 @@ Learn what to do if you are arrested in [arrests beginner]((umbrella://lesson/ar
 
 *	[Emergency Support](umbrella://lesson/emergency-support)
 *  [Preparation](umbrella://lesson/preparation)
-*	[Protests] (umbrella://lesson/protests/1)
+*	[Protests](umbrella://lesson/protests/1)
 * [Sexual Assault](umbrella://lesson/sexual-assault/2)
 
 ### SOURCES

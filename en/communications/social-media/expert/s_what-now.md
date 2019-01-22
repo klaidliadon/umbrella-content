@@ -10,7 +10,7 @@ Learn about hate speech in [Social Media Advanced](umbrella://lesson/social-medi
 
 ### RELATED LESSONS/TOOLS
 
-*	[Stress] (umbrella://lesson/stress/0)
+*	[Stress](umbrella://lesson/stress/0)
 *	[Passwords](umbrella://lesson/passwords)
 * 	[How to change your Facebook privacy settings](umbrella://lesson/facebook)
 *	[ObscuraCam](umbrella://lesson/obscuracam)

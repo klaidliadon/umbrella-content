@@ -37,4 +37,4 @@ These may be necessary if telecommunications networks are unreliable or may be s
 
 *Disguise numbers as dates, measurements, coordinates, quantities on a shopping list, or another formulation.*   
 
-(Learn about [protecting files] (umbrella://lesson/protecting-files).)
+(Learn about [protecting files](umbrella://lesson/protecting-files).)

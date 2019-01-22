@@ -4,7 +4,7 @@ title: Recording passwords securely
 ---
 # Use a password manager
 
-You know how to [create a strong password] (umbrella://lesson/passwords/0). But creating a different password for every account and changing it every few months makes it difficult to remember them all. 
+You know how to [create a strong password](umbrella://lesson/passwords/0). But creating a different password for every account and changing it every few months makes it difficult to remember them all. 
 
 Fortunately, there are tools to help. 
 

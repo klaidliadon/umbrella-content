@@ -6,7 +6,7 @@ title: Secure deletion when discarding hardware
 
 Wipe your hard drive before you throw your computer away, sell it on eBay, or stash an old machine in a closet.
 
-Tools like [DBAN] (https://dban.org/) make this easy. There are a variety of tutorials on how to use it across the web, (including [here] (https://www.lifewire.com/how-to-erase-a-hard-drive-using-dban-2619148)).
+Tools like [DBAN](https://dban.org/) make this easy. There are a variety of tutorials on how to use it across the web, (including [here](https://www.lifewire.com/how-to-erase-a-hard-drive-using-dban-2619148)).
 
 # Shred CD-ROMS
 

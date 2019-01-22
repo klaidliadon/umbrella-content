@@ -16,7 +16,7 @@ Only someone who has the right key can unscramble it.
 
 VeraCrypt is a free, open-source tool to encrypt files. VeraCrypt creates an encrypted container like a safe on your hard drive. You can keep as many files as you like in the container, and even hide it.  
 
-This lesson introduces VeraCrypt. (For step by step instructions, see the [VeraCrypt] (umbrella://lesson/veracrypt) tool guide.)
+This lesson introduces VeraCrypt. (For step by step instructions, see the [VeraCrypt](umbrella://lesson/veracrypt) tool guide.)
 
 *Note: Vulnerabilities have been found in TrueCrypt, an earlier version of VeraCrypt that is no longer maintained. Use VeraCrypt instead.*
 

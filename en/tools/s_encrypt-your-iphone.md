@@ -5,11 +5,11 @@ title: Encrypt your iPhone
 Encrypt Your iPhone
 ===========================
 
-**Lesson to read: [Mobile Phones] (umbrella://lesson/mobile-phones), [Protests] (umbrella://lesson/protests), [Passwords](umbrella://lesson/passwords)**  
+**Lesson to read: [Mobile Phones](umbrella://lesson/mobile-phones), [Protests](umbrella://lesson/protests), [Passwords](umbrella://lesson/passwords)**  
 **Level**: Beginner  
 **Time required:** 5 minutes  
 **Published:** April 2018   
-**Sources:** EFF, Surveillance Self-Defense [How to: Encrypt Your iPhone] (https://ssd.eff.org/en/module/how-encrypt-your-iphone)
+**Sources:** EFF, Surveillance Self-Defense [How to: Encrypt Your iPhone](https://ssd.eff.org/en/module/how-encrypt-your-iphone)
 
 If you have an iPhone 3GS or later, an iPod touch 3rd generation or later, or any iPad, you can [protect the contents of your device](https://www.apple.com/privacy/privacy-built-in/) using encryption. That means that if someone gets physical access to your device, they will also need your passcode to decrypt what's stored on it, including contacts, instant messages or texts, call logs, and email.
 

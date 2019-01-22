@@ -16,7 +16,7 @@ _Anyone monitoring your internet activity would be able to see that you are runn
 
 Whether this is a problem for you will depend on your threat model.
 
-(Learn more about this in [managing information.] (umbrella://lesson/managing-information))
+(Learn more about this in [managing information.](umbrella://lesson/managing-information))
 
 ### Close all browser tabs and other applications before turning your VPN off.
 

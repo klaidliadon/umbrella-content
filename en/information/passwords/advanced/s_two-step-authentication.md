@@ -25,6 +25,6 @@ SMS text messages can be intercepted, and most U2F devices cost money. The best 
 
 [FreeOTP](https://freeotp.github.io/) is an open source app that generates codes for 2FA. It is available for iOS and Android devices, and can be used to sign into Google services as well.
 
-The [Two Factor Auth] (https://twofactorauth.org/) project tracks services and software that allow you to add 2FA.
+The [Two Factor Auth](https://twofactorauth.org/) project tracks services and software that allow you to add 2FA.
 
 *If you run communications infrastructure, such as e-mail servers, there is free, open source software you can use to enable 2FA. Look for software offering implementations of the open standard "Time-Based One-Time Passwords" or RFC 6238.*

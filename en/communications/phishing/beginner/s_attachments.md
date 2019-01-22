@@ -6,7 +6,7 @@ title: Attachments
 
 * Don't open the file unless you can verify where it comes from. 
 * Contact the sender through another channel to ask if it's real. 
-* Upload it to [VirusTotal] (https://www.virustotal.com/), a service owned  by Google which will check for known malware. (It will not catch every attack.) 
+* Upload it to [VirusTotal](https://www.virustotal.com/), a service owned  by Google which will check for known malware. (It will not catch every attack.) 
 * If you're still suspicious, read If you've been phished.
 
 ## If you receive any unexpected attachment, even if you're not otherwise susipcious: 

@@ -14,9 +14,9 @@ If you accidentally delete information, this security vulnerability can work to 
 
 Several programs can restore access to recently deleted files, such as Recuva for Windows. 
 
-TestDisk and PhotoRec by [CGSecurity] (www.cgsecurity.org/) offer free, open-source data recovery for Linux, Mac, and Windows.
+TestDisk and PhotoRec by [CGSecurity](www.cgsecurity.org/) offer free, open-source data recovery for Linux, Mac, and Windows.
 
-(Learn how to use [Recuva] (umbrella://lesson/recuva) in our tool guide.)
+(Learn how to use [Recuva](umbrella://lesson/recuva) in our tool guide.)
 
 # Recovery tips
 

@@ -16,13 +16,13 @@ At least until you understand the situation.
 
 Choose new, strong passwords for your email and all linked accounts. Linked accounts use your email to log in, recover login information, or verify your identity.  
 
-(Use [strong passwords] (umbrella://lesson/passwords/0) and [2FA.] (umbrella://lesson/passwords/1))
+(Use [strong passwords](umbrella://lesson/passwords/0) and [2FA.](umbrella://lesson/passwords/1))
 
 ## Secure your devices
 
-Any device you use to access email from the compromised account is vulnerable. Scan your computer for [malware](umbrella://lesson/malware/0) and refresh your [mobile phone] (umbrella://lesson/mobile-phones/0) security.
+Any device you use to access email from the compromised account is vulnerable. Scan your computer for [malware](umbrella://lesson/malware/0) and refresh your [mobile phone](umbrella://lesson/mobile-phones/0) security.
 
-(Learn [basic security for Android](umbrella://lesson/android) and how to [encrypt your iPhone] (umbrella://lesson/encrypt-your-iphone).)
+(Learn [basic security for Android](umbrella://lesson/android) and how to [encrypt your iPhone](umbrella://lesson/encrypt-your-iphone).)
 
 ## Check account settings and activity.
 
@@ -56,7 +56,7 @@ If appropriate for your situation and threat model, inform your email provider o
 
 Consider free, open-source email software like Thunderbird. 
 
-(Learn about open-source software in [Malware Advanced] ([malware](umbrella://lesson/malware/1) and how to add encryption in [Email Advanced.] (umbrella://lesson/email/1)) 
+(Learn about open-source software in [Malware Advanced]([malware](umbrella://lesson/malware/1) and how to add encryption in [Email Advanced.](umbrella://lesson/email/1)) 
 
 ## Switch provider.
 

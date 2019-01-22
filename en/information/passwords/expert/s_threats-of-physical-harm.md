@@ -6,7 +6,7 @@ title: Threats of Physical Harm
 
 Decide if this is a possibility for you, for example, if you plan to cross a hostile border with sensitive information. 
 
-(Learn more about this in [managing information] (umbrella://lesson/managing-information).)
+(Learn more about this in [managing information](umbrella://lesson/managing-information).)
 
 If so: 
 

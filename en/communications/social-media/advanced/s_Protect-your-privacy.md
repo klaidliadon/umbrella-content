@@ -37,7 +37,7 @@ Some bloggers use a pseudonym or write under a variation of their name.
 
 *	When someone violates the terms, report them.
 
-(Secure your accounts with [strong passwords] (umbrella://lesson/passwords/0) and [2FA.] (umbrella://lesson/passwords/1))
+(Secure your accounts with [strong passwords](umbrella://lesson/passwords/0) and [2FA.](umbrella://lesson/passwords/1))
 
 ## Establish a comments policy. 
 

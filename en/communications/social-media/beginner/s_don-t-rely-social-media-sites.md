@@ -19,7 +19,7 @@ Never:
 *	Chat with people you don't know. Even real accounts can be duplicated to trick you into chatting.  
 *	Click on links to documents or pictures in direct messages. These may carry malware. 
 
-(Learn more about [phishing] (umbrella://lesson/phishing).)
+(Learn more about [phishing](umbrella://lesson/phishing).)
 
 *If you really have to use Facebook Messenger, turn on Secret Conversations in the Android or iOS app. (Learn how in [Facebook privacy](umbrella://lesson/facebook).)*  
 

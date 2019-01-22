@@ -30,4 +30,4 @@ Some proxy tools offer encrypted connections, or at least use HTTPS. But the pro
 
 *Proxies do not provide anonymity.*
 
-(Learn to stay anonymous online in [Internet Advanced] (umbrella://lesson/the-internet/1).)
+(Learn to stay anonymous online in [Internet Advanced](umbrella://lesson/the-internet/1).)

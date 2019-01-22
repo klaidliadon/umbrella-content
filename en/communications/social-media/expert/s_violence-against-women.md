@@ -2,7 +2,7 @@
 index: 3
 title: Violence against woman
 ---
-Nearly a quarter of women from eight countries surveyed by Amnesty International in [2017] (https://www.amnesty.org/en/latest/news/2017/11/amnesty-reveals-alarming-impact-of-online-abuse-against-women/) said they had experienced online abuse or harassment at least once.
+Nearly a quarter of women from eight countries surveyed by Amnesty International in [2017](https://www.amnesty.org/en/latest/news/2017/11/amnesty-reveals-alarming-impact-of-online-abuse-against-women/) said they had experienced online abuse or harassment at least once.
 
 Of those women, 41% said these online experiences made them feel that their physical safety was threatened. 
 

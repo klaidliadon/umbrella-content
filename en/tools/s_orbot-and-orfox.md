@@ -7,18 +7,18 @@ Orbot & Orfox
 
 Privacy-Enhanced Web Browsing for Android
 
-**Lesson to read: [Internet](umbrella://lesson/the-internet), [Mobile Phones] (umbrella://lesson/mobile-phones)**  
+**Lesson to read: [Internet](umbrella://lesson/the-internet), [Mobile Phones](umbrella://lesson/mobile-phones)**  
 **Level**: Beginner  
 **Time required**: 15 minutes  
 **Published:** April 2018    
-**Sources:** Security Planner (Citizen Lab), [Orbot and Orfox] (https://securityplanner.org/#/tool/orbot-and-orfox); Security in a Box, [ORBOT FOR ANDROID](https://securityinabox.org/en/guide/orbot/android/), The Guardian Project, [Orbot v16: a whole new look, and easier to use!] (https://guardianproject.info/2018/01/05/orbot-v16-a-whole-new-look-and-easier-to-use/)
+**Sources:** Security Planner (Citizen Lab), [Orbot and Orfox](https://securityplanner.org/#/tool/orbot-and-orfox); Security in a Box, [ORBOT FOR ANDROID](https://securityinabox.org/en/guide/orbot/android/), The Guardian Project, [Orbot v16: a whole new look, and easier to use!](https://guardianproject.info/2018/01/05/orbot-v16-a-whole-new-look-and-easier-to-use/)
 
 **Using Orbot and Orfox together will give you:**  
 - The ability to conceal your online identity from websites and other services when using certain Android applications.  
 - The ability to conceal your browsing activities when using Orfox.  
 - The ability to bypass Internet censorship and online filtering when using Orfox.
 
-**Download location:** [Orbot] (https://play.google.com/store/apps/details?id=org.torproject.android) and [Orfox] (https://play.google.com/store/apps/details?id=info.guardianproject.orfox) in the Google Play store.  
+**Download location:** [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android) and [Orfox](https://play.google.com/store/apps/details?id=info.guardianproject.orfox) in the Google Play store.  
 **Software requirements:**  Varies with device (Orbot); Android 4.0.3 and up (Orfox)   
 **Version used in this guide**: Version 16 (Orbot) Fennec-52.7.3esr/TorBrowser-7.5.3/Orfox-1.5.2-RC-1 (Orfox)   
 **License**: FOSS (primarily GPLv2)
@@ -73,7 +73,7 @@ If you're not sure whether you need a bridge, try it without first. To learn mor
 
 Select individual apps you want to use with **Orbot** and click *OK*.  
 
-> "Rather than promote some kind of auto-magical “enable Tor for my whole device”, we want to focus on ways to enable specific apps to go through Tor, in a way we can ensure is as safe as possible." —The Guardian Project, [October 27, 2017] (https://guardianproject.info/2017/10/27/no-more-root-features-in-orbot-use-orfox-vpn-instead/)
+> "Rather than promote some kind of auto-magical “enable Tor for my whole device”, we want to focus on ways to enable specific apps to go through Tor, in a way we can ensure is as safe as possible." —The Guardian Project, [October 27, 2017](https://guardianproject.info/2017/10/27/no-more-root-features-in-orbot-use-orfox-vpn-instead/)
  
 Note that many apps, such as those that require you to log in, will undermine your anonymity even if Internet traffic is tunneled through Orbot. This step will help you if a firewall or a filter is blocking an individual app, but does not make you anonymous.    
 

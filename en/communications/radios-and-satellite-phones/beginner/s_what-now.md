@@ -8,7 +8,7 @@ Learn about satellite phones in [Radio and Satellite Phones Advanced](umbrella:/
 
 ### RELATED LESSONS/TOOLS
 
-*   [Making a Call] (umbrella://lesson/making-a-call)
+*   [Making a Call](umbrella://lesson/making-a-call)
 
 ### FURTHER READING
 

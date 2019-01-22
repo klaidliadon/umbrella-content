@@ -18,4 +18,4 @@ title: Challenging password demands
 
 Preparation is the best way to understand your legal position and protect your devices and data. 
 
-(Learn more about this in the travel [preparation] (umbrella://lesson/preparation) lesson.)
+(Learn more about this in the travel [preparation](umbrella://lesson/preparation) lesson.)

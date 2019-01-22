@@ -30,7 +30,7 @@ Informed means they understand the purpose, potential audience, and potential ri
 
 *	Could your broadcast cause unintended harm? 
 
-(Learn about [documenting] (umbrella://lesson/protests/0) and [attending] (umbrella://lesson/protests/1) protests.)
+(Learn about [documenting](umbrella://lesson/protests/0) and [attending](umbrella://lesson/protests/1) protests.)
 
 ## Content shared by someone else 
 
@@ -42,7 +42,7 @@ Images and recordings may be fake or deliberately misleading.
 
 *	Copy original content and note where it came from in case it is removed. 
 
-(Learn about [protecting files] (umbrella://lesson/protecting-files).)  
+(Learn about [protecting files](umbrella://lesson/protecting-files).)  
 
 ## Metadata
 

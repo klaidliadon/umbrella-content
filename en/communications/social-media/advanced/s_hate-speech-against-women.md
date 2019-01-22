@@ -32,8 +32,8 @@ Everyone needs to work to end the discrimination faced by women online.
 
 *	Offer support.
 
-*Read more: PEN America, [Best Practices for Allies and Witnesses] (https://onlineharassmentfieldmanual.pen.org/best-practices-for-allies-and-witnesses/)*
+*Read more: PEN America, [Best Practices for Allies and Witnesses](https://onlineharassmentfieldmanual.pen.org/best-practices-for-allies-and-witnesses/)*
 
 *	Demand more from people with responsibility.
 
-*Read more: Amnesty International, [Toxic Twitter: A toxic place for women] (https://www.amnesty.org/en/latest/research/2018/03/online-violence-against-women-chapter-1/#topanchor)*
+*Read more: Amnesty International, [Toxic Twitter: A toxic place for women](https://www.amnesty.org/en/latest/research/2018/03/online-violence-against-women-chapter-1/#topanchor)*

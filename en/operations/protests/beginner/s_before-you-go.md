@@ -44,7 +44,7 @@ _Remember: telecommunications networks and mobile apps may be overloaded or shut
 	*	Select discreet equipment if filming could be dangerous.
     *	If you have press ID, keep it hidden but accessible. Display it if being mistaken for a protester could be dangerous.
 
-(Learn more about this in [social media] (umbrella://lesson/social-media/0).)
+(Learn more about this in [social media](umbrella://lesson/social-media/0).)
 
 *	**Risk assessments**
 

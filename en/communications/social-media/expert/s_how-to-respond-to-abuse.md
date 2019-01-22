@@ -47,7 +47,7 @@ We recommend doing this if you feel comfortable putting trust in the authorities
 
 This will depend on your threat model.
 
-(Learn more about this in [Security Planning](umbrella://lesson/security-planning) and [Managing Information.] (umbrella://lesson/managing-information))
+(Learn more about this in [Security Planning](umbrella://lesson/security-planning) and [Managing Information.](umbrella://lesson/managing-information))
 
 If you go ahead, bring a trusted friend or family member for emotional support.
 
@@ -61,7 +61,7 @@ If the person may harass you in the workplace, it's important to notify your emp
 
 If a blackmailer or anyone else distributes your private images without your consent, there are steps you can take.
 
-*	Request that websites take down the information. Removal policies for popular sites are available [here] (https://oag.ca.gov/cyberexploitation)
+*	Request that websites take down the information. Removal policies for popular sites are available [here](https://oag.ca.gov/cyberexploitation)
 
 *	Contact search engines to remove links to the information;
 
@@ -85,4 +85,4 @@ Experiencing and responding to abuse can be isolating and stressful. A supportiv
 
 # Help others 
 
-*Read: PEN America, [Best Practices for Allies and Witnesses] (https://onlineharassmentfieldmanual.pen.org/best-practices-for-allies-and-witnesses/)* and *[Best Practices for Employers of Writers and Journalists](https://onlineharassmentfieldmanual.pen.org/best-practices-for-employers-of-writers-and-journalists/)*
+*Read: PEN America, [Best Practices for Allies and Witnesses](https://onlineharassmentfieldmanual.pen.org/best-practices-for-allies-and-witnesses/)* and *[Best Practices for Employers of Writers and Journalists](https://onlineharassmentfieldmanual.pen.org/best-practices-for-employers-of-writers-and-journalists/)*

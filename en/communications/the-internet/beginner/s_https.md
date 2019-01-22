@@ -17,6 +17,6 @@ HTTPS stops censors from reading web traffic and detecting keywords, making indi
 
 * 	Download the [HTTPS Everywhere](https://www.eff.org/https-everywhere) browser add-on for Firefox or Chrome to automatically use HTTPS wherever it is supported.
 
-(Learn how HTTPS protects your webmail in [Email Beginner] (umbrella://lesson/email/0))
+(Learn how HTTPS protects your webmail in [Email Beginner](umbrella://lesson/email/0))
 
 ![image](internetb2.png)

@@ -7,7 +7,7 @@ title: Psiphon
 Censorship Circumvention 
 
 **Lesson to read: [The Internet](umbrella://lesson/the-internet)**  
-**Download Location:** [Google Play] (https://play.google.com/store/apps/details?id=com.psiphon3.subscription), [Apple App store] (https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8) or [Psiphon](https://psiphon.ca/en/download.html). 
+**Download Location:** [Google Play](https://play.google.com/store/apps/details?id=com.psiphon3.subscription), [Apple App store](https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8) or [Psiphon](https://psiphon.ca/en/download.html). 
 **Computer requirements:** An internet connection, and a device running Windows, Android 2.3 or later, or iOS 10.2 or later (iOS 8 for Psiphon browser)    
 **License:** Free open-source software; GNU GPL Version 3  
 **Level:** Beginner  
@@ -34,7 +34,7 @@ Censorship Circumvention
 
 ### 2. Psiphon for Android
 
-Download Psiphon Pro from the [Google Play] (https://play.google.com/store/apps/details?id=com.psiphon3.subscription) store. 
+Download Psiphon Pro from the [Google Play](https://play.google.com/store/apps/details?id=com.psiphon3.subscription) store. 
 
 If you don't have access to the Google Play store, select Psiphon Pro for Android on the official Psiphon [download page](https://psiphon.ca/en/download.html?10Years). (Verify the downloaded file is authentic [here](https://psiphon.ca/en/faq.html#authentic-android).)You may need to [enable sideloading](https://psiphon.ca/en/faq.html#android-enable-sideloading).)
 
@@ -60,7 +60,7 @@ When you close the program, Psiphon automatically disconnects. You can also clic
 
 ### 4. Psiphon for iOS
 
-Download Psiphon from the [Apple App store] (https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8). 
+Download Psiphon from the [Apple App store](https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8). 
 
 Open the app, and click on the grey *Disconnected* button. 
 
@@ -72,4 +72,4 @@ The button will turn red when it is connecting, and green when it is connected.
 
 A "VPN" icon in the top left corner of your device indicates Psiphon is running, meaning other apps will access the Internet through Psiphon.
 
-To use the dedicated Psiphon browser for iOS requires a separate [download] (https://itunes.apple.com/us/app/psiphon-browser/id1193362444?mt=8), but it works on iOS 8 or later, while the main Psiphon app requires iOS 10.2 or later. If you use the browser, only online activity conducted in the browser will use Psiphon. Other apps will connect using your regular Internet connection.
+To use the dedicated Psiphon browser for iOS requires a separate [download](https://itunes.apple.com/us/app/psiphon-browser/id1193362444?mt=8), but it works on iOS 8 or later, while the main Psiphon app requires iOS 10.2 or later. If you use the browser, only online activity conducted in the browser will use Psiphon. Other apps will connect using your regular Internet connection.

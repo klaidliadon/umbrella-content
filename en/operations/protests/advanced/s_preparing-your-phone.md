@@ -16,7 +16,7 @@ _This is a barrier to most, but not to expert analysts._
 
 *   Activate encryption if needed.  
 
-(Learn [basic security for Android](umbrella://lesson/android) and [encrypt your iPhone] (umbrella://lesson/encrypt-your-iphone).)
+(Learn [basic security for Android](umbrella://lesson/android) and [encrypt your iPhone](umbrella://lesson/encrypt-your-iphone).)
 
 ## Emergency communication
 
@@ -44,7 +44,7 @@ _Remember: telecommunications networks and mobile apps may be overloaded or shut
 
 If police seize your device, content may be deleted, whether intentionally or not.
 
-(Learn about [protecting files] (umbrella://lesson/protecting-files) and [backing up](umbrella://lesson/backing-up).) 
+(Learn about [protecting files](umbrella://lesson/protecting-files) and [backing up](umbrella://lesson/backing-up).) 
 
 *	**Log out of unnecessary apps and accounts.**
 

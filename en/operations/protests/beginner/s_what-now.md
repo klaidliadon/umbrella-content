@@ -9,4 +9,4 @@ Learn about participating in protests in [Protests Advanced](umbrella://lesson/p
 ### RELATED LESSONS
 
 *   [Security Planning](umbrella://lesson/security-planning)
-*   [Protective Equipment] (umbrella://lesson/protective-equipment)
+*   [Protective Equipment](umbrella://lesson/protective-equipment)

@@ -10,7 +10,7 @@ title: Links
 
 * Ignore links that ask you to log in to an online service. Open your web browser and type in the web address, or URL, for the online service directly. Attackers may send links to fake login pages that will steal your password or account information.  
 
-* View shortened URLs in full by copying them into [Unshorten.It!] (https://unshorten.it/). 
+* View shortened URLs in full by copying them into [Unshorten.It!](https://unshorten.it/). 
 Some attacks try to hide bad links using a service that shortens URLs for social media, like bit.ly. 
 
-* Copy links into [VirusTotal] (https://www.virustotal.com/), a service which will check for known malware. (It will not catch every attack.)
+* Copy links into [VirusTotal](https://www.virustotal.com/), a service which will check for known malware. (It will not catch every attack.)

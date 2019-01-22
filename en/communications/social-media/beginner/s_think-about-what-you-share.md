@@ -6,7 +6,7 @@ title: Think about what you share
 
 Are you comfortable with the amount of information about you that is already public? 
 
-Find out by [investigating yourself.] (https://myshadow.org/self-doxing-exploring-you-visible-data-traces)
+Find out by [investigating yourself.](https://myshadow.org/self-doxing-exploring-you-visible-data-traces)
 
 # Before you publish more information, always ask:  
 

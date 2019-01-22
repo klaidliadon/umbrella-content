@@ -20,4 +20,4 @@ Browser extensions and add-ons can block trackers, like cookies, that transmit d
 
 [uBlock Origin](https://github.com/gorhill/uBlock) and [Privacy Badger](https://www.eff.org/privacybadger) by EFF are examples of traffic blocking browser extensions.  
 
-[Prevent online tracking] (https://myshadow.org/prevent-online-tracking) from Me and My Shadow lists useful extensions.
+[Prevent online tracking](https://myshadow.org/prevent-online-tracking) from Me and My Shadow lists useful extensions.

@@ -38,7 +38,7 @@ Bugs, listening devices, video cameras, or number plate readers.
 
 Monitoring of digital communications and devices.
 
-(Learn about [malware](umbrella://lesson/malware/0), [phishing] (umbrella://lesson/phishing), and [mobile phones](umbrella://lesson/mobile-phones).)
+(Learn about [malware](umbrella://lesson/malware/0), [phishing](umbrella://lesson/phishing), and [mobile phones](umbrella://lesson/mobile-phones).)
 
 ### Human surveillance
 

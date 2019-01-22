@@ -18,4 +18,4 @@ title: What to do
 
 # Use the 5 counter-surveillance rules 
 
-(Learn more about this in [counter-surveillance advanced] (umbrella://lesson/counter-surveillance/1).)
+(Learn more about this in [counter-surveillance advanced](umbrella://lesson/counter-surveillance/1).)

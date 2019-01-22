@@ -36,4 +36,4 @@ Human rights activist Vani keeps her real name quiet: "I voice my opinions on a 
 
 Feminist writer Sady Doyle won't be stopped: "The best way to 'stay safe' online may simply be to stay online. After all: If there’s no one left willing to complain about the harassment, what are the odds that it’s going to change?"
 
-(Learn about [phishing] (umbrella://lesson/phishing) and [malware] (umbrella://lesson/malware/0).)
+(Learn about [phishing](umbrella://lesson/phishing) and [malware](umbrella://lesson/malware/0).)

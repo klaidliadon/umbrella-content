@@ -8,7 +8,7 @@ These attackers research the target and design messages specifically to trick on
 
 Whether this is a problem for you will depend on your threat model.
 
-(Learn more about this in [Security Planning](umbrella://lesson/security-planning) and [Managing Information.] (umbrella://lesson/managing-information))
+(Learn more about this in [Security Planning](umbrella://lesson/security-planning) and [Managing Information.](umbrella://lesson/managing-information))
 
 If you might be at risk of attack, or you communicate with others who might be at risk: 
 

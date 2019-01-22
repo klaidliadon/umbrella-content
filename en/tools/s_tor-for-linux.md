@@ -11,7 +11,7 @@ Anonymity Online
 **Level**: Beginner-Advanced  
 **Time required**: 15 minutes—1 hour   
 **Published:** April 2018    
-**Sources:** Surveillance Self-Defense (EFF), [How to: Use Tor for Linux] (https://ssd.eff.org/en/module/how-use-tor-linux); Security in a Box [TOR BROWSER FOR LINUX - ONLINE ANONYMITY AND CIRCUMVENTION](https://securityinabox.org/en/guide/torbrowser/linux/). 
+**Sources:** Surveillance Self-Defense (EFF), [How to: Use Tor for Linux](https://ssd.eff.org/en/module/how-use-tor-linux); Security in a Box [TOR BROWSER FOR LINUX - ONLINE ANONYMITY AND CIRCUMVENTION](https://securityinabox.org/en/guide/torbrowser/linux/). 
 
 **Using Tor will give you:**    
 
@@ -152,7 +152,7 @@ The Tor Browser will clear your browsing history and cookies then restart. Once 
 Trouble Using Tor Browser 
 -----------------
 
-If you can't connect, try [trouble shooting] (https://www.torproject.org/docs/faq.html.en#DoesntWork). 
+If you can't connect, try [trouble shooting](https://www.torproject.org/docs/faq.html.en#DoesntWork). 
 
 If you still can't connect and suspect your access to Tor may be restricted, read *If the Tor Network is Blocked*, below. 
 
@@ -160,9 +160,9 @@ If you are planning to travel to an area where you suspect access to Tor may be 
 
 #If the Download Page is Blocked 
 
-* There is a mirror of the Tor Browser Bundle on [Github] (https://github.com/TheTorProject/gettorbrowser). 
+* There is a mirror of the Tor Browser Bundle on [Github](https://github.com/TheTorProject/gettorbrowser). 
 * You can also email gettor@torproject.org with the version you need (windows, osx or linux) in the body of the message.
-* Send a direct message saying "help" to [@get_tor] (https://twitter.com/get_tor) on Twitter for instructions to request Tor via DM. 
+* Send a direct message saying "help" to [@get_tor](https://twitter.com/get_tor) on Twitter for instructions to request Tor via DM. 
 
 Before you download a Tor Browser package for Linux, you must determine whether you are running a **32-bit** or **64-bit** system. Before you extract it, you should verify that it is authentic.
 
@@ -179,7 +179,7 @@ If you are running a **32-bit** system, *Terminal* will display `i686` or `i386`
 Verifying Tor Browser
 ------------------
 
-GnuPG comes pre-installed on many Linux systems, so you can probably check the Tor Browser's *Open PGP signature* without installing additional software. (Learn more about PGP in the [Email] (umbrella://lesson/email/2) lesson and [PGP for LINUX tool guide]  (umbrella://lesson/pgp-for-linux).)
+GnuPG comes pre-installed on many Linux systems, so you can probably check the Tor Browser's *Open PGP signature* without installing additional software. (Learn more about PGP in the [Email](umbrella://lesson/email/2) lesson and [PGP for LINUX tool guide]  (umbrella://lesson/pgp-for-linux).)
 
 **Step 1**. Import the *Tor Project's* signing key (**0x4E2C6E8793298290**) by launching *Terminal* and executing the following command: 
 

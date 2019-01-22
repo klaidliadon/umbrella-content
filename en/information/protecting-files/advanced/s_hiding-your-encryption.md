@@ -12,4 +12,4 @@ title: Hiding your encryption
 
 *   Use a portable version of VeraCrypt, instead of installing it on your computer. (Even in portable mode, VeraCrypt may leave traces indicating it has been used on your device.) 
 
-Learn more in the [VeraCrypt] (umbrella://lesson/veracrypt) tool guide.
+Learn more in the [VeraCrypt](umbrella://lesson/veracrypt) tool guide.

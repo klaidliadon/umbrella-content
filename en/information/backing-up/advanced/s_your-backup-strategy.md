@@ -28,7 +28,7 @@ You will need a combination of software and processes.
 * You may also choose to move old email messages to your computer so they are not stored on a remote server for security reasons. 
 * Back them up in the same way as electronic documents.
 
-(Learn more about Thunderbird in the PGP guides for [Linux] (umbrella://lesson/pgp-for-linux), [Mac OS] (umbrella://lesson/pgp-for-mac-os-x), and [Windows] (umbrella://lesson/pgp-for-windows).) 
+(Learn more about Thunderbird in the PGP guides for [Linux](umbrella://lesson/pgp-for-linux), [Mac OS](umbrella://lesson/pgp-for-mac-os-x), and [Windows](umbrella://lesson/pgp-for-windows).) 
 
 ## Mobile phone. 
 

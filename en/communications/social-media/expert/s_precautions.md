@@ -12,7 +12,7 @@ Phones are easily lost and stolen, which makes their data vulnerable.
 
 Transfer sensitive photos to a more secure location, such as a USB stick, as soon as you can. While they are on your phone, encrypt them and keep them in a password-protected file.
 
-(Learn about [Protecting Files] (umbrella://lesson/protecting-files).)  
+(Learn about [Protecting Files](umbrella://lesson/protecting-files).)  
 
 ## Turn off automatic cloud saving  
 
@@ -26,7 +26,7 @@ Android:
 * Double check your settings are not backing up to the Google+ cloud service in the Photos app > General Settings > Auto-Backup to Off. 
 * Check your cloud frequently to know exactly what is stored there.
     
-(Learn [basic security for Android](umbrella://lesson/android) and how to [encrypt your iPhone] (umbrella://lesson/encrypt-your-iphone).)
+(Learn [basic security for Android](umbrella://lesson/android) and how to [encrypt your iPhone](umbrella://lesson/encrypt-your-iphone).)
 
 ## Erase data before recycling  
 

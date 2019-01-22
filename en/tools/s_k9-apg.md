@@ -5,10 +5,10 @@ title: K9 & Open Keychain
 # K-9 & OPEN KEYCHAIN TOOL GUIDE
 
 
-**Lesson to read: [Email Advanced] (umbrella://lesson/email/1).**  
+**Lesson to read: [Email Advanced](umbrella://lesson/email/1).**  
 **Level**: Advanced    
 **Published:** May 2018    
-**Sources:** Security in a Box, [K9 WITH APG FOR ANDROID] (https://securityinabox.org/en/guide/k9/android/), Open Keychain [FAQ] (https://www.openkeychain.org/faq/). 
+**Sources:** Security in a Box, [K9 WITH APG FOR ANDROID](https://securityinabox.org/en/guide/k9/android/), Open Keychain [FAQ](https://www.openkeychain.org/faq/). 
 
 **K-9 Mail** is a free and open source email client for Android devices. 
 
@@ -28,15 +28,15 @@ title: K9 & Open Keychain
 
 **Note:**    
 - Secure messaging services like Signal are a better choice for sensitive communication than email.   
-- Transferring a private encryption key onto your phone may make email on the device more secure, but also makes the key more vulnerable to loss or interception. (Open Keychain describe the risk on their [website] (https://www.openkeychain.org/faq/#are-my-secret-keys-safe-on-my-mobile-device).) 
+- Transferring a private encryption key onto your phone may make email on the device more secure, but also makes the key more vulnerable to loss or interception. (Open Keychain describe the risk on their [website](https://www.openkeychain.org/faq/#are-my-secret-keys-safe-on-my-mobile-device).) 
 - The *recipients* and the *subject* cannot be hidden from anyone monitoring your email, even if the email is encrypted.
 
 Before you start using **K-9 Mail** you will need:  
 - An internet connection on your phone.  
-- An email account that supports either secure POP3 or IMAP connections. (See which settings you would use with the most common email providers [here] (https://k9mail.github.io/documentation/accounts/providerSettings.html).   
+- An email account that supports either secure POP3 or IMAP connections. (See which settings you would use with the most common email providers [here](https://k9mail.github.io/documentation/accounts/providerSettings.html).   
 - An OpenPGP key-pair and public keys of the people you will communicate with. 
 
-(Learn more about public/private key encryption in the [email] (umbrella://lesson/email) lesson. Learn how to generate your own key in the toolguides for [Mailvelope] (umbrella://lesson/mailvelope), or PGP for [LINUX] (umbrella://lesson/pgp-for-linux), [Mac OSX] (umbrella://lesson/pgp-for-mac-os-x), or [Windows] (umbrella://lesson/pgp-for-windows).)
+(Learn more about public/private key encryption in the [email](umbrella://lesson/email) lesson. Learn how to generate your own key in the toolguides for [Mailvelope](umbrella://lesson/mailvelope), or PGP for [LINUX](umbrella://lesson/pgp-for-linux), [Mac OSX](umbrella://lesson/pgp-for-mac-os-x), or [Windows](umbrella://lesson/pgp-for-windows).)
 
 # 2. Install and configure K9 Mail
 
@@ -63,8 +63,8 @@ K-9 Mail will connect to the internet and attempt to get your account settings.
 **Note**: Users with two factor authentication enabled on their email account may need to take an extra step to use K-9 Mail. 
  
 For example:      
-* Gmail users must allow less secure apps to access their accounts under settings, and generate a one-time password. Read more [here] (https://support.google.com/accounts/answer/6010255?hl=en).   
-* Yahoo users can allow apps that use less secure signin under Account Settings. Read more [here] (https://help.yahoo.com/kb/SLN27791.html?guccounter=1). 
+* Gmail users must allow less secure apps to access their accounts under settings, and generate a one-time password. Read more [here](https://support.google.com/accounts/answer/6010255?hl=en).   
+* Yahoo users can allow apps that use less secure signin under Account Settings. Read more [here](https://help.yahoo.com/kb/SLN27791.html?guccounter=1). 
  
 (The providers classify K-9 Mail as "less secure" because it doesn't use the same authentication protocol. But trusted open source tools like K-9 Mail are still considered secure for encrypted email.)
 
@@ -106,7 +106,7 @@ Tap Open Keychain to open the app. Under Settings, tap *Manage my keys*.
 If you choose to transfer your private key file, take precautions:    
 
 - Connect your trusted Android device to your trusted computer using a USB cable to transfer it directly, or enable Bluetooth on your trusted computer and your trusted Android device (check the pairing codes match) and use the "send file to device" function; or, 
-- See [Open Keychain's] (https://www.openkeychain.org/faq/#what-is-the-best-way-to-transfer-my-own-key-to-openkeychain) advice for password-protecting your key using the command line before transferring it over the internet.
+- See [Open Keychain's](https://www.openkeychain.org/faq/#what-is-the-best-way-to-transfer-my-own-key-to-openkeychain) advice for password-protecting your key using the command line before transferring it over the internet.
 
 In Open Keychain's *Manage my keys* window, tap *Import key from file* and then the file icon. Navigate to the folder where you moved the file, select it, and tap *OPEN*. You can also use the *Import key from file* to transfer public keys that other people have shared with you. Successfully imported keys will now appear in your list of keys. Once you see them in Open Keychain, delete the files from your device. Don't leave them sitting in a folder.     
 

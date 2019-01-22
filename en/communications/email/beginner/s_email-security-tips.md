@@ -4,11 +4,11 @@ title: Email security tips
 ---
 # Use less email. 
 
-Be aware of what you write and what would happen if it fell into the wrong hands. If in doubt, don't email it. [Sending a message] (umbrella://lesson/sending-a-message) is more secure. 
+Be aware of what you write and what would happen if it fell into the wrong hands. If in doubt, don't email it. [Sending a message](umbrella://lesson/sending-a-message) is more secure. 
 
 ## Protect your accounts
 
-Use [strong passwords] (umbrella://lesson/passwords/0) and [2FA.] (umbrella://lesson/passwords/1)
+Use [strong passwords](umbrella://lesson/passwords/0) and [2FA.](umbrella://lesson/passwords/1)
 
 ## Use up-to-date anti-virus software. 
 
@@ -16,7 +16,7 @@ Email security will not protect you if spyware on your device can record what yo
 
 ## Don't click on unexpected links or attachments. 
 
-Learn to spot [phishing] (umbrella://lesson/phishing).
+Learn to spot [phishing](umbrella://lesson/phishing).
 
 ## Use a pseudeonym. 
 
@@ -28,7 +28,7 @@ Use different acccounts to communicate with different people. This protects your
 
 ## Use single-use email. 
 
-One-time email address providers like [Mailinator] (https://www.mailinator.com/) and [Guerillamail] (https://www.guerrillamail.com/) do not require registration. Invent your own email address using the provider’s extension and use it for short term needs like WiFi registration. (Inboxes are public so don't exchange sensitive information.)
+One-time email address providers like [Mailinator](https://www.mailinator.com/) and [Guerillamail](https://www.guerrillamail.com/) do not require registration. Invent your own email address using the provider’s extension and use it for short term needs like WiFi registration. (Inboxes are public so don't exchange sensitive information.)
 
 ## Use a code system.
 

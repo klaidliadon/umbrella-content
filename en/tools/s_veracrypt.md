@@ -26,7 +26,7 @@ Secure File Storage
 **System Requirements:**
     
 GNU/Linux (32-bit and 64-bit versions, kernel 2.6 or compatible)
-Apple Mac OS X 10.7 or later, running the latest version of [FUSE for Mac OS] (https://osxfuse.github.io/).
+Apple Mac OS X 10.7 or later, running the latest version of [FUSE for Mac OS](https://osxfuse.github.io/).
 Microsoft Windows Server 2003, 2008, 2012; XP, Vista, 7, 8, 10
 
 Note: Administrator account required for installation and to create volumes
@@ -77,7 +77,7 @@ To install VeraCrypt on your computer, follow the steps below:
 
 _Figure 1: The VeraCrypt installer_
 
-Note: Mac OS users will be prompted to download [FUSE for Mac OS] (https://osxfuse.github.io/), a software package needed to run VeraCrypt.  
+Note: Mac OS users will be prompted to download [FUSE for Mac OS](https://osxfuse.github.io/), a software package needed to run VeraCrypt.  
 
 **VeraCrypt** will ask you if you want to allow the installer to make changes to your PC, as shown below.
 

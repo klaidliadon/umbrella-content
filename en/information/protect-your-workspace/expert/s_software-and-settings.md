@@ -6,7 +6,7 @@ title: Software and settings
 
 - Password protect your devices and encrypt the storage. 
 
-(Learn about [protecting files](umbrella://lesson/protecting-files), [basic security for Android](umbrella://lesson/android) and [encrypt your iPhone] (umbrella://lesson/encrypt-your-iphone).)
+(Learn about [protecting files](umbrella://lesson/protecting-files), [basic security for Android](umbrella://lesson/android) and [encrypt your iPhone](umbrella://lesson/encrypt-your-iphone).)
 
 - If you run any servers in your office, work with whoever maintains them to ensure that the information they contain will be encrypted if they are turned off or unplugged.
 

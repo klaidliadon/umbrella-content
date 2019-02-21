@@ -12,7 +12,7 @@ title: Information sent
 
 Secure communications apps protect your calls and messages use end-to-end encryption.
 
-(Learn about [making a call](umbrella://lesson/making-a-call) and [sending a message](umbrella://lesson/sending-a-message) securely.) 
+(Learn about [making a call](umbrella://communications/making-a-call) and [sending a message](umbrella://communications/sending-a-message) securely.) 
 
 ## Use code words
 

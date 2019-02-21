@@ -14,7 +14,7 @@ title: Prevention
 
 *   Understand local context and obey local laws and customs where possible.
 
-(Learn about [Public Communications](umbrella://lesson/public-communications).) 
+(Learn about [Public Communications](umbrella://operations/public-communications).) 
 
 ## Understand context
 
@@ -30,4 +30,4 @@ If you work with local communities:
 
 *	Be aware if groups you don't work with feel discriminated against. 
 
-(Learn about [Context](umbrella://lesson/security-planning/beginner/context).)
+(Learn about [Context](umbrella://assess-your-risk/security-planning/beginner/s_context.md).)

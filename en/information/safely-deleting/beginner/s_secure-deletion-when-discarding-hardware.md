@@ -20,4 +20,4 @@ Secure deletion is difficult, if not impossible, in these formats.
 
 Use encryption so that even if the file is still on the disk, it will at least look like gibberish to anyone without the key to decrypt it. 
 
-(Learn more about [protecting files](umbrella://lesson/protecting-files).)
+(Learn more about [protecting files](umbrella://information/protecting-files).)

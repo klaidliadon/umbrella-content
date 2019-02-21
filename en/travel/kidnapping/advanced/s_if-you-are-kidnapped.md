@@ -12,7 +12,7 @@ You therefore have some control over the outcome of a kidnapping.
 
 ## A kidnapping or hostage situation has five stages. 
 
-(Learn more about this in [kidnapping beginner](umbrella://lesson/kidnapping/0).)
+(Learn more about this in [kidnapping beginner](umbrella://travel/kidnapping/beginner).)
 
 ### 1.  Surveillance 
 
@@ -26,4 +26,4 @@ You therefore have some control over the outcome of a kidnapping.
 
 This lesson outlines survival strategies for capture, transport, confinement and release.
 
-[Kidnapping expert](umbrella://lesson/kidnapping/2) offers resources when a colleague is kidnapped.
+[Kidnapping expert](umbrella://travel/kidnapping/expert) offers resources when a colleague is kidnapped.

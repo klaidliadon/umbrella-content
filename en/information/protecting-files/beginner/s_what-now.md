@@ -4,19 +4,23 @@ title: What Now?
 ---
 Swipe right for this lesson's checklist
 
-Learn how to encrypt files in [Protecting Files Advanced](umbrella://lesson/protecting-files/1).)
+Learn how to encrypt files in [Protecting Files Advanced](umbrella://information/protecting-files/beginner).)
 
 ### RELATED LESSONS/TOOLS
 
-*   [Backing Up](umbrella://lesson/backing-up)
-*   [Passwords](umbrella://lesson/passwords)
-*   [Mobile Phones](umbrella://lesson/mobile-phones/0)
-*   [Malware](umbrella://lesson/malware)
-*   [Internet Advanced](umbrella://lesson/the-internet/1)
-*   Tor for [Windows](umbrella://lesson/tor-for-windows), [Mac](umbrella://lesson/tor-for-mac-os-x), and [Linux](umbrella://lesson/tor-for-linux)
-*   [Encrypt your iPhone](umbrella://lesson/encrypt-your-iphone)
-*   [Basic Security Setup for Android](umbrella://lesson/android)
+*   [Backing Up](umbrella://information/backing-up)
+*   [Passwords](umbrella://information/passwords)
+*   [Mobile Phones](umbrella://communications/mobile-phones/beginner)
+*   [Malware](umbrella://information/malware)
+*   [Internet Advanced](umbrella://communications/the-internet/advanced)
+*   Tor for [Windows](umbrella://tools/tor/s_tor-for-windows.md), [Mac](umbrella://tools/tor/s_tor-for-mac-os-x.md), and [Linux](umbrella://tools/tor/s_tor-for-linux.md)
+*   [Encrypt your iPhone](umbrella://tools/encryption/s_encrypt-your-iphone.md)
+*   [Basic Security Setup for Android](umbrella://tools/other/s_android.md)
 
 ### SOURCES
 
-*   EFF, Security Self-Defense, [Keeping your Data Safe](https://ssd.eff.org/en/module/keeping-your-data-safe), last reviewed November 2, 2018.
+*   EFF, Surveillance Self-Defense, [Keeping your Data Safe](https://ssd.eff.org/en/module/keeping-your-data-safe), last reviewed November 2, 2018.
+
+### FURTHER READING
+
+*   EFF, Surveillance Self-Defense, [What Should I Know about Encryption?](https://ssd.eff.org/en/module/what-should-i-know-about-encryption), last reviewed November 24, 2018.

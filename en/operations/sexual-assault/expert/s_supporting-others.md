@@ -26,4 +26,4 @@ own healing process they may or may not be well placed to provide support; they 
 * 	If the victim is relocated after the incident, consult them about what reason to give others.  
 *	Designate a team member to liaise closely with the family if there is media coverage of the incident.
 
-(Learn more about this in [kidnapping expert](umbrella://lesson/kidnapping/2).)
+(Learn more about this in [kidnapping expert](umbrella://travel/kidnapping/expert).)

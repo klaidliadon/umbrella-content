@@ -4,17 +4,17 @@ title: What now?
 ---
 Swipe right for this lesson's checklist.
 
-Learn survival techniques if you are kidnapped in [Kidnapping Advanced](umbrella://lesson/kidnapping/1).
+Learn survival techniques if you are kidnapped in [Kidnapping Advanced](umbrella://travel/kidnapping/advanced).
 
-Learn what to do if a staff member is kidnapped in [Kidnapping Expert](umbrella://lesson/kidnapping/2).
+Learn what to do if a staff member is kidnapped in [Kidnapping Expert](umbrella://travel/kidnapping/expert).
 
 ### RELATED LESSONS/TOOLS
 
-*   [Evacuation](umbrella://lesson/evacuation)
-*   [Vehicle](umbrella://lesson/vehicles)
-*   [Counter-surveillance](umbrella://lesson/counter-surveillance/0)
-*   [Sexual Assault](umbrella://lesson/sexual-assault)
-*   [Security Planning](umbrella://lesson/security-planning)
+*   [Evacuation](umbrella://operations/evacuation)
+*   [Vehicle](umbrella://travel/vehicles)
+*   [Counter-surveillance](umbrella://operations/counter/surveillance/beginner)
+*   [Sexual Assault](umbrella://operations/sexual-assault)
+*   [Security Planning](umbrella://assess-your-risk/security-planning)
 
 ### SOURCES
 

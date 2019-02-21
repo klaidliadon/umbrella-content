@@ -27,10 +27,10 @@ What will you do if:
 
 *   How much information you are going to share?
 
-(Learn about [managing information](umbrella://lesson/managing-information).)
+(Learn about [managing information](umbrella://information/managing-information).)
 
 *   What information will they share with you, and how? Where will you put it?
 
-(Learn more about this in [borders](umbrella://lesson/borders).)
+(Learn more about this in [borders](umbrella://travel/borders).)
 
 *   Will they be afraid? Angry? Anxious?

@@ -4,12 +4,12 @@ title: What Now?
 ---
 Swipe right for this lesson's checklist.
 
-Learn about attending a crime scene in [Dangerous Assignments Advanced](umbrella://lesson/dangerous-assignments/1).
+Learn about attending a crime scene in [Dangerous Assignments Advanced](umbrella://operations/dangerous-assignments/advanced).
 
 ### RELATED LESSONS/TOOLS
 
-*   [Security Planning](umbrella://lesson/security-planning)
-*   [Preparation](umbrella://lesson/preparation)
-*   [Mobile Phones](umbrella://lesson/mobile-phones)
-*   [Vehicles](umbrella://lesson/vehicles)
-*   [Radio and Satellite Phones](umbrella://lesson/radio-and-satellite-phones)
+*   [Security Planning](umbrella://assess-your-risk/security-planning)
+*   [Preparation](umbrella://travel/preparation)
+*   [Mobile Phones](umbrella://communications/mobile-phones)
+*   [Vehicles](umbrella://travel/vehicles)
+*   [Radio and Satellite Phones](umbrella://communications/radios-and-satellite-phones)

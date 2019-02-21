@@ -4,6 +4,6 @@ title: What now?
 ---
 Swipe right for this lesson's checklist.
 
-Learn about chronic stress in [stress beginner](umbrella://lesson/stress/0).
+Learn about chronic stress in [stress beginner](umbrella://personal/stress/beginner).
 
-Learn about post-traumatic stress in [stress expert](umbrella://lesson/stress/2).
+Learn about post-traumatic stress in [stress expert](umbrella://personal/stress/expert).

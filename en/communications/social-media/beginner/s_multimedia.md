@@ -30,7 +30,7 @@ Informed means they understand the purpose, potential audience, and potential ri
 
 *	Could your broadcast cause unintended harm? 
 
-(Learn about [documenting](umbrella://lesson/protests/0) and [attending](umbrella://lesson/protests/1) protests.)
+(Learn about [documenting](umbrella://operations/protests/beginner) and [attending](umbrella://operations/protests/advanced) protests.)
 
 ## Content shared by someone else 
 
@@ -42,7 +42,7 @@ Images and recordings may be fake or deliberately misleading.
 
 *	Copy original content and note where it came from in case it is removed. 
 
-(Learn about [protecting files](umbrella://lesson/protecting-files).)  
+(Learn about [protecting files](umbrella://information/protecting-files).)  
 
 ## Metadata
 
@@ -64,7 +64,7 @@ ObscuraCam can:
 *	Delete the original photos;
 *	Upload media to your server if you set one up.
 
-(Learn how to use [ObscuraCam](umbrella://tools/obscuracam).)  
+(Learn how to use [ObscuraCam](umbrella://tools/messagging/s_obscuracam.md).)  
 
 ## Use CameraV
 

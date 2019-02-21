@@ -4,14 +4,14 @@ title: What now?
 ---
 Swipe right for this lesson's checklist.
 
-Learn what to do if one of your team is arrested in [arrests advanced](umbrella://lesson/arrests/1).
+Learn what to do if one of your team is arrested in [arrests advanced](umbrella://operations/arrests/advanced).
 
 ### RELATED LESSONS/TOOLS
 
-*   [Security Planning](umbrella://lesson/security-planning)
-*   [Preparation](umbrella://lesson/preparation)
-*	[Protests](umbrella://lesson/protests/1)
-* [Sexual Assault](umbrella://lesson/sexual-assault)
+*   [Security Planning](umbrella://assess-your-risk/security-planning)
+*   [Preparation](umbrella://travel/preparation)
+*	[Protests](umbrella://operations/protests/advanced)
+* [Sexual Assault](umbrella://operations/sexual-assault)
 
 ### SOURCES
 

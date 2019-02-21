@@ -23,7 +23,7 @@ Consider:
 *   Portable door jammer or door wedge;
 *	Protective equipment.
 
-(Learn about [protective equipment](umbrella://lesson/protective-equipment).)
+(Learn about [protective equipment](umbrella://personal/protective-equipment).)
 
 ## Information and communications
 
@@ -40,7 +40,7 @@ Consider:
 *   Phrase book or foreign language app;
 *   Tamper-proof scotch tape helps enhance security of equipment, hotel safe, laptop ports, and more.
 
-(Learn more about this in [mobile phones](umbrella://lesson/mobile-phones/0).)
+(Learn more about this in [mobile phones](umbrella://communications/mobile-phones/beginner).)
 
 ## Personal items
 
@@ -61,4 +61,4 @@ Consider:
 *	Contraceptives (condoms can also keep things dry);
 *	Driving gear.
 
-(Learn more about this in [vehicles](umbrella://lesson/vehicles).)
+(Learn more about this in [vehicles](umbrella://travel/vehicles).)

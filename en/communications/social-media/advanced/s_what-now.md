@@ -4,16 +4,16 @@ title: What now?
 ---
 Swipe right for this lesson's checklist.
 
-Learn more about protecting your privacy in [Social Media Beginner](umbrella://lesson/social-media/0).
+Learn more about protecting your privacy in [Social Media Beginner](umbrella://communications/social-media/beginner).
 
-Learn to combat other types of abuse in [Social Media Expert](umbrella://lesson/social-media/2).
+Learn to combat other types of abuse in [Social Media Expert](umbrella://communications/social-media/expert).
 
 ### RELATED LESSONS/TOOLS
 
-*	[Internet](umbrella://lesson/the-internet)
-*	[Phishing](umbrella://lesson/phishing)
-*	[Passwords](umbrella://lesson/passwords)
-* 	[How to change your Facebook privacy settings](umbrella://lesson/facebook)
+*	[Internet](umbrella://communications/the-internet)
+*	[Phishing](umbrella://communications/phishing)
+*	[Passwords](umbrella://information/passwords)
+* 	[How to change your Facebook privacy settings](umbrella://tools/other/s_facebook.md)
 
 ### SOURCES
 

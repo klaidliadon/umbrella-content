@@ -5,7 +5,7 @@ title: Encrypt your iPhone
 Encrypt Your iPhone
 ===========================
 
-**Lesson to read: [Mobile Phones](umbrella://lesson/mobile-phones), [Protests](umbrella://lesson/protests), [Passwords](umbrella://lesson/passwords)**  
+**Lesson to read: [Mobile Phones](umbrella://communications/mobile-phones), [Protests](umbrella://operations/protests), [Passwords](umbrella://information/passwords)**  
 **Level**: Beginner  
 **Time required:** 5 minutes  
 **Published:** April 2018   
@@ -41,9 +41,9 @@ Once you've set a passcode, scroll down to the bottom of the Passcode settings p
 Other iOS features to protect private data: 
 --------------------------------------------------------------------------------------------------------------------
 
-*   iTunes has an option to [backup your device](https://support.apple.com/en-us/HT203977) onto your computer. iTunes doesn't encrypt your backups by default. If you choose the “Encrypt backup” option on the Summary tab of your device in iTunes, iTunes will backup more confidential information (such as Wi-Fi passwords and email passwords), but will encrypt it all before saving it onto your computer. Be sure to keep the password you use here safe: restoring from backups is a rare event, but extra painful if you cannot remember the password to unlock the backup in an emergency. (Learn more about storing [Passwords](umbrella://lesson/passwords/1).)
+*   iTunes has an option to [backup your device](https://support.apple.com/en-us/HT203977) onto your computer. iTunes doesn't encrypt your backups by default. If you choose the “Encrypt backup” option on the Summary tab of your device in iTunes, iTunes will backup more confidential information (such as Wi-Fi passwords and email passwords), but will encrypt it all before saving it onto your computer. Be sure to keep the password you use here safe: restoring from backups is a rare event, but extra painful if you cannot remember the password to unlock the backup in an emergency. (Learn more about storing [Passwords](umbrella://information/passwords/advanced).)
     
-*   If you back up to Apple's iCloud, you should use a long passphrase to protect the data (Learn to create strong [Passwords](umbrella://lesson/passwords/0).) While Apple encrypts most data in its backups, it may be possible for the company to obtain access for law enforcement purposes since Apple also controls the keys used for iCloud encryption.
+*   If you back up to Apple's iCloud, you should use a long passphrase to protect the data (Learn to create strong [Passwords](umbrella://information/passwords/beginner).) While Apple encrypts most data in its backups, it may be possible for the company to obtain access for law enforcement purposes since Apple also controls the keys used for iCloud encryption.
     
 *   If you turn on data protection as described above, you will also be able to delete your data on your device securely and quickly. In the Touch ID & Passcode settings, you can set your device to erase all its data after 10 failed passcode attempts. If you do this be sure your phone is backed up in case someone purposefully enters your passcode incorrectly.
     

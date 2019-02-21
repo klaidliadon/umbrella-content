@@ -10,7 +10,7 @@ title: Plan your route
 
 *	Avoid choke points, such as narrow alleys.
 
-(Learn more about this in [counter-surveillance expert](umbrella://lesson/counter-surveillance/2).)
+(Learn more about this in [counter-surveillance expert](umbrella://operations/counter/surveillance/expert).)
 
 *   Consult experts about route conditions. Change routes as necessary. 
 
@@ -22,7 +22,7 @@ title: Plan your route
 *   Recent incidents. *Check the Feed for information about your area.*
 *   Location of known checkpoints.
 
-(Learn about [checkpoints](umbrella://lesson/checkpoints).)
+(Learn about [checkpoints](umbrella://travel/checkpoints).)
 
 *   Other danger points. 
 	* Does the route pass through an area controlled by military, a warlord or local leader? 

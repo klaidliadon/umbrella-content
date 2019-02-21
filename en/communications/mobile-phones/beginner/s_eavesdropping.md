@@ -22,6 +22,6 @@ Leave phones in another room where the microphones can't overhear the conversati
 
 Using a phone in public or in places that you don't trust makes you vulnerable to traditional eavesdropping techniques or to having your phone stolen.
 
-(Learn more about [meetings](umbrella://lesson/meetings).)
+(Learn more about [meetings](umbrella://operations/meetings).)
 
 ![image](mobile5.png)

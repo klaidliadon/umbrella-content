@@ -8,7 +8,7 @@ title: Location
 
 *	Get to know new areas and meeting places in advance. 
 
-(Learn about [Security Planning](umbrella://lesson/security-planning).)
+(Learn about [Security Planning](umbrella://assess-your-risk/security-planning).)
 
 Plan:
 
@@ -16,11 +16,11 @@ Plan:
 *	Possible escape routes;
 *	Nearby safe spots such as partner offices, supportive local people, or embassies;
 
-(Learn more about this in [Vehicles](umbrella://lesson/vehicles).)
+(Learn more about this in [Vehicles](umbrella://travel/vehicles).)
 
 *   A cover story for borders or checkpoints.
 
-(Learn more about this in [Borders](umbrella://lesson/borders) and [Checkpoints](umbrella://lesson/checkpoints).)
+(Learn more about this in [Borders](umbrella://travel/borders) and [Checkpoints](umbrella://travel/checkpoints).)
 
 # Choose a meeting place
 
@@ -51,4 +51,4 @@ Consider:
 
 *	Agree a discreet signal to alert others if something is wrong.
 
-(Learn about [Sending a Message](umbrella://lesson/sending-a-message).)
+(Learn about [Sending a Message](umbrella://communications/sending-a-message).)

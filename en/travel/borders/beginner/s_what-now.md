@@ -6,11 +6,11 @@ Swipe right for this lesson's checklist.
 
 ### RELATED LESSONS/TOOLS
 
-*   [Security Planning](umbrella://lesson/security-planning)
-*	[Passwords Expert](umbrella://lesson/passwords/2)
-*   [Preparation](umbrella://lesson/preparation)
-*   [Protecting Files](umbrella://lesson/protecting-files)
-*   [Backing Up](umbrella://lesson/backing-up)
+*   [Security Planning](umbrella://assess-your-risk/security-planning)
+*	[Passwords Expert](umbrella://information/passwords/expert)
+*   [Preparation](umbrella://travel/preparation)
+*   [Protecting Files](umbrella://information/protecting-files)
+*   [Backing Up](umbrella://information/backing-up)
 
 ### FURTHER READING
 

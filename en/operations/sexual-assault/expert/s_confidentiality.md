@@ -37,7 +37,7 @@ Remember:
 
 Keep information on a need to know basis. 
 
-(Learn about [managing information](umbrella://lesson/managing-information).)
+(Learn about [managing information](umbrella://information/managing-information).)
 
 Discuss protected information where you cannot be overheard, and maintain standards of transparency for information that is public. 
 

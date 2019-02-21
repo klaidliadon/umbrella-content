@@ -6,7 +6,7 @@ title: Mobile Phones
 
 Phones help you organise protests, as well as document them and communicate in an emergency.
 
-(Learn more about this in [protests beginner](umbrella://lesson/protests/0).)
+(Learn more about this in [protests beginner](umbrella://operations/protests/beginner).)
 
 But taking your phone to a protest could: 
 
@@ -17,7 +17,7 @@ But taking your phone to a protest could:
 
 *	Your phone contains private data (contacts, photos, location data, and browsing history). 
 
-(Learn more about this in [mobile phones](umbrella://lesson/mobile-phones/0).)
+(Learn more about this in [mobile phones](umbrella://communications/mobile-phones/beginner).)
 
 *	Stored passwords or apps in use may allow someone with access to the device to obtain more information from remote servers. 
 

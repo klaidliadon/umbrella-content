@@ -4,7 +4,7 @@ title: Identify the eyeball
 ---
 ### The eyeball is whoever is watching you at the time. 
 
-(Learn more about this in [counter-surveillance advanced](umbrella://lesson/counter-surveillance/1).)
+(Learn more about this in [counter-surveillance advanced](umbrella://operations/counter/surveillance/advanced).)
 
 ## If safe to do so while driving:
 

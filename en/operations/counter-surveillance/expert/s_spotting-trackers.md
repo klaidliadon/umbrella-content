@@ -28,4 +28,4 @@ _Get right under the car and feel around corners._
 
 Devices in the vehicle, like a mobile or satellite phone, can also be tracked. 
 
-(Learn more about this in [mobile phones](umbrella://lesson/mobile-phones/0) and [radio and satellite phones](umbrella://lesson/radio-and-satellite-phones/1).)
+(Learn more about this in [mobile phones](umbrella://communications/mobile-phones/beginner) and [radio and satellite phones](umbrella://communications/radios-and-satellite-phones/advanced).)

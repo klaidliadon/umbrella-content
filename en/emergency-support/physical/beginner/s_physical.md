@@ -110,7 +110,7 @@ New York, Tel: (+1) 212 465-1004
 
 **Email:** report_violations@cpj.org 
 
-**Secure Drop address:** 2x2hb5ykeu4qlxqe.onion (only accessible via the Tor browser. For instructions, click [here](https://cpj.org/emergency-response/how-to-get-help.php. Learn how to use the Tor browser for [Windows](umbrella://lesson/tor-for-windows), [Mac](umbrella://lesson/tor-for-mac-os-x), and [Linux](umbrella://lesson/tor-for-linux).) 
+**Secure Drop address:** 2x2hb5ykeu4qlxqe.onion (only accessible via the Tor browser. For instructions, click [here](https://cpj.org/emergency-response/how-to-get-help.php. Learn how to use the Tor browser for [Windows](umbrella://tools/tor/s_tor-for-windows.md), [Mac](umbrella://tools/tor/s_tor-for-mac-os-x.md), and [Linux](umbrella://tools/tor/s_tor-for-linux.md).) 
 
 ## European Interagency Security Forum
 

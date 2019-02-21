@@ -47,7 +47,7 @@ We recommend doing this if you feel comfortable putting trust in the authorities
 
 This will depend on your threat model.
 
-(Learn more about this in [Security Planning](umbrella://lesson/security-planning) and [Managing Information.](umbrella://lesson/managing-information))
+(Learn more about this in [Security Planning](umbrella://assess-your-risk/security-planning) and [Managing Information.](umbrella://information/managing-information))
 
 If you go ahead, bring a trusted friend or family member for emotional support.
 
@@ -81,7 +81,7 @@ Report incidents to [Take Back the Tech](https://www.takebackthetech.net/mapit/)
 
 Experiencing and responding to abuse can be isolating and stressful. A supportive community, online or off, can help.
 
-(Learn more about [unhealthy stress](umbrella://lesson/stress/0)).
+(Learn more about [unhealthy stress](umbrella://personal/stress/beginner)).
 
 # Help others 
 

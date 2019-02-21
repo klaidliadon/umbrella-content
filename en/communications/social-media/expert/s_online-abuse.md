@@ -38,7 +38,7 @@ Repeat visits or requests for information designed to cause your website or a se
 
 DDoS (distributed denial of service) attacks use a network of computers to carry out the attack, possibly controlled through illegal hacking or malware. 
 
-(Learn about [malware](umbrella://lesson/malware/0).)
+(Learn about [malware](umbrella://information/malware/beginner).)
 
 ## Doxing
  	
@@ -56,13 +56,13 @@ Identify theft or fraud involves stealing personal information to impersonate so
 
 Hijacking involves improper access to the target's account via illegal hacking or stealing the password. 
 
-(Learn about [passwords](umbrella://lesson/passwords/0) and [2FA](umbrella://lesson/passwords/1).)
+(Learn about [passwords](umbrella://information/passwords/beginner) and [2FA](umbrella://information/passwords/advanced).)
 
 Catfishing is the use of fake accounts to trick someone into starting a relationship and sharing personal information. Honey traps use the same method to investigate the target in order to obtain money or damaging information.    
 
 Hackers may also hijack social media accounts to harass you or someone else. 
 
-(Learn about [phishing](umbrella://lesson/phishing).)
+(Learn about [phishing](umbrella://communications/phishing).)
 
 ## Mob harassment
 
@@ -76,6 +76,6 @@ Private images published without consent for extortion, blackmail or humiliation
 
 Revenge porn is an act of violence and should not be conflated with pornography.
 
-[Social media advanced](umbrella://lesson/social-media/1) outlines hate speech and trolling.
+[Social media advanced](umbrella://communications/social-media/advanced) outlines hate speech and trolling.
 
 [Defining Online Harassment](https://onlineharassmentfieldmanual.pen.org/additional-resources/defining-online-harassment-a-glossary-of-terms/) by PEN America and [Online Harassment of Politically-Active Women](https://xyz.informationactivism.org/en/online-harassment-of-politically-active-women-introduction) by Tachtical Tech include other types of abuse.

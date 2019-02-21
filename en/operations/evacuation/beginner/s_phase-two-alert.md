@@ -22,15 +22,15 @@ During this stage:
 
 *   Protect sensitive documents you will take.  
 
-(Learn about [protecting files](umbrella://lesson/protecting-files).)
+(Learn about [protecting files](umbrella://information/protecting-files).)
 
 *	Delete sensitive documents you will leave.
 
-(Learn about [safely deleting](umbrella://lesson/safely-deleting).)
+(Learn about [safely deleting](umbrella://information/safely-deleting).)
 
 *	Destroy sensitive papers.
 
-(Learn more about this in [borders](umbrella://lesson/borders).)
+(Learn more about this in [borders](umbrella://travel/borders).)
 
 _Destroy information or equipment that might be interpreted as incriminating (e.g. reports of military movements; images of security-related subjects)._
 
@@ -40,11 +40,11 @@ _Destroy information or equipment that might be interpreted as incriminating (e.
 
 *   Carry ID and a constant companion.
 
-(Learn more about this in [preparation](umbrella://lesson/preparation).) 
+(Learn more about this in [preparation](umbrella://travel/preparation).) 
 
 *  	Assemble a grab bag of personal belongings in case of evacuation or emergency. 
 
-(Learn more about this in [protective equipment](umbrella://lesson/protective-equipment).)
+(Learn more about this in [protective equipment](umbrella://personal/protective-equipment).)
 
 ## If driving
 

@@ -43,4 +43,4 @@ Hyperarousal often leads to irritability, angry outbursts, sleeping problems and
 *   Headaches, dizziness, chest pains and stomach aches;
 *	  Other physical, behavioural, work-related, or emotional effects.
 
-(Learn more about this in [stress advanced](umbrella://lesson/stress/1) and [stress beginner](umbrella://lesson/stress/0).)
+(Learn more about this in [stress advanced](umbrella://personal/stress/advanced) and [stress beginner](umbrella://personal/stress/beginner).)

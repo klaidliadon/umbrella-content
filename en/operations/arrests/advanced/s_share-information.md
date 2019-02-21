@@ -18,4 +18,4 @@ title: Share information
 
 *	In many cases, international attention may be enough to pressure the authorities to release the detainee.
 
-(Learn about [emergency support](umbrella://lesson/emergency-support).)
+(Learn about [emergency support](umbrella://emergency-support).)

@@ -14,7 +14,7 @@ This will mean different things depending on the local context.
 
 *	Verify events or incidents before responding.  
 
-(Learn about [Dangerous Assignments](umbrella://lesson/dangerous-assignments).)
+(Learn about [Dangerous Assignments](umbrella://operations/dangerous-assignments).)
 
 ## Don't be predictable.
 
@@ -26,23 +26,23 @@ This will mean different things depending on the local context.
 
 *	Roadblocks or car accidents may be staged to provide cover for abductors disguised as officials. 
 
-(Learn about [Checkpoints](umbrella://lesson/checkpoints).)
+(Learn about [Checkpoints](umbrella://travel/checkpoints).)
 
 ## Reduce visibility.  
 
 * Travel low profile. For example, consider a trusted taxi rather than an official work vehicle. 
 
-(Learn more about this in [Drivers and Vehicles](umbrella://lesson/vehicles/beginner/drivers-and-vehicles).) 
+(Learn more about this in [Drivers and Vehicles](umbrella://travel/vehicles/beginner/s_drivers-and-vehicles.md).) 
 
 * Protect your communications.
 
-(Learn about [Sending a Message](umbrella://lesson/sending-a-message) and [Making a Call](umbrella://lesson/making-a-call).) 
+(Learn about [Sending a Message](umbrella://communications/sending-a-message) and [Making a Call](umbrella://communications/making-a-call).) 
 
 * Don't discuss personal information or plans if you may be overheard. 
 
 * Use code words for names, locations, and travel information.
 
-(Learn about [Radio](umbrella://lesson/radio-and-satellite-phones/0) and [Satphones](umbrella://lesson/radio-and-satellite-phones/1).)
+(Learn about [Radio](umbrella://communications/radios-and-satellite-phones/beginner) and [Satphones](umbrella://communications/radios-and-satellite-phones/advanced).)
 
 ## Ensure good site security. 
 
@@ -52,4 +52,4 @@ This will mean different things depending on the local context.
 	* Limit access;
     * Identify strangers.
     
-(Learn to [Protect your Workspace](umbrella://lesson/protect-your-workspace).)
+(Learn to [Protect your Workspace](umbrella://information/protect-your-workspace).)

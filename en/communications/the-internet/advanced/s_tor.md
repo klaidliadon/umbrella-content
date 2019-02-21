@@ -20,4 +20,4 @@ Because of how Tor routes your web traffic, it also provides a reliable, secure 
 
 However, it can be slow and difficult to use.
 
-(Learn how to use the Tor Browser for [Windows](umbrella://lesson/tor-for-windows), [Mac](umbrella://lesson/tor-for-mac-os-x), and [Linux](umbrella://lesson/tor-for-linux).)
+(Learn how to use the Tor Browser for [Windows](umbrella://tools/tor/s_tor-for-windows.md), [Mac](umbrella://tools/tor/s_tor-for-mac-os-x.md), and [Linux](umbrella://tools/tor/s_tor-for-linux.md).)

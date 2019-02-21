@@ -4,17 +4,17 @@ title: What Now?
 ---
 Swipe right for this lesson's checklist.
 
-Learn to prevent sexual assault in [sexual assault beginner](umbrella://lesson/sexual-assault/1).
+Learn to prevent sexual assault in [sexual assault beginner](umbrella://operations/sexual-assault/advanced).
 
-Learn what to do if you are sexually assaulted in [sexual assault advanced](umbrella://lesson/sexual-assault/1).
+Learn what to do if you are sexually assaulted in [sexual assault advanced](umbrella://operations/sexual-assault/advanced).
 
 ### RELATED LESSONS/TOOLS
 
-*   [Security Planning](umbrella://lesson/security-planning)
-*   [Public Communications](umbrella://lesson/public-communications)
-*   [Counter-surveillance](umbrella://lesson/counter-surveillance/0)
-*   [Kidnapping](umbrella://lesson/kidnapping/0)
-*   [Social Media](umbrella://lesson/social-media/0)
+*   [Security Planning](umbrella://assess-your-risk/security-planning)
+*   [Public Communications](umbrella://operations/public-communications)
+*   [Counter-surveillance](umbrella://operations/counter/surveillance/beginner)
+*   [Kidnapping](umbrella://travel/kidnapping/beginner)
+*   [Social Media](umbrella://communications/social-media/beginner)
 
 ### SOURCES 
 

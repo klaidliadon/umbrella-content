@@ -4,13 +4,13 @@ title: Encrypt your data
 ---
 # Encrypt your device
 
-Review [Mobile Phones Beginner](umbrella://lesson/mobile-phones/0), [basic security for Android](umbrella://lesson/android) and how to [encrypt your iPhone](umbrella://lesson/encrypt-your-iphone).
+Review [Mobile Phones Beginner](umbrella://communications/mobile-phones/beginner), [basic security for Android](umbrella://tools/other/s_android.md) and how to [encrypt your iPhone](umbrella://tools/encryption/s_encrypt-your-iphone.md).
 
 # Encrypt your data
 
 [Open Keychain](https://play.google.com/store/apps/details?id=org.sufficientlysecure.keychain)  allows OpenGPG encryption for files and emails. 
 
-(Learn more about [email]  (umbrella://lesson/email) and [K-9 & Open Keychain](umbrella://lesson/k9-apg).)
+(Learn more about [email]  (umbrella://communications/email) and [K-9 & Open Keychain](umbrella://tools/encryption/s_k9-apg.md).)
 
 ![image](mobileexp2.png)
 

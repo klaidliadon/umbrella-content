@@ -17,7 +17,7 @@ Base security management on a thorough understanding of your location:
 
 This understanding will help you reduce promoting factors and reduce opportunity. 
 
-(Learn about [Security Planning](umbrella://lesson/security-planning).)
+(Learn about [Security Planning](umbrella://assess-your-risk/security-planning).)
 
 ## Who and why? 
 
@@ -52,7 +52,7 @@ If you operate in a high-risk location:
 
 Connect with specialist advice in advance of a potential crisis.
 
-*	Share completed [proof of life](umbrella://forms/proof-life-form) forms with your team.
+*	Share completed [proof of life](umbrella://forms/f_proof-life-form.yml) forms with your team.
 
 *	Train in serious incident management or kidnap negotiation.
 

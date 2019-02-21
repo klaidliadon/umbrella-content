@@ -4,16 +4,16 @@ title: What now?
 ---
 Swipe right for this lesson's checklist.
 
-Learn more about protecting your privacy in [Social Media Beginner](umbrella://lesson/social-media/0).
+Learn more about protecting your privacy in [Social Media Beginner](umbrella://communications/social-media/beginner).
 
-Learn about hate speech in [Social Media Advanced](umbrella://lesson/social-media/1).
+Learn about hate speech in [Social Media Advanced](umbrella://communications/social-media/advanced).
 
 ### RELATED LESSONS/TOOLS
 
-*	[Stress](umbrella://lesson/stress/0)
-*	[Passwords](umbrella://lesson/passwords)
-* 	[How to change your Facebook privacy settings](umbrella://lesson/facebook)
-*	[ObscuraCam](umbrella://lesson/obscuracam)
+*	[Stress](umbrella://personal/stress/beginner)
+*	[Passwords](umbrella://information/passwords)
+* 	[How to change your Facebook privacy settings](umbrella://tools/other/s_facebook.md)
+*	[ObscuraCam](umbrella://tools/messagging/s_obscuracam.md)
 
 ### SOURCES
 

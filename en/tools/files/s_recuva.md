@@ -8,7 +8,7 @@ title: Recuva
 Data recovery and secure deletion
 
 **Lesson to read:   
-- [Backing Up](umbrella://lesson/backing-up)**  
+- [Backing Up](umbrella://information/backing-up)**  
 **Download Location:** [http://www.piriform.com/recuva/builds](http://www.piriform.com/recuva/builds)    
 **Computer requirements:** Any version of Windows   
 **Version used in this guide:** Recuva 1.3  
@@ -25,7 +25,7 @@ Mac OS users could use [TestDisk and PhotoRec](www.cgsecurity.org/), as an alter
 
 ### 1.1 Before you start
 
-In situations where private or sensitive files may have been mistakenly deleted, Recuva can help you to scan for and restore some of them. As discussed in the **[Deleting lesson](umbrella://lesson/safely-deleting)**, a file deleted using the standard Windows operating system Delete function, even after the Recycle Bin has been emptied, might still exist on the computer.
+In situations where private or sensitive files may have been mistakenly deleted, Recuva can help you to scan for and restore some of them. As discussed in the **[Deleting lesson](umbrella://information/safely-deleting)**, a file deleted using the standard Windows operating system Delete function, even after the Recycle Bin has been emptied, might still exist on the computer.
 
 However, there are circumstances under which Recuva cannot retrieve information. If you have permanently deleted or wiped any temporary files by overwriting them or running secure deletion software, Recuva cannot recover files them. Recuva also cannot recover damaged documents and files.
 

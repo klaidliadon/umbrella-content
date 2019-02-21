@@ -4,9 +4,9 @@ title: What now?
 ---
 Swipe right for this lesson's checklist. 
 
-Learn how to manage your passwords in [Passwords Advanced.](umbrella://lesson/passwords/1)
+Learn how to manage your passwords in [Passwords Advanced.](umbrella://information/passwords/advanced)
 
-Learn what to do if you might be forced to hand over your password in [Passwords Expert.](umbrella://lesson/passwords/2)
+Learn what to do if you might be forced to hand over your password in [Passwords Expert.](umbrella://information/passwords/expert)
 
 ### SOURCES
 

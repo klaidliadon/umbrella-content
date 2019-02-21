@@ -4,9 +4,9 @@ title: What now?
 ---
 Swipe right for this lesson's checklist.
 
-Learn about participating in protests in [Protests Advanced](umbrella://lesson/protests/1).
+Learn about participating in protests in [Protests Advanced](umbrella://operations/protests/advanced).
 
 ### RELATED LESSONS
 
-*   [Security Planning](umbrella://lesson/security-planning)
-*   [Protective Equipment](umbrella://lesson/protective-equipment)
+*   [Security Planning](umbrella://assess-your-risk/security-planning)
+*   [Protective Equipment](umbrella://personal/protective-equipment)

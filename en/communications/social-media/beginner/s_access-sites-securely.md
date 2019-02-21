@@ -10,7 +10,7 @@ HTTPS is the secure version of the HTTP protocol used to access websites. It enc
 
 Using https:// stops people from intercepting your username, password and any other information you post. 
 
-(Use HTTPS whenever you use the [Internet](umbrella://lesson/the-internet/0). and send [email](umbrella://lesson/email/0).) 
+(Use HTTPS whenever you use the [Internet](umbrella://communications/the-internet/beginner). and send [email](umbrella://communications/email/beginner).) 
 
 Never access social media from:
 
@@ -18,4 +18,4 @@ Never access social media from:
 *	A device that could host malware;
 *	A public computer that may store your password or browsing history.
 
-(Learn how to check for [malware](umbrella://lesson/malware/0).)
+(Learn how to check for [malware](umbrella://information/malware/beginner).)

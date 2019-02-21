@@ -24,7 +24,7 @@ Quickly discern the attitudes and actions of people around the accident site. En
 
 *   Contact your team or support network.
 
-(Create a communication schedule with someone who can provice support in an emergency in [preparation](umbrella://lesson/preparation).)
+(Create a communication schedule with someone who can provice support in an emergency in [preparation](umbrella://travel/preparation).)
 
 *   If feasible, take pictures of the site.
 

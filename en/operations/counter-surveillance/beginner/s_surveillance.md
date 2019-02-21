@@ -24,7 +24,7 @@ Consider who might make you a surveillance target, and why.
 *	To learn what you are doing;
 *	While planning a serious incident, such as theft, arrest, kidnap, intimidation, or attack.
 
-(Learn more about [kidnapping](umbrella://lesson/kidnapping/0) and [arrest](umbrella://lesson/arrests).)
+(Learn more about [kidnapping](umbrella://travel/kidnapping/beginner) and [arrest](umbrella://operations/arrests).)
 
 ## How? 
 
@@ -32,13 +32,13 @@ Consider who might make you a surveillance target, and why.
 
 Bugs, listening devices, video cameras, or number plate readers.
 
-(Learn more about this in [meetings](umbrella://lesson/meetings).)
+(Learn more about this in [meetings](umbrella://operations/meetings).)
 
 ### Digital surveillance 
 
 Monitoring of digital communications and devices.
 
-(Learn about [malware](umbrella://lesson/malware/0), [phishing](umbrella://lesson/phishing), and [mobile phones](umbrella://lesson/mobile-phones).)
+(Learn about [malware](umbrella://information/malware/beginner), [phishing](umbrella://communications/phishing), and [mobile phones](umbrella://communications/mobile-phones).)
 
 ### Human surveillance
 
@@ -48,6 +48,6 @@ This lesson addresses human surveillance.
 
 Counter-surveillance beginner involves fixed locations, like your office. 
 
-[Counter-surveillance advanced](umbrella://lesson/counter_surveillance/1) involves surveillance on foot.
+[Counter-surveillance advanced](umbrella://operations/counter/surveillance/advanced) involves surveillance on foot.
 
-[Counter-surveillance expert](umbrella://lesson/counter_surveillance/2) involves surveillance in a vehicle.
+[Counter-surveillance expert](umbrella://operations/counter/surveillance/expert) involves surveillance in a vehicle.

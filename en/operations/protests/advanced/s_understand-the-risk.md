@@ -12,7 +12,7 @@ Your legal rights vary depending on where you are.
 
 Even if refusing is your legal right, police may delay you, seize the device, or accuse you of obstruction, which may be a more serious crime than protesting. 
 
-(Learn more about this in [passwords expert](umbrella://lesson/passwords/2).)
+(Learn more about this in [passwords expert](umbrella://information/passwords/expert).)
 
 ## Masks
 
@@ -26,8 +26,8 @@ Documenting protests may discourage police misconduct, but whether filming will 
 
 *	Know the law about recording video.
 
-(Learn more about this in [social media](umbrella://lesson/social-media/0).)
+(Learn more about this in [social media](umbrella://communications/social-media/beginner).)
 
 Even if recording is your legal right, police or other actors may single you out for using a camera.  
 
-(Learn more about this in [protests beginner](umbrella://lesson/protests/0).)
+(Learn more about this in [protests beginner](umbrella://operations/protests/beginner).)

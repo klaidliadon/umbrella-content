@@ -48,4 +48,4 @@ _Using a trusted intermediary gives you time to consider how to respond to messa
 "Emotional appeals from family members and hostage tapes from the kidnappers can drive up ransom demands or make it easier for the kidnappers to achieve their political objectives. But I'm hard pressed to come up with a case where the complete suppression of news was essential to the positive outcome in a kidnapping."  
 - Joel Simon, "The New Censorship." 
 
-(Learn about [Public Communications](umbrella://lesson/public-communications).)
+(Learn about [Public Communications](umbrella://operations/public-communications).)

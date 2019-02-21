@@ -4,15 +4,15 @@ title: What now?
 ---
 Swipe right for this lesson's checklist.
 
-Learn about pre-evacuation, evacuation, and return in [evacuation advanced](umbrella://lesson/evacuation/1). 
+Learn about pre-evacuation, evacuation, and return in [evacuation advanced](umbrella://operations/evacuation/advanced). 
 
 ### RELATED LESSONS/TOOLS
 
-*   [Security Planning](umbrella://lesson/security-planning)
-*   [Backing Up](umbrella://lesson/backing-up)
-*   [Safely Deleting](umbrella://lesson/safely-deleting)
-*   [Protective Equipment](umbrella://lesson/protective-equipment)
-*   [Stress](umbrella://lesson/stress)
+*   [Security Planning](umbrella://assess-your-risk/security-planning)
+*   [Backing Up](umbrella://information/backing-up)
+*   [Safely Deleting](umbrella://information/safely-deleting)
+*   [Protective Equipment](umbrella://personal/protective-equipment)
+*   [Stress](umbrella://personal/stress)
 
 ### FURTHER READING
 

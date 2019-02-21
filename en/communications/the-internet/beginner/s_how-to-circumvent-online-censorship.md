@@ -12,7 +12,7 @@ There are many tools to circumvent blocking and filtering. Some are more secure 
 
 The tool that is most appropriate for you depends on your threat model. 
 
-(Learn more about this in [managing information](umbrella://lesson/managing-information).)
+(Learn more about this in [managing information](umbrella://information/managing-information).)
 
 # When circumvention doesn't work
 
@@ -24,10 +24,10 @@ Appeal to the company involved, or conduct public advocacy, to challenge deletio
 
 Internet companies may remove information if it violates their terms, or if authorities or other users complain. 
 
-(Learn about [social media](umbrella://lesson/social-media/0).)
+(Learn about [social media](umbrella://communications/social-media/beginner).)
 
 ## Shutdowns
 
 Telecommunications companies may shut down mobile phone service, SMS messages, or mobile internet completely in one area, often following orders from local authorities. 
 
-(Learn more about this in [Internet expert](umbrella://lesson/the-internet/2).)
+(Learn more about this in [Internet expert](umbrella://communications/the-internet/expert).)

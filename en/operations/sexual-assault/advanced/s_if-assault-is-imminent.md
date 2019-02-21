@@ -36,4 +36,4 @@ This may mean submitting, and not resisting physically.
 
 *If sexual assault follows arrest or kidnapping, you may have limited options. Developing a relationship with your guards or captors may reduce the risk of all forms of assault. Protecting your life is the primary goal.*
 
-(Learn about [Arrests](umbrella://lesson/arrests) and [Kidnapping](umbrella://lesson/kidnapping))
+(Learn about [Arrests](umbrella://operations/arrests) and [Kidnapping](umbrella://travel/kidnapping))

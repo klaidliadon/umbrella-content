@@ -27,7 +27,7 @@ But the VPN provider can intercept your traffic directly, and record what you do
 
 Whether this is a problem for you will depend on what kinds of actors pose a threat to you and your team.
 
-(Learn more about this in [Security Planning](umbrella://lesson/security-planning).)
+(Learn more about this in [Security Planning](umbrella://assess-your-risk/security-planning).)
 
 VPN providers may be commercial or non-profit, hosted in different countries, and offer different privacy policies. For information about specific VPN services, click [here](https://thatoneprivacysite.net/vpn-section/).
 
@@ -37,10 +37,10 @@ Do not use a VPN that you do not trust.
 
 Psiphon is a secure, free VPN for Windows, Android, and iOS.  
 
-(Learn how to use [Psiphon](umbrella://lesson/psiphon).)  
+(Learn how to use [Psiphon](umbrella://tools/messagging/s_psiphon.md).)  
 
 Psiphon is for censorship circumvention. It does not guarantee anonymity.
 
-(Learn to stay anonymous online in [Internet Advanced](umbrella://lesson/the-internet/1).)
+(Learn to stay anonymous online in [Internet Advanced](umbrella://communications/the-internet/advanced).)
 
 ![image](internetb4.png)

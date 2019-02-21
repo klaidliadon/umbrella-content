@@ -14,6 +14,6 @@ Four things need careful management following sexual assault and rape:
 Ensure that procedures are in place to respect and protect the victim’s
 confidentiality, legal and human rights, privacy and dignity.
 
-[Sexual assault beginner](umbrella://lesson/sexual-assault/0) outlines prevention. 
+[Sexual assault beginner](umbrella://operations/sexual-assault/beginner) outlines prevention. 
 
-[Sexual assault advanced](umbrella://lesson/sexual-assault/1) outlines what to do if you are raped or assaulted.
+[Sexual assault advanced](umbrella://operations/sexual-assault/advanced) outlines what to do if you are raped or assaulted.

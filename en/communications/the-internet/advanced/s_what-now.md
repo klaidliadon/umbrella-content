@@ -4,14 +4,14 @@ title: What now?
 ---
 Swipe right for this lesson's checklist.
 
-Learn how to circumvent censorship in [Internet Beginner](umbrella://lesson/the-internet/0).
+Learn how to circumvent censorship in [Internet Beginner](umbrella://communications/the-internet/beginner).
 
 ### RELATED LESSONS/TOOLS
 
-*   [Tor for Linux](umbrella://lesson/tor-for-linux)
-*	[Tor for Mac](umbrella://lesson/tor-for-mac-os-x)
-*   [Tor for Windows](umbrella://lesson/tor-for-windows)
-*   [Orbot and Orfox](umbrella://lesson/orbot-orfox)
+*   [Tor for Linux](umbrella://tools/tor/s_tor-for-linux.md)
+*	[Tor for Mac](umbrella://tools/tor/s_tor-for-mac-os-x.md)
+*   [Tor for Windows](umbrella://tools/tor/s_tor-for-windows.md)
+*   [Orbot and Orfox](umbrella://tools/tor/s_orbot-and-orfox.md)
 
 ### FURTHER READING
 

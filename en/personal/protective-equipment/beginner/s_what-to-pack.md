@@ -23,7 +23,7 @@ What you need in your grab bag will depend on many factors, but here are some id
 *	Contraceptives (condoms can also keep things dry);
 *	Prescription glasses, contact lenses, or sunglasses.
 
-(Learn more about this in [preparation](umbrella://lesson/preparation).) 
+(Learn more about this in [preparation](umbrella://travel/preparation).) 
 
 ## Information and communications
 

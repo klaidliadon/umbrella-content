@@ -10,7 +10,7 @@ title: Reduce promoting factors
 *	Avoid 'no-go' areas in town; 
 *	Don't display assets.
 
-(Learn about [Vehicles](umbrella://lesson/vehicles).) 
+(Learn about [Vehicles](umbrella://travel/vehicles).) 
 
 ## Build key relationships.
 
@@ -21,7 +21,7 @@ title: Reduce promoting factors
    *  Are hosts responsible for the wellbeing of their guests? 
    *  Can you travel or work with a local representative?
 
-(Learn about [Public Communications](umbrella://lesson/public-communications).)
+(Learn about [Public Communications](umbrella://operations/public-communications).)
 
 ## Monitor the environment. 
 
@@ -29,6 +29,6 @@ title: Reduce promoting factors
 *	Be prepared to suspend your plans if necessary. 
 *	Leave the country for a period of time if necessary. 
 
-(Learn about [Evacuation](umbrella://lesson/evacuation).)
+(Learn about [Evacuation](umbrella://operations/evacuation).)
 
 ## Have a public policy of no ransom.

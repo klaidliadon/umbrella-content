@@ -23,7 +23,7 @@ Pass through a choke point to observe who follows you.
 
 Avoid choke points that may represent a security risk. 
 
-(Learn more about this in [vehicles](umbrella://lesson/vehicles).) 
+(Learn more about this in [vehicles](umbrella://travel/vehicles).) 
 
 # Handovers
 

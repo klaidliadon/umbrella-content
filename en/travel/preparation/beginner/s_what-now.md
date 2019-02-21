@@ -6,14 +6,14 @@ Swipe right for this lesson's checklist.
 
 ### RELATED LESSONS/TOOLS
 
-*   [Security Planning](umbrella://lesson/security-planning)
-*   [Borders](umbrella://lesson/borders)
-*   [Meetings](umbrella://lesson/meetings)
-*   [Vehicles](umbrella://lesson/vehicles)
-*   [Arrests](umbrella://lesson/arrests)
-*   [Kidnapping](umbrella://lesson/kidnapping)
-*   [Protecting Files](umbrella://lesson/protecting-files)
-*   [Managing Information](umbrella://lesson/managing-information)
+*   [Security Planning](umbrella://assess-your-risk/security-planning)
+*   [Borders](umbrella://travel/borders)
+*   [Meetings](umbrella://operations/meetings)
+*   [Vehicles](umbrella://travel/vehicles)
+*   [Arrests](umbrella://operations/arrests)
+*   [Kidnapping](umbrella://travel/kidnapping)
+*   [Protecting Files](umbrella://information/protecting-files)
+*   [Managing Information](umbrella://information/managing-information)
 
 ### SOURCES
 

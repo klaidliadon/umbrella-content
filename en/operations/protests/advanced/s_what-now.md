@@ -4,20 +4,20 @@ title: What now?
 ---
 Swipe right for this lesson's checklist.
 
-Learn about witnessing protests in [protests beginner](umbrella://lesson/protests/0).
+Learn about witnessing protests in [protests beginner](umbrella://operations/protests/beginner).
 
 ### RELATED LESSONS
 
-*   [Security Planning](umbrella://lesson/security-planning)
-*   [Mobile Phones](umbrella://lesson/mobile-phones)
-*   [Sending a Message](umbrella://lesson/sending-a-message)
-*   [Making a Call](umbrella://lesson/making-a-call)
+*   [Security Planning](umbrella://assess-your-risk/security-planning)
+*   [Mobile Phones](umbrella://communications/mobile-phones)
+*   [Sending a Message](umbrella://communications/sending-a-message)
+*   [Making a Call](umbrella://communications/making-a-call)
 
 ### RELATED TOOL GUIDES
 
-* 	[Signal for Android](umbrella://lesson/signal-for-android) 
-* 	[Signal for iOS](umbrella://lesson/signal-for-ios)
-*	[ObscuraCam](umbrella://lesson/obscuracam)
+* 	[Signal for Android](umbrella://tools/messagging/s_signal-for-android.md) 
+* 	[Signal for iOS](umbrella://tools/messagging/s_signal-for-ios.md)
+*	[ObscuraCam](umbrella://tools/messagging/s_obscuracam.md)
 
 ### SOURCES
 

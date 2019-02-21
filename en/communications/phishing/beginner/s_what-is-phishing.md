@@ -4,7 +4,7 @@ title: What is Phishing?
 ---
 Phishing attacks try to trick people into revealing information or downloading malware that can be used to spy on them or disrupt their work. 
 
-(Learn more about [Malware](umbrella://lesson/malware).) 
+(Learn more about [Malware](umbrella://information/malware).) 
 
 A phishing message pretends to be trustworthy in order to get you to do something, like: 
 

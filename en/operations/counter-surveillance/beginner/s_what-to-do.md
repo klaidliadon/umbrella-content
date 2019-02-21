@@ -30,4 +30,4 @@ Consider:
 *	Monitor the general security environment for possible threats;
 *	Increase monitoring during periods of tension, such as protests, elections, or sensitive national holidays.
 
-(Learn about [evacuation](umbrella://lesson/evacuation).)
+(Learn about [evacuation](umbrella://operations/evacuation).)

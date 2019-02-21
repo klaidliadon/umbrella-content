@@ -4,7 +4,7 @@ title: Recording passwords securely
 ---
 # Use a password manager
 
-You know how to [create a strong password](umbrella://lesson/passwords/0). But creating a different password for every account and changing it every few months makes it difficult to remember them all. 
+You know how to [create a strong password](umbrella://information/passwords/beginner). But creating a different password for every account and changing it every few months makes it difficult to remember them all. 
 
 Fortunately, there are tools to help. 
 
@@ -30,6 +30,6 @@ It works:
 * On a USB memory stick so you can look up a password while you are away from your primary computer. 
 * With a web browser extension so you can quickly save or auto-fill passwords on the web. 
 
-Learn how to install and use [KeepassXC](umbrella://lesson/keepassxc).
+Learn how to install and use [KeepassXC](umbrella://tools/encryption/s_keepassxc.md).
 
 *Note: There are a number of programs with names similar to KeePassXC, like KeePassX, KeePass, and KeePass2. Some of these are based on the same code, while others just use the same database format. [KeePassXC](https://keepassxc.org/) is cross-platform and more actively developed.*

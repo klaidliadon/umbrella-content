@@ -25,6 +25,6 @@ Post-coital, or emergency contraception (the morning-after pill) can be administ
 
 **Medication may still be beneficial.** Start *as soon as possible* after possible exposure to HIV and no later than 72 hours after, and continue for four weeks. 
 
-(Learn more about this in [sexual assault expert](umbrella://lesson/sexual-assault/2).)
+(Learn more about this in [sexual assault expert](umbrella://operations/sexual-assault/expert).)
 
 *Repeat tests for sexually transmitted diseases and HIV for up to a year after the incident.*

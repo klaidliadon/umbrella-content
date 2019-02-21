@@ -6,10 +6,10 @@ Swipe right for this lesson's checklist.
 
 ### RELATED LESSONS/TOOLS
 
-*   [Security Planning](umbrella://lesson/security-planning)
-*   [Checkpoints](umbrella://lesson/checkpoints)
-*   [Preparation](umbrella://lesson/preparation)
-*	[Counter-surveillance](umbrella://lesson/counter-surveillance/2)
+*   [Security Planning](umbrella://assess-your-risk/security-planning)
+*   [Checkpoints](umbrella://travel/checkpoints)
+*   [Preparation](umbrella://travel/preparation)
+*	[Counter-surveillance](umbrella://operations/counter/surveillance/expert)
 
 ### FURTHER READING
 

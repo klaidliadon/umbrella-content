@@ -36,7 +36,7 @@ _Do they look local? Are they paying unusual attention to you?_
 
 **Look for 3 unusual signs or 3 repeat sightings.**
 
-(Learn more about this in [counter-surveillance advanced](umbrella://lesson/counter_surveillance/1).)
+(Learn more about this in [counter-surveillance advanced](umbrella://operations/counter/surveillance/advanced).)
 
 ### Notify others
 

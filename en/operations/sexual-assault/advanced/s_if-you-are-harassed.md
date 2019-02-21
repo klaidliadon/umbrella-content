@@ -8,7 +8,7 @@ In some cases, this may persuade the harasser to stop.
 
 If you experience harassment online, this may involve blocking abusive accounts.
 
-(Learn more about this in [social media](umbrella://lesson/social-media/2).)
+(Learn more about this in [social media](umbrella://communications/social-media/expert).)
 
 ## Confront the harasser.  
 

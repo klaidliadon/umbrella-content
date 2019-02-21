@@ -15,6 +15,6 @@ PTSD usually develops in the month after the trauma.
 
 _A minority of people develop symptoms months or even years later._
 
-(Learn about traumatic stress in [stress advanced](umbrella://lesson/stress/1).)
+(Learn about traumatic stress in [stress advanced](umbrella://personal/stress/advanced).)
 
 ![image](stress4.png)

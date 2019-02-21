@@ -21,13 +21,13 @@ WhatsApp offers free messaging to individuals and groups on a range of devices a
 * 	An attacker may try to intercept WhatsApp communications by changing your contact's security code. Go to Settings > Account > Security > Show security notifications to switch on warnings about this activity. 
 *	WhatsApp is owned by Facebook and shares at least some user data with the company.  
 
-*We still recommend Signal for secure messaging and calls.* (Learn how to use Signal for [Android](umbrella://lesson/signal-for-android) and [iOS](umbrella://lesson/singal-for-ios).) 
+*We still recommend Signal for secure messaging and calls.* (Learn how to use Signal for [Android](umbrella://tools/messagging/s_signal-for-android.md) and [iOS](umbrella://tools/messagging/s_signal-for-ios.md).) 
 
 ## Turn on 2FA
 
 Add security to your WhatsApp account by enabling two-step verification, a form of two-factor authentication (2FA).
 
-(Learn about 2FA in [Passwords Advanced](umbrella://lesson/passwords/1))
+(Learn about 2FA in [Passwords Advanced](umbrella://information/passwords/advanced))
 
 *	Go to Settings > Account > Two-step verification > Enable.
 *	Create a six-digit PIN. WhatsApp will periodically prompt you to enter it. 

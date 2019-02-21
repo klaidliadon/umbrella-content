@@ -8,7 +8,7 @@ title: Pidgin
 Encrypted instant messaging for Windows
 
 **Lesson to read:   
-- [Sending a message](umbrella://lesson/sending-a-message)**  
+- [Sending a message](umbrella://communications/sending-a-message)**  
 **Download Location:**   
 - [https://pidgin.im/download/](https://pidgin.im/download/)   
 - [https://otr.cypherpunks.ca/](https://otr.cypherpunks.ca/)  

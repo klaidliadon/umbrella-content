@@ -14,13 +14,13 @@ Assume that:
 
 _Note: Authorities may delay you or seize your devices if you refuse to give up a password or unlock your device._
 
-(Learn more about this in [passwords expert](umbrella://lesson/passwords/2).)
+(Learn more about this in [passwords expert](umbrella://information/passwords/expert).)
 
 ## Know your cover story
 
 What you reveal to border authorities depends on context and risk. 
 
-(Learn about risk assessment for travel [preparation](umbrella://lesson/preparation).)
+(Learn about risk assessment for travel [preparation](umbrella://travel/preparation).)
 
 A cover story does not have to be the full truth, but it should be: 
 

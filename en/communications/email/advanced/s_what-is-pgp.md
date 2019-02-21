@@ -15,6 +15,6 @@ If used correctly, it can protect content from being read by:
 
 Whether you need end-to-end encryption for your email depends on your threat model.
 
-(Learn to assess your threat model in the [managing information](umbrella://lesson/managing-information) lesson.)
+(Learn to assess your threat model in the [managing information](umbrella://information/managing-information) lesson.)
 
 ![image](email3.png)

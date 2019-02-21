@@ -4,14 +4,14 @@ title: What now?
 ---
 Swipe right for this lesson's checklist.
 
-Learn about evacuation planning and alerts in [evacuation beginner](umbrella://lesson/evacuation/0). 
+Learn about evacuation planning and alerts in [evacuation beginner](umbrella://operations/evacuation/beginner). 
 
 ### RELATED LESSONS/TOOLS
 
-*   [Backing Up](umbrella://lesson/backing-up)
-*   [Safely Deleting](umbrella://lesson/safely-deleting)
-*   [Protective Equipment](umbrella://lesson/protective-equipment)
-*   [Stress](umbrella://lesson/stress)
+*   [Backing Up](umbrella://information/backing-up)
+*   [Safely Deleting](umbrella://information/safely-deleting)
+*   [Protective Equipment](umbrella://personal/protective-equipment)
+*   [Stress](umbrella://personal/stress)
 
 ### FURTHER READING
 

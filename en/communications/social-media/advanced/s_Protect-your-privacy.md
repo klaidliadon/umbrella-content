@@ -12,7 +12,7 @@ When you register a domain name, your contact information is made public. This i
 
 *Note: Domain proxy services which offer to protect privacy for a fee have proven unreliable in the face of legal or public pressure to reveal registry information.* 
 
-(Learn more about protecting your [email](umbrella://lesson/email/0).)
+(Learn more about protecting your [email](umbrella://communications/email/beginner).)
 
 ## Public contact details
 
@@ -27,7 +27,7 @@ When you register a domain name, your contact information is made public. This i
 
 Some bloggers use a pseudonym or write under a variation of their name. 
 
-(Learn more about how to stay anonymous on the [Internet](umbrella://lesson/the-internet/1).)
+(Learn more about how to stay anonymous on the [Internet](umbrella://communications/the-internet/advanced).)
 
 ## Familiarise yourself with policies, terms of service or community guidelines.
 
@@ -37,7 +37,7 @@ Some bloggers use a pseudonym or write under a variation of their name.
 
 *	When someone violates the terms, report them.
 
-(Secure your accounts with [strong passwords](umbrella://lesson/passwords/0) and [2FA.](umbrella://lesson/passwords/1))
+(Secure your accounts with [strong passwords](umbrella://information/passwords/beginner) and [2FA.](umbrella://information/passwords/advanced))
 
 ## Establish a comments policy. 
 

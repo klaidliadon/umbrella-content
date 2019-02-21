@@ -6,7 +6,7 @@ title: Android
 
 ## Basic Security Setup for Android guide
 
-**Lesson to read: [Mobile Phones](umbrella://lesson/mobile-phones)**  
+**Lesson to read: [Mobile Phones](umbrella://communications/mobile-phones)**  
 **Phone requirements:** Android 4.4  
 **Level:** Beginner  
 **Time required:** 5 minutes
@@ -17,7 +17,7 @@ title: Android
 
 **Enable** _Lock SIM card_, found under _Settings -> Personal -> Security -> Set up SIM card lock_. This will mean that you must enter a PIN number in order to unlock your SIM card each time your phone is switched on, with out the PIN no phone calls can be made.
 
-**Set up** a _Screen Lock_, found under _Settings -> Personal -> Security -> Screen Lock_, which will ensure that a code, pattern or password needs to be entered in order to unlock the screen once it has been locked. We recommended using the PIN or Password option, as these are not restricted by length. You can find more information on creating strong passwords in the [Passwords lesson](umbrella://lesson/passwords).
+**Set up** a _Screen Lock_, found under _Settings -> Personal -> Security -> Screen Lock_, which will ensure that a code, pattern or password needs to be entered in order to unlock the screen once it has been locked. We recommended using the PIN or Password option, as these are not restricted by length. You can find more information on creating strong passwords in the [Passwords lesson](umbrella://information/passwords).
 
 **Set** the _security lock timer_, which will automatically lock your phone after a specified time. You can specify a value which suits you, depending on how regularly you are willing to have to unlock your phone.
 

@@ -6,10 +6,10 @@ Swipe right for this lesson's checklist.
 
 ### RELATED LESSONS/TOOLS
 
-*   [Managing Information](umbrella://lesson/managing-information)
-*   [Malware](umbrella://lesson/malware)
-*	[Passwords](umbrella://lesson/passwords/0)
-*   [VeraCrypt](umbrella://lesson/veracrypt)
+*   [Managing Information](umbrella://information/managing-information)
+*   [Malware](umbrella://information/malware)
+*	[Passwords](umbrella://information/passwords/beginner)
+*   [VeraCrypt](umbrella://tools/files/s_veracrypt.md)
 
 ### FURTHER READING
 

@@ -13,7 +13,7 @@ Information is vulnerable in different ways.
 
 Some information security practices are helpful against digital *and* physical threats, like having a good off-site backup policy. 
 
-(Learn about [backing up](umbrella://lesson/backing-up).)
+(Learn about [backing up](umbrella://information/backing-up).)
 
 ## Physical security
 

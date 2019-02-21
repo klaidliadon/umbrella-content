@@ -7,7 +7,7 @@ Mailvelope
 
 Secure Webmail 
 
-**Lesson to read: [Protecting Files](umbrella://lesson/protecting-files), [Email](umbrella://lesson/email)**  
+**Lesson to read: [Protecting Files](umbrella://information/protecting-files), [Email](umbrella://communications/email)**  
 **Level:** Advanced  
 **Time required:** 30-60 minutes  
 **Updated:** April 2018  (some images date from earlier versions)  
@@ -93,7 +93,7 @@ To generate your key pair, open the browser where you installed Mailvelope and f
 
 **Important:** 
 
-- Choose a strong passphrase to protect your private key. (Learn how to create strong [Passwords](umbrella://lesson/passwords/0).)
+- Choose a strong passphrase to protect your private key. (Learn how to create strong [Passwords](umbrella://information/passwords/beginner).)
 - You do not have to use your real name when generating your key, but you should enter the email address of the account with which you intend to use Mailvelope. If you like, you can create a new email account specifically for this purpose.
 - We recommend that you generate a unique key pair for each email account you want to use with Mailvelope.
 

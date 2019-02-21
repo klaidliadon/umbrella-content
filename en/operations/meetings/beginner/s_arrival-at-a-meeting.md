@@ -8,11 +8,11 @@ title: Arriving
 
 *Note: many devices switched off at the same time may signal that a sensitive meeting is underway. To avoid this, take the battery out of your phone before you travel to the meeting or isolate your phone.*
 
-(Learn about [mobile phones](umbrella://lesson/mobile-phones))
+(Learn about [mobile phones](umbrella://communications/mobile-phones))
 
 *	Practise counter-surveillance en route. Ensure you are clear before you arrive. 
 
-(Learn about [counter-surveillance](umbrella://lesson/counter-surveillance/0).) 
+(Learn about [counter-surveillance](umbrella://operations/counter/surveillance/beginner).) 
 
 ## Check the meeting place
 
@@ -33,7 +33,7 @@ title: Arriving
 *	Observe anyone who sits close to you;
 *	Look for indicators of a surveillance team.
 
-(Learn more about this in [counter-surveillance advanced](umbrella://lesson/counter-surveillance/1).)
+(Learn more about this in [counter-surveillance advanced](umbrella://operations/counter/surveillance/advanced).)
 
 ## Collaborate 
 

@@ -6,9 +6,9 @@ Swipe right for this lesson's checklist.
 
 #### **RELATED LESSONS**
 
-*   [Malware](umbrella://lesson/malware)
-*   [Email](umbrella://lesson/email)
-*   [Social Media](umbrella://lesson/social media)
+*   [Malware](umbrella://information/malware)
+*   [Email](umbrella://communications/email)
+*   [Social Media](umbrella://communications/social-media)
 
 #### **FURTHER READING**
 

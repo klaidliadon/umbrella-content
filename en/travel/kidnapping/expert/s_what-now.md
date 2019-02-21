@@ -4,15 +4,15 @@ title: What now?
 ---
 Swipe right for this lesson's checklist.
 
-Learn to avoid kidnapping in [Kidnapping Beginner](umbrella://lesson/kidnapping/0)
+Learn to avoid kidnapping in [Kidnapping Beginner](umbrella://travel/kidnapping/beginner)
 
-Learn survival techniques if you are kidnapped in [Kidnapping Advanced](umbrella://lesson/kidnapping/1)
+Learn survival techniques if you are kidnapped in [Kidnapping Advanced](umbrella://travel/kidnapping/advanced)
 
 ### RELATED LESSONS
 
-*   [Security Planning](umbrella://lesson/security-planning)
-*   [Sexual Assault](umbrella://lesson/sexual-assault)
-*   [Public Communications](umbrella://lesson/public-communications)
+*   [Security Planning](umbrella://assess-your-risk/security-planning)
+*   [Sexual Assault](umbrella://operations/sexual-assault)
+*   [Public Communications](umbrella://operations/public-communications)
 
 ### SOURCES
 

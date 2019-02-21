@@ -4,11 +4,11 @@ title: What now?
 ---
 Swipe right for this lesson's checklist
 
-Go to the Beginner lesson for advice on what to pack in a grab bag. [Go to Beginner Lesson](umbrella://lesson/protective-equipment/0)
+Go to the Beginner lesson for advice on what to pack in a grab bag. [Go to Beginner Lesson](umbrella://personal/protective-equipment/beginner)
 
 ### RELATED LESSONS/TOOLS
 
-*   [Checkpoints lesson](umbrella://lesson/checkpoints/0)
+*   [Checkpoints lesson](umbrella://travel/checkpoints/beginner)
 
 ### FURTHER READINGS
 

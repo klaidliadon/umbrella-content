@@ -18,4 +18,4 @@ If you do difficult, sensitive work, see human misery, or fear for your security
 
 ![image](stress3.png)
 
-[Stress expert](umbrella://lesson/stress/2) deals with post-traumatic stress.
+[Stress expert](umbrella://personal/stress/expert) deals with post-traumatic stress.

@@ -6,6 +6,6 @@ Swipe right for this lesson's checklist.
 
 ### RELATED LESSONS/TOOLS
 
-*   [Security Planning](umbrella://lesson/security-planning)
-*   [Counter-surveillance](umbrella://lesson/counter-surveillance/0)
-*   [Kidnapping](umbrella://lesson/kidnapping/0)
+*   [Security Planning](umbrella://assess-your-risk/security-planning)
+*   [Counter-surveillance](umbrella://operations/counter/surveillance/beginner)
+*   [Kidnapping](umbrella://travel/kidnapping/beginner)

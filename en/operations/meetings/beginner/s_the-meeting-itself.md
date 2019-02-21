@@ -29,14 +29,14 @@ If participants are not already briefed:
 
 *	Ask for digital publications, links, or emails instead of paper;
 
-(Learn about [email](umbrella://lesson/email/1).) 
+(Learn about [email](umbrella://communications/email/advanced).) 
 
 *	If notes are necessary, use codes that only you understand to obscure names or other sensitive information. Try not to write anything sensitive in the first ten minutes. 
 
 *	Protect sensitive recordings and files;
 
-(Learn about [Protecting Files](umbrella://lesson/protecting-files).)  
+(Learn about [Protecting Files](umbrella://information/protecting-files).)  
 
 *	Destroy sensitive notes in a neutral location. 
 
-(Learn more about this in [borders](umbrella://lesson/borders).)
+(Learn more about this in [borders](umbrella://travel/borders).)

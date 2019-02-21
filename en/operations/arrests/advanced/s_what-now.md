@@ -4,14 +4,14 @@ title: What now?
 ---
 Swipe right for this lesson's checklist.
 
-Learn what to do if you are arrested in [arrests beginner]((umbrella://lesson/arrests/0).
+Learn what to do if you are arrested in [arrests beginner]((umbrella://operations/arrests/beginner).
 
 ### RELATED LESSONS/TOOLS
 
-*	[Emergency Support](umbrella://lesson/emergency-support)
-*  [Preparation](umbrella://lesson/preparation)
-*	[Protests](umbrella://lesson/protests/1)
-* [Sexual Assault](umbrella://lesson/sexual-assault/2)
+*	[Emergency Support](umbrella://emergency-support)
+*  [Preparation](umbrella://travel/preparation)
+*	[Protests](umbrella://operations/protests/advanced)
+* [Sexual Assault](umbrella://operations/sexual-assault/expert)
 
 ### SOURCES
 

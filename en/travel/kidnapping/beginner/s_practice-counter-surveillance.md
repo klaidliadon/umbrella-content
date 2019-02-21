@@ -22,7 +22,7 @@ Learn who belongs, and who does not.
 
 *   Identify potential choke points on your route.
 
-(Learn to [Plan your Route](umbrella://lesson/vehicles/beginner/plan-your-route).) 
+(Learn to [Plan your Route](umbrella://travel/vehicles/beginner/s_plan-your-route.md).) 
 
 ### Attention
 
@@ -36,4 +36,4 @@ _Potential kidnappers may present themselves as service staff to learn about a h
 
 _Potential kidnappers may follow the target to identify routines and points to strike._
 
-(Learn about [Counter-Surveillance](umbrella://lesson/counter-surveillance/0).)
+(Learn about [Counter-Surveillance](umbrella://operations/counter/surveillance/beginner).)

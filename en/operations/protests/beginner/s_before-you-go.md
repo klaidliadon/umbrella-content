@@ -8,7 +8,7 @@ Protest marches, rallies or unplanned gatherings may be small and self-limiting,
 
 Journalists and civilians should prepare before observing or covering protests.
 
-(Learn about organising or participating in protests in [protests advanced](umbrella://lesson/protests/1).)
+(Learn about organising or participating in protests in [protests advanced](umbrella://operations/protests/advanced).)
 
 ## Preparation
 
@@ -23,7 +23,7 @@ Consider:
 
 _Remember: telecommunications networks and mobile apps may be overloaded or shut down in a crisis._
 
-(Learn more about this in [Internet](umbrella://lesson/the-internet/0).)
+(Learn more about this in [Internet](umbrella://communications/the-internet/beginner).)
 
 *   **Clothing and equipment**
 
@@ -32,7 +32,7 @@ _Remember: telecommunications networks and mobile apps may be overloaded or shut
 
 *Do not wear high heels or open-toed shoes.*
 
-(Learn more about [protective equipment](umbrella://lesson/protective-equipment).)
+(Learn more about [protective equipment](umbrella://personal/protective-equipment).)
 
 *   **First aid**
 
@@ -44,13 +44,13 @@ _Remember: telecommunications networks and mobile apps may be overloaded or shut
 	*	Select discreet equipment if filming could be dangerous.
     *	If you have press ID, keep it hidden but accessible. Display it if being mistaken for a protester could be dangerous.
 
-(Learn more about this in [social media](umbrella://lesson/social-media/0).)
+(Learn more about this in [social media](umbrella://communications/social-media/beginner).)
 
 *	**Risk assessments**
 
 Conduct a specific risk assessement before attending large protests. 
 
-(Learn about [Security Planning](umbrella://lesson/security-planning).)
+(Learn about [Security Planning](umbrella://assess-your-risk/security-planning).)
 
 *   **Security support**
 

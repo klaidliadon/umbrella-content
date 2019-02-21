@@ -9,7 +9,7 @@ title: Planning
 
 _Coordinate with embassies, UN agencies, or NGOs as appropriate._
 
-(Learn about [Security Planning](umbrella://lesson/security-planning).)
+(Learn about [Security Planning](umbrella://assess-your-risk/security-planning).)
 
 # Planning questions
 
@@ -43,7 +43,7 @@ _Organise a safe house if needed._
 
 Do you need a visa? What will you need when you arrive? 
 
-(Learn more about this in [preparation](umbrella://lesson/preparation).) 
+(Learn more about this in [preparation](umbrella://travel/preparation).) 
 
 ## How?
 
@@ -57,7 +57,7 @@ How will you notify your team when to meet?
 
 *	Choose how you will travel.  
 
-(Learn about [vehicles](umbrella://lesson/vehicles).) 
+(Learn about [vehicles](umbrella://travel/vehicles).) 
 
 _Ensure the route is open in emergency conditions._ 
 
@@ -75,7 +75,7 @@ Copy serial numbers if high-value equipment will remain. How will it be hidden o
 
 *	**Destroy:** Non-essential, sensitive documents or notes.
 
-(Learn about [managing information](umbrella://lesson/managing-information) and [backing up](umbrella://lesson/backing-up).)
+(Learn about [managing information](umbrella://information/managing-information) and [backing up](umbrella://information/backing-up).)
 
 _If in doubt, destroy information that could put those evacuating at risk if seized by an adversary._
 

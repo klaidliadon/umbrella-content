@@ -11,4 +11,4 @@ A secure device is kept away from threats. An insecure device is one you prepare
 *	Keep your regular documents, contacts or email information off the device.
 * Isolate certain communications from the rest of your online activity by restricting them to an insecure device.
 
-(Learn more about [Burner Phones](umbrella://lesson/mobile-phones/beginner/burner-phones).)
+(Learn more about [Burner Phones](umbrella://communications/mobile-phones/beginner/s_burner-phones.md).)

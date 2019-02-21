@@ -16,7 +16,7 @@ title: Strategic Questions
     
 *   What damage could this trip cause your adversary? How interested will they be in your trip?
     
-(Learn more about this in [Security Planning](umbrella://lesson/security-planning).)
+(Learn more about this in [Security Planning](umbrella://assess-your-risk/security-planning).)
   
 ## Conduct a context assessment    
 

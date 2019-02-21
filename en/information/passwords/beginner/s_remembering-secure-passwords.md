@@ -18,6 +18,6 @@ Try it with EFF's random number generator [dice](https://www.eff.org/dice) and [
 * QuaintlyFreshResilientSnowstormReworkAbnormal
 * Myst!fyFrostlikeDisorderChessReversePortal
 
-[KeePassXC](umbrella://lesson/keepassx) is a password manager that includes a random diceware generator. 
+[KeePassXC](umbrella://tools/encryption/s_keepassxc.md) is a password manager that includes a random diceware generator. 
 
-(Learn more about this in [Passwords Advanced](umbrella://lesson/passwords/1).)
+(Learn more about this in [Passwords Advanced](umbrella://information/passwords/advanced).)

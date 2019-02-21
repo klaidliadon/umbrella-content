@@ -22,7 +22,7 @@ _In some countries, hotels are routinely bugged to spy on business people, diplo
 
 _For example, don't publicize which hotel conference room will be used during an event._  
  
-(Learn more about this in [preparation](umbrella://lesson/preparation).)
+(Learn more about this in [preparation](umbrella://travel/preparation).)
 
 ## Assume the room is bugged
 
@@ -40,6 +40,6 @@ If dealing with sensitive matters, always assume the room is bugged.
 
 *	Put your phone in another room in case the microphone can be activated remotely.
 
-(Learn more about this in [mobile phones](umbrella://lesson/mobile-phones).) 
+(Learn more about this in [mobile phones](umbrella://communications/mobile-phones).) 
 
 ### Service staff, like cleaners or waiters, may also eavesdrop.

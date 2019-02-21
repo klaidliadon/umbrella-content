@@ -7,7 +7,7 @@ title: Cobian Backup
 ## Cobian Backup  
 Backing up your computer files
 
-**Lesson to read: [Backing Up](umbrella://lesson/backing-up)**  
+**Lesson to read: [Backing Up](umbrella://information/backing-up)**  
 **Download Location:** [http://www.cobiansoft.com/cobianbackup.htm](http://www.cobiansoft.com/cobianbackup.htm)  
 **Computer requirements:**   
 - XP, 2003, Vista, 2008, Windows 7  
@@ -228,7 +228,7 @@ Use Windows Explorer to view the files that go to that folder.
 
 ### 4.0 About Encryption
 
-Encryption may be a necessity for those wishing to keep their backup secure from unauthorised access. Encryption is the process of encoding, or scrambling, data in such a way that it appears unintelligible to anyone who does not have the specific key needed to decode the message. For more information on encryption, read the [Protecting Files lesson](umbrella://lesson/protecting-files).
+Encryption may be a necessity for those wishing to keep their backup secure from unauthorised access. Encryption is the process of encoding, or scrambling, data in such a way that it appears unintelligible to anyone who does not have the specific key needed to decode the message. For more information on encryption, read the [Protecting Files lesson](umbrella://information/protecting-files).
 
 ### 4.1 How to Encrypt Your Backup File
 
@@ -244,7 +244,7 @@ To keep things simple, we recommend that you choose from either the _Blowfish_ o
 
 **Step 3.** Type and re-type the password into the two boxes provided.
 
-The strength of the password is indicated by the bar marked 'Passphrase quality'. The further the bar moves to the right, the stronger the passphrase. Refer to the **[Passwords lesson](umbrella://lesson/passwords)** for information on creating and storing strong passwords.
+The strength of the password is indicated by the bar marked 'Passphrase quality'. The further the bar moves to the right, the stronger the passphrase. Refer to the **[Passwords lesson](umbrella://information/passwords)** for information on creating and storing strong passwords.
 
 **Step 4.** Click "OK".
 

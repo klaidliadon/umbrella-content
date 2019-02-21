@@ -12,11 +12,11 @@ If police seize your device, you may not get it back for a while (or at all).
 
 _This is a barrier to most, but not to expert analysts._
 
-(Learn more about this in [mobile phones](umbrella://lesson/mobile-phones).)
+(Learn more about this in [mobile phones](umbrella://communications/mobile-phones).)
 
 *   Activate encryption if needed.  
 
-(Learn [basic security for Android](umbrella://lesson/android) and [encrypt your iPhone](umbrella://lesson/encrypt-your-iphone).)
+(Learn [basic security for Android](umbrella://tools/other/s_android.md) and [encrypt your iPhone](umbrella://tools/encryption/s_encrypt-your-iphone.md).)
 
 ## Emergency communication
 
@@ -36,7 +36,7 @@ Create a commnications schedule with someone who is not attending the protest an
 
 _Remember: telecommunications networks and mobile apps may be overloaded or shut down in a crisis._
 
-(Learn more about this in [Internet](umbrella://lesson/the-internet/0).)
+(Learn more about this in [Internet](umbrella://communications/the-internet/beginner).)
 
 ## Protect your information
 
@@ -44,7 +44,7 @@ _Remember: telecommunications networks and mobile apps may be overloaded or shut
 
 If police seize your device, content may be deleted, whether intentionally or not.
 
-(Learn about [protecting files](umbrella://lesson/protecting-files) and [backing up](umbrella://lesson/backing-up).) 
+(Learn about [protecting files](umbrella://information/protecting-files) and [backing up](umbrella://information/backing-up).) 
 
 *	**Log out of unnecessary apps and accounts.**
 
@@ -52,7 +52,7 @@ Assess the risks of using social media to organise or document protests. Your re
 
 *	Consider using separate social media accounts and pseudonyms for different activities. 
 
-(Learn more about this in [social media](umbrella://lesson/social-media/0).)
+(Learn more about this in [social media](umbrella://communications/social-media/beginner).)
 
 *	Create a temporary account before the protest. 
 
@@ -63,7 +63,7 @@ Assess the risks of using social media to organise or document protests. Your re
 
 If you may be forced to reveal your passwords, reveal an account with unimportant information in order to protect a sensitive one with the same service.     
 
-(Learn more about this in [passwords expert](umbrella://lesson/passwords/2).)
+(Learn more about this in [passwords expert](umbrella://information/passwords/expert).)
 
 ## Use a burner
 
@@ -72,4 +72,4 @@ If you have sensitive information on your phone, or need to conceal your presenc
 *	Contains no sensitive data or personal accounts;
 *	You would not mind losing. 
 
-(Learn more about this in [mobile phones](umbrella://lesson/mobile-phones).)
+(Learn more about this in [mobile phones](umbrella://communications/mobile-phones).)

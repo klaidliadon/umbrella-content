@@ -21,7 +21,7 @@ Conduct a risk analysis to:
 *	Identify places, times, situations and categories of people at higher risk. 
 *	Understand local legal and medical responses to sexual violence and identify resources. 
 
-(Learn more about this in [Security Planning](umbrella://lesson/security-planning).)
+(Learn more about this in [Security Planning](umbrella://assess-your-risk/security-planning).)
 
 ## Resources
 

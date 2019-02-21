@@ -8,7 +8,7 @@ title: Defend Your Privacy
 *   Should people be able to find you using your email address or phone number?
 *   Do you want your location shared automatically?
 
-Learn [how to change your Facebook privacy settings.](umbrella://lesson/facebook)
+Learn [how to change your Facebook privacy settings.](umbrella://tools/other/s_facebook.md)
 
 # Review settings frequently
 

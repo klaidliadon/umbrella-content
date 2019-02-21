@@ -14,6 +14,6 @@ However, Android users can enhance privacy when browsing the web using two apps 
 
 Together, Orbot and Orfox circumvent web censorship, and offer a more private internet connection. 
 
-Learn how to use [Orbot and Orfox](umbrella://lesson/orbot-and-orfox). 
+Learn how to use [Orbot and Orfox](umbrella://tools/tor/s_orbot-and-orfox.md). 
 
 **Remember, these tools can only protect your anonymity if you do not log in to sites or post something online that could identify you!**

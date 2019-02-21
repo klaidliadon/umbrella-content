@@ -6,9 +6,9 @@ title: Types of sexual violence
 
 This lesson outlines strategies to prevent sexual assault. 
 
-[Sexual assault advanced](umbrella://lesson/sexual-assault/1) outlines strategies if you are harassed, raped or assaulted.
+[Sexual assault advanced](umbrella://operations/sexual-assault/advanced) outlines strategies if you are harassed, raped or assaulted.
 
-[Sexual assault expert](umbrella://lesson/sexual-assault/2) outlines strategies when a team member is raped or assaulted.
+[Sexual assault expert](umbrella://operations/sexual-assault/expert) outlines strategies when a team member is raped or assaulted.
 
 ## Rape
 

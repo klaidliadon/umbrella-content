@@ -4,14 +4,14 @@ title: What now?
 ---
 Swipe right for this lesson's checklist.
 
-Learn about counter-surveillance in fixed locations in [counter-surveillance beginner](umbrella://lesson/counter_surveillance/0).
+Learn about counter-surveillance in fixed locations in [counter-surveillance beginner](umbrella://operations/counter/surveillance/beginner).
 
-Learn about counter-surveillance on foot in [counter-surveillance advanced](umbrella://lesson/counter_surveillance/1).
+Learn about counter-surveillance on foot in [counter-surveillance advanced](umbrella://operations/counter/surveillance/advanced).
 
 ### RELATED LESSONS/TOOLS
 
-*   [Security Planning](umbrella://lesson/security-planning)
-*   [Meetings](umbrella://lesson/meetings)
-*	[Vehicles](umbrella://lesson/vehicles)
-*	[Managing Information](umbrella://lesson/managing-information)
-*	[Mobile Phones](umbrella://lesson/mobile-phones/0)
+*   [Security Planning](umbrella://assess-your-risk/security-planning)
+*   [Meetings](umbrella://operations/meetings)
+*	[Vehicles](umbrella://travel/vehicles)
+*	[Managing Information](umbrella://information/managing-information)
+*	[Mobile Phones](umbrella://communications/mobile-phones/beginner)

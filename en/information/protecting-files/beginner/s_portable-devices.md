@@ -21,4 +21,4 @@ If someone who takes your device can access your data, they can copy it in secon
 
 In this lesson, learn how to make it harder for anyone who steals your device to access your data.
 
-Learn how to encrypt files using Veracrypt in [Protecting Files Advanced](umbrella://lesson/protecting-files/1).
+Learn how to encrypt files using Veracrypt in [Protecting Files Advanced](umbrella://information/protecting-files/beginner).

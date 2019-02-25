@@ -9,7 +9,7 @@ title: Standard Operating Procedures
 
 If required, inform authorities or embassies of your travel plans.
 
-(Learn how to prepare for sensitive [meetings](umbrella://operations/meetings).)
+(Learn how to prepare for sensitive [meetings](umbrella://work/meetings).)
 
 *	Create a communication schedule. 
 
@@ -46,7 +46,7 @@ In order of preference, choose:
 
 *	Establish protocols for detention or questioning.
 
-(Learn about [arrests](umbrella://operations/arrests).)
+(Learn about [arrests](umbrella://incident-response/arrests).)
 
 *	Schedule security or equipment training if required. 
 
@@ -61,7 +61,7 @@ In order of preference, choose:
 
 A constant companion contains essentials in case of evacuation or emergency. 
 
-(Learn about [evacuation](umbrella://operations/evacuation).)
+(Learn about [evacuation](umbrella://incident-response/evacuation).)
 
 Consider:
 
@@ -74,7 +74,7 @@ Consider:
 
 A grab bag contains personal belongings in case of evacuation or emergency. 
 
-(Learn more about this in [protective equipment](umbrella://personal/protective-equipment).)
+(Learn more about this in [protective equipment](umbrella://travel/protective-equipment).)
 
 ## Prepare for serious security incidents
 
@@ -82,4 +82,4 @@ A grab bag contains personal belongings in case of evacuation or emergency.
 
 * Schedule personal security training if necessary. 
 
-(Learn about [kidnapping](umbrella://travel/kidnapping).)
+(Learn about [kidnapping](umbrella://incident-response/kidnapping).)

@@ -21,7 +21,7 @@ Clearly state:
 *	What protection and support you will facilitate in specific contexts (if you work for an organisation, this could involve repatriation, relocation (temporary or permanent), legal support, and compassionate leave);
 *  How you will reconcile the need for confidentiality with the need to alert others to the threat.
 
-(Learn more about this in [sexual assault expert](umbrella://operations/sexual-assault/expert).)
+(Learn more about this in [sexual assault expert](umbrella://incident-response/sexual-assault/expert).)
 
 ## Seek training
 

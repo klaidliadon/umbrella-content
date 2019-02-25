@@ -44,7 +44,7 @@ _Destroy information or equipment that might be interpreted as incriminating (e.
 
 *  	Assemble a grab bag of personal belongings in case of evacuation or emergency. 
 
-(Learn more about this in [protective equipment](umbrella://personal/protective-equipment).)
+(Learn more about this in [protective equipment](umbrella://travel/protective-equipment).)
 
 ## If driving
 

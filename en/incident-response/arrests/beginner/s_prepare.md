@@ -24,7 +24,7 @@ title: Prepare
 
 *	If your devices may be seized, harden them against searches.  
 
-(Learn more about this in [Protests](umbrella://operations/protests/advanced).)
+(Learn more about this in [Protests](umbrella://work/protests/advanced).)
 
 *	If you may be forced to reveal your passwords, prepare an account with unimportant information to reveal in order to protect a sensitive one with the same service.  
 

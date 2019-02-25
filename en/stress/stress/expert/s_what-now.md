@@ -4,9 +4,9 @@ title: What now?
 ---
 Swipe right for this lesson's checklist.
 
-Learn how to deal with chronic stress in [Stress Beginner](umbrella://personal/stress/beginner).
+Learn how to deal with chronic stress in [Stress Beginner](umbrella://stress/stress/beginner).
 
-Learn how to deal with traumatic stress in [Stress Advanced](umbrella://personal/stress/advanced).
+Learn how to deal with traumatic stress in [Stress Advanced](umbrella://stress/stress/advanced).
 
 ### FURTHER READING
 

@@ -5,7 +5,7 @@ title: Encrypt your iPhone
 Encrypt Your iPhone
 ===========================
 
-**Lesson to read: [Mobile Phones](umbrella://communications/mobile-phones), [Protests](umbrella://operations/protests), [Passwords](umbrella://information/passwords)**  
+**Lesson to read: [Mobile Phones](umbrella://communications/mobile-phones), [Protests](umbrella://work/protests), [Passwords](umbrella://information/passwords)**  
 **Level**: Beginner  
 **Time required:** 5 minutes  
 **Published:** April 2018   

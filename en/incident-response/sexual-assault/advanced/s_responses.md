@@ -21,4 +21,4 @@ the victim into believing that she has not been deeply hurt.*
 These are normal reactions to the psychological and physical
 experience of sexual assault. 
 
-(Learn more about this in [stress advanced](umbrella://personal/stress/advanced).)
+(Learn more about this in [stress advanced](umbrella://stress/stress/advanced).)

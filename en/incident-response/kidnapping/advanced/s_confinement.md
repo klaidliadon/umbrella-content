@@ -10,7 +10,7 @@ title: Confinement
 
 *If you face assault or sexual violence, your objective should be to survive, and minimize your physical and psychological harm.*
 
-(Learn about [Discrimination and Torture](umbrella://operations/arrests/beginner/s_discrimination-and-torture.md).)
+(Learn about [Discrimination and Torture](umbrella://incident-response/arrests/beginner/s_discrimination-and-torture.md).)
 
 ## Be respectful 
 
@@ -22,7 +22,7 @@ title: Confinement
 
 *Developing a relationship with guards may reduce your risk of assault.*
 
-(Learn more about [Sexual Assault](umbrella://operations/sexual-assault).) 
+(Learn more about [Sexual Assault](umbrella://incident-response/sexual-assault).) 
 
 ## Keep your dignity. 
 

@@ -12,7 +12,7 @@ Learn how to encrypt files in [Protecting Files Advanced](umbrella://information
 *   [Passwords](umbrella://information/passwords)
 *   [Mobile Phones](umbrella://communications/mobile-phones/beginner)
 *   [Malware](umbrella://information/malware)
-*   [Internet Advanced](umbrella://communications/the-internet/advanced)
+*   [Online Privacy](umbrella://communications/online-privacy/advanced)
 *   Tor for [Windows](umbrella://tools/tor/s_tor-for-windows.md), [Mac](umbrella://tools/tor/s_tor-for-mac-os-x.md), and [Linux](umbrella://tools/tor/s_tor-for-linux.md)
 *   [Encrypt your iPhone](umbrella://tools/encryption/s_encrypt-your-iphone.md)
 *   [Basic Security Setup for Android](umbrella://tools/other/s_android.md)

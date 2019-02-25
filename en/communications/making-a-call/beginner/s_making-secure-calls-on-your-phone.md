@@ -31,7 +31,7 @@ The person you are communicating with must also install Signal.
 
 *Some countries block Signal servers to prevent secure communications. To circumvent blocking, use a VPN.*
 
-(Learn more about this in [Internet](umbrella://communications/the-internet/beginner).)
+(Learn more about this in [Censorship](umbrella://communications/censorship/beginner).)
 
 # JitsiMeet
 

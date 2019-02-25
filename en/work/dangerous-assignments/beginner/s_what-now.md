@@ -4,7 +4,7 @@ title: What Now?
 ---
 Swipe right for this lesson's checklist.
 
-Learn about attending a crime scene in [Dangerous Assignments Advanced](umbrella://operations/dangerous-assignments/advanced).
+Learn about attending a crime scene in [Dangerous Assignments Advanced](umbrella://work/dangerous-assignments/advanced).
 
 ### RELATED LESSONS/TOOLS
 

@@ -6,7 +6,7 @@ title: Mobile Phones
 
 Phones help you organise protests, as well as document them and communicate in an emergency.
 
-(Learn more about this in [protests beginner](umbrella://operations/protests/beginner).)
+(Learn more about this in [protests beginner](umbrella://work/protests/beginner).)
 
 But taking your phone to a protest could: 
 

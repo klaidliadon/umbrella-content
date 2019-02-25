@@ -14,7 +14,7 @@ title: Prevention
 
 *   Understand local context and obey local laws and customs where possible.
 
-(Learn about [Public Communications](umbrella://operations/public-communications).) 
+(Learn about [Public Communications](umbrella://work/public-communications).) 
 
 ## Understand context
 

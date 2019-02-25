@@ -15,7 +15,7 @@ title: Psychological Support
 
 Immediate emotional responses following rape can vary.
 
-(Learn more about this in [sexual assault advanced](umbrella://operations/sexual-assault/advanced).)
+(Learn more about this in [sexual assault advanced](umbrella://incident-response/sexual-assault/advanced).)
 
 Whatever their reaction:
 

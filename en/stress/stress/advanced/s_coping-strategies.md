@@ -39,4 +39,4 @@ title: Help Yourself Cope
 
 _Monitor for changes in personal attitude like depression or frustration, which may be a sign of post-traumatic stress disorder (PTSD)._
 
-(Learn more about this in [stress expert](umbrella://personal/stress/expert).)
+(Learn more about this in [stress expert](umbrella://stress/stress/expert).)

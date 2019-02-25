@@ -21,7 +21,7 @@ title: Reduce promoting factors
    *  Are hosts responsible for the wellbeing of their guests? 
    *  Can you travel or work with a local representative?
 
-(Learn about [Public Communications](umbrella://operations/public-communications).)
+(Learn about [Public Communications](umbrella://work/public-communications).)
 
 ## Monitor the environment. 
 
@@ -29,6 +29,6 @@ title: Reduce promoting factors
 *	Be prepared to suspend your plans if necessary. 
 *	Leave the country for a period of time if necessary. 
 
-(Learn about [Evacuation](umbrella://operations/evacuation).)
+(Learn about [Evacuation](umbrella://incident-response/evacuation).)
 
 ## Have a public policy of no ransom.

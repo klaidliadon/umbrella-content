@@ -8,7 +8,7 @@ Learn how to improve basic email security in [Email Beginner](umbrella://communi
 
 ### RELATED LESSONS/TOOLS
 
-*   [Internet](umbrella://communications/the-internet)
+*   [Online Privacy](umbrella://communications/online-privacy)
 *	[Mailvelope](umbrella://tools/messagging/s_mailvelope.md)
 *   PGP for [Linux](umbrella://tools/pgp/s_pgp-for-linux.md), [Mac OS](umbrella://tools/pgp/s_pgp-for-mac-os-x.md), and [Windows](umbrella://tools/pgp/s_pgp-for-windows.md)
 *   [K-9 & Open Keychain](umbrella://tools/encryption/s_k9-apg.md)

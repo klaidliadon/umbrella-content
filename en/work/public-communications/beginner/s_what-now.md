@@ -7,5 +7,5 @@ Swipe right for this lesson's checklist.
 ### RELATED LESSONS
 
 *   [Security Planning](umbrella://assess-your-risk/security-planning)
-*   [Social Media](umbrella://communications/social-media)
+*   [Online Abuse](umbrella://communications/online-abuse)
 *   [Protect your Workspace](umbrella://information/protect-your-workspace)

@@ -12,6 +12,6 @@ title: Evacuation stages
 
 ### 4.  Evacuation
 
-[Evacuation beginner](umbrella://operations/evacuation/beginner) outlines planning and alert.
+[Evacuation beginner](umbrella://incident-response/evacuation/beginner) outlines planning and alert.
 
 This lesson outlines pre-evacuation and evacuation.

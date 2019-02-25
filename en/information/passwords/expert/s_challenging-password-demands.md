@@ -12,7 +12,7 @@ title: Challenging password demands
 
 *Note: intentional destruction of evidence or obstruction of an investigation can be charged as a separate crime, often with very serious consequences. In some cases, this can be easier for the government to prove and allow for more substantial punishments than the alleged crime originally being investigated.*
 
-(Learn more about this in [protests](umbrella://operations/protests/advanced).) 
+(Learn more about this in [protests](umbrella://work/protests/advanced).) 
 
 ## Get prepared.
 

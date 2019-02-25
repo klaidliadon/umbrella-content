@@ -12,4 +12,4 @@ title: Civil Unrest
 
 Wearing gas masks or other body armor may be appropriate, but also increase the risk that others will mistake you for a demonstrator or police.
 
-(Learn about [protests](umbrella://operations/protests/beginner).)
+(Learn about [protests](umbrella://work/protests/beginner).)

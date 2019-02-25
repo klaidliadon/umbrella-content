@@ -14,7 +14,7 @@ This will mean different things depending on the local context.
 
 *	Verify events or incidents before responding.  
 
-(Learn about [Dangerous Assignments](umbrella://operations/dangerous-assignments).)
+(Learn about [Dangerous Assignments](umbrella://work/dangerous-assignments).)
 
 ## Don't be predictable.
 

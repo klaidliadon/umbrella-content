@@ -8,7 +8,7 @@ Swipe right for this lesson's checklist.
 
 *   [Security Planning](umbrella://assess-your-risk/security-planning)
 *   [Preparation](umbrella://travel/preparation)
-*   [Arrests](umbrella://operations/arrests)
+*   [Arrests](umbrella://incident-response/arrests)
 
 ### FURTHER READING
 

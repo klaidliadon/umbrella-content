@@ -24,7 +24,7 @@ Choose a building with:
 *	Emergency escape routes which are known to team members. 
 *	Secure parking to prevent others accessing your vehicle or placing a tracker. 
 
-(Learn more about this in [counter-surveillance](umbrella://operations/counter/surveillance/expert).)
+(Learn more about this in [Being Followed](umbrella://work/being-followed/expert).)
 
 ## Security and comfort
 
@@ -58,7 +58,7 @@ Consider:
 *   Sufficient cash;
 *   Items to reduce stress (e.g. books, magazines, TV, board games, games consoles etc.)
 
-(Learn about [stress](umbrella://personal/stress/beginner).)
+(Learn about [stress](umbrella://stress/stress/beginner).)
 
 ## Waste
 

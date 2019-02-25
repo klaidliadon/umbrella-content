@@ -7,7 +7,7 @@ Orbot & Orfox
 
 Privacy-Enhanced Web Browsing for Android
 
-**Lesson to read: [Internet](umbrella://communications/the-internet), [Mobile Phones](umbrella://communications/mobile-phones)**  
+**Lesson to read: [Censorship](umbrella://communications/censorship/beginner), [Mobile Phones](umbrella://communications/mobile-phones)**  
 **Level**: Beginner  
 **Time required**: 15 minutes  
 **Published:** April 2018    

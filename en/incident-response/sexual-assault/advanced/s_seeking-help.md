@@ -37,7 +37,7 @@ Victims often want to wash, change, and dispose of clothes and other reminders o
 on Western psychological models and talk therapy to put the incident
 and your emotions and reactions into perspective. You may deal with the experience differently.*
 
-(Learn more about this in [stress advanced](umbrella://personal/stress/advanced).)
+(Learn more about this in [stress advanced](umbrella://stress/stress/advanced).)
 
 * Friends, partners, books and online resources can also be supportive.   
 

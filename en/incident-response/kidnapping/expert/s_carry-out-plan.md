@@ -10,7 +10,7 @@ Teams will naturally want to resolve the incident as safely and quickly as possi
 *	Encourage optimism;  
 *	Provide enough food and rest. 
 
-(Learn about [chronic]((umbrella://personal/stress/beginner) and [traumatic](umbrella://personal/stress/advanced) stress.)
+(Learn about [chronic]((umbrella://stress/stress/beginner) and [traumatic](umbrella://stress/stress/advanced) stress.)
 
 ## Work effectively
 
@@ -26,4 +26,4 @@ The greatest aid to morale is to manage the incident well.
 *	Paying ransom or making a concession may endanger more colleagues by encouraging further kidnaps.
 *	Have a public policy of no ransom.
 
-(Learn more about this in [kidnapping beginner](umbrella://travel/kidnapping/beginner).)
+(Learn more about this in [kidnapping beginner](umbrella://incident-response/kidnapping/beginner).)

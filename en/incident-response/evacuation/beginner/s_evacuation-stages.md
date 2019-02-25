@@ -34,4 +34,4 @@ Stop work and leave the country.
 
 This lesson outlines planning and alert.
 
-[Evacuation advanced](umbrella://operations/evacuation/advanced) outlines pre-evacuation and evacuation.
+[Evacuation advanced](umbrella://incident-response/evacuation/advanced) outlines pre-evacuation and evacuation.

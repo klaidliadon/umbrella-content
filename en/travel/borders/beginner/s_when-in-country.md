@@ -20,7 +20,7 @@ Sensitive paper could include:
 
 *	When meeting people, ask for digital publications, links, or emails instead of paper.
 
-(Learn about [meetings](umbrella://operations/meetings).)
+(Learn about [meetings](umbrella://work/meetings).)
 
 ## Secure your notes: 
 

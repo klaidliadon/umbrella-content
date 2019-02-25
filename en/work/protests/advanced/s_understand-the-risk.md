@@ -26,8 +26,8 @@ Documenting protests may discourage police misconduct, but whether filming will 
 
 *	Know the law about recording video.
 
-(Learn more about this in [social media](umbrella://communications/social-media/beginner).)
+(Learn about [multimedia](umbrella://communications/online-privacy/beginner/multimedia).)
 
 Even if recording is your legal right, police or other actors may single you out for using a camera.  
 
-(Learn more about this in [protests beginner](umbrella://operations/protests/beginner).)
+(Learn more about this in [protests beginner](umbrella://work/protests/beginner).)

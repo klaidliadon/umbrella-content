@@ -17,7 +17,7 @@ Consider:
 *   Fluorescent warning triangle;
 *   Tow rope;
 
-(Learn about [protective equipment](umbrella://personal/protective-equipment).)
+(Learn about [protective equipment](umbrella://travel/protective-equipment).)
 
 ## Documents:
 

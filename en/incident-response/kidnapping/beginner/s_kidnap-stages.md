@@ -25,6 +25,6 @@ Kidnapping beginner outlines how to evade surveillance and capture.
 
 ## Survival
 
-[Kidnapping advanced](umbrella://travel/kidnapping/advanced) outlines survival strategies for capture, transport, confinement and release.
+[Kidnapping advanced](umbrella://incident-response/kidnapping/advanced) outlines survival strategies for capture, transport, confinement and release.
 
-[Kidnapping expert](umbrella://travel/kidnapping/expert) outlines incident management when a colleague is kidnapped.
+[Kidnapping expert](umbrella://incident-response/kidnapping/expert) outlines incident management when a colleague is kidnapped.

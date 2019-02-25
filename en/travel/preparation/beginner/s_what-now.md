@@ -8,10 +8,10 @@ Swipe right for this lesson's checklist.
 
 *   [Security Planning](umbrella://assess-your-risk/security-planning)
 *   [Borders](umbrella://travel/borders)
-*   [Meetings](umbrella://operations/meetings)
+*   [Meetings](umbrella://work/meetings)
 *   [Vehicles](umbrella://travel/vehicles)
-*   [Arrests](umbrella://operations/arrests)
-*   [Kidnapping](umbrella://travel/kidnapping)
+*   [Arrests](umbrella://incident-response/arrests)
+*   [Kidnapping](umbrella://incident-response/kidnapping)
 *   [Protecting Files](umbrella://information/protecting-files)
 *   [Managing Information](umbrella://information/managing-information)
 

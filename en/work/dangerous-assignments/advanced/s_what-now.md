@@ -7,5 +7,5 @@ Swipe right for this lesson's checklist.
 ### RELATED LESSONS/TOOLS
 
 *   [Security Planning](umbrella://assess-your-risk/security-planning)
-*   [Counter-surveillance](umbrella://operations/counter/surveillance/beginner)
-*   [Kidnapping](umbrella://travel/kidnapping/beginner)
+*   [Being Followed](umbrella://work/being-followed/beginner)
+*   [Kidnapping](umbrella://incident-response/kidnapping/beginner)

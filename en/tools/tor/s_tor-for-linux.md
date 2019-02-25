@@ -1,13 +1,13 @@
 ---
 index: 19
-title: Tor for LINUX
+title: Tor for Linux
 ---
 Tor for Linux
 =========================
 
 Anonymity Online
 
-**Lesson to read: [Internet](umbrella://communications/the-internet)**  
+**Lesson to read: [Online Privacy](umbrella://communications/online-privacy/advanced)**  
 **Level**: Beginner-Advanced  
 **Time required**: 15 minutes—1 hour   
 **Published:** April 2018    

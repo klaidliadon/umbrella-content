@@ -4,9 +4,9 @@ title: What now?
 ---
 Swipe right for this lesson's checklist.
 
-Learn to avoid kidnapping in [Kidnapping Beginner](umbrella://travel/kidnapping/beginner).
+Learn to avoid kidnapping in [Kidnapping Beginner](umbrella://incident-response/kidnapping/beginner).
 
-Learn what to do if a staff member is kidnapped in [Kidnapping Expert](umbrella://travel/kidnapping/expert).
+Learn what to do if a staff member is kidnapped in [Kidnapping Expert](umbrella://incident-response/kidnapping/expert).
 
 ### SOURCES
 

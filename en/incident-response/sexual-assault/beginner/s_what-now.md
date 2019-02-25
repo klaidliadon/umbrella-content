@@ -4,19 +4,19 @@ title: What Now?
 ---
 Swipe right for this lesson's checklist.
 
-Learn what to do if you are sexually assaulted in [sexual assault advanced](umbrella://operations/sexual-assault/advanced).
+Learn what to do if you are sexually assaulted in [sexual assault advanced](umbrella://incident-response/sexual-assault/advanced).
 
-Learn what to do if a team member is sexually assaulted in [sexual assault expert](umbrella://operations/sexual-assault/expert).
+Learn what to do if a team member is sexually assaulted in [sexual assault expert](umbrella://incident-response/sexual-assault/expert).
 
 ### RELATED LESSONS/TOOLS
 
 *   [Security Planning](umbrella://assess-your-risk/security-planning)
 *	  [Borders](umbrella://travel/borders)
-*   [Evacuation](umbrella://operations/evacuation)
+*   [Evacuation](umbrella://incident-response/evacuation)
 *   [Vehicle](umbrella://travel/vehicles)
-*   [Counter-surveillance](umbrella://operations/counter/surveillance/beginner)
-*   [Kidnapping](umbrella://travel/kidnapping/beginner)
-*   [Social Media](umbrella://communications/social-media/beginner)
+*   [Being Followed](umbrella://work/being-followed/beginner)
+*   [Kidnapping](umbrella://incident-response/kidnapping/beginner)
+*   [Online Abuse](umbrella://communications/online-abuse)
 
 ### SOURCES & FURTHER READING
 

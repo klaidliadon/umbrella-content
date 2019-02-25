@@ -18,4 +18,4 @@ Even if your messages are encrypted, any phone you use will broadcast your locat
 
 Protect privacy on social media. Blur faces with [ObscuraCam](umbrella://tools/messagging/s_obscuracam.md) and strip (or securely preserve) revealing metadata from images with [CameraV](https://guardianproject.info/apps/camerav/).
 
-(Learn more about this in [social media](umbrella://communications/social-media/beginner).)
+(Learn about [Online Privacy](umbrella://communications/online-privacy/beginner).)

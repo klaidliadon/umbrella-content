@@ -10,10 +10,10 @@ Swipe right for this lesson's checklist.
 *   [Travel Preparation](umbrella://information/backing-up)
 *   [Protect your Workspace](umbrella://information/protect-your-workspace)
 *   [Backing Up](umbrella://information/backing-up)
-*   [Evacuation](umbrella://operations/evacuation)
-*   [Arrests](umbrella://operations/arrests)
-*   [Kidnapping](umbrella://travel/kidnapping)
-*   [Sexual Assault](umbrella://operations/sexual-assault)
+*   [Evacuation](umbrella://incident-response/evacuation)
+*   [Arrests](umbrella://incident-response/arrests)
+*   [Kidnapping](umbrella://incident-response/kidnapping)
+*   [Sexual Assault](umbrella://incident-response/sexual-assault)
 
 ### SOURCES
 

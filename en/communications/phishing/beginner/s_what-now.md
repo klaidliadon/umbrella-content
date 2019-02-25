@@ -8,7 +8,8 @@ Swipe right for this lesson's checklist.
 
 *   [Malware](umbrella://information/malware)
 *   [Email](umbrella://communications/email)
-*   [Social Media](umbrella://communications/social-media)
+*   [Online Privacy](umbrella://communications/online-privacy)
+*   [Online Abuse](umbrella://communications/online-abuse)
 
 #### **FURTHER READING**
 

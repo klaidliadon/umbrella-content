@@ -9,7 +9,7 @@ title: Aftermath
 *	Arrange time off with full pay and benefits.
 * 	Facilitate appropriate professional counselling and long-term support.
 
-(Learn what to do if a team member is sexually assaulted in [Sexual Assault Expert](umbrella://operations/sexual-assault/expert).)
+(Learn what to do if a team member is sexually assaulted in [Sexual Assault Expert](umbrella://incident-response/sexual-assault/expert).)
 
 ## Debrief
 

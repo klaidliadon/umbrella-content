@@ -9,7 +9,7 @@ Swipe right for this lesson's checklist.
 *   [Security Planning](umbrella://assess-your-risk/security-planning)
 *   [Checkpoints](umbrella://travel/checkpoints)
 *   [Preparation](umbrella://travel/preparation)
-*	[Counter-surveillance](umbrella://operations/counter/surveillance/expert)
+*	[Being Followed](umbrella://work/being-followed/expert)
 
 ### FURTHER READING
 

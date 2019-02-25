@@ -56,6 +56,6 @@ _Positive feelings may return quite soon after a trauma._
 
 *	Other physical, behavioural, work-related, or emotional effects.
 
-(Learn more about this in [stress beginner](umbrella://personal/stress/beginner).)
+(Learn more about this in [stress beginner](umbrella://stress/stress/beginner).)
 
 _These are normal reactions to extreme circumstances, and do not mean you are weak or that something is wrong with you._

@@ -27,4 +27,4 @@ Crowds can turn very quickly. Trust your instinct.
 
 *Avoid masks or equipment that make you look like police.*
 
-(Learn more about this in [protective equipment](umbrella://personal/protective-equipment).)
+(Learn more about this in [protective equipment](umbrella://travel/protective-equipment).)

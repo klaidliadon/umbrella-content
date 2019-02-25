@@ -23,13 +23,13 @@ This lesson deals with chronic stress.
 
 Direct experience of, or close exposure to, incidents that are life-threatening or involve physical and emotional loss. 
 
-[Stress advanced](umbrella://personal/stress/advanced) deals with traumatic stress.   
+[Stress advanced](umbrella://stress/stress/advanced) deals with traumatic stress.   
 
 ## 3. Post-traumatic
 
 Prolonged stress which can occur months or even years after a traumatic incident. 
 
-[Stress expert](umbrella://personal/stress/expert) deals with post-traumatic stress.  
+[Stress expert](umbrella://stress/stress/expert) deals with post-traumatic stress.  
 
 # Manage stress
 

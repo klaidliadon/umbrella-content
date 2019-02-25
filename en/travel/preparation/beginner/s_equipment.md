@@ -23,7 +23,7 @@ Consider:
 *   Portable door jammer or door wedge;
 *	Protective equipment.
 
-(Learn about [protective equipment](umbrella://personal/protective-equipment).)
+(Learn about [protective equipment](umbrella://travel/protective-equipment).)
 
 ## Information and communications
 

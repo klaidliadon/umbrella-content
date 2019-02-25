@@ -4,7 +4,7 @@ title: What now?
 ---
 Swipe right for this lesson's checklist.
 
-Learn about witnessing protests in [protests beginner](umbrella://operations/protests/beginner).
+Learn about witnessing protests in [protests beginner](umbrella://work/protests/beginner).
 
 ### RELATED LESSONS
 

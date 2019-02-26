@@ -9,7 +9,7 @@ screens:
   - name: answer
     type: text_input
     label: 'Answer 1:'
-  title: ""
+  title: Question 1
 - items:
   - name: question-2
     type: text_input
@@ -17,7 +17,7 @@ screens:
   - name: answer-2
     type: text_input
     label: 'Answer 2:'
-  title: ""
+  title: Question 2
 - items:
   - name: question-3
     type: text_input
@@ -25,7 +25,7 @@ screens:
   - name: answer-3
     type: text_input
     label: 'Answer 3:'
-  title: ""
+  title: Question 3
 - items:
   - name: question-4
     type: text_input
@@ -33,10 +33,10 @@ screens:
   - name: answer-4
     type: text_input
     label: 'Answer 4:'
-  title: ""
+  title: Question 4
 - items:
   - name: personal-duress-word
     type: text_input
     label: Personal Duress Word
-  title: ""
+  title: Personal Duress Word
 title: Proof of Life Form

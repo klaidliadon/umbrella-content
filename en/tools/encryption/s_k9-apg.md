@@ -5,7 +5,7 @@ title: K9 & Open Keychain
 # K-9 & OPEN KEYCHAIN TOOL GUIDE
 
 
-**Lesson to read: [Email Advanced](umbrella://lesson/email/1).**  
+**Lesson to read: [Email Advanced](umbrella://communications/email/advanced).**  
 **Level**: Advanced    
 **Published:** May 2018    
 **Sources:** Security in a Box, [K9 WITH APG FOR ANDROID](https://securityinabox.org/en/guide/k9/android/), Open Keychain [FAQ](https://www.openkeychain.org/faq/). 
@@ -36,7 +36,7 @@ Before you start using **K-9 Mail** you will need:
 - An email account that supports either secure POP3 or IMAP connections. (See which settings you would use with the most common email providers [here](https://k9mail.github.io/documentation/accounts/providerSettings.html).   
 - An OpenPGP key-pair and public keys of the people you will communicate with. 
 
-(Learn more about public/private key encryption in the [email](umbrella://lesson/email) lesson. Learn how to generate your own key in the toolguides for [Mailvelope](umbrella://lesson/mailvelope), or PGP for [LINUX](umbrella://lesson/pgp-for-linux), [Mac OSX](umbrella://lesson/pgp-for-mac-os-x), or [Windows](umbrella://lesson/pgp-for-windows).)
+(Learn more about public/private key encryption in the [email](umbrella://communications/email) lesson. Learn how to generate your own key in the toolguides for [Mailvelope](umbrella://tools/messagging/s_mailvelope.md), or PGP for [LINUX](umbrella://tools/pgp/s_pgp-for-linux.md), [Mac OSX](umbrella://tools/pgp/s_pgp-for-mac-os-x.md), or [Windows](umbrella://tools/pgp/s_pgp-for-windows.md).)
 
 # 2. Install and configure K9 Mail
 

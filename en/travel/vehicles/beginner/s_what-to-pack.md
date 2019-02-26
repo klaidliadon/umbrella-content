@@ -17,7 +17,7 @@ Consider:
 *   Fluorescent warning triangle;
 *   Tow rope;
 
-(Learn about [protective equipment](umbrella://lesson/protective-equipment).)
+(Learn about [protective equipment](umbrella://travel/protective-equipment).)
 
 ## Documents:
 
@@ -32,7 +32,7 @@ Consider:
 *	Logbook and blank accident report;
 *   Other key documents (ID, proof of immunization, etc.)
 
-(Learn more about this in [preparation](umbrella://lesson/preparation).)
+(Learn more about this in [preparation](umbrella://travel/preparation).)
 
 ## General items:
 
@@ -45,4 +45,4 @@ Consider:
 *   Weather-proof clothing;
 *   Blankets or shade structure.
 
-(Learn more about this in [preparation](umbrella://lesson/preparation).)
+(Learn more about this in [preparation](umbrella://travel/preparation).)

@@ -8,7 +8,7 @@ Most popular VoIP providers, such as Skype and Google Hangouts, offer transport 
 
 Eavesdroppers cannot listen in, but the provider may. Whether this is a problem for you will depend on your threat model.
 
-(Learn more about this in [Security Planning](umbrella://lesson/security-planning) and [Managing Information.](umbrella://lesson/managing-information))
+(Learn more about this in [Security Planning](umbrella://assess-your-risk/security-planning) and [Managing Information.](umbrella://information/managing-information))
 
 # Don't use Skype 
 

@@ -4,15 +4,15 @@ title: What now?
 ---
 Swipe right for this lesson's checklist.
 
-Learn how to create a strong password in [Passwords Beginner.](umbrella://lesson/passwords/0)
+Learn how to create a strong password in [Passwords Beginner.](umbrella://information/passwords/beginner)
 
-Learn what to do if you might be forced to hand over your password in [Passwords Expert.](umbrella://lesson/passwords/2)
+Learn what to do if you might be forced to hand over your password in [Passwords Expert.](umbrella://information/passwords/expert)
 
 ### RELATED LESSONS/TOOLS
 
-*   [Backing Up](umbrella://lesson/backing-up)
-*   [Malware](umbrella://lesson/malware)
-*   [KeePassXC](umbrella://tools/keepassxc)
+*   [Backing Up](umbrella://information/backing-up)
+*   [Malware](umbrella://information/malware)
+*   [KeePassXC](umbrella://tools/encryption/s_keepassxc.md)
 
 ### SOURCES
 

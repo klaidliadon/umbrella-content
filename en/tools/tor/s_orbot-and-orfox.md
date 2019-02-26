@@ -7,7 +7,7 @@ Orbot & Orfox
 
 Privacy-Enhanced Web Browsing for Android
 
-**Lesson to read: [Internet](umbrella://lesson/the-internet), [Mobile Phones](umbrella://lesson/mobile-phones)**  
+**Lesson to read: [Censorship](umbrella://communications/censorship/beginner), [Mobile Phones](umbrella://communications/mobile-phones)**  
 **Level**: Beginner  
 **Time required**: 15 minutes  
 **Published:** April 2018    
@@ -26,7 +26,7 @@ Privacy-Enhanced Web Browsing for Android
 
 # 1. Introduction 
 
-Orbot allows other apps on Android devices to use the Internet more securely via the Tor Network. (Learn more about [**Tor**](umbrella://lesson/internet/1).) Orfox is a version of the Tor browser for Android that uses Orbot to connect to the Tor Network. 
+Orbot allows other apps on Android devices to use the Internet more securely via the Tor Network. (Learn more about [**Tor**](umbrella://communications/the-internet/advanced).) Orfox is a version of the Tor browser for Android that uses Orbot to connect to the Tor Network. 
 
 Remember, if you use Orfox to return to content you have already created without using Orfox, like a blog post, the site hosting the content will still know your real location.
 
@@ -109,7 +109,7 @@ When you are done with configuration, you will be presented with the deactivated
 
 # 4. Advanced Orbot configuration: Use a Tor Bridge
 
-If Tor access is restricted or you wish to disguise the fact that you are using Tor, you can configure Orbot to use *bridges*. Learn more about bridges in the [Tor for LINUX](umbrella://lesson/tor-for-linux) tool guide. 
+If Tor access is restricted or you wish to disguise the fact that you are using Tor, you can configure Orbot to use *bridges*. Learn more about bridges in the [Tor for LINUX](umbrella://tools/tor/s_tor-for-linux.md) tool guide. 
 
 **Step 1:** Tap the menu icon in the top right, and select *Settings*. Scroll down to *Bridges.* Check the box beside *Use Bridges.* 
  

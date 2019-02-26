@@ -6,9 +6,9 @@ Swipe right for this lesson's checklist.
 
 ### RELATED LESSONS/TOOLS
 
-*   [Mobile Phones](umbrella://lesson/mobile-phones)
-*   Signal for [Android](umbrella://lesson/signal-for-android)
-* 	Signal for [iOS](umbrella://lesson/signal-for-ios)
+*   [Mobile Phones](umbrella://communications/mobile-phones)
+*   Signal for [Android](umbrella://tools/messagging/s_signal-for-android.md)
+* 	Signal for [iOS](umbrella://tools/messagging/s_signal-for-ios.md)
 
 ### FURTHER READING
 

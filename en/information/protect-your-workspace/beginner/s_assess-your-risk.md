@@ -4,13 +4,13 @@ title: Assess your risk
 ---
 ### How might your information might be lost or compromised, and what would the impact be?
 
-(Learn more about this in [managing information](umbrella://lesson/managing-information).)
+(Learn more about this in [managing information](umbrella://information/managing-information).)
 
 ## Communication (information in transit)
 
 - List the communication channels you use for work and how you use them. Consider letters, faxes, mobile phones, land line phones, emails, Skype, social media and secure messaging platforms.
 
-(Learn more about this in [backing up](umbrella://lesson/backing-up).)
+(Learn more about this in [backing up](umbrella://information/backing-up).)
 
 ## Storage (information at rest)
 
@@ -22,4 +22,4 @@ title: Assess your risk
 
 - Consider how you destroy sensitive data when you no longer need it. Many shredders work on CDs and DVDs as well as paper documents. Many power drills and most hammers work on hard drives.
 
-(Learn about [safely deleting](umbrella://lesson/safely-deleting).)
+(Learn about [safely deleting](umbrella://information/safely-deleting).)

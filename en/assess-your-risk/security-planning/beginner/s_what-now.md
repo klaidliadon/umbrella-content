@@ -6,14 +6,14 @@ Swipe right for this lesson's checklist.
 
 ### RELATED LESSONS/TOOLS
 
-*   [Managing Information](umbrella://lesson/managing-information)
-*   [Travel Preparation](umbrella://lesson/backing-up)
-*   [Protect your Workspace](umbrella://lesson/protect-your-workspace)
-*   [Backing Up](umbrella://lesson/backing-up)
-*   [Evacuation](umbrella://lesson/evacuation)
-*   [Arrests](umbrella://lesson/arrests)
-*   [Kidnapping](umbrella://lesson/kidnapping)
-*   [Sexual Assault](umbrella://lesson/sexual-assault)
+*   [Managing Information](umbrella://information/managing-information)
+*   [Travel Preparation](umbrella://information/backing-up)
+*   [Protect your Workspace](umbrella://information/protect-your-workspace)
+*   [Backing Up](umbrella://information/backing-up)
+*   [Evacuation](umbrella://incident-response/evacuation)
+*   [Arrests](umbrella://incident-response/arrests)
+*   [Kidnapping](umbrella://incident-response/kidnapping)
+*   [Sexual Assault](umbrella://incident-response/sexual-assault)
 
 ### SOURCES
 

@@ -6,7 +6,7 @@ Swipe right for this lesson's checklist.
 
 ### RELATED LESSONS/TOOLS
 
-*   [Protecting Files](umbrella://lesson/protecting-files)
+*   [Protecting Files](umbrella://information/protecting-files)
 
 ### FURTHER READING
 

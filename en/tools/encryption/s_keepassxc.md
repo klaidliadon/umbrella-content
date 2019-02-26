@@ -7,7 +7,7 @@ KeePassXC
 
 Secure Password Manager
 
-**Lesson to read: [Passwords](umbrella://lesson/passwords/1).**  
+**Lesson to read: [Passwords](umbrella://information/passwords/advanced).**  
 **Level**: Beginner  
 **Time required**: 5 minutes to setup for a lifetime of blissful strong password usage.  
 **Published:** April 2018  
@@ -35,7 +35,7 @@ How KeePassXC works
 
 KeePassXC works with password databases, which are files that store a list of all your passwords. These databases are encrypted when they are stored on your computer’s hard disk. So, if your computer is off and someone steals it, they will not be able to read your passwords.
 
-Password databases can be encrypted using a master password. Since your master password protects all your other passwords, you should make it as strong as possible. (Learn how to create strong [Passwords](umbrella://lesson/passwords/0).)
+Password databases can be encrypted using a master password. Since your master password protects all your other passwords, you should make it as strong as possible. (Learn how to create strong [Passwords](umbrella://information/passwords/beginner).)
 
 Using a master password
 -----------------------
@@ -43,7 +43,7 @@ Using a master password
 A master password acts like a key—in order to open the password database, you need the correct master password. Without it, nobody can see what’s inside the password database. When using a master password to secure your password database, here are a couple of things to keep in mind.
 
 *   This password will decrypt all of your passwords, so it needs to be strong! It should be hard to guess and long. The longer it is, the less you need to worry about having special characters or capital letters or numbers. So make your master password a passphrase. A passphrase is a string of many words that are easy for you to remember but difficult for others to guess.
-*   You can create a strong master passphrase [using regular, random words](https://www.eff.org/dice). These are easier to remember than unnatural combinations of symbols and capital letters. (Learn more about [Passwords](umbrella://lesson/passwords).)
+*   You can create a strong master passphrase [using regular, random words](https://www.eff.org/dice). These are easier to remember than unnatural combinations of symbols and capital letters. (Learn more about [Passwords](umbrella://information/passwords).)
 
 Getting started with KeePassXC
 ------------------------------

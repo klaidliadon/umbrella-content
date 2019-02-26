@@ -4,19 +4,19 @@ title: Email security tips
 ---
 # Use less email. 
 
-Be aware of what you write and what would happen if it fell into the wrong hands. If in doubt, don't email it. [Sending a message](umbrella://lesson/sending-a-message) is more secure. 
+Be aware of what you write and what would happen if it fell into the wrong hands. If in doubt, don't email it. [Sending a message](umbrella://communications/sending-a-message) is more secure. 
 
 ## Protect your accounts
 
-Use [strong passwords](umbrella://lesson/passwords/0) and [2FA.](umbrella://lesson/passwords/1)
+Use [strong passwords](umbrella://information/passwords/beginner) and [2FA.](umbrella://information/passwords/advanced)
 
 ## Use up-to-date anti-virus software. 
 
-Email security will not protect you if spyware on your device can record what your type. Don't ignore security warnings in your browser or webmail. (Learn to prevent [malware](umbrella://lesson/malware).)
+Email security will not protect you if spyware on your device can record what your type. Don't ignore security warnings in your browser or webmail. (Learn to prevent [malware](umbrella://information/malware).)
 
 ## Don't click on unexpected links or attachments. 
 
-Learn to spot [phishing](umbrella://lesson/phishing).
+Learn to spot [phishing](umbrella://communications/phishing).
 
 ## Use a pseudeonym. 
 
@@ -38,4 +38,4 @@ Use code words instead of sensitive names and locations. Agree code words with e
 
 Anonymity software like the Tor browser helps you hide your email service from anyone who might be monitoring your Internet connection.
 
-(Learn more about Tor in the [Internet](umbrella://lesson/the-internet) lesson.)
+(Learn more about this in [Online Privacy](umbrella://communications/online-privacy/advanced).)

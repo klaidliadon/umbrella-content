@@ -4,13 +4,13 @@ title: What now?
 ---
 Swipe right for this lesson's checklist.
 
-Learn how to encrypt sensitive emails in [Email Advanced](umbrella://lesson/email/1).
+Learn how to encrypt sensitive emails in [Email Advanced](umbrella://communications/email/advanced).
 
 ### RELATED LESSONS/TOOLS
 
-*   [Malware](umbrella://lesson/malware)
-*   [Internet](umbrella://lesson/the-internet)
-*   [Passwords](umbrella://lesson/passwords)
+*   [Malware](umbrella://information/malware)
+*   [Online Privacy](umbrella://communications/online-privacy)
+*   [Passwords](umbrella://information/passwords)
 
 ### SOURCES
 

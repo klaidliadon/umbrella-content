@@ -12,4 +12,4 @@ title: At your workstation
 
 *Paper calendars, planners, journals, address books and sticky notes are refreshingly immune to malware, but they are also impossible to encrypt.*
 
-(Learn more about this in [borders](umbrella://lesson/borders).)
+(Learn more about this in [borders](umbrella://travel/borders).)

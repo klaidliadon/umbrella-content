@@ -4,11 +4,11 @@ title: What now?
 ---
 Swipe right for this lesson's checklist.
 
-Learn about satellite phones in [Radio and Satellite Phones Advanced](umbrella://lesson/radios-and-satellite-phones/1).
+Learn about satellite phones in [Radio and Satellite Phones Advanced](umbrella://communications/radios-and-satellite-phones/advanced).
 
 ### RELATED LESSONS/TOOLS
 
-*   [Making a Call](umbrella://lesson/making-a-call)
+*   [Making a Call](umbrella://communications/making-a-call)
 
 ### FURTHER READING
 

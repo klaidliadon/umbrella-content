@@ -22,7 +22,7 @@ An attacker who is able to join your wireless network has the same access as one
 
 - Set a strong passphrase on your wireless network to stop others from joining or monitoring your traffic. (Look for a *WPA2 password* setting on your router or access point.) If your Wi-Fi relies on a weak password — or no password at all — anyone within range is a potential intruder. 
 
-(Learn more about [passwords](umbrella://lesson/passwords).)
+(Learn more about [passwords](umbrella://information/passwords).)
 
 - Name your wireless network something generic that does not reveal anything about your identity, what you do, or where you are.
 

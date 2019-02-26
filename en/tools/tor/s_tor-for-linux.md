@@ -1,13 +1,13 @@
 ---
 index: 19
-title: Tor for LINUX
+title: Tor for Linux
 ---
 Tor for Linux
 =========================
 
 Anonymity Online
 
-**Lesson to read: [Internet](umbrella://lesson/internet)**  
+**Lesson to read: [Online Privacy](umbrella://communications/online-privacy/advanced)**  
 **Level**: Beginner-Advanced  
 **Time required**: 15 minutes—1 hour   
 **Published:** April 2018    
@@ -179,7 +179,7 @@ If you are running a **32-bit** system, *Terminal* will display `i686` or `i386`
 Verifying Tor Browser
 ------------------
 
-GnuPG comes pre-installed on many Linux systems, so you can probably check the Tor Browser's *Open PGP signature* without installing additional software. (Learn more about PGP in the [Email](umbrella://lesson/email/2) lesson and [PGP for LINUX tool guide]  (umbrella://lesson/pgp-for-linux).)
+GnuPG comes pre-installed on many Linux systems, so you can probably check the Tor Browser's *Open PGP signature* without installing additional software. (Learn more about PGP in the [Email](umbrella://communications/email/expert) lesson and [PGP for LINUX tool guide]  (umbrella://tools/pgp/s_pgp-for-linux.md).)
 
 **Step 1**. Import the *Tor Project's* signing key (**0x4E2C6E8793298290**) by launching *Terminal* and executing the following command: 
 

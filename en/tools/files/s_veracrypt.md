@@ -7,7 +7,7 @@ VeraCrypt Tool Guide
 
 Secure File Storage
 
-**Lesson to read: [Protecting Files](umbrella://lesson/protecting-files)**  
+**Lesson to read: [Protecting Files](umbrella://information/protecting-files)**  
 **Level:** Advanced  
 **Time required:** 30-60 minutes
 
@@ -228,7 +228,7 @@ The _Volume Size_ window lets you specify the size of the _container_ you are ab
 
 _Figure 9: Volume Creation Wizard featuring the Volume Password window_
 
-**IMPORTANT**: Choosing a strong passphrase is one of the most important steps you will perform when creating a **VeraCrypt** volume. The stronger the passphrase, the better. You don't have to choose your own passphrases (or even remember them!) if you use a _password manager_ like **KeePassXC**. Please refer to the **[Passwords]** (umbrella://lesson/passwords) lesson and [**KeePassXC Tool Guide**](umbrella://lesson/keepassxc) guides to learn more about good passphrase practices.
+**IMPORTANT**: Choosing a strong passphrase is one of the most important steps you will perform when creating a **VeraCrypt** volume. The stronger the passphrase, the better. You don't have to choose your own passphrases (or even remember them!) if you use a _password manager_ like **KeePassXC**. Please refer to the **[Passwords]** (umbrella://information/passwords) lesson and [**KeePassXC Tool Guide**](umbrella://tools/encryption/s_keepassxc.md) guides to learn more about good passphrase practices.
 
 **Step 11**. **Type** your passphrase and then **re-type** your passphrase into the _Confirm_ field to activate the **\[Next\]** button.
 
@@ -384,7 +384,7 @@ As when you created your _standard volume_, consider the number and types of fil
 
 _Figure 12: VeraCrypt Hidden Volume Password creation screen_
 
-You must now choose a passphrase for the _hidden volume_ that is _different_ from the one you chose for your _standard volume_. Again, remember to choose a strong passphrase. Please refer to the **[Passwords]** (umbrella://lesson/passwords) lesson to learn more.
+You must now choose a passphrase for the _hidden volume_ that is _different_ from the one you chose for your _standard volume_. Again, remember to choose a strong passphrase. Please refer to the **[Passwords]** (umbrella://information/passwords) lesson to learn more.
 
 **Tip**: If you use a _password manager_ such as **KeePassXC** and are concerned about being pressured to reveal the contents of your **VeraCrypt** container, you can store the passphrase for your (decoy) _standard volume_ in **KeePassXC**, but you should memorise the passphrase for your _hidden volume._ Otherwise, by handing over your **KeePassXC** passphrase, you will also reveal your _hidden volume_ passphrase.
 

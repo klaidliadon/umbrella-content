@@ -4,9 +4,9 @@ title: What now?
 ---
 Swipe right for this lesson's checklist. 
 
-[Workspace Beginner](umbrella://lesson/protect-your-workspace/0) tells you how to assess your work environment and plan to defend it.
+[Workspace Beginner](umbrella://information/protect-your-workspace/beginner) tells you how to assess your work environment and plan to defend it.
 
-[Workspace Expert]((umbrella://lesson/protect-your-workspace/2) tells you how to protect your devices from physical threats. 
+[Workspace Expert]((umbrella://information/protect-your-workspace/expert) tells you how to protect your devices from physical threats. 
 
 ### SOURCES
 

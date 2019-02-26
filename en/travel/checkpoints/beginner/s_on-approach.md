@@ -33,4 +33,4 @@ title: On Approach
     * What is the vehicle carrying?  
 *   Choose a spokesperson. 
 
-(Learn more about cover stories in the [borders](umbrella://lesson/borders) lesson.)
+(Learn more about cover stories in the [borders](umbrella://travel/borders) lesson.)

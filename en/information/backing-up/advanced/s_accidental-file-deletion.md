@@ -6,7 +6,7 @@ title: File recovery
 
 When you delete a file in on your computer, it may disappear, but its contents can be recovered.
 
-(Learn more about [safely deleting](umbrella://lesson/safely-deleting).) 
+(Learn more about [safely deleting](umbrella://information/safely-deleting).) 
 
 If you accidentally delete information, this security vulnerability can work to your advantage. 
 
@@ -16,7 +16,7 @@ Several programs can restore access to recently deleted files, such as Recuva fo
 
 TestDisk and PhotoRec by [CGSecurity](www.cgsecurity.org/) offer free, open-source data recovery for Linux, Mac, and Windows.
 
-(Learn how to use [Recuva](umbrella://lesson/recuva) in our tool guide.)
+(Learn how to use [Recuva](umbrella://tools/files/s_recuva.md) in our tool guide.)
 
 # Recovery tips
 

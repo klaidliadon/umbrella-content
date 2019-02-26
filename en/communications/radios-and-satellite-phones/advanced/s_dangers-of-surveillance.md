@@ -24,4 +24,4 @@ If your satellite phone is confiscated, authorities or hostile actors can access
 
 *	Keep the SIM card separate from the phone when not transmitting.
 
-(Learn about [protecting files](umbrella://lesson/protecting-files) and [safely deleting](umbrella://lesson/safely-deleting).)
+(Learn about [protecting files](umbrella://information/protecting-files) and [safely deleting](umbrella://information/safely-deleting).)

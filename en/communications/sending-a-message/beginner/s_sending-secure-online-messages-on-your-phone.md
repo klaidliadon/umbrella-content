@@ -14,7 +14,7 @@ Download Signal for:
 
 The person you are communicating with must also install Signal.
 
-(Learn about [making a call](umbrella://lesson/making-a-call).)
+(Learn about [making a call](umbrella://communications/making-a-call).)
 
 ## Your phone number is your Signal username. 
 
@@ -27,11 +27,11 @@ The person you are communicating with must also install Signal.
 *	Signal developers [Open Whisper Systems](https://signal.org/about/) operate a central server. You can't run your own, which would give you more control over your security. 
 *	However, they cannot hear your conversations, so no one else can either. 
 
-(Learn more about this in Signal for [Android](umbrella://lesson/signal-for-android) and [iOS](umbrella://lesson/signal-for-ios).)
+(Learn more about this in Signal for [Android](umbrella://tools/messagging/s_signal-for-android.md) and [iOS](umbrella://tools/messagging/s_signal-for-ios.md).)
 
 *Some countries block Signal servers to prevent secure communications. To circumvent blocking, use a VPN.*
 
-(Learn more about this in [Internet](umbrella://lesson/the-internet/0).)
+(Learn more about this in [Censorship](umbrella://communications/censorship/beginner).)
 
 # Don't use Telegram
 

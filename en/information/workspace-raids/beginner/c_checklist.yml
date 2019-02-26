@@ -1,0 +1,28 @@
+index: 100
+list:
+- label: PREPARE FOR A RAID
+- check: Assess your risk of a raid. How likely is it? What is the possible impact?
+- check: Monitor your environment. What could signal that a raid is likely or imminent?
+- check: Identify trusted legal support and understand your legal rights
+- check: Hide or remove valuable assets and critical or sensitive information from
+    your workplace
+- check: Assess the penalties for obstructing the raid and decide what, if any steps
+    are worth taking to protect information at short notice
+- check: Create an office raid policy with legal guidance, who to tell, and how to
+    respond during a raid
+- check: Create and maintain a backup schedule
+- check: Draft communications you will use during a raid
+- check: Share information and build alliances to understand and reduce the risk of
+    a raid
+- check: Run a practice raid or a drill
+- label: DURING A RAID
+- check: Take emergency steps to protect information only if you understand the risk
+    and have decided it is worth it
+- check: Get help (lawyers, team members, allies)
+- check: If possible, delay officials until help arrives
+- check: Cooperate, but don't volunteer information
+- check: Record official IDs and paperwork
+- check: Stay with officials at all times and document what happens
+- check: Share information with anyone else who is now at risk
+- check: Share information as needed to get support
+- check: Replace devices and documents in order to continue work

@@ -1,0 +1,14 @@
+index: 100
+list:
+- label: DOCUMENT
+- check: What you were trying to access
+- check: The time and date
+- check: The company that provides your internet service
+- check: The device you use
+- check: Screenshots of the error screen showing a page is offline
+- check: Any other information you think would be helpful
+- check: If you can, share your data with others
+- label: MEASURE
+- check: Assess your risk from measuring censorship
+- check: If it is safe for you, scan your network from your browser with [NetBlocks](https://netblocks.org/scan/)
+- check: If it is safe for you, install OONI Probe)

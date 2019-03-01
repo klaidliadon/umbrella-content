@@ -1,0 +1,18 @@
+index: 100
+list:
+- label: PREPARE FOR SHUTDOWNS
+- check: Assess if the network is vulnerable to deliberate or accidental shutdowns
+- check: Assess the liklihood that authorities will shut down the Internet
+- check: Identify wired connections and landlines for emergency use
+- check: Obtain VPNs and backup SIM cards as needed
+- check: Update security plans to ensure measures that require a connection include
+    an offline backup plan
+- label: DURING A SHUTDOWN
+- check: Investigate exactly which services are disrupted and keep records
+- check: Verify information before you act
+- check: Stay with people you trust until you have established a way to communicate
+- check: Stay away from unpredictable crowds, or identify an escape route
+- check: Resist the temptation to download untrusted software to communicate or get
+    online
+- check: Resist the temptation to share sensitive information using software or networks
+    that may be monitored

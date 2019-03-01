@@ -14,7 +14,7 @@ If so:
 
 Do not trust that you will never hand over the password. Consider how to hide the existence of the data or device you are protecting with a password.  
 
-(Learn more about this in [protecting files](umbrella://information/protecting-files/beginner).)
+(Learn more about this in [protecting files](umbrella://information/protecting-files/advanced).)
 
 ## Maintain a decoy
 

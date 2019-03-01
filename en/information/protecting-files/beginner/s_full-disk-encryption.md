@@ -22,7 +22,7 @@ title: Full Disk Encryption
 
 *BitLocker's code is closed and proprietary, which means it is hard to know how secure it is. Using BitLocker requires you trust Microsoft provides a secure storage system without hidden vulnerabilities. Consider an alternative open-source operating system such as GNU/Linux or BSD, especially a version that has been hardened against security attacks, such Tails or Qubes. Alternatively, consider installing an alternative disk encryption software, Veracrypt, to encrypt your hard drive.*
 
-(Learn more about this in [Protecting Files Advanced](umbrella://information/protecting-files/beginner).)
+(Learn more about this in [Protecting Files Advanced](umbrella://information/protecting-files/advanced).)
 
 Remember: Whatever your device calls it, encryption is only as good as your password. 
 

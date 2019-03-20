@@ -110,7 +110,7 @@ screens:
   title: Status
 - items:
   - name: security-guidelines-cover-type-incident-guidelines-followed
-    type: multiple_choice
+    type: single_choice
     label: Are you following guidelines to resolve this incident?
     options:
     - label: Yes, I am following guidelines
@@ -163,7 +163,7 @@ screens:
   title: Notification
 - items:
   - name: inclination-motive-perpetrators
-    type: multiple_choice
+    type: single_choice
     label: Who carried out the attack?
     options:
     - label: The attacker identified themselves (please provide details)

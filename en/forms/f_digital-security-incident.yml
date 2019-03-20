@@ -100,7 +100,7 @@ screens:
   title: Scale
 - items:
   - name: incident-resolved
-    type: multiple_choice
+    type: single_choice
     label: Has the incident been resolved?
     options:
     - label: Yes, I’m using this form to document what happened

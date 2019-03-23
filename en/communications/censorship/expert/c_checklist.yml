@@ -11,4 +11,4 @@ list:
 - label: MEASURE
 - check: Assess your risk from measuring censorship
 - check: If it is safe for you, scan your network from your browser with [NetBlocks](https://netblocks.org/scan/)
-- check: If it is safe for you, install OONI Probe)
+- check: If it is safe for you, install OONI Probe

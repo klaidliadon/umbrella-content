@@ -11,7 +11,6 @@ title: Digital
 ## Digital Security First Aid Kit
 
 **Where:** Global  
-
 **Type of Threat:** Digital security incidents, website/social media breaches, seized devices, DDoS mitigation, malware  
 **Accept Urgent Appeals?** No 
 
@@ -27,7 +26,7 @@ title: Digital
 
 **Description:** The Digital Security Helpline is a free of charge resource for civil society around the world. It is run by the international human rights organization Access. It provides rapid response on digital security incidents, tool recommendations and support for securing technical infrastructure, websites and social media against attacks.  
 
-**Web site:** [https://www.accessnow.org)](https://www.accessnow.org)   
+**Web site:** [https://www.accessnow.org](https://www.accessnow.org)   
 **Email:** help@accessnow.org
 
 ## Tactical Technology Collective
@@ -38,7 +37,7 @@ title: Digital
 
 **Description:** They have three focal areas: understanding & shaping issues; digital security and privacy; and data politics. They work to raise awareness, build practical skills and offer both critical reflection and inspiration in all of these areas. Through trainings and workshops they provide direct support to over 2000 advocates a year, either through intensive training in small groups, or through 'flash trainings' or clinics at large-scale gatherings and conferences.  
 
-**Web site:** [https://tacticaltech.org)](https://tacticaltech.org)  
+**Web site:** [https://tacticaltech.org](https://tacticaltech.org)  
 **Email:** ttc@tacticaltech.org  
-Berlin, Tel: (+49) (0) 30 41 71 53 33  
-Bangalore, Tel: (+ 91) (0)80 4153 1129
+Berlin, Tel: (+49) (0)30 41 71 53 33  
+Bangalore, Tel: (+91) (0)80 4153 1129

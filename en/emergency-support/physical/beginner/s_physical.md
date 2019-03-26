@@ -29,8 +29,8 @@ Dublin Tel: (+353) 1 212 3750
 
 Brussels, Tel: (+32) 2 230 93 83
 
-**Email:** info@frontlinedefenders.org 
-**Secure Online Contact Form:** https://www.frontlinedefenders.org/secure/comment.php?l=en   
+**Email:** info@frontlinedefenders.org
+**Secure Online Contact Form:** [Front Line Defenders secure contact](https://www.frontlinedefenders.org/secure/comment.php?l=en)
 
 ## Rory Peck Trust
 

@@ -19,7 +19,7 @@ You may feel helpless, but you can take action. The following strategies have pr
 
 *	Don't confront the person (online or otherwise); end all contact with them immediately.
 
-*	Filters your email account(s) to block their email address.
+*	Filter your email account(s) to block their email address.
 
 *	Block them from your social networking accounts and change the privacy settings to try to keep them accessing from your list of friends.
 

@@ -43,7 +43,6 @@ London, Tel: (+44) 203 219 7860
 ## U.S. Centers for Disease Control and Prevention
 
 **Where:** Global  
-
 **Type of Threat:** Disease, outbreak, medical health protection  
 **Language:** English  
 **Accept Urgent Appeals?** No  
@@ -300,8 +299,8 @@ Geneva, Tel: (+41) 22 917 1234
 
 **Additional Resources:**
 
-*   Guidelines for submitting complaints: [www2.ohchr.org/english/issues/ defenders/complaints.htm](http://www2.ohchr.org/english/issues/defenders/complaints.htm)
-*   UN Declaration on Human Rights Defenders [www2.ohchr.org/english/issues/defenders/declaration.htm](www2.ohchr.org/english/issues/defenders/declaration.htm)
+*   [Guidelines for submitting complaints:](http://www2.ohchr.org/english/issues/defenders/complaints.htm)
+*   [UN Declaration on Human Rights Defenders](www2.ohchr.org/english/issues/defenders/declaration.htm)
 
 ## U.N. Office of the High Commissioner for Human Rights
 
@@ -310,7 +309,7 @@ Geneva, Tel: (+41) 22 917 1234
 
 **Description:** The UN Office of the High Commissioner for Human Rights (OHCHR) promotes and protects the enjoyment and full realization by all people of all rights established in the Charter of the United Nations, including the Universal Declaration of Human Rights.  
 
-**Web site:** [www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/)  
+**Web site:** [U.N. Office of the High Commissioner for Human Rights](https://www.ohchr.org/EN/pages/home.asp)  
 Geneva, Tel: (+41) 22 917 0656  
 **Email a complaint:** urgent-action@ohchr.org (Follow the instructions [here](http://www2.ohchr.org/english/bodies/chr/special/communications.htm))
 
@@ -329,9 +328,9 @@ Geneva, Tel: (+41) 22 917 0656
 **Description:** The Inter-American Commission a) receives, analyzes, and investigates petitions alleging human rights violations; b) observes the general human rights situation in member states; c) carries out on-site visits to analyze specific situations; and d) submits cases to the Inter-American Court for litigation. The Inter-American Court issues and enforces judgments. Both are comprised of representatives from members of the Organization of American States.  
 **Note:** Individuals and citizen sector organizations may directly petition the Inter-American Commission, only after exhausting all options within their State to address the situation.  
 
-**Websites:** 
-[Inter-American Commission](https://www.oas.org/es/cidh/) 
-[Inter-American Court](http://www.corteidh.or.cr/)
+**Websites:**  
+[Inter-American Commission](https://www.oas.org/es/cidh/)  
+[Inter-American Court](http://www.corteidh.or.cr/)  
 
 ## African Commission on Human and People's Rights
 

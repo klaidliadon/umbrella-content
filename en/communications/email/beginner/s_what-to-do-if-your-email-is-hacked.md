@@ -56,7 +56,7 @@ If appropriate for your situation and threat model, inform your email provider o
 
 Consider free, open-source email software like Thunderbird. 
 
-(Learn about open-source software in [Malware Advanced]([malware](umbrella://information/malware/advanced) and how to add encryption in [Email Advanced.](umbrella://communications/email/advanced)) 
+(Learn about open-source software in [Malware Advanced](umbrella://information/malware/advanced) and how to add encryption in [Email Advanced.](umbrella://communications/email/advanced)) 
 
 ## Switch provider.
 

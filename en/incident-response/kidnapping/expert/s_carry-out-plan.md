@@ -23,7 +23,7 @@ The greatest aid to morale is to manage the incident well.
 
 ## Avoid paying ransom 
 
-*	Paying ransom or making a concession may endanger more colleagues by encouraging further kidnaps.
+*	Paying ransom or making a concession may endanger more colleagues by encouraging further kidnaps;
 *	Have a public policy of no ransom.
 
 (Learn more about this in [kidnapping beginner](umbrella://incident-response/kidnapping/beginner).)

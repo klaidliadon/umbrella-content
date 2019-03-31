@@ -10,7 +10,7 @@ Teams will naturally want to resolve the incident as safely and quickly as possi
 *	Encourage optimism;  
 *	Provide enough food and rest. 
 
-(Learn about [chronic]((umbrella://stress/stress/beginner) and [traumatic](umbrella://stress/stress/advanced) stress.)
+(Learn about [chronic](umbrella://stress/stress/beginner) and [traumatic](umbrella://stress/stress/advanced) stress.)
 
 ## Work effectively
 

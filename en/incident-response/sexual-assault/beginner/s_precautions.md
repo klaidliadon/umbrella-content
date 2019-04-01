@@ -29,8 +29,8 @@ Empowering self-defence training will equip you to resist attackers using forcef
 
 *	Wear a head scarf if appropriate;
 *  Wear a wedding ring, whether real or fake;
-*  Avoid necklaces, ponytails, or anything that can be grabbed. 
-*	Minimize makeup or jewelry to avoid unwanted attention.
+*  Avoid necklaces, ponytails, or anything that can be grabbed;
+*	Minimize makeup or jewelry to avoid unwanted attention;
 *	Carry equipment discreetly, in a nondescript bag.
 
 *Consider carrying pepper spray or even spray deodorant to deter aggressors.*
@@ -39,17 +39,17 @@ Empowering self-defence training will equip you to resist attackers using forcef
 
 ## Trusted companions
  
-* Travel and work with friends, colleagues or support staff (like translators).
-* Vet local services and support staff carefully.
+* Travel and work with friends, colleagues or support staff (like translators);
+* Vet local services and support staff carefully;
 * Keep in regular contact with your team. 
 
 ## Behaviour
 
 * Appear familiar with the environment;
 * Appear confident; 
-* Avoid striking up conversation or making eye contact with strangers. 
+* Avoid striking up conversation or making eye contact with strangers;
 * Gestures of familiarity such as hugging or smiling, even with colleagues, can be misinterpreted and raise the risk of
-unwanted attention. 
+unwanted attention;
 * Women should stay near the edges of predominantly male crowds and
 have an escape path in mind. 
 
@@ -63,18 +63,16 @@ have an escape path in mind.
 
 ## Accommodation
 
-*	Choose a hotel with security guards whenever possible
-* 	avoid rooms with accessible windows or balconies. 
-*  Use all locks on hotel doors
+*	Choose a hotel with security guards whenever possible;
+* 	avoid rooms with accessible windows or balconies; 
+*  Use all locks on hotel doors;
 *  consider using your own lock and doorknob alarm. 
 
 ## Avoid risk
 
-* Avoid staying in remote areas without
-a trusted companion; 
+* Avoid staying in remote areas without a trusted companion; 
 *	Avoid unofficial taxis or taxis with multiple strangers; 
-*	Avoid using elevators or corridors
-where you would be alone with strangers; 
+*	Avoid using elevators or corridors where you would be alone with strangers; 
 *	Avoid eating out alone, unless you are sure of the setting; 
 * Avoid spending long periods alone with men you don't trust. 
 

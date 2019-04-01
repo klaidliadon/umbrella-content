@@ -27,7 +27,7 @@ Sexual exploitation such as the extortion of sexual favours for material and phy
 Sexual harassment can:
 
 *	Lead to assault if unchecked;
-*  	Be very distressing 
+*  	Be very distressing;
 *	Cause psychological and physical problems, sometimes long after an incident. 
 
 Sexual harassment may take many forms, and different cultures may define it differently.

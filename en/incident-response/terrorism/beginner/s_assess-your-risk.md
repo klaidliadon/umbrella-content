@@ -18,7 +18,7 @@ title: Assess your risk
 * Do government or law enforcement intelligence sources indicate a high risk of attack? 
 * Do other sources of information indicate a high risk of attack? 
 
-Learn about [Security Planning](umbrella://assess-your-risk/security-planning)
+(Learn about [Security Planning](umbrella://assess-your-risk/security-planning))
 
 ## Warnings
 

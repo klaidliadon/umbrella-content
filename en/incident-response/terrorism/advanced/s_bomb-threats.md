@@ -42,7 +42,7 @@ How should they communciate news of a threat?
 		** Is there more than one?  
 		** What does it look like?  
 		** What type or size of device is it?  
-		** How will it be detonated?  
+		* How will it be detonated?  
 		** Will you detonate it yourself?  
 		** What is your name?  
 		** Are you acting alone?  

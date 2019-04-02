@@ -4,7 +4,7 @@ title: What Now?
 ---
 Swipe right for this lesson's checklist
 
-Learn how to encrypt files in [Protecting Files Advanced](umbrella://information/protecting-files/advanced).)
+(Learn how to encrypt files in [Protecting Files Advanced](umbrella://information/protecting-files/advanced).)
 
 ### RELATED LESSONS/TOOLS
 

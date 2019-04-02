@@ -1,7 +1,7 @@
 index: 100
 list:
-- check: Review or create your [backing up](umbrella://lesson/backing-up) policy as
-    part of your physical security plan.
+- check: Review or create your [backing up](umbrella://information/backing-up) policy
+    as part of your physical security plan.
 - check: List the communication channels you use for work and how you use them.
 - check: List what you store sensitive information on, and its physical location.
 - check: List whether each storage device is encrypted and who can decrypt them.

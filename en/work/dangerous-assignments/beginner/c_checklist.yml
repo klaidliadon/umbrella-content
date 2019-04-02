@@ -5,6 +5,6 @@ list:
 - check: Carry ID and medical information.
 - check: Identify a backup communications plan in case you lose mobile coverage.
 - check: Research local hostile actors.
-- check: Prepare [vehicles](umbrella://lesson/vehicles) if you need to.
-- check: Prepare [protective equipment](umbrella://lesson/protective-equipment) if
+- check: Prepare [vehicles](umbrella://travel/vehicles) if you need to.
+- check: Prepare [protective equipment](umbrella://travel/protective-equipment) if
     you need to.

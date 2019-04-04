@@ -8,7 +8,7 @@ title: At the Protest
 
 *   **To communicate:**  
 
-Law enforcement may be monitoring communications. Encrypt your messages by using Signal for [Android](umbrella://tools/messagging/s_signal-for-android.md) or [iOS](umbrella://tools/messagging/s_signal-for-ios.md).) 
+Law enforcement may be monitoring communications. Encrypt your messages by using Signal for [Android](umbrella://tools/messagging/s_signal-for-android.md) or [iOS](umbrella://tools/messagging/s_signal-for-ios.md).
 
 Even if your messages are encrypted, any phone you use will broadcast your location and other metadata that reveals who you are talking to and for how long.
 

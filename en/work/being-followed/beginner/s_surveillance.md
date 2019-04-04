@@ -14,8 +14,8 @@ Consider who might make you a surveillance target, and why.
 ## Who?
 
 *   Local authorities (police, intelligence, military);
-*   International intelligence agencies;
-*	  Embassy officials from other countries;
+*   International intelligence agencies;  
+*   Embassy officials from other countries;  
 *   Criminals;
 *   Terrorists;
 *   Private contractors;

@@ -7,7 +7,7 @@ Look out for people who are:
 ## Equipped for surveillance
 
 *   Wearing comfortable or outdoor clothing and footwear;
-*   Carrying personal equipment, such as:
+*   Carrying personal equipment, such as:  
 	*	Sports or smart watch;
 	*	Communications device, including an earpiece or radio switch. 
 

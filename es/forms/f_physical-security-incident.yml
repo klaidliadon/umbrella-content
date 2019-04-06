@@ -1,0 +1,106 @@
+screens:
+- items:
+  - name: ""
+    type: ""
+    label: 'Nombre: '
+  - name: Título
+    type: ""
+    label: 'Título:'
+  - name: ""
+    type: ""
+    label: 'Teléfono:'
+  - name: ""
+    type: ""
+    label: 'Dirección de correo electrónico:'
+  - name: ""
+    type: ""
+    label: 'Método de comunicación seguro (por ej. Número de señal segura, ID de correo
+      electrónico PGP):'
+  title: Información de contacto
+- items:
+  - name: ""
+    type: ""
+    label: 'Proporcione una breve descripción:'
+  title: Descripción del incidente
+- items:
+  - name: ""
+    type: ""
+    label: Tipo de incidente
+    options:
+    - label: Amenaza / Acoso
+      value: Amenaza / Acoso
+    - label: Difícil encuentro con autoridades / fuerzas militares.
+      value: Difícil encuentro con autoridades / fuerzas militares.
+    - label: Detención / Arresto
+      value: Detención / Arresto
+    - label: Robo / Emboscada
+      value: Robo / Emboscada
+    - label: Robo de auto
+      value: Robo de auto
+    - label: Asalto personal
+      value: Asalto personal
+    - label: Abuso Sexual
+      value: Asalto sexual
+    - label: Secuestro / Rapto
+      value: Secuestro / Secuestro
+    - label: Disparo
+      value: Disparo
+    - label: Bombardeo / Fuego Cruzado
+      value: Bombardeo / fuego cruzado
+    - label: Mina de tierra
+      value: Mina de tierra
+    - label: Otro
+      value: Otro
+  - name: ""
+    type: ""
+  title: Tipo de incidente
+- items:
+  - name: ""
+    type: ""
+    label: Naturaleza de las lesiones o daños / amenazas hechas / propiedad robada,
+      etc.
+  title: Impacto / impacto potencial
+- items:
+  - name: ""
+    type: ""
+  title: ¿Pasos de respuesta tomados?
+- items:
+  - name: ""
+    type: ""
+  title: ¿Motivo o perpetradores?
+- items:
+  - name: ""
+    type: ""
+    label: ¿A quién se ha informado el incidente a nivel local?
+  title: ¿A quién se ha informado el incidente a nivel local?
+- items:
+  - name: ""
+    type: ""
+    label: ¿Sus pautas de seguridad cubren este tipo de incidente? ¿Se siguieron las
+      pautas?
+  title: ¿Sus pautas de seguridad cubren este tipo de incidente? ¿Se siguieron las
+    pautas?
+- items:
+  - name: ""
+    type: ""
+    label: ¿Las pautas o cualquier otro aspecto de la gestión de seguridad deben revisarse
+      de alguna manera?
+  title: ¿Las pautas o cualquier otro aspecto de la gestión de seguridad deben revisarse
+    de alguna manera?
+- items:
+  - name: ""
+    type: ""
+    label: 'Lecciones aprendidas:'
+  title: Sugiera medidas específicas que puedan ayudar a evitar este tipo de incidentes
+    en el futuro.
+- items:
+  - name: ""
+    type: ""
+    label: ¿Alguna acción solicitada?
+  title: ¿Alguna acción solicitada?
+- items:
+  - name: ""
+    type: ""
+    label: ¿Alguna información de apoyo?
+  title: ¿Alguna información de apoyo?
+title: Incidente de seguridad física

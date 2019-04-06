@@ -1,0 +1,218 @@
+screens:
+- items:
+  - name: ""
+    type: ""
+    label: 'Nombre: '
+  - name: ""
+    type: ""
+    label: 'Teléfono:'
+  - name: ""
+    type: ""
+    label: 'Email:'
+  - name: ""
+    type: ""
+    label: 'Información de seguridad (Número de seguridad Signal, ID de clave PGP):'
+  title: Su Información de Contacto
+- items:
+  - name: ""
+    type: ""
+    label: ¿Qué sucedió? (Marque todo lo que corresponda)
+    options:
+    - label: Se expusieron o se accedió a datos privados
+      value: Se expusieron o se accedió a datos privados
+    - label: Me bloquearon de mi cuenta o dispositivo
+      value: Me bloquearon de mi cuenta o dispositivo
+    - label: Encontré un virus o malware
+      value: Encontré un virus o malware
+    - label: Mi sistema o dispositivo está dañado
+      value: Mi sistema o dispositivo está dañado
+    - label: Mi sitio web o servicio está desactivado
+      value: Mi sitio web o servicio está desactivado
+    - label: Me han robado información o recursos
+      value: Me han robado información o recursos
+    - label: El incidente es confidencial, contácteme para más información
+      value: El incidente es confidencial, contácteme para más información
+    - label: Tengo otro problema de seguridad digital (por favor, descríbalo)
+      value: Tengo otro problema de seguridad digital (por favor, descríbalo)
+  - name: ""
+    type: ""
+    label: Por favor, brinde detalles
+  title: Detalles
+- items:
+  - name: ""
+    type: ""
+    hint: ""
+    label: ¿Cuándo descubrió el incidente?
+  title: Hora
+- items:
+  - name: ""
+    type: ""
+    label: ¿Cuán grave es el incidente? Marque todo lo que corresponda
+    options:
+    - label: Está en riesgo la seguridad física de alguien
+      value: Está en riesgo la seguridad física de alguien
+    - label: Están en riesgo recursos o información
+      value: Están en riesgo recursos o información
+    - label: Está en riesgo la reputación de alguien
+      value: Está en riesgo la reputación de alguien
+    - label: No estoy seguro
+      value: No estoy seguro
+    - label: Otro (por favor, describa)
+      value: Otro (por favor, describa)
+  - name: ""
+    type: ""
+    label: Por favor, brinde detalles
+  title: Impacto
+- items:
+  - name: ""
+    type: ""
+    label: ¿Qué dispositivos, cuentas o servicios pueden estar comprometidos? Marque
+      todo lo que corresponda
+    options:
+    - label: Email
+      value: Email
+    - label: Sitio web
+      value: Sitio web
+    - label: Red social
+      value: Red social
+    - label: Mensajería o VoIP
+      value: Mensajería o VoIP
+    - label: Teléfono móvil o tablet
+      value: Teléfono móvil o tablet
+    - label: Computadora portátil
+      value: Computadora portátil
+    - label: Computadora de escritorio
+      value: Computadora de escritorio
+    - label: Servidor
+      value: Servidor
+    - label: Dispositivo de almacenamiento externo
+      value: Dispositivo de almacenamiento externo
+    - label: Otro
+      value: Otro
+  - name: ""
+    type: ""
+    label: Por favor, brinde detalles
+  title: Detalles de impacto
+- items:
+  - name: ""
+    type: ""
+    label: ¿Cuántas personas podrían estar afectadas?
+  title: Escala
+- items:
+  - name: ""
+    type: ""
+    label: ¿Se ha resuelto el incidente?
+    options:
+    - label: Sí, estoy utilizando este formulario para documentar lo sucedido
+      value: Sí, estoy utilizando este formulario para documentar lo sucedido
+    - label: No, estoy utilizando este formulario para buscar ayuda
+      value: No, estoy utilizando este formulario para buscar ayuda
+  title: Estado
+- items:
+  - name: ""
+    type: ""
+    label: ¿Está siguiendo las directrices para resolver este incidente?
+    options:
+    - label: Sí, las estoy siguiendo
+      value: Sí, las estoy siguiendo
+    - label: No, estoy usando información disponible en Umbrella y otras fuentes para
+        resolver el incidente
+      value: No, estoy usando información disponible en Umbrella y otras fuentes para
+        resolver el incidente
+    - label: Tengo las directrices pero no he podido seguirlas. (Por favor, explique:)
+      value: Tengo las directrices pero no he podido seguirlas. (Por favor, explique:)
+  - name: ""
+    type: ""
+  title: Directrices
+- items:
+  - name: ""
+    type: ""
+    label: ¿Qué acción ha tomado hasta ahora? Marque todo lo que correponda.
+    options:
+    - label: He desconectado de internet los dispositivos involucrados
+      value: He desconectado de internet los dispositivos involucrados
+    - label: He documentado con seguridad lo que ha sucedido (hice capturas de pantallas,
+        guardé los archivos de registro de virus)
+      value: He documentado con seguridad lo que ha sucedido (hice capturas de pantallas,
+        guardé los archivos de registro de virus)
+    - label: He cambiado mis contraseñas y he notificado a mis contactos desde un
+        dispositivo seguro
+      value: He cambiado mis contraseñas y he notificado a mis contactos desde un
+        dispositivo seguro
+    - label: He reportado el incidente a los proveedores de servicio
+      value: He reportado el incidente a los proveedores de servicio
+    - label: He notificado a un experto de TI o seguridad, o a un oficial, en caso
+        de ser apropiado
+      value: He notificado a un experto de TI o seguridad, o a un oficial, en caso
+        de ser apropiado
+    - label: He reinstalado el sistema operativo, de ser necesario, y he restaurado
+        archivos de copia de seguridad de antes del ataque
+      value: He reinstalado el sistema operativo, de ser necesario, y he restaurado
+        archivos de copia de seguridad de antes del ataque
+    - label: 'Otro – por favor, describa:'
+      value: 'Otro – por favor, describa:'
+  - name: ""
+    type: ""
+  title: Respuesta
+- items:
+  - name: ""
+    type: ""
+    hint: ""
+    label: ¿Quién ha sido notificado?
+  - name: ""
+    type: ""
+    label: ¿Quién debe aún ser notificado?
+  title: Notificación
+- items:
+  - name: ""
+    type: ""
+    label: ¿Quién realizó el ataque?
+    options:
+    - label: Los atacantes se identificaron ellos mismos (por favor, brinde detalles)
+      value: Los atacantes se identificaron ellos mismos (por favor, brinde detalles)
+    - label: El ataque fue anónimo, pero tengo mis sospechas (por favor, brinde detalles)
+      value: El ataque fue anónimo, pero tengo mis sospechas (por favor, brinde detalles)
+    - label: No lo sé
+      value: No lo sé
+  - name: ""
+    type: ""
+    label: 'Detalles:'
+  title: Responsabilidad
+- items:
+  - name: ""
+    type: ""
+    label: ¿Cuál podría ser el motivo?
+  title: Motivo
+- items:
+  - name: ""
+    type: ""
+    label: He guardado la siguiente información de manera segura (Marque todo lo que
+      corresponda)
+    options:
+    - label: Capturas de pantalla
+      value: Capturas de pantalla
+    - label: Algo que se me envió como archivo adjunto
+      value: Algo que se me envió como archivo adjunto
+    - label: Emails o mensajes
+      value: Emails o mensajes
+    - label: Otro (por favor, describa:)
+      value: Otro (por favor, describa:)
+  - name: ""
+    type: ""
+  title: Evidencia
+- items:
+  - name: ""
+    type: ""
+    label: ¿Qué cambiaría para impedir que este incidente vuelva a suceder?
+  title: Reflexión
+- items:
+  - name: ""
+    type: ""
+    label: ¿Qué acción necesita que alguien haga para resolver este incidente?
+  title: Próximos pasos
+- items:
+  - name: ""
+    type: ""
+    label: ¿Qué más necesita decirle a la gente sobre lo que sucedió?
+  title: ¿Algo más?
+title: Incidente de Seguridad Digital

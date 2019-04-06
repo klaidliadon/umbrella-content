@@ -1,0 +1,17 @@
+---
+index: 5
+title: ¿Ahora qué?
+---
+Pase a la derecha para la lista de verificación de esta lección.
+
+### LECCIONES/HERRAMIENTAS RELACIONADAS
+
+*   [Teléfonos Móviles](umbrella://lesson/mobile-phones)
+*   Signal para [Android](umbrella://lesson/signal-for-android)
+*   Signal para [iOS](umbrella://lesson/signal-for-ios)
+
+### OTRAS LECTURAS
+
+*   Primero la Seguridad, [Comunicaciones Seguras] (https://advocacyassembly.org/en/courses/33/#/chapter/1/lesson/1), una capacitación en línea gratuita en Advocacy Assembly.
+*   EFF, Surveillance Self-Defense, [Comunicándose con otros] (https://ssd.eff.org/en/module/communicating-others)
+*   Security in a Box, [Mantenga su comunicación online privada](https://securityinabox.org/en/guide/secure-communication)

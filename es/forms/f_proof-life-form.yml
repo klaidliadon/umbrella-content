@@ -1,0 +1,42 @@
+screens:
+- items:
+  - name: ""
+    type: ""
+    label: Escriba cuatro preguntas conocidas solo por usted o alguien cercano a usted
+  - name: ""
+    type: ""
+    label: 'Pregunta 1:'
+  - name: ""
+    type: ""
+    label: 'Respuesta 1:'
+  title: ""
+- items:
+  - name: ""
+    type: ""
+    label: 'Pregunta 2:'
+  - name: ""
+    type: ""
+    label: 'Respuesta 2:'
+  title: ""
+- items:
+  - name: ""
+    type: ""
+    label: 'Pregunta 3:'
+  - name: ""
+    type: ""
+    label: 'Respuesta 3:'
+  title: ""
+- items:
+  - name: ""
+    type: ""
+    label: 'Pregunta 4:'
+  - name: ""
+    type: ""
+    label: 'Respuesta 4:'
+  title: ""
+- items:
+  - name: ""
+    type: ""
+    label: Palabra de Coacción Personal
+  title: ""
+title: Formulario de Prueba de Vida

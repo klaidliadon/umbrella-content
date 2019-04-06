@@ -1,0 +1,37 @@
+index: 100
+list:
+- label: REGISTRO EN MEDIOS SOCIALES
+- check: Comprenda por qué se está registrando y qué información necesita proteger.
+- check: Busque los términos y condiciones del sitio para la sección de privacidad.
+    ¿Quién tendrá acceso a sus datos personales?
+- check: Para proteger su identidad, cree una nueva dirección de correo electrónico
+    para su cuenta de redes sociales y acceda a la cuenta utilizando Tor.
+- check: Elija una contraseña segura y 2FA donde esté disponible.
+- check: Guarde respuestas aleatorias a preguntas de seguridad en un administrador
+    de contraseñas.
+- check: Elija el nombre que usa públicamente con cuidado. Cree cuentas separadas
+    para diferentes actividades, como campañas de defensa, o identifíquese como un
+    grupo, no como un individuo.
+- check: Retenga información no esencial que pueda usarse para hacerse pasar por otra
+    persona o atacarle.
+- check: Ajuste su configuración de privacidad.
+- check: Descargue herramientas para ayudarlo a administrar la información que comparte
+    (uBlock Origin, Privacy Badger, ObscuraCam, CameraV, eyeWitness to Atrocities)
+- label: ESTAR SEGURO EN LOS MEDIOS SOCIALES
+- check: Acceda a sitios en un dispositivo en el que confía usando https://
+- check: Solo conéctese con personas que conozca personalmente y limite la membresía
+    a grupos. Tenga en cuenta que la cuenta de otra persona puede verse comprometida.
+- check: Invite a sus contactos a una aplicación de mensajería segura como Signal
+    en lugar de chatear en las redes sociales. No haga clic en enlaces o archivos
+    adjuntos en mensajes directos.
+- check: Revise la configuración de privacidad de su cuenta. Establezca un recordatorio
+    para volver a visitarlos con frecuencia.
+- check: Investigue qué tipo de información pública está disponible sobre usted en
+    línea.
+- check: Discuta qué es seguro compartir públicamente con amigos y miembros del equipo.
+- check: Haga copia de seguridad de sus archivos de forma segura. No confíe en las
+    empresas de medios sociales para el almacenamiento.
+- label: 3 PREGUNTAS PARA HACER ANTES DE COMPARTIR EN REDES SOCIALES
+- check: ¿Qué podrían revelar los metadatos adjuntos sobre usted o alguien más?
+- check: ¿Tiene consentimiento informado para compartir esto?
+- check: ¿De dónde proviene esta información? ¿Es correcta? ¿Pondrá a alguien en riesgo?

@@ -1,0 +1,66 @@
+screens:
+- items:
+  - name: ""
+    type: ""
+    label: Nombre(s)
+  - name: ""
+    type: ""
+    label: Fechas de Viaje
+  title: Nombres / Fechas
+- items:
+  - name: ""
+    type: ""
+    label: Destino(s)
+  - name: ""
+    type: ""
+    label: Propósito
+  title: Destino / Propósito
+- items:
+  - name: ""
+    type: ""
+    label: Itinerario
+  - name: ""
+    type: ""
+    label: Información de viaje / vuelo
+  title: Itinerario / Viaje
+- items:
+  - name: ""
+    type: ""
+    label: Requisitos de Inmigración
+  - name: ""
+    type: ""
+    label: Números Telefónicos Importantes
+  title: Inmigración / Números de Teléfono
+- items:
+  - name: ""
+    type: ""
+    label: Contacto(s) de Emergencia de la Organización
+  - name: ""
+    type: ""
+    label: Procedimiento de Registro
+  title: Organizacional / Procedimientos
+- items:
+  - name: ""
+    type: ""
+    label: Contacto(s) Personal(es) de Emergencia
+  - name: ""
+    type: ""
+    label: Información Médica
+  title: Personal / Médico
+- items:
+  - name: ""
+    type: ""
+    label: Situación de Seguridad Física
+  - name: ""
+    type: ""
+    label: Situación de Seguridad Digital
+  title: Físico / Digital
+- items:
+  - name: ""
+    type: ""
+    label: Contactos Clave (embajada, seguro, etc.)
+  - name: ""
+    type: ""
+    label: Otras/Notas
+  title: Contactos Clave / Otros
+title: Memo de Seguridad de Viaje

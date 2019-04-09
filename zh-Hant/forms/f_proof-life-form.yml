@@ -1,0 +1,44 @@
+screens:
+- items:
+  - name: ""
+    type: ""
+    label: 寫下只有你或你身邊的人知道的四個問題
+  - name: ""
+    type: ""
+    label: 问题1：
+  - name: ""
+    type: ""
+    label: 答案1：
+  title: ""
+- items:
+  - name: ""
+    type: ""
+    label: |
+      問題2：
+  - name: ""
+    type: ""
+    label: |
+      答案2：
+  title: ""
+- items:
+  - name: ""
+    type: ""
+    label: 問題3：
+  - name: ""
+    type: ""
+    label: 答案3：
+  title: ""
+- items:
+  - name: ""
+    type: ""
+    label: 問題4：
+  - name: ""
+    type: ""
+    label: 答案4：
+  title: ""
+- items:
+  - name: ""
+    type: ""
+    label: 个人胁迫词
+  title: ""
+title: 生命證明表格

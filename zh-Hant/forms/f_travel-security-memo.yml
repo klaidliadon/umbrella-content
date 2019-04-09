@@ -1,0 +1,73 @@
+screens:
+- items:
+  - name: ""
+    type: ""
+    label: |
+      名稱
+  - name: ""
+    type: ""
+    label: 旅行日期
+  title: 姓名/日期
+- items:
+  - name: ""
+    type: ""
+    label: |
+      目標地址
+  - name: ""
+    type: ""
+    label: 目的
+  title: 目的地/目的
+- items:
+  - name: ""
+    type: ""
+    label: 行程
+  - name: ""
+    type: ""
+    label: 旅行/航班信息
+  title: 行程/旅行
+- items:
+  - name: ""
+    type: ""
+    label: 移民要求
+  - name: ""
+    type: ""
+    label: 重要的电话号码
+  title: |
+    移民/電話號碼
+- items:
+  - name: ""
+    type: ""
+    label: |
+      組織緊急聯繫人
+  - name: ""
+    type: ""
+    label: 入住手续
+  title: 组织/程序
+- items:
+  - name: ""
+    type: ""
+    label: |
+      個人緊急聯繫人
+  - name: ""
+    type: ""
+    label: 医疗信息
+  title: 个人/医疗
+- items:
+  - name: ""
+    type: ""
+    label: 身体安全状况
+  - name: ""
+    type: ""
+    label: 数字安全形势
+  title: 物理/数字
+- items:
+  - name: ""
+    type: ""
+    label: |
+      主要聯繫人（大使館，保險等）
+  - name: ""
+    type: ""
+    label: 其他/注意事项
+  title: |
+    主要聯繫人/其他
+title: 旅行安全备忘录

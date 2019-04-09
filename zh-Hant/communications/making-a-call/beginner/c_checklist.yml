@@ -1,0 +1,12 @@
+index: 100
+list:
+- check: 避免使用一般的電話進行敏感的通話
+- check: ' 使用Ostel 或 Redphone 來進行安全通話'
+- check: 使用Jitsi 來取代Skype
+- label: 如果你一定得使用Skype
+- check: 從官網下載
+- check: 定期變更密碼
+- check: 調整設定以讓你的裝置不會保存聊天紀錄
+- check: 查證你的談話對象
+- check: 考慮使用匿名帳號
+- check: 請使用代號代替敏感的話題

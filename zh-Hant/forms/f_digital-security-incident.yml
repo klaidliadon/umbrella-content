@@ -1,0 +1,206 @@
+screens:
+- items:
+  - name: ""
+    type: ""
+    label: 名称：
+  - name: ""
+    type: ""
+    label: 电话：
+  - name: ""
+    type: ""
+    label: 電子郵件：
+  - name: ""
+    type: ""
+    label: 安全信息（信號安全號，PGP密鑰ID）：
+  title: 您的聯繫信息
+- items:
+  - name: ""
+    type: ""
+    label: 發生了什麼？ （檢查所有適用）
+    options:
+    - label: 訪問或公開了私有數據
+      value: 訪問或公開了私有數據
+    - label:  我被我的帳戶或設備拒之門外
+      value:  我被我的帳戶或設備拒之門外
+    - label:  我遇到過病毒或惡意軟件
+      value:  我遇到過病毒或惡意軟件
+    - label:  我的系統或設備已損壞
+      value:  我的系統或設備已損壞
+    - label:  我的網站或服務已停用
+      value:  我的網站或服務已停用
+    - label:  信息或資產被盜
+      value:  信息或資產被盜
+    - label:  事件是保密的，請聯繫我了解詳情
+      value:  事件是保密的，請聯繫我了解詳情
+    - label:  我有另一個數字安全問題（請描述）
+      value:  我有另一個數字安全問題（請描述）
+  - name: ""
+    type: ""
+    label: 請提供詳細信息
+  title: 細節
+- items:
+  - name: ""
+    type: ""
+    hint: ""
+    label: 你是什麼時候發現這件事的？
+  title: 時間
+- items:
+  - name: ""
+    type: ""
+    label: 事件有多嚴重？檢查所有適用
+    options:
+    - label: 某人的人身安全處於危險之中
+      value: 某人的人身安全處於危險之中
+    - label:  信息或資產面臨風險
+      value:  信息或資產面臨風險
+    - label:  某人的聲譽受到威脅
+      value:  某人的聲譽受到威脅
+    - label:  我不確定
+      value:  我不確定
+    - label:  其他（請描述）
+      value:  其他（請描述）
+  - name: ""
+    type: ""
+    label: 請提供詳細信息
+  title: 碰撞
+- items:
+  - name: ""
+    type: ""
+    label: 哪些設備，帳戶或服務可能會受到損害？檢查所有適用
+    options:
+    - label: 電子郵件課程
+      value: 電子郵件課程
+    - label:  網站
+      value:  網站
+    - label:  社交媒體
+      value:  社交媒體
+    - label:  消息或VOIP
+      value:  消息或VOIP
+    - label:  手機或平板電腦
+      value:  手機或平板電腦
+    - label:  移動電腦
+      value:  移動電腦
+    - label:  台式電腦
+      value:  台式電腦
+    - label:  服務器
+      value:  服務器
+    - label:  外部存儲設備
+      value:  外部存儲設備
+    - label:  其他
+      value:  其他
+  - name: ""
+    type: ""
+    label: 請提供詳細信息
+  title: 影響細節
+- items:
+  - name: ""
+    type: ""
+    label: 有多少人可能會受到影響？
+  title: 規模
+- items:
+  - name: ""
+    type: ""
+    label: 事件是否已经解决？
+    options:
+    - label: 是的，我正在使用此表來記錄發生的事情
+      value: 是的，我正在使用此表來記錄發生的事情
+    - label:  不，我正在使用此表格來幫助我尋求支持
+      value:  不，我正在使用此表格來幫助我尋求支持
+  title: 狀態
+- items:
+  - name: ""
+    type: ""
+    label: 您是否遵循解決此事件的指導原則？
+    options:
+    - label: 是的，我遵循指導方針
+      value: 是的，我遵循指導方針
+    - label:  不，我使用Umbrella和其他免費資源中提供的信息來解決此事件
+      value:  不，我使用Umbrella和其他免費資源中提供的信息來解決此事件
+    - label:  我有指導方針，但我無法遵循它們。 （請解釋：）
+      value:  我有指導方針，但我無法遵循它們。 （請解釋：）
+  - name: ""
+    type: ""
+  title: 方針
+- items:
+  - name: ""
+    type: ""
+    label: 到目前為止你採取了什麼行動？檢查所有適用。
+    options:
+    - label: 我已斷開與互聯網相關的設備
+      value: 我已斷開與互聯網相關的設備
+    - label:  我已經記錄了安全發生的事情（截圖，存儲了防病毒日誌文件）
+      value:  我已經記錄了安全發生的事情（截圖，存儲了防病毒日誌文件）
+    - label:  我已經更改了密碼並通過乾淨的設備通知了我的聯繫人
+      value:  我已經更改了密碼並通過乾淨的設備通知了我的聯繫人
+    - label:  我已向服務提供商報告此事件
+      value:  我已向服務提供商報告此事件
+    - label:  我已經通知了IT或安全專家，或者執法部門，如果合適的話
+      value:  我已經通知了IT或安全專家，或者執法部門，如果合適的話
+    - label:  如有必要，我重新安裝了操作系統，並在攻擊之前恢復了備份文件
+      value:  如有必要，我重新安裝了操作系統，並在攻擊之前恢復了備份文件
+    - label:  其他 - 請描述：
+      value:  其他 - 請描述：
+  - name: ""
+    type: ""
+  title: 響應
+- items:
+  - name: ""
+    type: ""
+    hint: ""
+    label: 誰收到通知？
+  - name: ""
+    type: ""
+    label: 還需要通知誰？
+  title: 通知
+- items:
+  - name: ""
+    type: ""
+    label: 誰進行了攻擊？
+    options:
+    - label: 攻擊者發現自己（請提供詳細信息）
+      value: 攻擊者發現自己（請提供詳細信息）
+    - label:  這次襲擊是匿名的，但我有疑慮（請提供詳情）
+      value:  這次襲擊是匿名的，但我有疑慮（請提供詳情）
+    - label:  我不知道
+      value:  我不知道
+  - name: ""
+    type: ""
+    label: 細節：
+  title: 責任
+- items:
+  - name: ""
+    type: ""
+    label: 可能的動機是什麼？
+  title: 動機
+- items:
+  - name: ""
+    type: ""
+    label: 我已安全保存以下信息（選中所有適用的選項）
+    options:
+    - label: 截圖
+      value: 截圖
+    - label:  我作為附件發送的東西
+      value:  我作為附件發送的東西
+    - label:  電子郵件或消息
+      value:  電子郵件或消息
+    - label:  其他（請描述:)
+      value:  其他（請描述:)
+  - name: ""
+    type: ""
+  title: 證據
+- items:
+  - name: ""
+    type: ""
+    label: 你會改變什麼來防止這一事件再次發生？
+  title: 反射
+- items:
+  - name: ""
+    type: ""
+    label: 您需要其他人採取什麼行動來解決此事件？
+  title: 下一步
+- items:
+  - name: ""
+    type: ""
+    label: 還有什麼需要告訴人們發生了什麼？
+  title: 還要別的嗎？
+title: 数字安全事件

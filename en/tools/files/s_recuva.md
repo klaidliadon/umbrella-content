@@ -7,8 +7,7 @@ title: Recuva
 ## Recuva Tool Guide   
 Data recovery and secure deletion
 
-**Lesson to read:   
-- [Backing Up](umbrella://information/backing-up)**  
+**Lesson to read: [Backing Up](umbrella://information/backing-up)**  
 **Download Location:** [http://www.piriform.com/recuva/builds](http://www.piriform.com/recuva/builds)    
 **Computer requirements:** Any version of Windows   
 **Version used in this guide:** Recuva 1.3  

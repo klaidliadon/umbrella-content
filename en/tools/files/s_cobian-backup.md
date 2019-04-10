@@ -10,8 +10,8 @@ Backing up your computer files
 **Lesson to read: [Backing Up](umbrella://information/backing-up)**  
 **Download Location:** [http://www.cobiansoft.com/cobianbackup.htm](http://www.cobiansoft.com/cobianbackup.htm)  
 **Computer requirements:**   
-- XP, 2003, Vista, 2008, Windows 7  
-- Windows 95, 98 and ME are compatible with Cobian version 7.  
+* XP, 2003, Vista, 2008, Windows 7  
+* Windows 95, 98 and ME are compatible with Cobian version 7. 
 **Version used in this guide:** Cobian 10  
 **License:** Freeware  
 **Level:**  Intermediate  

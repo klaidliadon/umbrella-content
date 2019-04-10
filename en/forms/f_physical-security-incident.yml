@@ -24,7 +24,7 @@ screens:
 - items:
   - name: type-incident
     type: multiple_choice
-    label: Type of Incident
+    label: 'Describe what happened (check all that apply):'
     options:
     - label: Threat / Harassment
       value: Threat / Harassment
@@ -61,44 +61,43 @@ screens:
 - items:
   - name: provide-brief-description-2
     type: text_area
-  title: Response Steps Taken?
+    label: 'What steps have been taken in response to the incident?'
+  title: Response
 - items:
   - name: provide-brief-description-3
     type: text_area
-  title: Motive Or Perpetrators?
+    label: 'What was the likely motive of the perpetrators?'
+  title: Motive
 - items:
   - name: incident-reported-locally
     type: text_area
-    label: Who Has The Incident Been Reported To Locally?
-  title: Who Has The Incident Been Reported To Locally?
+    label: 'Who Has The Incident Been Reported To Locally?'
+  title: Reporting the Incident
 - items:
   - name: security-guidelines-cover-type-incident-guidelines-followed
     type: text_area
     label: Do Your Security Guidelines Cover This Type Of Incident? Were The Guidelines
       Followed?
-  title: Do Your Security Guidelines Cover This Type Of Incident? Were The Guidelines
-    Followed?
+  title: Security Guidelines
 - items:
   - name: guidelines-aspect-security-management-need-revised-way
     type: text_area
     label: Do The Guidelines Or Any Other Aspect Of Security Management Need To Be
       Revised In Any Way?
-  title: Do The Guidelines Or Any Other Aspect Of Security Management Need To Be Revised
-    In Any Way?
+  title: Guidelines Revision
 - items:
   - name: lessons-learned
     type: text_area
-    label: 'Lessons learned:'
-  title: Please suggest specific measures that may help avoid this type of incident
-    in the future.
+    label: 'Please suggest specific measures that may help avoid this type of incident in the future.'
+  title: Lessons Learned
 - items:
   - name: action-requested
     type: text_area
-    label: Any Action Requested?
-  title: Any Action Requested?
+    label: Is Any Specific Action Requested?
+  title: Action Request
 - items:
   - name: supporting-information
     type: text_area
-    label: Any supporting information?
-  title: Any supporting information?
+    label: Can you add any further supporting information?
+  title: Supporting information
 title: Physical Security Incident

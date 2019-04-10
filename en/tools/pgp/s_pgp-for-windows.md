@@ -250,6 +250,7 @@ When Mozilla Thunderbird restarts, an additional window will open up that will s
 ![image](tool_pgpwin32.png)
 
 Enigmail provides you with three options for handling mail. The default option is to encrypt emails if you have the "public key" of another person, Enigmail will encrypt the email you send but leave emails unencrypted if you don't have the public key of the recipient yet. You also have the option to encrypt emails all the time to everyone with PGP keys, which means that you will have to find the public keys for people for whom you don't have them already, or turn off automatic encryption  completely and only use PGP when directed.
+
 ![image](tool_pgpwin33.png)
 
 We don't know what the appropriate option is for you, but believe the "Convenient auto encryption" option to be a good choice. If you are in doubt, choose "Don't encrypt my messages by default." Click the "Next" button.

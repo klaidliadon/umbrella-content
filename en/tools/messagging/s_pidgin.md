@@ -7,19 +7,20 @@ title: Pidgin
 ## Pidgin Tool Guide   
 Encrypted instant messaging for Windows
 
-**Lesson to read:   
-- [Sending a message](umbrella://communications/sending-a-message)**  
-**Download Location:**   
+**Lesson to read: [Sending a message](umbrella://communications/sending-a-message)**  
+**Download Locations:**   
 - [https://pidgin.im/download/](https://pidgin.im/download/)   
 - [https://otr.cypherpunks.ca/](https://otr.cypherpunks.ca/)  
+
 **Computer requirements:** An internet connection, a computer running Windows XP or higher, and an XMPP (Jabber) account.    
 _(Pidgin is able to work with many chat systems, but here we'll focus on XMPP, formerly known as Jabber)_  
 **Version used in this guide:**   
 - Windows 7 Ultimate  
-- Pidgin 2.10.9, pidgin-otr 4.0.0-1  
+- Pidgin 2.10.9, pidgin-otr 4.0.0-1 
+
 **License:** Free Software; mix of Free Software licenses  
 **Level:** Beginner  
-**Other reading:** [https://pidgin.im/cgi-bin/mailman/listinfo/support](https://pidgin.im/cgi-bin/mailman/listinfo/support)  
+**Other reading:** https://pidgin.im/cgi-bin/mailman/listinfo/support  
 **Time required:** 20 minutes
 
 **Using OTR with Pidgin will give you:**  
@@ -53,10 +54,12 @@ Pidgin is a complex program, which has not been written with security as a top p
 ### 2.1 Getting Pidgin
 
 You can get Pidgin on Windows by downloading the installer from the Pidgin download page.
+
 ![image](tool_pidgin1.png)
 
 Click on the _purple_ DOWNLOAD tab. _**Don't** click the green Download Now button because you'll want to choose a different installer file._ 
 You'll be taken to the download page.
+
 ![image](tool_pidgin2.png)
 
 _Again, **don't** click the green Download Now button because we want to choose a different installer file._ 
@@ -64,9 +67,10 @@ The default installer for Pidgin is small because it doesn't contain all the inf
 
 Click the "**offline installer**" link. You will be taken to a new page titled "Sourceforge" and after a few seconds, a small popup will ask whether you want to save a file.
 
-- Note: While Pidgin's download page uses "HTTPS" and is therefore relatively safe from tampering, the website it directs you to to download the Windows version of Pidgin is currently Sourceforge, which uses unencrypted "HTTP," and therefore offers no protection. That means that the software you download could be tampered with before you download it. This risk would mostly come from either someone with access to the local Internet infrastructure attempting to conduct targeted surveillance against you personally (for instance a malicious hot-spot provider), or a state or government planning to distribute compromised software to many users. The [HTTPS Everywhere](https://www.eff.org/https-everywhere) extension can rewrite Sourceforge download URLs to HTTPS, so it's recommended you install HTTPS Everywhere before downloading any other software. Additionally, in our experience, Sourceforge often has confusing full-page ads on its download pages that can trick people into installing something they may not want to.  You can install an ad blocker before any other software to avoid these confusing ads. 
+- Note: While Pidgin's download page uses "HTTPS" and is therefore relatively safe from tampering, the website it directs you to to download the Windows version of Pidgin is currently Sourceforge, which uses unencrypted "HTTP," and therefore offers no protection. That means that the software you download could be tampered with before you download it. This risk would mostly come from either someone with access to the local Internet infrastructure attempting to conduct targeted surveillance against you personally (for instance a malicious hot-spot provider), or a state or government planning to distribute compromised software to many users. The **[HTTPS Everywhere](https://www.eff.org/https-everywhere)** extension can rewrite Sourceforge download URLs to HTTPS, so it's recommended you install HTTPS Everywhere before downloading any other software. Additionally, in our experience, Sourceforge often has confusing full-page ads on its download pages that can trick people into installing something they may not want to.  You can install an ad blocker before any other software to avoid these confusing ads. 
 
 Many browsers will ask you to confirm whether you want to download this file. Internet Explorer 11 shows a bar at the bottom of the browser window with an orange border.
+
 ![image](tool_pidgin3.png)
 
 For any browser, it is best to first save the file before proceeding, so click the "Save" button. By default, most browsers save downloaded files in the Downloads folder.
@@ -74,12 +78,15 @@ For any browser, it is best to first save the file before proceeding, so click t
 ### 2.2 Getting OTR
 
 You can get pidgin-otr, the OTR plugin for Pidgin, by downloading the installer from the [OTR download page](https://otr.cypherpunks.ca/).
+
 ![image](tool_pidgin4.png)
 
 Click the "Downloads" tab to be taken to the "Downloads" section of the page. Click the "Win32 installer for pidgin" link.
+
 ![image](tool_pidgin5.png)
 
 Many browsers will ask you to confirm whether you want to download this file. Internet Explorer 11 shows a bar at the bottom of the browser window with an orange border.
+
 ![image](tool_pidgin6.png)
 
 For any browser, it is best to first save the file before proceeding, so click the "Save" button. By default, most browsers save downloaded files in the Downloads folder.
@@ -87,49 +94,63 @@ For any browser, it is best to first save the file before proceeding, so click t
 After downloading Pidgin and pidgin-otr you should have two new files in your 
 
 Downloads folder:
+
 ![image](tool_pidgin7.png)
 
 ### 2.3 Installing Pidgin
 
 Keep the Windows Explorer window open and double-click on pidgin-2.10.9-offline.exe. You'll be asked if you want to allow the installation of this program. Click the "Yes" button.
+
 ![image](tool_pidgin8.png)
 
 A small window opens asking you to select a language. Click the "OK" button.
+
 ![image](tool_pidgin9.png)
 
 A window opens up giving you a quick overview of the installation process. Click the "Next" button.
+
 ![image](tool_pidgin10.png)
 
 Now you get a license overview. Click the "Next" button.
+
 ![image](tool_pidgin11.png)
 
 Now you can see what different components are installed. Don't change the settings. Click the "Next" button.
+
 ![image](tool_pidgin12.png)
 
 Now you can see where Pidgin will be installed. Don't change this information. Click the "Next" button.
+
 ![image](tool_pidgin13.png)
 
 Now you'll see a window with scrolling text until it says "Installation Complete." Click the "Next" button.
+
 ![image](tool_pidgin14.png)
 
 Finally, you'll see the last window of the Pidgin installer. Click the "Finish" button.
+
 ![image](tool_pidgin15.png)
 
 ### 2.4 Installing pidgin-otr
 
 Go back to the Windows Explorer window and open and double-click on pidgin-otr-4.0.0-1.exe. You'll be asked if you want to allow the installation of this program. Click the "Yes" button.
+
 ![image](tool_pidgin16.png)
 
 A window opens up giving you a quick overview of the installation process. Click the "Next" button.
+
 ![image](tool_pidgin17.png)
 
 Now you get a license overview. Click the "I Agree" button.
+
 ![image](tool_pidgin18.png)
 
 You will see where pidgin-otr will be installed. Don't change this information. Click the "Install" button.
+
 ![image](tool_pidgin19.png)
 
 Finally, you'll see the last window of the pidgin-otr installer. Click the "Finish" button.
+
 ![image](tool_pidgin20.png)
 
 ### 3 Configuration
@@ -137,11 +158,13 @@ Finally, you'll see the last window of the pidgin-otr installer. Click the "Fini
 ### 3.1 Configuring Pidgin
 
 Go to the Start menu, click the Windows icon, and select Pidgin from the menu.
+
 ![image](tool_pidgin21.png)
 
 ### 3.2 Adding an account
 
 When Pidgin launches for the first time, you will see this welcome window giving you an option to add an account. Since you don't have an account configured yet, click the "Add" button.
+
 ![image](tool_pidgin22.png)
 
 Now you'll see the "Add Account" window. 
@@ -157,11 +180,13 @@ At the Domain entry, enter the domain of your XMPP account.
 At the Password entry, enter your XMPP password.
 
 Checking the box by the "Remember password" entry will make accessing your account easier. Be aware that by clicking "Remember password," your password will be saved on the computer, making it accessible to anyone who may happen to access your computer. If this is a concern, do not check this box. You will then be required to enter your XMPP account password every time you start Pidgin.
+
 ![image](tool_pidgin23.png)
 
 ### 3.3 Adding a Buddy
 
 Now you will want to add someone to chat with. Click the "Buddies" menu and select "Add Buddy." An "Add Buddy" window will open.
+
 ![image](tool_pidgin24.png)
 
 At the "Add Window," you can enter the username of the person you want to chat with. This other user does not have to be from the same server, but does have to use the same protocol, such as XMPP.
@@ -171,32 +196,39 @@ At the "Buddy's username" entry, enter your buddy's username with the domain nam
 At the "(Optional) Alias" entry, you can enter a name of your choice for your buddy. This is entirely optional, but can help if the XMPP account of the person you are chatting with is hard to remember.
 
 Click the "Add" button.
+
 ![image](tool_pidgin25.png)
 
 Once you have clicked the "Add" button, Boris will get a message asking if he gives authorization for you to add him. Once Boris does, he adds your account and you will get the same request. 
 
 Click the "Authorize" button.
+
 ![image](tool_pidgin26.png)
 
 ### 3.4 Configuring the OTR plugin
 
 Now you will configure the OTR plugin so you can chat securely. Click the "Tools" menu and select the "Plugins" option.
+
 ![image](tool_pidgin27.png)
 
 Scroll down to the "Off-the-Record Messaging" option, and check the box. 
 
 Click on the "Off-the-Record Messaging" entry and click the "Configure Plugin" button.
+
 ![image](tool_pidgin28.png)
 
 Now you will see the "Off-the-Record Messaging" configuration window. Notice that is says "No key present." 
 
 Click the "Generate" button.
+
 ![image](tool_pidgin29.png)
 
 Now a small window will open and generate a key. When it is done, click the "OK" button.
+
 ![image](tool_pidgin30.png)
 
 You'll see new information: a 40 character string of text, broken up into 5 groups of eight characters. This is your OTR fingerprint. Click the "Close" button.
+
 ![image](tool_pidgin31.png)
 
 Now click the "Close" button on the Plugins window.
@@ -206,9 +238,11 @@ Now click the "Close" button on the Plugins window.
 You are now able to chat with Boris. The two of you can send messages back and forth. However, we're still not chatting securely. Even if you are connecting to the XMPP server, it is possible that the connection between you and Boris is not secure from snooping. 
 
 If you look at the chat window, notice that it says "Not private" in red on the bottom right. Click the "Not private" button.
+
 ![image](tool_pidgin32.png)
 
 A menu will open up, select "Authenticate buddy."
+
 ![image](tool_pidgin33.png)
 
 A window will open up. You are asked: "How would you like to authenticate your buddy?"
@@ -220,6 +254,7 @@ The drop-down has three options:
 A shared secret is a line of text you and the person you want to chat have agreed to use ahead of time. You should have shared this in person and never have exchanged it over insecure channels such as email or Skype.
 
 You and your buddy need to enter this text together. Click the "Authenticate" button.
+
 ![image](tool_pidgin34.png)
 
 The shared secret verification is useful if you and your buddy have already made arrangements to chat in the future but haven't yet created OTR fingerprints on the computer you are using.
@@ -229,6 +264,7 @@ The shared secret verification is useful if you and your buddy have already made
 Manual fingerprint verification is useful if you were already given your buddy's fingerprint and are now connecting with Pidgin. This will not be useful if your buddy changed computers or had to create new fingerprints.
 
 If the fingerprint you were given and the fingerprint on the screen match, select "I have" and click the "Authenticate" button.
+
 ![image](tool_pidgin35.png)
 
 **Option 3: Question and answer**
@@ -240,15 +276,19 @@ Enter the question you want to ask. Don't make it so simple that someone can gue
 **The answers must match exactly; so keep that in mind when choosing an answer to your question. Capitalization matters, so you might consider including a note like (for example: use capitals, lower case).**
 
 Enter the question and answer then click the "Authenticate" button.
+
 ![image](tool_pidgin36.png)
 
 Your buddy will have a window open with the question displayed asking for the answer. They will have to answer and click the "Authenticate" button. Then they will receive a message letting them know if the authentication was successful.
+
 ![image](tool_pidgin37.png)![image](tool_pidgin38.png)
 
 Once your buddy had completed the authentication procedure, you will get a window letting you know the authentication succeeded.
+
 ![image](tool_pidgin39.png)
 
 Your buddy should also verify your account so that both of you can be sure that the communication is secure. Here is what it would like for Akiko and Boris. Notice the green "Private" icons in the lower right of the chat window.
+
 ![image](tool_pidgin40.png)
 
 ### 5 Working with other software

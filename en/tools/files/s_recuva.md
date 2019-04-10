@@ -68,16 +68,19 @@ The Recuva _Wizard_ is recommended in situations where neither the full nor part
 To begin scanning for deleted files, perform the following steps:
 
 **Step 1.** Click the Recuva icon or select Start > Programs > Recuva > Recuva to launch the program, and activate the following screen:
+
 ![image](tool_recuva2.png)
 
 **Tip:** If you know the exact or even partial name of a file you would like to recover, click "Cancel" to go to the _Piriform Recuva_ main user interface, and then follow the steps in section 3.2 How to Perform a Scan without Using the Recuva Wizard.
 
 **Step 2.** Click "Next" to activate the following screen:
+
 ![image](tool_recuva3.png)
 
 The _Recuva Wizard File type_ displays a list of different file types, and describes what files might be recovered when each option is enabled.
 
 **Step 3.** Check the _Other_ option, and then click "Next" to activate the following screen:
+
 ![image](tool_recuva4.png)
 
 **Note:** The default setting for the _Recuva Wizard File Location_ screen is the _I'm not sure option_. This option will extend the scan to all drives as well as removable media, except CDs, DVDs and optical media. It may, therefore, require a longer time to generate results.
@@ -85,6 +88,7 @@ The _Recuva Wizard File type_ displays a list of different file types, and descr
 Files are most frequently deleted from Recycle Bin in the Windows operating systems, to minimize the chance of your accidentally deleting private or sensitive information.
 
 **Step 4.** Check the _In the Recycle Bin_ option as shown above, and then click "Next" to activate the following screen:
+
 ![image](tool_recuva5.png)
 
 **Note:** For this exercise, do not enable the _Deep Scan_ option. This scanning technique will be discussed in section 3.3 How to Perform a Deep Scan.
@@ -92,6 +96,7 @@ Files are most frequently deleted from Recycle Bin in the Windows operating syst
 **Step 5.** Click "Start" to begin recovering your deleted files.
 
 During the file recovery process, two progress status bars appear in quick succession. The _Scanning the drive for deleted files_ progress bar lists the deleted files. The _Analyzing the file contents_ progress bar groups and sorts the deleted files into file types and degree of recoverability. They also display the duration of the scanning and analysis processes. Your _Piriform Recuva_ main user interface may then resemble the following screen:
+
 ![image](tool_recuva6.png)
 
 The _Piriform Recuva_ main user interface lists information about each deleted file, arranged in six columns. Each column is described as follows:
@@ -123,14 +128,17 @@ To access the Recuva main user interface directly, (that is, not use the _Recuva
 **Step 1.** Click the Recuva icon or select Start > Programs > Recuva > Recuva.
 
 **Step 2.** Check the _Do not show this Wizard on startup_ option, then click "Cancel" to activate the following screen:
+
 ![image](tool_recuva7.png)
 
 The _Piriform Recuva_ main user interface is divided into the results pane on the left and the _Preview_, _Info_ and _Header_ tabs in which to sort and view information about a specific deleted file. It lets you set certain scan options, similar to those in the _Recuva Wizard_.
 
 **Step 3.** Click to activate the drop-down list and select the drive to be scanned; the _Local Disk (C:)_ is the default and used in this example as follows:
+
 ![image](tool_recuva8.png)
 
 The _Filename_ or _path_ drop-down list lets you specify the kind of file you are looking for, and loosely corresponds to the _Recuva Wizard File type_ screen.
+
 ![image](tool_recuva9.png)
 
 The _Filename_ or _path_ feature is a combination of a text box and drop-down list. It has two main uses: To let you directly search for a specific file, and/or to sort through a list of deleted files, according to file type.
@@ -140,12 +148,14 @@ Alternatively, the _Filename_ or _path_ feature can be used to search for files 
 To begin scanning for a file of which all or part of the name is known, perform the following steps:
 
 **Step 1.** Type in the name or partial name of a file you would like to recover as follows (in this example, the file _triangle.png_ is being scanned):
+
 ![image](tool_recuva10.png)
 
 **Tip:** Click X to reset the _File name and path_ (which appear greyed out).
 
 
-Step 2.** Click "Scan" to begin scanning for your deleted file(s); shortly thereafter, a screen will appear resembling the following:
+**Step 2.** Click "Scan" to begin scanning for your deleted file(s); shortly thereafter, a screen will appear resembling the following:
+
 ![image](tool_recuva11.png)
 
 ### 3.3 How to Perform a Deep Scan Using Recuva
@@ -155,11 +165,13 @@ The _Enable Deep Scan_ option lets you conduct a more thorough scan; naturally, 
 The Recuva _Deep Scan_ option can be enabled either through checking the _Enable Deep Scan_ option in the _Recuva Wizard_.
 
 **Step 1.** Click "Options" to activate the _Options_ screen, then click the _Actions_ tab as follows:
+
 ![image](tool_recuva12.png)
 
 **Step 2.** Check the _Deep Scan (increases scan time)_ option, then click "OK".
 
 **Step 3.** Click "Scan" to begin scanning for deleted files using the _Deep Scan_ option. As mentioned earlier, a deep scan can potentially take a few hours, depending on the size of your hard disk and computer speed:
+
 ![image](tool_recuva13.png)
 
 ### 3.4 An Introduction to the Options Screen
@@ -167,11 +179,13 @@ The Recuva _Deep Scan_ option can be enabled either through checking the _Enable
 In this section, you will learn how to use the different settings to successfully recover and overwrite your private or sensitive information in the _Options_ screen. To configure these settings, perform the following steps:
 
 **Step 1:** Click "Options" to activate the following screen:
+
 ![image](tool_recuva14.png)
 
 The _Options_ screen is divided into the _General_, _Actions_ and _About_ tabs.
 
 The _General_ tab lets you define a number of important settings, including _Language_ (Recuva supports 37 languages), _View mode_ and disabling or enabling the _Recuva Wizard_.
+
 ![image](tool_recuva15.png)
 
 The View Mode lets you select how you would like to view the deleted files, and can also be enabled whenever you right click a file in the _Piriform Recuva_.
@@ -185,11 +199,13 @@ Most importantly perhaps, the _Advanced_ section of the _General_ tab lets you s
 The _Secure overwriting_ drop-down list displays four options for overwriting your private information. Its default mode is _Simple Overwrite (1 pass)_. A pass refers to the number of times your document, file or folder will be overwritten with random data to render it completely unreadable.
 
 **Step 2: Select** the _DOD 5220.22-M (3 passes)_ option as follows:
+
 ![image](tool_recuva16.png)
 
 A single pass may prove quite effective in overwriting a given document, file or folder; however, there are parties with the resources and skills to recover a relatively light secure overwrite. Three passes is a solid balance between the time required to perform a secure overwrite, and the ability to recover that document, file or folder.
 
 **Step 3.** Click "OK" to save your _General_ tab configuration options.
+
 ![image](tool_recuva17.png)
 
 - **Show files found in hidden system directories:** This option lets you display files in hidden system directories.
@@ -227,14 +243,17 @@ To begin recovering a deleted file, perform the following steps:
 **Step 3.** Click "Recover..." to activate the _Browse For Folder_ screen.
 
 **Step 4.** Select a destination and then click "Make New Folder" to create your recovery folder as shown below.
+
 ![image](tool_recuva18.png)
 
 **Note:** In this example, the folder for storing your recovered documents and files has been given an obvious label. However, keeping your digital privacy and security in mind, we encourage you to be more careful in labelling your own folder.
 
 **Step 5.** Click "Yes" to begin the file recovery process; a progress status screen appears as follows:
+
 ![image](tool_recuva19.png)
 
 After the files have been recovered, a confirmation will appear resembling the following screen:
+
 ![image](tool_recuva20.png)
 
 **Note:** Recuva supports multiple file recovery. Simply check the check boxes of the files you would like to recover and perform steps **3** to **5**.
@@ -249,6 +268,7 @@ Recuva offers different options for selecting the documents, files or folders yo
 - **Highlighting** is generally used to quickly select contiguous multiple files in a block or group for recovery or secure overwriting.
 
 Right click on a deleted file displayed in the Recuva main to activate the following pop-up menu:
+
 ![image](tool_recuva21.png)
 
 **Recover Highlighted:** This item lets you recover all or any highlighted deleted file(s).
@@ -278,9 +298,11 @@ To securely overwrite a deleted file, perform the following steps:
 **Step 1.** Check the individual file you would like to have securely overwritten, and then right click the check box it to activate the pop-up menu.
 
 **Step 2.** Select "Secure Overwrite Checked" to activate the following confirmation dialog box:
+
 ![image](tool_recuva22.png)
 
 **Step 3.** Click "Yes" to begin the overwriting process; depending on the size and status of the file as well as the _Secure overwriting_ option you selected in the _General_ tab in the _Options_ screen, this could take some time. After the overwriting process has been completed, a screen resembling the following appears:
+
 ![image](tool_recuva23.png)
 
 You have successfully completed recovering and securely overwriting files using Recuva previously deleted files.
@@ -302,15 +324,18 @@ To begin downloading and extracting Recuva Portable, perform the following steps
 **Step 2.** Click "OK" to save the _rcsetup140.zip_ installation file to your computer; and then navigate to it.
 
 **Step 3.** Right click to activate the Windows pop-up menu, and then select the Extract files... item as shown below:
+
 ![image](tool_recuva24.png)
 
 **Step 4.** Navigate to the removable drive or USB memory stick as shown below, and then click "New Folder" to create a new folder in which to extract the installation file.
+
 ![image](tool_recuva25.png)
 
 **Step 5.** Enter a name for the new folder in the document tree as shown below:
 ![image](tool_recuva26.png)
 
 Alternatively, you may type in a folder name in the accompanying drop-down list: 
+
 ![image](tool_recuva27.png)
 
 **Note:** Although for the purposes of this example, the new folder is entitled Recuva Portable, users may choose different name.
@@ -318,6 +343,7 @@ Alternatively, you may type in a folder name in the accompanying drop-down list:
 **Step 6.** Click "OK" to begin extracting its contents to newly created folder.
 
 **Step 7.** Navigate to your destination external drive or USB memory stick, as shown below, then open it to confirm that the Portable Recuva program was successfully extracted.
+
 ![image](tool_recuva28.png)
 
 **Step 8.** Double click _Recuva.exe_ to activate the Portable Recuva wizard.

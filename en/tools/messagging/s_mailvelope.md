@@ -18,7 +18,7 @@ Secure Webmail
 - The ability to send and receive end-to-end encrypt email that can not be read by third parties.
 - The ability to sign your email digitally and authenticate signed email from others.
 
-**Download Location:** https://www.mailvelope.com/en
+**Download Location:** https://www.mailvelope.com/en  
 **Version used in this guide:** 1.5.1  
 **License:** Free and Open Source Software  
 **System Requirements:**  **Mozilla Firefox,** **Google Chrome** or **Chromium** running on LINUX, Windows or Mac. 

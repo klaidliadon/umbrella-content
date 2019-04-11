@@ -29,7 +29,7 @@ VPN可以保護您的流量不被第三方（包括您的互聯網服務提供�
 
 (在[安全性規劃](umbrella://assess-your-risk/security-planning)中了解更多相關信息)
 
-VPN提供商可以是商業或非營利性的機構，託管在不同的國家，並提供不同的隱私政策。有關特定VPN服務的信息，請單擊[here]（https://thatoneprivacysite.net/vpn-section/）。
+VPN提供商可以是商業或非營利性的機構，託管在不同的國家，並提供不同的隱私政策。有關特定VPN服務的信息，請單擊[此處](https://thatoneprivacysite.net/vpn-section/)。
 
 切勿使用您不信任的VPN。
 

@@ -16,6 +16,6 @@ title: 現在怎樣?
 
 ### 進一步閱讀
 
-*   安全第一, [Staying Safe Online and Using Social Media](https://advocacyassembly.org/en/courses/32/#/chapter/1/lesson/1), 宣傳大會的免費在線培訓。
+*   安全第一, [保持在線安全和使用社交媒體](https://advocacyassembly.org/en/courses/32/#/chapter/1/lesson/1), 宣傳大會的免費在線培訓。
 *   Security in a Box, [在互聯網上保持匿名並繞過審查制度](https://securityinabox.org/en/guide/anonymity-and-circumvention).
 *   Citizen Lab, Security Planner, [Orbot和Orfox](https://securityplanner.org/#/tool/orbot-and-orfox).

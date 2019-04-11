@@ -1,42 +1,42 @@
 screens:
 - items:
-  - name: ""
-    type: ""
+  - name: write-questions-known-close
+    type: label
     label: Escriba cuatro preguntas conocidas solo por usted o alguien cercano a usted
-  - name: ""
-    type: ""
+  - name: question
+    type: text_input
     label: 'Pregunta 1:'
-  - name: ""
-    type: ""
+  - name: answer
+    type: text_input
     label: 'Respuesta 1:'
   title: ""
 - items:
-  - name: ""
-    type: ""
+  - name: question-2
+    type: text_input
     label: 'Pregunta 2:'
-  - name: ""
-    type: ""
+  - name: answer-2
+    type: text_input
     label: 'Respuesta 2:'
   title: ""
 - items:
-  - name: ""
-    type: ""
+  - name: question-3
+    type: text_input
     label: 'Pregunta 3:'
-  - name: ""
-    type: ""
+  - name: answer-3
+    type: text_input
     label: 'Respuesta 3:'
   title: ""
 - items:
-  - name: ""
-    type: ""
+  - name: question-4
+    type: text_input
     label: 'Pregunta 4:'
-  - name: ""
-    type: ""
+  - name: answer-4
+    type: text_input
     label: 'Respuesta 4:'
   title: ""
 - items:
-  - name: ""
-    type: ""
+  - name: personal-duress-word
+    type: text_input
     label: Palabra de Coacción Personal
   title: ""
 title: Formulario de Prueba de Vida

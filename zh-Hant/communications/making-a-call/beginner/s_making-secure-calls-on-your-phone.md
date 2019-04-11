@@ -31,7 +31,7 @@ Signal是一款免費，簡單的開源工具，可通過端到端加密保護�
 
 *某些國家/地區攔截Signal服務器以阻止安全通信。要繞過攔截，請使用VPN。*
 
-（在[Internet](umbrella://lesson/the-internet/0)中了解更多相關信息。）
+（在[互聯網](umbrella://lesson/the-internet/0)中了解更多相關信息。）
 
 # JitsiMeet
 

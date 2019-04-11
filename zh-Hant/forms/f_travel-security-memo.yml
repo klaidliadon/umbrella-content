@@ -1,72 +1,72 @@
 screens:
 - items:
-  - name: ""
-    type: ""
+  - name: s
+    type: text_area
     label: |
       名稱
-  - name: ""
-    type: ""
+  - name: travel-dates
+    type: text_area
     label: 旅行日期
   title: 姓名/日期
 - items:
-  - name: ""
-    type: ""
+  - name: destination-s
+    type: text_area
     label: |
       目標地址
-  - name: ""
-    type: ""
+  - name: purpose
+    type: text_area
     label: 目的
   title: 目的地/目的
 - items:
-  - name: ""
-    type: ""
+  - name: itinerary
+    type: text_area
     label: 行程
-  - name: ""
-    type: ""
+  - name: travel-flight-information
+    type: text_area
     label: 旅行/航班信息
   title: 行程/旅行
 - items:
-  - name: ""
-    type: ""
+  - name: immigration-requirements
+    type: text_area
     label: 移民要求
-  - name: ""
-    type: ""
+  - name: important-phone-numbers
+    type: text_area
     label: 重要的电话号码
   title: |
     移民/電話號碼
 - items:
-  - name: ""
-    type: ""
+  - name: organisational-emergency-contact-s
+    type: text_area
     label: |
       組織緊急聯繫人
-  - name: ""
-    type: ""
+  - name: check-in-procedure
+    type: text_area
     label: 入住手续
   title: 组织/程序
 - items:
-  - name: ""
-    type: ""
+  - name: personal-emergency-contact-s
+    type: text_area
     label: |
       個人緊急聯繫人
-  - name: ""
-    type: ""
+  - name: medical-information
+    type: text_area
     label: 医疗信息
   title: 个人/医疗
 - items:
-  - name: ""
-    type: ""
+  - name: physical-security-situation
+    type: text_area
     label: 身体安全状况
-  - name: ""
-    type: ""
+  - name: digital-security-situation
+    type: text_area
     label: 数字安全形势
   title: 物理/数字
 - items:
-  - name: ""
-    type: ""
+  - name: key-contacts-embassy-insurance
+    type: text_area
     label: |
       主要聯繫人（大使館，保險等）
-  - name: ""
-    type: ""
+  - name: notes
+    type: text_area
     label: 其他/注意事项
   title: |
     主要聯繫人/其他

@@ -1,44 +1,44 @@
 screens:
 - items:
-  - name: ""
-    type: ""
+  - name: write-questions-known-close
+    type: label
     label: 寫下只有你或你身邊的人知道的四個問題
-  - name: ""
-    type: ""
+  - name: question
+    type: text_input
     label: 问题1：
-  - name: ""
-    type: ""
+  - name: answer
+    type: text_input
     label: 答案1：
   title: ""
 - items:
-  - name: ""
-    type: ""
+  - name: question-2
+    type: text_input
     label: |
       問題2：
-  - name: ""
-    type: ""
+  - name: answer-2
+    type: text_input
     label: |
       答案2：
   title: ""
 - items:
-  - name: ""
-    type: ""
+  - name: question-3
+    type: text_input
     label: 問題3：
-  - name: ""
-    type: ""
+  - name: answer-3
+    type: text_input
     label: 答案3：
   title: ""
 - items:
-  - name: ""
-    type: ""
+  - name: question-4
+    type: text_input
     label: 問題4：
-  - name: ""
-    type: ""
+  - name: answer-4
+    type: text_input
     label: 答案4：
   title: ""
 - items:
-  - name: ""
-    type: ""
+  - name: personal-duress-word
+    type: text_input
     label: 个人胁迫词
   title: ""
 title: 生命證明表格

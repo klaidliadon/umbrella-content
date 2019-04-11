@@ -17,7 +17,7 @@ title: 現在怎樣?
 
 *   人道主義實踐網絡，[良好做法評論第8期：暴力環境中的操作安全管理（修訂版）](http://odihpn.org/wp-content/uploads/2010/11/GPR_8_revised2.pdf)。
 *   ECHO，人道主義組織通用安全指南，見[eisf.eu](https://www.eisf.eu/library/generic-security-guide-for-humanitarian-organisations/)。
-*   Protection International，[新的人權維護者保護手冊](https://www.protectioninternational.org/en/node/1106).。
+*   國際保護，[新的人權維護者保護手冊](https://www.protectioninternational.org/en/node/1106).。
 *   刑法Re0x11c0669733cc國際/協會Torture預防，[婦女在detention:引導到gender敏感monitoring]（https: // www.apt.ch / content / files_res /專題-paper-2_women合拘留en.pdf ），第二次edition，2015。
 
 ### 進一步閱讀

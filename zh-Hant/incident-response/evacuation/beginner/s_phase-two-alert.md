@@ -42,7 +42,7 @@ _銷毀可能被解釋為有罪的信息或設備（例如軍事行動的報告;
 
 （在 [preparation](umbrella://travel/preparation)中了解更多相關信息。）
 
-*   在疏散或緊急情況下，組裝一袋個人物品。
+*   在疏散或緊急情況下，準備一袋個人物品的救生包。
 
 （在[protective equipment](umbrella://travel/protective-equipment)中了解更多相關信息。）
 

@@ -16,5 +16,6 @@ title: 現在怎樣?
 
 ### 進一步閱讀
 
-*   現在訪問，[Fighting censorship during the 2018 elections season](https://www.accessnow.org/fighting-censorship-in-2018-elections/).
-*   OONI, [Investigating Internet Blackouts from the Edge of the network: OONI's new upcoming methodology](https://ooni.torproject.org/post/investigating-internet-blackouts/).
+*   現在訪問，[在2018年選舉季節期間打擊審查制度](https://www.accessnow.org/fighting-censorship-in-2018-elections/).
+*   OONI, [調查來自網絡邊緣的互聯網新聞封鎖
+Fēngsuǒ：OONI即將推出的新方法](https://ooni.torproject.org/post/investigating-internet-blackouts/).

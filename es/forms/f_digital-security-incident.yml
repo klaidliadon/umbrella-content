@@ -1,218 +1,217 @@
 screens:
 - items:
-  - name: ""
-    type: ""
+  - name: name
+    type: text_input
     label: 'Nombre: '
-  - name: ""
-    type: ""
+  - name: phone
+    type: text_input
     label: 'Teléfono:'
-  - name: ""
-    type: ""
+  - name: email-address
+    type: text_input
     label: 'Email:'
-  - name: ""
-    type: ""
+  - name: secure-communication-method-e-g-signal-safety-number-pgp-email-id
+    type: text_input
     label: 'Información de seguridad (Número de seguridad Signal, ID de clave PGP):'
   title: Su Información de Contacto
 - items:
-  - name: ""
-    type: ""
+  - name: provide-brief-description
+    type: multiple_choice
     label: ¿Qué sucedió? (Marque todo lo que corresponda)
     options:
     - label: Se expusieron o se accedió a datos privados
-      value: Se expusieron o se accedió a datos privados
+      value: Private data was accessed or exposed
     - label: Me bloquearon de mi cuenta o dispositivo
-      value: Me bloquearon de mi cuenta o dispositivo
+      value: ' I’m shut out of my account or device'
     - label: Encontré un virus o malware
-      value: Encontré un virus o malware
+      value: ' I''ve encountered a virus or malware'
     - label: Mi sistema o dispositivo está dañado
-      value: Mi sistema o dispositivo está dañado
+      value: ' My system or device is damaged'
     - label: Mi sitio web o servicio está desactivado
-      value: Mi sitio web o servicio está desactivado
+      value: ' My website or service is disabled'
     - label: Me han robado información o recursos
-      value: Me han robado información o recursos
+      value: ' Information or assets have been stolen'
     - label: El incidente es confidencial, contácteme para más información
-      value: El incidente es confidencial, contácteme para más información
+      value: ' The incident is confidential, contact me for details'
     - label: Tengo otro problema de seguridad digital (por favor, descríbalo)
-      value: Tengo otro problema de seguridad digital (por favor, descríbalo)
-  - name: ""
-    type: ""
+      value: ' I have another digital security problem (please describe)'
+  - name: provide-brief-description-2
+    type: text_area
     label: Por favor, brinde detalles
   title: Detalles
 - items:
-  - name: ""
-    type: ""
-    hint: ""
+  - name: date-time-incident-discovered
+    type: text_input
+    hint: Date, time
     label: ¿Cuándo descubrió el incidente?
   title: Hora
 - items:
-  - name: ""
-    type: ""
+  - name: sensitivity-data-information-involved-check-following-apply-incident
+    type: multiple_choice
     label: ¿Cuán grave es el incidente? Marque todo lo que corresponda
     options:
     - label: Está en riesgo la seguridad física de alguien
-      value: Está en riesgo la seguridad física de alguien
+      value: Someone’s physical security is at risk
     - label: Están en riesgo recursos o información
-      value: Están en riesgo recursos o información
+      value: ' information or assets are at risk'
     - label: Está en riesgo la reputación de alguien
-      value: Está en riesgo la reputación de alguien
+      value: ' Someone’s reputation is at risk'
     - label: No estoy seguro
-      value: No estoy seguro
+      value: ' I’m not sure'
     - label: Otro (por favor, describa)
-      value: Otro (por favor, describa)
-  - name: ""
-    type: ""
+      value: ' Other (please describe)'
+  - name: provide-brief-description-5
+    type: text_area
     label: Por favor, brinde detalles
   title: Impacto
 - items:
-  - name: ""
-    type: ""
+  - name: devices-accounts-services
+    type: multiple_choice
     label: ¿Qué dispositivos, cuentas o servicios pueden estar comprometidos? Marque
       todo lo que corresponda
     options:
     - label: Email
       value: Email
     - label: Sitio web
-      value: Sitio web
+      value: ' Website'
     - label: Red social
-      value: Red social
+      value: ' Social media'
     - label: Mensajería o VoIP
-      value: Mensajería o VoIP
+      value: ' Messaging or VOIP'
     - label: Teléfono móvil o tablet
-      value: Teléfono móvil o tablet
+      value: ' Mobile phone or tablet'
     - label: Computadora portátil
-      value: Computadora portátil
+      value: ' Mobile computer'
     - label: Computadora de escritorio
-      value: Computadora de escritorio
+      value: ' Desktop computer'
     - label: Servidor
-      value: Servidor
+      value: ' Server'
     - label: Dispositivo de almacenamiento externo
-      value: Dispositivo de almacenamiento externo
+      value: ' External storage device'
     - label: Otro
-      value: Otro
-  - name: ""
-    type: ""
+      value: ' Other'
+  - name: provide-brief-description-8
+    type: text_area
     label: Por favor, brinde detalles
   title: Detalles de impacto
 - items:
-  - name: ""
-    type: ""
+  - name: approximate-number-users-affected-incident
+    type: text_input
     label: ¿Cuántas personas podrían estar afectadas?
   title: Escala
 - items:
-  - name: ""
-    type: ""
+  - name: incident-resolved
+    type: multiple_choice
     label: ¿Se ha resuelto el incidente?
     options:
     - label: Sí, estoy utilizando este formulario para documentar lo sucedido
-      value: Sí, estoy utilizando este formulario para documentar lo sucedido
+      value: Yes, I’m using this form to document what happened
     - label: No, estoy utilizando este formulario para buscar ayuda
-      value: No, estoy utilizando este formulario para buscar ayuda
+      value: ' No, I’m using this form to help me seek support'
   title: Estado
 - items:
-  - name: ""
-    type: ""
+  - name: security-guidelines-cover-type-incident-guidelines-followed
+    type: multiple_choice
     label: ¿Está siguiendo las directrices para resolver este incidente?
     options:
     - label: Sí, las estoy siguiendo
-      value: Sí, las estoy siguiendo
+      value: Yes, I am following guidelines
     - label: No, estoy usando información disponible en Umbrella y otras fuentes para
         resolver el incidente
-      value: No, estoy usando información disponible en Umbrella y otras fuentes para
-        resolver el incidente
+      value: ' No,  I am using information available in Umbrella and other free sources
+        to resolve the incident'
     - label: Tengo las directrices pero no he podido seguirlas. (Por favor, explique:)
-      value: Tengo las directrices pero no he podido seguirlas. (Por favor, explique:)
-  - name: ""
-    type: ""
+      value: ' I have guidelines but I have not been able to follow them. (Please
+        explain:)'
+  - name: provide-brief-description-4
+    type: text_area
   title: Directrices
 - items:
-  - name: ""
-    type: ""
+  - name: steps-taken-far-check-following-apply-incident
+    type: multiple_choice
     label: ¿Qué acción ha tomado hasta ahora? Marque todo lo que correponda.
     options:
     - label: He desconectado de internet los dispositivos involucrados
-      value: He desconectado de internet los dispositivos involucrados
+      value: I’ve disconnected the devices involved from the Internet
     - label: He documentado con seguridad lo que ha sucedido (hice capturas de pantallas,
         guardé los archivos de registro de virus)
-      value: He documentado con seguridad lo que ha sucedido (hice capturas de pantallas,
-        guardé los archivos de registro de virus)
+      value: ' I’ve  documented what happened securely (taken screenshots, stored
+        the antivirus log files)'
     - label: He cambiado mis contraseñas y he notificado a mis contactos desde un
         dispositivo seguro
-      value: He cambiado mis contraseñas y he notificado a mis contactos desde un
-        dispositivo seguro
+      value: ' I’ve changed my passwords and notified my contacts from a clean device'
     - label: He reportado el incidente a los proveedores de servicio
-      value: He reportado el incidente a los proveedores de servicio
+      value: ' I’ve reported the incident to service providers'
     - label: He notificado a un experto de TI o seguridad, o a un oficial, en caso
         de ser apropiado
-      value: He notificado a un experto de TI o seguridad, o a un oficial, en caso
-        de ser apropiado
+      value: ' I’ve notified an IT or security expert, or law enforcement if appropriate'
     - label: He reinstalado el sistema operativo, de ser necesario, y he restaurado
         archivos de copia de seguridad de antes del ataque
-      value: He reinstalado el sistema operativo, de ser necesario, y he restaurado
-        archivos de copia de seguridad de antes del ataque
+      value: ' I’ve reinstalled the operating system, if necessary, and restored backup
+        files from before the attack'
     - label: 'Otro – por favor, describa:'
-      value: 'Otro – por favor, describa:'
-  - name: ""
-    type: ""
+      value: ' Other – please describe:'
+  - name: provide-brief-description-3
+    type: text_area
   title: Respuesta
 - items:
-  - name: ""
-    type: ""
-    hint: ""
+  - name: notified
+    type: text_input
+    hint: Name, title
     label: ¿Quién ha sido notificado?
-  - name: ""
-    type: ""
+  - name: needs-to-be-notified
+    type: text_input
     label: ¿Quién debe aún ser notificado?
   title: Notificación
 - items:
-  - name: ""
-    type: ""
+  - name: inclination-motive-perpetrators
+    type: multiple_choice
     label: ¿Quién realizó el ataque?
     options:
     - label: Los atacantes se identificaron ellos mismos (por favor, brinde detalles)
-      value: Los atacantes se identificaron ellos mismos (por favor, brinde detalles)
+      value: The attacker identified themselves (please provide details)
     - label: El ataque fue anónimo, pero tengo mis sospechas (por favor, brinde detalles)
-      value: El ataque fue anónimo, pero tengo mis sospechas (por favor, brinde detalles)
+      value: ' The attack was anonymous but I have suspicions (please provide details)'
     - label: No lo sé
-      value: No lo sé
-  - name: ""
-    type: ""
+      value: ' I don''t know'
+  - name: provide-brief-description-6
+    type: text_area
     label: 'Detalles:'
   title: Responsabilidad
 - items:
-  - name: ""
-    type: ""
+  - name: provide-brief-description-6
+    type: text_area
     label: ¿Cuál podría ser el motivo?
   title: Motivo
 - items:
-  - name: ""
-    type: ""
+  - name: supporting-information-screenshots-suspicious-attachment-emails
+    type: multiple_choice
     label: He guardado la siguiente información de manera segura (Marque todo lo que
       corresponda)
     options:
     - label: Capturas de pantalla
-      value: Capturas de pantalla
+      value: Screenshots
     - label: Algo que se me envió como archivo adjunto
-      value: Algo que se me envió como archivo adjunto
+      value: ' Something I was sent as an attachment'
     - label: Emails o mensajes
-      value: Emails o mensajes
+      value: ' Emails or messages'
     - label: Otro (por favor, describa:)
-      value: Otro (por favor, describa:)
-  - name: ""
-    type: ""
+      value: ' Other (please describe:)'
+  - name: provide-brief-description-7
+    type: text_area
   title: Evidencia
 - items:
-  - name: ""
-    type: ""
+  - name: guidelines-aspect-security-management-need-revised-way
+    type: text_area
     label: ¿Qué cambiaría para impedir que este incidente vuelva a suceder?
   title: Reflexión
 - items:
-  - name: ""
-    type: ""
+  - name: action-requested
+    type: text_area
     label: ¿Qué acción necesita que alguien haga para resolver este incidente?
   title: Próximos pasos
 - items:
-  - name: ""
-    type: ""
+  - name: provide-additional-information-feel-important-provided-form
+    type: text_input
     label: ¿Qué más necesita decirle a la gente sobre lo que sucedió?
   title: ¿Algo más?
 title: Incidente de Seguridad Digital

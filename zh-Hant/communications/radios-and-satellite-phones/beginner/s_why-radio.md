@@ -4,7 +4,7 @@ title: 為何使用無線電
 ---
 # 無綫電是不安全且引人注目的。
 
-對於敏感通信，如果可能，請選擇更安全的內容。
+對於敏感通信，如果可能，請選擇更安全的密碼。
 
 （了解有關[發送消息](umbrella://lesson/sending-a-message)和
 [撥打電話](umbrella://lesson/making-a-call) 的更多信息。）

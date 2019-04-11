@@ -4,7 +4,7 @@ list:
 - check: 下載HTTPS Everywhere的瀏覧器外加元件
 - check: 如果使用Gmail,請啟動2-雙步驗證措施
 - check: 請盡可能建立一個RiseUp帳號
-- check: 採用伺服器主機放在安全國家的安全電郵服務。
+- check: 採用安全國家託管的安全電郵服務。
 - check: 敏感重要的聯絡人最好使用相同的電郵服務系統
 - check: 打開電郵附件前要謹慎留意。
 - check: 若有必要，對不同的群體使用不同的電郵

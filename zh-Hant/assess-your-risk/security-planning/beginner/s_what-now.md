@@ -18,4 +18,4 @@ title: 現在怎樣?
 ### 來源
 
 * 前線衛士，[安全工作手冊：面臨風險的人權維護者的實際步驟]（https://www.frontlinedefenders.org/en/resource-publication/workbook-security-practical-steps-human-rights-defenders-risk） ，2016年6月23日。
-*  國際保護，[新的人權維護者保護手冊]（https://www.protectioninternational.org/en/node/1106）。
+*  國際保護，[新的人權維護者保護手冊](https://www.protectioninternational.org/en/node/1106)。

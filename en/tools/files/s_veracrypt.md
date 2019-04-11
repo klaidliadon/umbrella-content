@@ -17,7 +17,7 @@ Secure File Storage
 *   The ability to access and modify the same set of sensitive files on Windows, Mac OS and Linux computers
 *   A secure way to backup important files
 
-**Download Location:** [https://www.veracrypt.fr/en/Downloads.html]((https://www.veracrypt.fr/en/Downloads.html))
+**Download Location:** https://www.veracrypt.fr/en/Downloads.html
 
 **Version used in this guide:** 1.16
 

@@ -10,13 +10,13 @@ Learn what to do if a team member is sexually assaulted in [sexual assault exper
 
 ### RELATED LESSONS/TOOLS
 
-*   [Security Planning](umbrella://assess-your-risk/security-planning)
-*	  [Borders](umbrella://travel/borders)
-*   [Evacuation](umbrella://incident-response/evacuation)
-*   [Vehicle](umbrella://travel/vehicles)
-*   [Being Followed](umbrella://work/being-followed/beginner)
-*   [Kidnapping](umbrella://incident-response/kidnapping/beginner)
-*   [Online Abuse](umbrella://communications/online-abuse)
+*   [Security Planning](umbrella://assess-your-risk/security-planning)  
+*   [Borders](umbrella://travel/borders)  
+*   [Evacuation](umbrella://incident-response/evacuation)  
+*   [Vehicle](umbrella://travel/vehicles)  
+*   [Being Followed](umbrella://work/being-followed/beginner)  
+*   [Kidnapping](umbrella://incident-response/kidnapping/beginner)  
+*   [Online Abuse](umbrella://communications/online-abuse)  
 
 ### SOURCES & FURTHER READING
 

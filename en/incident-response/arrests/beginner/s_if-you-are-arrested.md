@@ -24,7 +24,7 @@ Help your team understand the situation.
 
 *   Who arrested you? 
 
-How did they identify themselves, and what agency are they with? 
+*   How did they identify themselves, and what agency are they with? 
 What is their attitude? 
 
 *   Where are they taking you?

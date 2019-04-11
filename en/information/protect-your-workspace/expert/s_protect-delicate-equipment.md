@@ -28,7 +28,7 @@ When moving into a new building, test the power supply before plugging in import
 
 - Position surge protectors, UPSs, power strips and extension cables where they will not be unplugged or powered off by an accidental misstep.
 
-- Invest in high-quality computer cables, surge protectors and power strips. Power strips that spark, fall out of wall sockets, fail to hold plugs securely or a fixed with duct tape are quite dangerous.
+- Invest in high-quality computer cables, surge protectors and power strips. Power strips that spark, fall out of wall sockets, fail to hold plugs securely or are fixed with duct tape can be quite dangerous.
 
 - Ventilate cabinets that hold active computer equipment to prevent it from overheating. 
 

@@ -18,7 +18,7 @@ _Re-experiencing is the most typical symptom of PTSD._
 
 ## Avoid reminders
 
-*	Avoid people or places that remind you of the trauma
+*	Avoid people or places that remind you of the trauma.
 
 *	Avoid talking to anyone about your experience. 
 
@@ -38,9 +38,9 @@ Hyperarousal often leads to irritability, angry outbursts, sleeping problems and
 
 ## Experience other problems  
 
-*   Depression, anxiety and phobias;
-*   Substance abuse;
-*   Headaches, dizziness, chest pains and stomach aches;
-*	  Other physical, behavioural, work-related, or emotional effects.
+*   Depression, anxiety and phobias;  
+*   Substance abuse;  
+*   Headaches, dizziness, chest pains and stomach aches;  
+*   Other physical, behavioural, work-related, or emotional effects.  
 
 (Learn more about this in [stress advanced](umbrella://stress/stress/advanced) and [stress beginner](umbrella://stress/stress/beginner).)

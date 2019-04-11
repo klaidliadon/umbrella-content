@@ -10,7 +10,7 @@ Review [Mobile Phones Beginner](umbrella://communications/mobile-phones/beginner
 
 [Open Keychain](https://play.google.com/store/apps/details?id=org.sufficientlysecure.keychain)  allows OpenGPG encryption for files and emails. 
 
-(Learn more about [email]  (umbrella://communications/email) and [K-9 & Open Keychain](umbrella://tools/encryption/s_k9-apg.md).)
+(Learn more about [email](umbrella://communications/email) and [K-9 & Open Keychain](umbrella://tools/encryption/s_k9-apg.md).)
 
 ![image](mobileexp2.png)
 

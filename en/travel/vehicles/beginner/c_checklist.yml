@@ -25,7 +25,7 @@ list:
 - check: Weather
 - check: Length
 - check: Communications
-- check: Checkpoints/ other dangerous points
+- check: Checkpoints/other dangerous points
 - check: Safe 'waypoints'
 - check: Refuelling stops
 - check: Food stops
@@ -62,8 +62,8 @@ list:
 - check: Medical vaccination certificates
 - check: Food
 - check: Water
-- check: Cold/ hot weather clothing
-- check: Blankets/ shade structure
+- check: Cold/hot weather clothing
+- check: Blankets/shade structure
 - label: In case of accident
 - check: Ascertain risk of staying
 - check: Do not leave site unless at risk

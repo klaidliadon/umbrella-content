@@ -10,4 +10,4 @@ title: Why Satellite Phones
 
 Note: 
 
-Modern satellite phone networks encrypt voice traffic to prevent eavesdropping and so are usually thought of as safer than radios. However, anyone with cheap computer equipment and radio could easily break this encryption eavesdrop on calls.
+Modern satellite phone networks encrypt voice traffic to prevent eavesdropping and so are usually thought of as safer than radios. However, anyone with cheap computer equipment and radio could easily break this encryption and eavesdrop on calls.

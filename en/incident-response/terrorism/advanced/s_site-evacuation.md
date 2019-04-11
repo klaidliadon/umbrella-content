@@ -20,8 +20,8 @@ title: Site Evacuation
 
 ## During evacuation
 
-* Stay calm 
-* Visualise your next step
-* Follow the plan and any additional instructions
-* Avoid lifts, elevators, escalators
-* Assemble at a pre-arranged point
+* Stay calm; 
+* Visualise your next step;
+* Follow the plan and any additional instructions;
+* Avoid lifts, elevators, escalators;
+* Assemble at a pre-arranged point.

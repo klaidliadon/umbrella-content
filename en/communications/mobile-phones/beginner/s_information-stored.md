@@ -32,7 +32,7 @@ Move confidential files and photos from your phone to a secure location as soon 
 
 ## Erase data.
 
-Erase sensitive information regularing, including call records, messages, contacts, or photos.
+Erase sensitive information regularly, including call records, messages, contacts, or photos.
 
 (Learn more about [safely deleting](umbrella://information/safely-deleting).)
 

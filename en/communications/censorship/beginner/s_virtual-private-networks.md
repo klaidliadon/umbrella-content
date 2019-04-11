@@ -39,7 +39,7 @@ Psiphon is a secure, free VPN for Windows, Android, and iOS.
 
 (Learn how to use [Psiphon](umbrella://tools/messagging/s_psiphon.md).)  
 
-Psiphon is for censorship circumvention. It does not guarantee anonymity.
+Psiphon is used for censorship circumvention. It does not guarantee anonymity.
 
 (Learn to stay anonymous online in [Online Privacy](umbrella://communications/online-privacy/advanced).)
 

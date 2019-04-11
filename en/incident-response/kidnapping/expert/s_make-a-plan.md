@@ -14,14 +14,14 @@ _Specialist advice from a reputable company is strongly recommended if you lack 
 
 ## Get what you need
 
-*   Allocate the necessary human, financial and other resources to ensure that your plan has the best possible chance of success.
+*   Allocate the necessary human, financial and other resources to ensure that your plan has the best possible chance of success;
 *	Create a logbook to record decisions, communications and events;
 *   Obtain and mark maps.
 
 ## Need to know
 
 *   Keep incident details strictly confidential;  
-*	Implement a need to know policy.
+*	Implement a need to know policy;
 *	Bypass the usual chain of command if necessary; 
 *	Exempt crisis management team from reporting to usual supervisors. 
 
@@ -46,6 +46,6 @@ _Using a trusted intermediary gives you time to consider how to respond to messa
 *   Share your strategy with editors and work with journalists to manage how the incident is covered, if possible and appropriate. 
 
 "Emotional appeals from family members and hostage tapes from the kidnappers can drive up ransom demands or make it easier for the kidnappers to achieve their political objectives. But I'm hard pressed to come up with a case where the complete suppression of news was essential to the positive outcome in a kidnapping."  
-- Joel Simon, "The New Censorship." 
+  - Joel Simon, "The New Censorship." 
 
 (Learn about [Public Communications](umbrella://work/public-communications).)

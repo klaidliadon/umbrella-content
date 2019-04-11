@@ -12,9 +12,7 @@ For support within the first 24 hours, contact your embassy first. Front Line De
 ## Front Line Defenders
 
 **Where:** Global  
-
 **Type of Threat:** Threats of Violence, Physical Assault, Imprisonment, Lawsuit, Infringement on Rights  
-
 **Language:** Arabic, English, French, Russian, Spanish  
 
 **Accept Urgent Appeals?** Yes!  
@@ -22,22 +20,17 @@ For support within the first 24 hours, contact your embassy first. Front Line De
 **Description:** Front Line protects Human Rights Defenders through a 24hour emergency hotline (phone and encrypted email), international advocacy, security training and training manuals, grants and fellowships (including emergency funding), and evacuation support. Front Line's Dublin Platform links grassroots human rights defenders with UN mechanisms, international human rights networks, and each other.  
 
 **Website:** [frontlinedefenders.org](https://www.frontlinedefenders.org/)  
-
-24 hour emergency support, Tel: (+353) 1 210 0489
-
+24 hour emergency support, Tel: (+353) 1 210 0489  
 Dublin Tel: (+353) 1 212 3750   
-
 Brussels, Tel: (+32) 2 230 93 83
 
-**Email:** info@frontlinedefenders.org 
-**Secure Online Contact Form:** https://www.frontlinedefenders.org/secure/comment.php?l=en   
+**Email:** info@frontlinedefenders.org   
+**Secure Online Contact Form:** [Front Line Defenders secure contact](https://www.frontlinedefenders.org/secure/comment.php?l=en)   
 
 ## Rory Peck Trust
 
 **Where:** Global  
-
 **Type of Threat:** Freelance journalists who suffer: Physical Assault, Imprisonment, Infringement on Rights, Discrimination, Attack on Freedom of Expression  
-
 **Language:** English  
 
 **Accept Urgent Appeals?** Yes!  
@@ -45,13 +38,11 @@ Brussels, Tel: (+32) 2 230 93 83
 **Description:** The principal objectives of the Trust are to provide practical assistance and support to freelance newsgatherers and their families worldwide, to raise their profile, promote their welfare and safety, and to support their right to report freely and without fear.  
 
 **Website:** [rorypecktrust.org](https://rorypecktrust.org/)  
-
 London, Tel: (+44) 203 219 7860
 
 ## U.S. Centers for Disease Control and Prevention
 
 **Where:** Global  
-
 **Type of Threat:** Disease, outbreak, medical health protection  
 **Language:** English  
 **Accept Urgent Appeals?** No  
@@ -59,15 +50,12 @@ London, Tel: (+44) 203 219 7860
 **Description:** The U.S. government agency is a public source for information on common diseases, disorders, and treatments. The CDC website provides information about sickness and disease, healthy living, safety and emergency care, and disaster preparedness and response.  
 
 **Web site:** [cdc.gov](www.cdc.gov)  
-
 Atlanta, Tel: +1-800-232-4636 (24-hour health information hotline, Monday through Friday)
 
 ## Amnesty International
 
 **Where:** Global  
-
 **Type of Threat:** Physical Assault, Imprisonment, Infringement on Rights, Discrimination, Attack on Freedom of Expression  
-
 **Language:** Arabic, English, French, Spanish  
 
 **Accept Urgent Appeals?** Yes!  
@@ -81,24 +69,21 @@ London, Tel: (+44) 20-74135500
 ## Asian Human Rights Commission
 
 **Where:** East Asia; South & Southeast Asia  
-
 **Type of Threat:** Physical Assault, Imprisonment, Infringement on Rights, Discrimination, Attack on Freedom of Expression  
 **Language:** Bahasa, Burmese, Chinese, English, French, German, Italian, Japanese, Korean, Tagalog  
 
 **Accept Urgent Appeals?** Yes!  
 
-**Description:** The Asian Human Rights Commission monitors, investigates, advocates, and takes solidarity action around human rights violations across Asia. AHRC's Urgent Appeal Programme mobilizes thousands of individu- als to speak out around particular cases. (Directed by Ashoka Fellow Basil Fernando.)  
+**Description:** The Asian Human Rights Commission monitors, investigates, advocates, and takes solidarity action around human rights violations across Asia. AHRC's Urgent Appeal Programme mobilizes thousands of individuals to speak out around particular cases. (Directed by Ashoka Fellow Basil Fernando.)  
 
-**Web site:** [humanrights.asia](http://www.humanrights.asia/)
+**Web site:** [humanrights.asia](http://www.humanrights.asia/)  
 Hong Kong, Tel: 852-2698 6339  
 **Online contact form:** [http://www.humanrights.asia/contact-us](http://www.humanrights.asia/contact-us)
 
 ## Committee to Protect Journalists
 
 **Where:** Global  
-
 **Type of Threat:** Threats of Violence, Physical Assault, Imprisonment, Lawsuit, Infringement on Rights, Discrimination, Attack on Freedom of Expression  
-
 **Language:** English  
 
 **Accept Urgent Appeals?** Yes!  
@@ -107,10 +92,8 @@ Hong Kong, Tel: 852-2698 6339
 
 **Web site:** [cpj.org](https://cpj.org/)  
 New York, Tel: (+1) 212 465-1004  
-
-**Email:** report_violations@cpj.org 
-
-**Secure Drop address:** 2x2hb5ykeu4qlxqe.onion (only accessible via the Tor browser. For instructions, click [here](https://cpj.org/emergency-response/how-to-get-help.php. Learn how to use the Tor browser for [Windows](umbrella://tools/tor/s_tor-for-windows.md), [Mac](umbrella://tools/tor/s_tor-for-mac-os-x.md), and [Linux](umbrella://tools/tor/s_tor-for-linux.md).) 
+**Email:** report_violations@cpj.org  
+**Secure Drop address:** 2x2hb5ykeu4qlxqe.onion (only accessible via the Tor browser. For instructions, click [here](https://cpj.org/emergency-response/how-to-get-help.php). Learn how to use the Tor browser for [Windows](umbrella://tools/tor/s_tor-for-windows.md), [Mac](umbrella://tools/tor/s_tor-for-mac-os-x.md), and [Linux](umbrella://tools/tor/s_tor-for-linux.md).) 
 
 ## European Interagency Security Forum
 
@@ -120,16 +103,16 @@ New York, Tel: (+1) 212 465-1004
 
 **Description:** EISF's aim is to improve holistic security risk management (SRM) approaches allowing sustainable access of aid workers to populations in need. The EISF Secretariat works in collaboration with its' Members to produce original research, arrange biannual forum meetings and regular workshops and facilitate information sharing between members and the wider NGO community.  
 
-**Web site:** [eisf.eu](https://www.eisf.eu/) 
+**Web site:** [eisf.eu](https://www.eisf.eu/)  
 London, Tel: (+44) 203 195 1360  
 **Email:** eisf-coordinator@eisf.eu
 
 ## Federation for Human Rights
 
-**Where:** Global  
+**Where:** Global   
 **Type of Threat:** Physical Assault, Imprisonment, Infringement on Rights, Discrimination, Attack on Freedom of Expression  
+**Language:** Arabic, English, French, Spanish 
 
-**Language:** Arabic, English, French, Spanish  
 **Accept Urgent Appeals?** No  
 
 **Description:** FIDH works with over 141 non-governmental organizations in over 100 countries towards improvements in victim protection, prevention of human rights violations, and judicial punishment of perpetrators. Over the past 25 years they have organized over 1000 missions in 100 countries. FIDH works closely with the World Organisation Against Torture (OMCT) through its Observatory for the Protection of Human Rights Defenders.  
@@ -170,6 +153,7 @@ New York, Tel: (+1) 212 845-5200
 **Type of Threat:** Threats of Violence, Imprisonment, Lawsuit, Infringement on Rights, Discrimination, Attack on Freedom of Expression  
 
 **Language:** Arabic, Chinese, English, French, German, Hebrew, Korean, Persian, Portuguese, Russian  
+
 **Accept Urgent Appeals?** Yes  
 
 **Description:** Human Rights Watch stands with victims and activists to prevent discrimination, uphold political freedom, protects people from inhumane conduct in wartime, and brings offenders to justice by exposing human rights violations and holding abusers accountable. HRW's principal advocacy strategy is to shame offenders through press attention, exert diplomatic and economic pressure, and build coalitions around specific human rights issues.  
@@ -219,8 +203,7 @@ London, Tel: (+44) 20 7065 0775
 
 ## Urgent Action Fund for Women's Human Rights 
 
-**Where:** Global (regional funds operate in [Africa](http://www.uaf-africa.org/), [Latin America](http://www.fondoaccionurgente.org.co/), and [Asia Pacific](https://www.uafanp.org/).) 
-
+**Where:** Global (regional funds operate in [Africa](http://www.uaf-africa.org/), [Latin America](http://www.fondoaccionurgente.org.co/), and [Asia Pacific](https://www.uafanp.org/).)  
 **Type of Threat:** Threats of Violence, Physical Assault, Imprisonment, Lawsuit,Infringement on Rights, Discrimination, Attack on Freedom of Expression  
 **Language:** Arabic, Albanian, Bahasa, English, French, Nepali, Spanish, Russian,  
 
@@ -229,12 +212,9 @@ London, Tel: (+44) 20 7065 0775
 **Description:** UAF operate Rapid Response Grant-making programs to support women activists around: a) peace-building in situations of armed conflict, escalating violence, or politically volatile environments;b) potentially precedent-setting legal and legislative actions; and c) protection of women human rights defenders. Their Research, Publications, and Advocacy program is a resource for activists, funders, and allies of women's human rights activism. 
 
 **Web site:** www.urgentactionfund.org  
-
 Global, Tel: (+1) 303 442-2388  
-
-Africa, Tel: (+254) 20 2931095   
-
-Latin America, Tel: (+57) 1 368 6155; (+57) 312 562 1321
+Africa, Tel: (+254) 20 2931095  
+Latin America, Tel: (+57) 1 368 6155; (+57) 312 562 1321  
 
 **Email:** urgentact@urgentactionfund.org; info@uaf-africa.org (Africa); apoyos3@fondoaccionurgente.org.co (Latin America); info@uafanp.org (Asia Pacific)
 
@@ -267,11 +247,11 @@ New York, Tel: (+1) 718.783.2000
 **Web site:** [vancecenter.org](http://www.vancecenter.org/vancecenter/)  
 New York, Tel: (+1) 212 382-4718
 
-
 ## Human Rights Law Network
 
-**Where:** India, South Asia
-Description: HRLN uses the legal system to advance human rights. HRLN lawyers collaborate with human rights organizations and grass-roots develop- ment collectives to defend the rights of marginalized and vulnerable groups. HRLN provides pro bono legal services and conducts public interest litigation, engages in advocacy and campaigns, conducts legal awareness programs, investigates violations, and publishes "Know Your Rights" materials.  
+**Where:** India, South Asia  
+
+**Description:** HRLN uses the legal system to advance human rights. HRLN lawyers collaborate with human rights organizations and grass-roots develop- ment collectives to defend the rights of marginalized and vulnerable groups. HRLN provides pro bono legal services and conducts public interest litigation, engages in advocacy and campaigns, conducts legal awareness programs, investigates violations, and publishes "Know Your Rights" materials.  
 
 **Web site:** [hrln.org](http://hrln.org/)
 New Delhi, Tel: +91-11-24374501, 24376922
@@ -295,7 +275,9 @@ Washington, DC, Tel: (+1) 202 429-8169
 ## Public Interest Law Initiative (PILI)
 
 **Where:** Central & Eastern Europe, Russia  
-Description: PILI advances human rights around the world by stimulating public interest advocacy and developing the institutions necessary to sustain it. PILI is strengthening the use of law as an instrument for achieving social justice.  
+
+**Description:** PILI advances human rights around the world by stimulating public interest advocacy and developing the institutions necessary to sustain it. PILI is strengthening the use of law as an instrument for achieving social justice.  
+
 **Web site:** [pili.org](http://pili.org/)  
 Budapest, Tel: (+36) 1 461-5700  
 Moscow, Tel: (+7) 795 628 00 20  
@@ -310,23 +292,24 @@ In addition to citizen sector organizations, inter-governmental institutions off
 **Where:** Global  
 **Accept Urgent Appeals?** Yes  
 
-**Description:** The UN Special Rapporteur on Human Rights Defenders supports and gathers information on behalf of human rights defenders around the world. The Special Representative operates in complete independence of any state, is not a UN staff member, and does not receive a salary.  
+**Description:** The UN Special Representative on Human Rights Defenders supports and gathers information on behalf of human rights defenders around the world. The Special Representative operates in complete independence of any state, is not a UN staff member, and does not receive a salary.  
 **Web site:** [www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/)  
 Geneva, Tel: (+41) 22 917 1234  
 **Email a complaint:** urgent-action@ohchr.org  
 
 **Additional Resources:**
 
-*   Guidelines for submitting complaints: [www2.ohchr.org/english/issues/ defenders/complaints.htm](http://www2.ohchr.org/english/issues/defenders/complaints.htm)
-*   UN Declaration on Human Rights Defenders [www2.ohchr.org/english/issues/defenders/declaration.htm](www2.ohchr.org/english/issues/defenders/declaration.htm)
+*   [Guidelines for submitting complaints:](http://www2.ohchr.org/english/issues/defenders/complaints.htm)
+*   [UN Declaration on Human Rights Defenders](www2.ohchr.org/english/issues/defenders/declaration.htm)
 
 ## U.N. Office of the High Commissioner for Human Rights
 
 **Where:** Global  
 **Accept Urgent Appeals?** Yes  
+
 **Description:** The UN Office of the High Commissioner for Human Rights (OHCHR) promotes and protects the enjoyment and full realization by all people of all rights established in the Charter of the United Nations, including the Universal Declaration of Human Rights.  
 
-**Web site:** [www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/)  
+**Web site:** [U.N. Office of the High Commissioner for Human Rights](https://www.ohchr.org/EN/pages/home.asp)  
 Geneva, Tel: (+41) 22 917 0656  
 **Email a complaint:** urgent-action@ohchr.org (Follow the instructions [here](http://www2.ohchr.org/english/bodies/chr/special/communications.htm))
 
@@ -338,32 +321,36 @@ Geneva, Tel: (+41) 22 917 0656
 ## Inter-American Commission of Human Rights (Washington, DC) and Inter-American Court of Human Rights (San Jose)
 
 **Where:** The Americas  
-**Languages:** English, French, Portuguese, Spanish  
+**Languages:** English, French, Portuguese, Spanish 
+
 **Accept Urgent Appeals?** Yes  
 
 **Description:** The Inter-American Commission a) receives, analyzes, and investigates petitions alleging human rights violations; b) observes the general human rights situation in member states; c) carries out on-site visits to analyze specific situations; and d) submits cases to the Inter-American Court for litigation. The Inter-American Court issues and enforces judgments. Both are comprised of representatives from members of the Organization of American States.  
 **Note:** Individuals and citizen sector organizations may directly petition the Inter-American Commission, only after exhausting all options within their State to address the situation.  
 
-**Websites:** [Inter-American Commission](https://www.oas.org/es/cidh/)  
-[Inter-American Court](http://www.corteidh.or.cr/)
+**Websites:**  
+[Inter-American Commission](https://www.oas.org/es/cidh/)  
+[Inter-American Court](http://www.corteidh.or.cr/)  
 
 ## African Commission on Human and People's Rights
 
 **Where:** Africa  
 **Languages:** English, French  
+
 **Accept Urgent Appeals?** Yes  
 
 **Description:** The African Commission promotes and protects human rights across Africa through investigations of alleged violations, recommendations to the State(s) involved, and ensuring appropriate measures are taken. Recommendations are submitted to the Organisation of African Unity (OAU) to monitor compliance.  
 
 **Note:** Individuals, citizen sector organizations, and States party to the African Charter may directly petition the Inter-American Commission, only after exhausting all options within their State to address the situation.  
 
-**Websites:** African Commission [achpr.org](http://www.achpr.org/)  
+**Web site:** African Commission [achpr.org](http://www.achpr.org/)  
 **Email:** au-banjul@africa-union.org
 
 ## European Court of Human Rights
 
 **Where:** Europe  
-Languages: English, French  
+Languages: English, French 
+
 **Accept Urgent Appeals?** Yes  
 
 **Description:** The European Court of Human Rights ensures that States respect the rights guaranteed by the European Convention on Human Rights. The European Court examines complaints (known as "applications") lodged by individuals, and issues binding judgments where the State is found in violation of these rights.  

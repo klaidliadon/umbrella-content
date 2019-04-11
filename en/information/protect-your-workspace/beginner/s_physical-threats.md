@@ -13,6 +13,6 @@ title: Physical threats
 
 This lesson tells you how to assess your work environment and make a plan to protect it.
 
-[Workspace Advanced]((umbrella://information/protect-your-workspace/advanced) tells you how to protect information from intruders.
+[Workspace Advanced](umbrella://information/protect-your-workspace/advanced) tells you how to protect information from intruders.
 
 [Workspace Expert](umbrella://information/protect-your-workspace/expert) tells you how to protect your devices from physical threats.

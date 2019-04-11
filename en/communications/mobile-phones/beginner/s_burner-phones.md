@@ -37,4 +37,4 @@ Physical surveillance of the place where the phone is sold or used, or voice rec
 *   Reuse SIM cards or devices;
 *   Carry different devices together;
 *   Associate devices by using them in the same places;
-*   Communicate with the same people.
+*   Communicate with the same people using different devices.

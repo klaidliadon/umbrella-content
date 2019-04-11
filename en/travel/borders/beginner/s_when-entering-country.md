@@ -64,6 +64,6 @@ It may not be wise, or possible, to lie, but neither should you volunteer inform
 
 ## Remember:
 
-*	Be polite, calm, confidant, and firm with border authorities.
+*	Be polite, calm, confident, and firm with border authorities.
 
 *	Do not get separated from your belongings, especially electronic items. If they are taken away, assume they are compromised.

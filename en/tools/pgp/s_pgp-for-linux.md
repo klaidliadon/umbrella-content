@@ -7,17 +7,17 @@ title: PGP for Linux
 ## PGP for Linux Tool Guide   
 Encrypted email for Linux
 
-**Lesson to read:   
-- [Email](umbrella://communications/email)**  
+**Lesson to read: [Email](umbrella://communications/email)**  
 **Computer requirements:** An internet connection, a computer running Linux, an email account  
 **Version used in this guide:**   
 - Linux: Debian 7.0 ("Wheezy")  
 - Mozilla Thunderbird 24.8.1  
 - Enigmail 1.6  
 - GPG4Win 1.4.18  
+
 **License:** Free Software; mix of Free Software licenses  
 **Level:** Expert  
-**Other reading:** [https://www.gnupg.org/documentation/guides.html](https://www.gnupg.org/documentation/guides.html)  
+**Other reading:** https://www.gnupg.org/documentation/guides.html  
 **Time required:** 30-60 minutes
 
 **Using PGP will give you:**  
@@ -59,14 +59,17 @@ _sudo apt-get install gnupg icedove enigmail_
 ### 2.1 Configuring Thunderbird
 
 Now that you've installed Thunderbird, open it as you would another application on your machine (you might pick it from a list of applications on a menu, or type its name into an application search). You will see the first run wizard appear.
+
 ![image](tool_pgplin1.png)
 
 To set up your existing email address, click "Skip this and use my existing email," and then enter your name, email address, and the password to your email account.
+
 ![image](tool_pgplin2.png)
 
 If you use a popular free email service like Gmail, Thunderbird should be able to automatically detect your email settings when you click "Continue."
 
 **If you use two-factor authentication with Google (and depending on your threat model you probably should!) you cannot use your standard Gmail password with Thunderbird. Instead, you will need to create a new application-specific password for Thunderbird to access your Gmail account. See [Google's own guide](https://support.google.com/mail/answer/1173270?hl=en) for doing this.**
+
 ![image](tool_pgplin3.png)
 
 If it doesn't, you may need to manually configure your IMAP and SMTP settings. If you don't know how to do this, talk to your email provider, or ask someone technical who is familiar with your email provider (so, an IT person at work, or a technical friend who uses the same ISP as you; they don't need to know how to use PGP, but you can ask them "Do you know the IMAP and SMTP settings for my email address?").
@@ -74,12 +77,15 @@ If it doesn't, you may need to manually configure your IMAP and SMTP settings. I
 ### 2.2 Configuring Enigmail
 
 Enigmail is a plugin for Thunderbird that encrypts and decrypts PGP-encoded emails, and makes handling private and public keys a little easier. If you have the latest version of Enigmail, you should be presented with the Enigmail Setup Wizard.
+
 ![image](tool_pgplin4.png)
 
 If you don't see it, you can use this menu option from Thunderbird to make it appear. Click on the three horizontal lines (the "hamburger menu") on the right of the Thunderbird window.
+
 ![image](tool_pgplin5.png)
 
 Here's the first option that Enigmail offers you: three options for handling when to encrypt your mail.
+
 ![image](tool_pgplin6.png)
 
 The default option is to encrypt emails if you have the "public key" of another person, Enigmail will encrypt the email you send but leave emails unencrypted if you don't have the public key of the recipient yet. You also have the option to encrypt emails all the time to everyone with PGP keys, which means that you will have to find the public keys for people for whom you don't have them already, or turn off automatic encryption completely and only use PGP when directed.
@@ -87,6 +93,7 @@ The default option is to encrypt emails if you have the "public key" of another 
 We don't know what the appropriate option is for you, but believe the "Convenient auto encryption" option to be a good choice. If you are in doubt, choose "Don't encrypt my messages by default." 
 
 Click the "Next" button.
+
 ![image](tool_pgplin6.png)
 
 Now you have an option to digitally sign all outgoing emails. Signing your email with PGP allows the recipient to check that you sent the message, and that the contents of the message were not tampered with. Click the "Sign my messages by default" button to turn this feature on. 
@@ -96,6 +103,7 @@ The downside of doing this, however, is that it can also flag to anyone you send
 Click the "Next" Button.
 
 Now you'll see an option to have Enigmail make some changes to the configuration of Mozilla Thunderbird.
+
 ![image](tool_pgplin7.png)
 
 If you click the Details button you can review what those changes are.
@@ -112,6 +120,7 @@ Now you will start creating your private key and public key.
 ### 2.3 Creating a public key and private key
 
 Installation and setup of the Enigmail add-on is complete. Now you'll have the option of creating your public and private key pair. This assumes you have not created a private key before.
+
 ![image](tool_pgplin8.png)
 
 Click the "Next" button.
@@ -119,6 +128,7 @@ Click the "Next" button.
 Unless you have already configured more than one email account, Enigmail will choose the email account you've already configured. The first thing you'll need to do is come up with a strong passphrase for your private key. See the **[Passwords lesson](umbrella://information/passwords)** for more information on how to do this.
 
 Enigmail will display some information about your private key as well as the configuration settings. We recommend creating 4096-bit length keys. Click the "Next" button.
+
 ![image](tool_pgplin9.png)
 
 **Your key will expire at a certain time; when that happens, other people will stop using it entirely for new emails to you, though you might not get any warning or explanation about why. So, you may want to mark your calendar and pay attention to this issue a month or so before the expiration date.**
@@ -126,6 +136,7 @@ Enigmail will display some information about your private key as well as the con
 It's possible to extend the lifetime of an existing key by giving it a new, later expiration date, or it's possible to replace it with a new key by creating a fresh one from scratch. Both processes might require contacting people who email you and making sure that they get the updated key; current software isn't very good at automating this. So make a reminder for yourself; if you don't think you'll be able to manage it, you can consider setting the key so that it never expires, though in that case other people might try to use it when contacting you far in the future even if you no longer have the private key or no longer use PGP.
 
 Enigmail will generate the key and when it is complete, a small window will open asking you to generate a revocation certificate. This revocation certificate is important to have as it allows you to make the private key and public key invalid. It is important to note that merely deleting the private key does not invalidate the public key and may lead to people sending you encrypted mail that you can't decrypt.
+
 ![image](tool_pgplin10.png)
 
 Click the "Generate Certificate" button.
@@ -143,17 +154,21 @@ Finally, you are done with generating the private key and public key. Click the 
 ### 2.4.1 Display long key-IDs
 
 The next steps are completely optional but they can be helpful when using OpenPGP and Enigmail. Briefly, the Key ID is a small part of the fingerprint. When it comes to verifying that a public key belongs to a particular person the fingerprint is the best way. Changing the default display makes it easier to read the fingerprints of the certificates you know about. Click the configuration button, then the Enigmail option, then Key Management.
+
 ![image](tool_pgplin11.png)
 
 A window will open showing two columns: Name and Key ID.
+
 ![image](tool_pgplin12.png)
 
 On the far right there is a small button. Click that button to configure the columns. Unclick the Key ID option and click the Fingerprint option.
+
 ![image](tool_pgplin13.png)
 
 Now change the width of the Fingerprint column by moving the mouse to the lines between each column heading (that is, just to the left of the "Key ID" header at the top of the list of keys), and dragging the line to the left. Keep moving left until you can see all of the Key ID, like this:
 
 Now the columns will look like this:
+
 ![image](tool_pgplin14.png)
 
 Now you are set up to send and receive regular and encrypted email. Next you will go through the steps of actually finding the people to exchange encrypted mail with.
@@ -169,6 +184,7 @@ You can easily email your public key to another person by sending them a copy as
 Click the "Write" button in Mozilla Thunderbird.
 
 Fill in an address and a subject, perhaps something like "my public key," click the Enigmail menu and select the "Attach My Public Key" option.
+
 ![image](tool_pgplin15.png)
 
 You can now the email and the recipient will be able to download and use the public key you sent.
@@ -182,9 +198,11 @@ In addition to letting people know via email, you can post your public key on yo
 Click the configuration button, then the Enigmail option, then Key Management.
 
 Highlight your certificate in bold, then right-click to bring up the menu and select Export keys to file.
+
 ![image](tool_pgplin16.png)
 
 A small window will pop up with three buttons. Click the "Export Public Keys Only" button.
+
 ![image](tool_pgplin17.png)
 
 
@@ -205,6 +223,7 @@ Although uploading your public key to a keyserver might be a convenient way of l
 If you choose to upload your public key to keyservers, you will go back to the Enigmail Key Management window.
 
 Click the Keyserver menu item and select the Upload Public Keys option.
+
 ![image](tool_pgplin18.png)
 
 ### 3.1 Finding other people who are using PGP
@@ -212,11 +231,13 @@ Click the Keyserver menu item and select the Upload Public Keys option.
 **a) Getting a public key by email**
 
 You might get a public key sent to you as an email attachment.
+
 ![image](tool_pgplin19.png)
 
 Notice the attachment at the bottom of the window. Right-click on the attachment and select "Import OpenPGP Key." A small window will open giving you the results of the import. Click the OK button.
 
 If you open up the Enigmail key management window again, you can check the result. Your PGP key is in bold because you have both the private key and the public key. The public key you just imported is not bold because it doesn't contain the private key.
+
 ![image](tool_pgplin20.png)
 
 **b) Getting a public key as a file**
@@ -230,20 +251,25 @@ The public key might have very different file name endings such as .asc, .pgp, o
 **c) Getting a public key from a key server**
 
 Keyservers can be a very useful way of getting public keys. Try looking for a public key. Open up the key manager then click the "Keyserver" menu and select "Search for Keys."
+
 ![image](tool_pgplin21.png)
 
 A small window will pop up with a search field. You can search by a complete email address, a partial email address, or a name. In this case, you will search for certificates containing "eff.org."
+
 ![image](tool_pgplin22.png)
 
 A larger window will pop up with many options. If you scroll down you'll notice some certificates are italicized and grayed out. These are certificates that have either been revoked or expired on their own.
+
 ![image](tool_pgplin23.png)
 
 Let's take the public keys of Danny O'Brien for example, he has one expired or revoked certificate and one valid certificate. Select the valid certificate by clicking the box on the left then press the OK button.
+
 ![image](tool_pgplin24.png)
 
 In some cases a person may have more than one certificate, all appearing valid. Note that it's possible for anyone to upload a public certificate for anyone else, and that one of these keys may not belong to the person that owns the email address associated with it. In this case, verifying the fingerprint is extremely important.
 
 A small notification window will pop up letting you know if you succeeded, and the Enigmail Key Manager will now show you the added certificates:
+
 ![image](tool_pgplin25.png)
 
 ### 4.0 Sending PGP encrypted mail
@@ -251,6 +277,7 @@ A small notification window will pop up letting you know if you succeeded, and t
 Now you will send your first encrypted email to a recipient. In the main Mozilla Thunderbird window click the "Write" button. A new window will open.
 
 Write your message, and enter a recipient. For this test, select a recipient whose public key you already have. Enigmail will detect this and automatically encrypt the email (you can tell it will be encrypted by the golden key at the bottom right of the email).
+
 ![image](tool_pgplin26.png)
 
 **Note that the subject line won't be encrypted, so choose something innocuous, like "hello."**
@@ -260,6 +287,7 @@ When you click the "Send" button, you'll be given a window to enter the password
 Enter your password then click the "OK" button and your email will be encrypted and sent.
 
 The body of the email was encrypted and transformed. For example our text above, was converted to this:
+
 ![image](tool_pgplin27.png)
 
 ### 4.1 Receiving PGP encrypted mail
@@ -267,9 +295,11 @@ The body of the email was encrypted and transformed. For example our text above,
 Let's go through what happens when you receive encrypted email. First, click on the message.
 
 A small window opens asking you for the password to the PGP key. Remember: Don't enter your email password. Click the "OK" button.
+
 ![image](tool_pgplin28.png)
 
 Now the message will show up decrypted
+
 ![image](tool_pgplin29.png)
 
 ### 5.0 Revoking the PGP Key
@@ -279,9 +309,11 @@ Now the message will show up decrypted
 The PGP keys generated by Enigmail automatically expire after five years. So if you lose all your files, you can hope that people will know to ask you for another key once the key has expired.
 
 You might have a good reason to disable the PGP key before it expires. Perhaps you want to generate a new, stronger PGP key. The easiest way to revoke your own PGP key in Enigmail is through the Enigmail Key Manager. Right-click on your PGP key (it's in bold), and select the "Revoke Key" option.
+
 ![image](tool_pgplin30.png)
 
 A window will pop up letting you know what happens and asking for your confirmation. Click the "Revoke Key" button.
+
 ![image](tool_pgplin31.png)
 
 The password window opens, enter your password for the PGP key and click the "OK" button.
@@ -289,6 +321,7 @@ The password window opens, enter your password for the PGP key and click the "OK
 Now a new window will open up letting you know you succeeded. Click the "OK" button.
 
 When you go back to the Enigmail Key Management window you'll notice a change to your PGP key. It is now grayed out and italicized.
+
 ![image](tool_pgplin32.png)
 
 **b) Revoking a PGP Key with a revocation certificate**
@@ -304,12 +337,15 @@ You might get sent revocation certificates from friends as a notice that they wa
 In the previous section you might have noticed that Enigmail generates and imports a revocation certificate internally when you use the Enigmail Key Manager to revoke a key. Since you already have a revocation certificate, you will use the one you generated earlier to revoke your own key.
 
 Start with the Enigmail Key Manager and click the "File" menu and select "Import Keys from File."
+
 ![image](tool_pgplin33.png)
 
 A window will open up so you can select the revocation certificate. Click on the file, and click the "Open" button. You'll get a notification that the certificate was imported successfully and that a key was revoked. Click the "OK" button.
+
 ![image](tool_pgplin34.png)
 
 Once you click the "OK" button, you'll be taken back to the Enigmail Key Manager and you see the certificate you revoked greyed out and italicized.
+
 ![image](tool_pgplin35.png)
 
 If the key you revoked is your own, and you previously uploaded your public key to the key servers, you will want to re-upload the now-revoked key to the key servers, so that others see not to use it anymore.

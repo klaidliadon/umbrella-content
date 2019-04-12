@@ -15,6 +15,6 @@ PGP是端到端加密的標準。
 
 您是否需要對電子郵件進行端到端加密取決於您的威脅模型。
 
-（在[管理信息](umbrella://lesson/managing-information)課程中學習評估您的威脅模型。）
+（在[管理信息](umbrella://information/managing-information)課程中學習評估您的威脅模型。）
 
 ![圖像](email3.png)

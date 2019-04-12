@@ -24,4 +24,4 @@ Si su teléfono satelital es confiscado, las autoridades o los actores hostiles 
 
 *   Mantenga la tarjeta SIM separada del teléfono cuando no esté transmitiendo.
 
-(Obtenga información sobre [protección de archivos](umbrella://lesson/protecting-files)  y [eliminación segura](umbrella://lesson/safely-deleting).)
+(Obtenga información sobre [protección de archivos](umbrella://information/protecting-files)  y [eliminación segura](umbrella://information/safely-deleting).)

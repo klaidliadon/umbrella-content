@@ -8,7 +8,7 @@ title: 如何發現魚叉式網路釣魚
 
 這對您來說是否存在問題將取決於您的威脅模型。
 
-(在[管理信息](umbrella://lesson/managing-information)中了解有關威脅模型的更多信息。)
+(在[管理信息](umbrella://information/managing-information)中了解有關威脅模型的更多信息。)
 
 如果您可能面臨遭受攻擊的風險，或者您與可能面臨風險的其他人進行通信：
 

@@ -4,17 +4,17 @@ title: ¿Ahora qué?
 ---
 Pase a la derecha para la lista de verificación de esta lección
 
-Aprenda a rootear y cifrar su teléfono en [Teléfono Móvil Experto](umbrella://lesson/mobile-phones/2)
+Aprenda a rootear y cifrar su teléfono en [Teléfono Móvil Experto](umbrella://communications/mobile-phones/expert)
 
 ### LECCIONES/HERRAMIENTAS RELACIONADAS
 
-*   [Haciendo una llamada](umbrella://lesson/making-a-call)
-*   [Enviando un mensaje](umbrella://lesson/sending-a-message)
-*   [Copia de Seguridad](umbrella://lesson/backing-up)
-*   [Eliminación Segura](umbrella://lesson/safely-deleting)
-*   [Malware](umbrella://lesson/malware)
-*   [ObscuraCam](umbrella://lesson/obscuracam)
-*   [Configuración de Seguridad Básica para Android](umbrella://lesson/android)
+*   [Haciendo una llamada](umbrella://communications/making-a-call)
+*   [Enviando un mensaje](umbrella://communications/sending-a-message)
+*   [Copia de Seguridad](umbrella://information/backing-up)
+*   [Eliminación Segura](umbrella://information/safely-deleting)
+*   [Malware](umbrella://information/malware)
+*   [ObscuraCam](umbrella://tools/messagging/s_obscuracam.md)
+*   [Configuración de Seguridad Básica para Android](umbrella://tools/other/s_android.md)
 
 ### OTRAS LECTURAS
 

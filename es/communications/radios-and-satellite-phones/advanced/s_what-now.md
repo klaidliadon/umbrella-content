@@ -4,11 +4,11 @@ title: ¿Ahora qué?
 ---
 Pase a la derecha para la lista de verificación de esta lección.
 
-Aprenda a usar radios en [Radio y Teléfonos Satelitales Principiante] (umbrella://lesson/radios-and-satellite-phones/0).
+Aprenda a usar radios en [Radio y Teléfonos Satelitales Principiante] (umbrella://communications/radios-and-satellite-phones/beginner).
 
 ### LECCIONES/HERRAMIENTAS RELACIONADAS
 
-*   [Haciendo una llamada](umbrella://lesson/making-a-call)
+*   [Haciendo una llamada](umbrella://communications/making-a-call)
 
 ### OTRAS LECTURAS
 

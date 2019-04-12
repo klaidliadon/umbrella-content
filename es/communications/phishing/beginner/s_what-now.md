@@ -6,9 +6,9 @@ Pase a la derecha para la lista de verificación de esta lección.
 
 #### **LECCIONES RELACIONADAS**
 
-*   [Malware] (umbrella://lesson/malware)
-*   [Correo Electrónico] (umbrella://lesson/email)
-*   [Redes sociales](umbrella://lesson/social media)
+*   [Malware] (umbrella://information/malware)
+*   [Correo Electrónico] (umbrella://communications/email)
+*   [Redes sociales](umbrella://communications/social-media)
 
 #### **OTRAS LECTURAS**
 

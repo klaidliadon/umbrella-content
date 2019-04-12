@@ -24,4 +24,4 @@ title: 監視的危險
 
 *   當不要傳輸時，把SIM卡自手機上移除。
 
-（了解[保護文件](umbrella://lesson/protecting-files) 和 [安全刪除](umbrella://lesson/safely-deleting)。)
+（了解[保護文件](umbrella://information/protecting-files) 和 [安全刪除](umbrella://information/safely-deleting)。)

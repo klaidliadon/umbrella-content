@@ -22,6 +22,6 @@ title: 竊聽
 
 在公共場所或您不信任的地方使用手機會使您容易受到傳統竊聽技術的攻擊或手機被盜。
 
-（在[會議](umbrella://lesson/meetings)課程中了解更多相關信息。）
+（在[會議](umbrella://work/meetings)課程中了解更多相關信息。）
 
 ![圖像](mobile5.png)

@@ -6,14 +6,14 @@ Pase a la derecha para la lista de verificación de esta lección.
 
 ### LECCIONES/HERRAMIENTAS RELACIONADAS
 
-*   [Gestión de Información](umbrella://lesson/managing-information)
-*   [Preparacion de Viaje](umbrella://lesson/backing-up)
-*   [Proteja su espacio de trabajo](umbrella://lesson/protect-your-workspace)
-*   [Copia de Seguridad](umbrella://lesson/backing-up)
-*   [Evacuación](umbrella://lesson/evacuation)
-*   [Arrestos ](umbrella://lesson/arrests)
-*   [Secuestro](umbrella://lesson/kidnapping)
-*   [Abuso Sexual](umbrella://lesson/sexual-assault)
+*   [Gestión de Información](umbrella://information/managing-information)
+*   [Preparacion de Viaje](umbrella://information/backing-up)
+*   [Proteja su espacio de trabajo](umbrella://information/protect-your-workspace)
+*   [Copia de Seguridad](umbrella://information/backing-up)
+*   [Evacuación](umbrella://incident-response/evacuation)
+*   [Arrestos ](umbrella://incident-response/arrests)
+*   [Secuestro](umbrella://incident-response/kidnapping)
+*   [Abuso Sexual](umbrella://incident-response/sexual-assault)
 
 ### FUENTES
 

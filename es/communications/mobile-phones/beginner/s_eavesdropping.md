@@ -22,6 +22,6 @@ Deje los teléfonos en otra habitación donde los micrófonos no puedan escuchar
 
 El uso de un teléfono en público o en lugares en los que no confía lo hace vulnerable a las técnicas tradicionales de escuchas o a que le roben su teléfono.
 
-(Obtenga más información sobre esto en la lección [reuniones](umbrella://lesson/meetings)
+(Obtenga más información sobre esto en la lección [reuniones](umbrella://work/meetings)
 
 ![image](mobile5.png)

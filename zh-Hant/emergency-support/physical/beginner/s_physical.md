@@ -102,7 +102,7 @@ title: 現實
 **網站：** [cpj.org](https://cpj.org/)
 紐約，電話：(+1) 212 465-1004
 **電子郵件：** report_violations@cpj.org
-**安全刪除地址：** 2x2hb5ykeu4qlxqe.onion（只能通過Tor瀏覽器訪問。有關說明，請單擊[此處](https://cpj.org/emergency-response/how-to-get-help.php。學習如何使用Tor瀏覽器[Windows](umbrella://lesson/tor-for-windows)，[Mac](umbrella://lesson/tor-for-mac-os-x)和[Linux](umbrella://lesson/tor-for-linux)）。
+**安全刪除地址：** 2x2hb5ykeu4qlxqe.onion（只能通過Tor瀏覽器訪問。有關說明，請單擊[此處](https://cpj.org/emergency-response/how-to-get-help.php。學習如何使用Tor瀏覽器[Windows](umbrella://tools/tor/s_tor-for-windows.md)，[Mac](umbrella://tools/tor/s_tor-for-mac-os-x.md)和[Linux](umbrella://tools/tor/s_tor-for-linux.md)）。
 
 ## 歐洲機構間安全論壇
 

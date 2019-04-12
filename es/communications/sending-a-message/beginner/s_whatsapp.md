@@ -21,13 +21,13 @@ WhatsApp ofrece mensajería gratuita a individuos y grupos en una variedad de di
 *   Un atacante puede intentar interceptar las comunicaciones de WhatsApp cambiando el código de seguridad de su contacto. Vaya a Configuración > Cuenta > Seguridad > Mostrar notificaciones de seguridad para activar las advertencias sobre esta actividad.
 *   WhatsApp es propiedad de Facebook y comparte al menos algunos datos del usuario con la empresa.
 
-*Aún recomendamos Signal para mensajes y llamadas seguras.* (Aprenda cómo usar Signal para [Android] (umbrella://lesson/signal-for-android) y [iOS] (umbrella://lesson/singal-for-ios).)
+*Aún recomendamos Signal para mensajes y llamadas seguras.* (Aprenda cómo usar Signal para [Android] (umbrella://tools/messagging/s_signal-for-android.md) y [iOS] (umbrella://tools/messagging/s_signal-for-ios.md).)
 
 ## Active 2FA
 
 Agregue seguridad a su cuenta de WhatsApp habilitando la verificación en dos pasos, una forma de autenticación de dos factores (2FA).
 
-(Obtenga información sobre 2FA en [Contraseñas avanzadas](umbrella://lesson/passwords/1))
+(Obtenga información sobre 2FA en [Contraseñas avanzadas](umbrella://information/passwords/advanced))
 
 *   Vaya a Configuración > Cuenta > Verificación en dos pasos > Habilitar.
 *   Cree un PIN de seis dígitos. WhatsApp le pedirá periódicamente que lo ingrese.

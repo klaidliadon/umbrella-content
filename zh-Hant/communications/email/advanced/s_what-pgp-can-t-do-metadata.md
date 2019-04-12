@@ -16,7 +16,7 @@ PGP保持電子郵件*內容*私密，但顯示有關電子郵件的所有其他
 
 使用Tor瀏覽器等其他工具可以幫助您限制公開的元數據量。
 
-（在[互聯網課程](umbrella://lesson/the-internet)中了解有關Tor的更多信息。）
+（在[互聯網課程](umbrella://communications/the-internet)中了解有關Tor的更多信息。）
 
 # 加密可能是一支紅旗
 

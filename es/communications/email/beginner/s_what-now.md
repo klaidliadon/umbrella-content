@@ -4,13 +4,13 @@ title: ¿Ahora qué?
 ---
 Pase a la derecha para la lista de verificación de esta lección.
 
-Aprenda a cifrar correos electrónicos confidenciales en [Correo electrónico avanzado](umbrella://lesson/email/1).
+Aprenda a cifrar correos electrónicos confidenciales en [Correo electrónico avanzado](umbrella://communications/email/advanced).
 
 ### LECCIONES/HERRAMIENTAS RELACIONADAS
 
-*   [Malware](umbrella://lesson/malware)
-*   [Internet](umbrella://lesson/the-internet)
-*   [Contraseñas](umbrella://lesson/passwords)
+*   [Malware](umbrella://information/malware)
+*   [Internet](umbrella://communications/the-internet)
+*   [Contraseñas](umbrella://information/passwords)
 
 ### OTRAS LECTURAS
 

@@ -12,7 +12,7 @@ title: Información enviada
 
 Las aplicaciones de comunicaciones seguras protegen sus llamadas y los mensajes utilizan un cifrado de extremo a extremo.
 
-(Obtenga información sobre [hacer una llamada](umbrella://lesson/making-a-call)  y [enviar un mensaje](umbrella://lesson/sending-a-message) de forma segura).
+(Obtenga información sobre [hacer una llamada](umbrella://communications/making-a-call)  y [enviar un mensaje](umbrella://communications/sending-a-message) de forma segura).
 
 ## Use palabras codificadas
 

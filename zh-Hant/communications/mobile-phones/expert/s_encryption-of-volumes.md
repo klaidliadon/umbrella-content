@@ -4,14 +4,14 @@ title: 加密您的數據
 ---
 # 加密您的設備
 
-回顧[手機-初學者課程](umbrella://lesson/mobile-phones/0)，[Android的基本安全性](umbrella://lesson/android) 以及如何[加密你的iPhone](umbrella://lesson/encrypt-your-iphone)。
+回顧[手機-初學者課程](umbrella://communications/mobile-phones/beginner)，[Android的基本安全性](umbrella://tools/other/s_android.md) 以及如何[加密你的iPhone](umbrella://tools/encryption/s_encrypt-your-iphone.md)。
 
 # 加密您的數據
 
 [Open Keychain](https://play.google.com/store/apps/details?id=org.sufficientlysecure.keychain)允許對文件和電子郵件進行OpenGPG加密。
 
 （了解更多關於[電子郵件]
-(umbrella://lesson/email) 和 [K-9 & Open Keychain](umbrella://lesson/k9-apg)的信息。)
+(umbrella://communications/email) 和 [K-9 & Open Keychain](umbrella://tools/encryption/s_k9-apg.md)的信息。)
 
 ![圖像](mobileexp2.png)
 

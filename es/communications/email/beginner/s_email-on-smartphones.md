@@ -12,4 +12,4 @@ Un teléfono inteligente es generalmente más vulnerable al robo, monitoreo e in
 
 *   Cifre el correo electrónico con aplicaciones seguras donde esté disponible.
 
-(Obtenga información sobre el cifrado en [correo electrónico avanzado] (umbrella://lesson/email/1) y cómo cifrar el correo electrónico con [K-9 y Open Keychain](umbrella://lesson/k9-apg)para Android.)
+(Obtenga información sobre el cifrado en [correo electrónico avanzado] (umbrella://communications/email/advanced) y cómo cifrar el correo electrónico con [K-9 y Open Keychain](umbrella://tools/encryption/s_k9-apg.md)para Android.)

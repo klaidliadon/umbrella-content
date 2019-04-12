@@ -22,20 +22,20 @@ title: 儲存的資訊
 
 如果設備允許在設置下加密，請應用它。
 
-（學習[Android的基本安全性](umbrella://lesson/android)以及如何[加密你的iPhone](umbrella://lesson/encrypt-your-iphone)。）
+（學習[Android的基本安全性](umbrella://tools/other/s_android.md)以及如何[加密你的iPhone](umbrella://tools/encryption/s_encrypt-your-iphone.md)。）
 
 ## 移動數據。
 
 盡快將機密文件和照片從手機移動到安全的位置。
 
-（了解[保護文件](umbrella://lesson/protecting-files)和
-[備份](umbrella://lesson/backing-up)。）
+（了解[保護文件](umbrella://information/protecting-files)和
+[備份](umbrella://information/backing-up)。）
 
 ## 刪除數據。
 
 定期銷毀敏感信息，包括通話記錄，消息，聯繫人或照片。
 
-（了解有關[安全刪除](umbrella://lesson/safely-deleting)的更多信息。）
+（了解有關[安全刪除](umbrella://information/safely-deleting)的更多信息。）
 
 ## 保護您的設備
 
@@ -62,7 +62,7 @@ ObscuraCam可以：
 *   刪除原始照片;
 *   如果您設置了媒體，請將媒體上載到服務器。
 
-（了解如何使用[ObscuraCam](umbrella://tools/obscuracam)。）
+（了解如何使用[ObscuraCam](umbrella://tools/messagging/s_obscuracam.md)。）
 
 ## 使用CameraV
 

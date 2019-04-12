@@ -16,13 +16,13 @@ Al menos hasta que entienda la situación.
 
 Elija nuevas contraseñas seguras para su correo electrónico y todas las cuentas vinculadas. Las cuentas vinculadas utilizan su correo electrónico para iniciar sesión, recuperar información de inicio de sesión o verificar su identidad.
 
-(Utilice [contraseñas seguras](umbrella://lesson/passwords/0) y [2FA.](umbrella://lesson/passwords/1))
+(Utilice [contraseñas seguras](umbrella://information/passwords/beginner) y [2FA.](umbrella://information/passwords/advanced))
 
 ## Asegure sus dispositivos
 
-Cualquier dispositivo que utilice para acceder al correo electrónico desde la cuenta comprometida es vulnerable. Analice su computadora en busca de [malware] (umbrella://lesson/malware/0) y actualice la seguridad de su [teléfono móvil](umbrella://lesson/mobile-phones/0).
+Cualquier dispositivo que utilice para acceder al correo electrónico desde la cuenta comprometida es vulnerable. Analice su computadora en busca de [malware] (umbrella://information/malware/beginner) y actualice la seguridad de su [teléfono móvil](umbrella://communications/mobile-phones/beginner).
 
-(Aprenda [seguridad básica para Android](umbrella://lesson/android) y cómo [cifrar su iPhone] (umbrella://lesson/encrypt-your-iphone).)
+(Aprenda [seguridad básica para Android](umbrella://tools/other/s_android.md) y cómo [cifrar su iPhone] (umbrella://tools/encryption/s_encrypt-your-iphone.md).)
 
 ## Compruebe la configuración de la cuenta y la actividad.
 
@@ -56,7 +56,7 @@ Si es apropiado para su situación y modelo de amenaza, informe a su proveedor d
 
 Considere el uso de software de correo electrónico gratuito y de código abierto como Thunderbird.
 
-(Obtenga información sobre el software de código abierto en [Malware Avanzado] ([malware](umbrella://lesson/malware/1) y cómo agregar cifrado en [Email Avanzado.] (umbrella://lesson/email/1))
+(Obtenga información sobre el software de código abierto en [Malware Avanzado] ([malware](umbrella://information/malware/advanced) y cómo agregar cifrado en [Email Avanzado.] (umbrella://communications/email/advanced))
 
 ## Cambie de proveedor.
 

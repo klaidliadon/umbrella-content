@@ -6,9 +6,9 @@ title: 現在怎樣?
 
 ### 相關課程與工具
 
-*   適用於[Android](umbrella://lesson/signal-for-android)的Signal
-*   適用於[iOS](umbrella://lesson/signal-for-iOS)的Signal
-*   [Pidgin](umbrella://lesson/pidgin)
+*   適用於[Android](umbrella://tools/messagging/s_signal-for-android.md)的Signal
+*   適用於[iOS](umbrella://tools/messagging/s_signal-for-ios.md)的Signal
+*   [Pidgin](umbrella://tools/messagging/s_pidgin.md)
 
 ### 進一步閱讀
 

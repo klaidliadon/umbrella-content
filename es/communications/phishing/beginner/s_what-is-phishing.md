@@ -4,7 +4,7 @@ title: ¿Qué es el Phishing?
 ---
 Los ataques de phishing intentan engañar a las personas para que revelen información o descarguen malware que se puede usar para espiarlos o interrumpir su trabajo.
 
-(Obtenga más información sobre [Malware] (umbrella://lesson/malware).)
+(Obtenga más información sobre [Malware] (umbrella://information/malware).)
 
 Un mensaje de phishing pretende ser confiable para que usted pueda hacer algo, como:
 

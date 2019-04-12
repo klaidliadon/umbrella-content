@@ -6,8 +6,8 @@ title: 為何使用無線電
 
 對於敏感通信，如果可能，請選擇更安全的密碼。
 
-（了解有關[發送消息](umbrella://lesson/sending-a-message)和
-[撥打電話](umbrella://lesson/making-a-call) 的更多信息。）
+（了解有關[發送消息](umbrella://communications/sending-a-message)和
+[撥打電話](umbrella://communications/making-a-call) 的更多信息。）
 
 然而，無線電通常是強大並且獨立的公共設施，而電信網絡可能在危機中超載或關閉。
 

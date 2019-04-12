@@ -6,9 +6,9 @@ Pase a la derecha para la lista de verificación de esta lección.
 
 ### LECCIONES/HERRAMIENTAS RELACIONADAS
 
-*   [Teléfonos Móviles](umbrella://lesson/mobile-phones)
-*   Signal para [Android](umbrella://lesson/signal-for-android)
-*   Signal para [iOS](umbrella://lesson/signal-for-ios)
+*   [Teléfonos Móviles](umbrella://communications/mobile-phones)
+*   Signal para [Android](umbrella://tools/messagging/s_signal-for-android.md)
+*   Signal para [iOS](umbrella://tools/messagging/s_signal-for-ios.md)
 
 ### OTRAS LECTURAS
 

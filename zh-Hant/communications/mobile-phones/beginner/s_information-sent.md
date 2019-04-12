@@ -12,7 +12,7 @@ title: 已發送的信息
 
 安全通信應用程序可保護您的呼叫和消息使用端到端加密。
 
-（了解安全地[撥打電話](umbrella://lesson/making-a-call)和[發送信息](umbrella://lesson/sending-a-message)。）
+（了解安全地[撥打電話](umbrella://communications/making-a-call)和[發送信息](umbrella://communications/sending-a-message)。）
 
 ## 使用代碼字
 

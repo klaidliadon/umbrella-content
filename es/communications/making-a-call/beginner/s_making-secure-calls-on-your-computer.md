@@ -8,7 +8,7 @@ Los proveedores de VoIP más populares, como Skype y Google Hangouts, ofrecen ci
 
 Eavesdroppers no puede escuchar, pero el proveedor puede. Que esto sea un problema para usted dependerá de su modelo de amenaza.
 
-(Obtenga más información sobre los modelos de amenazas en [gestión de la información.](umbrella://lesson/managing-information))
+(Obtenga más información sobre los modelos de amenazas en [gestión de la información.](umbrella://information/managing-information))
 
 # No use Skype
 

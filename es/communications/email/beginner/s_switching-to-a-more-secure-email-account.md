@@ -17,7 +17,7 @@ Google ofrece algunas funciones de seguridad, pero no se recomienda para correo 
 *   Siempre active la verificación de 2 pasos, un tipo de autenticación de dos factores (2FA). La configuración es [simple] (https://support.google.com/accounts/answer/185839?hl=es).
 
 (Aprende sobre 2FA en
-[Contraseñas Avanzadas] (umbrella://lesson/passwords/1).)
+[Contraseñas Avanzadas] (umbrella://information/passwords/advanced).)
 
 ## Protonmail y Tutanota
 

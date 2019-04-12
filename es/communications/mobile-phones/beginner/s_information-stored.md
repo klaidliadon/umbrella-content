@@ -23,19 +23,19 @@ Siga estos pasos para minimizar el riesgo de exponer información personal sobre
 
 Si el dispositivo permite el cifrado en la configuración, aplíquelo.
 
-(Aprenda [seguridad básica para Android](umbrella://lesson/android)  y cómo [cifrar su iPhone](umbrella://lesson/encrypt-your-iphone).)
+(Aprenda [seguridad básica para Android](umbrella://tools/other/s_android.md)  y cómo [cifrar su iPhone](umbrella://tools/encryption/s_encrypt-your-iphone.md).)
 
 ## Mueva datos.
 
 Mueva archivos confidenciales y fotos desde su teléfono a un lugar seguro lo antes posible.
 
-(Obtenga información sobre [protección de archivos](umbrella://lesson/protecting-files) ) y [copia de seguridad](umbrella://lesson/backing-up).)
+(Obtenga información sobre [protección de archivos](umbrella://information/protecting-files) ) y [copia de seguridad](umbrella://information/backing-up).)
 
 ## Borre datos.
 
 Borre la información confidencial, incluidos registros de llamadas, mensajes, contactos o fotos.
 
-(Obtenga más información sobre [eliminación segura](umbrella://lesson/safely-deleting).)
+(Obtenga más información sobre [eliminación segura](umbrella://information/safely-deleting).)
 
 ## Proteja su dispositivo
 
@@ -62,7 +62,7 @@ ObscuraCam puede:
 *   Eliminar las fotos originales;
 *   Subir los medios a su servidor si configura uno.
 
-(Aprenda a usar [ObscuraCam](umbrella://tools/obscuracam).)
+(Aprenda a usar [ObscuraCam](umbrella://tools/messagging/s_obscuracam.md).)
 
 ## Use CameraV
 

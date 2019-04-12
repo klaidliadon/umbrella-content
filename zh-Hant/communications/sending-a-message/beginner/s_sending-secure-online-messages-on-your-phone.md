@@ -14,7 +14,7 @@ Signal是一款免費，簡單的開源工具，可通過端到端加密保護�
 
 與您正在通信的人也必須安裝Signal。
 
-（了解[撥打電話](umbrella://lesson/making-a-call)。）
+（了解[撥打電話](umbrella://communications/making-a-call)。）
 
 ## 您的電話號碼是您Signal的用戶名。
 
@@ -27,11 +27,11 @@ Signal是一款免費，簡單的開源工具，可通過端到端加密保護�
 *   Signal開發人員[Open Whisper Systems](https://signal.org/about/)運行中央服務器。您無法運行自己的操作，這可以讓您更有效地控制其安全性。
 *   但是，他們無法聽到您的談話，因此其他任何人都無法聽到。
 
-（在適用於[Android](umbrella://lesson/signal-for-android)和[iOS](umbrella://lesson/signal-for-ios)的Signal中了解更多信息。）
+（在適用於[Android](umbrella://tools/messagging/s_signal-for-android.md)和[iOS](umbrella://tools/messagging/s_signal-for-ios.md)的Signal中了解更多信息。）
 
 *某些國家/地區封鎖Signal服務器以阻止安全通信。要突破封鎖，請使用VPN。*
 
-（在[互聯網](umbrella://lesson/the-internet/0)中了解更多相關信息。）
+（在[互聯網](umbrella://communications/the-internet/beginner)中了解更多相關信息。）
 
 # 不要使用電報
 

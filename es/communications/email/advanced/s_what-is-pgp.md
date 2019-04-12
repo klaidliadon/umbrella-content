@@ -15,6 +15,6 @@ Si se usa correctamente, puede proteger el contenido de ser leído por:
 
 Si necesita encriptación de extremo a extremo para su correo electrónico depende de su modelo de amenaza.
 
-(Aprenda a evaluar su modelo de amenaza en la lección [gestión de la información] (umbrella://lesson/managing-information) lesson.)
+(Aprenda a evaluar su modelo de amenaza en la lección [gestión de la información] (umbrella://information/managing-information) lesson.)
 
 ![image](email3.png)

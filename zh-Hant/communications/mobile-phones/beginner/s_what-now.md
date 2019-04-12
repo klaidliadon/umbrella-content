@@ -5,17 +5,17 @@ title: 現在怎樣?
 滑動右側到課程檢查表
 
 到專家課程以進一步了解如何取得手機的最高權限以及加密設定
-[專家課程](umbrella://lesson/mobile-phones/2)
+[專家課程](umbrella://communications/mobile-phones/expert)
 
 ### 相關課程與工具
 
-*   [如何打一通安全的電話課](umbrella://lesson/making-a-call)
-*   [傳送簡訊課](umbrella://lesson/sending-a-message)
-*   [備份資料課](umbrella://lesson/backing-up)
-*   [安全刪除課](umbrella://lesson/safely-deleting)
-*   [惡意軟體](umbrella://lesson/malware)
-*   [ObscuraCam工具](umbrella://lesson/obscuracam)
-*   [Android手機的基本安全設定](umbrella://lesson/android)
+*   [如何打一通安全的電話課](umbrella://communications/making-a-call)
+*   [傳送簡訊課](umbrella://communications/sending-a-message)
+*   [備份資料課](umbrella://information/backing-up)
+*   [安全刪除課](umbrella://information/safely-deleting)
+*   [惡意軟體](umbrella://information/malware)
+*   [ObscuraCam工具](umbrella://tools/messagging/s_obscuracam.md)
+*   [Android手機的基本安全設定](umbrella://tools/other/s_android.md)
 
 ### 進階閱讀材料
 

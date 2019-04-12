@@ -4,11 +4,11 @@ title: ¿Ahora qué?
 ---
 Pase a la derecha para la lista de verificación de esta lección.
 
-Obtenga información sobre los teléfonos satelitales en [Radio y Teléfonos Satelitales Avanzado](umbrella://lesson/radios-and-satellite-phones/1).
+Obtenga información sobre los teléfonos satelitales en [Radio y Teléfonos Satelitales Avanzado](umbrella://communications/radios-and-satellite-phones/advanced).
 
 ### LECCIONES/HERRAMIENTAS RELACIONADAS
 
-*   [Hacer una Llamada] (umbrella://lesson/making-a-call)
+*   [Hacer una Llamada] (umbrella://communications/making-a-call)
 
 ### OTRAS LECTURAS
 

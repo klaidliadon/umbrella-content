@@ -38,4 +38,4 @@ title: Procedimientos de radio
 
 *   Discuta la transferencia de efectivo o bienes.
 
-(Aprenda los protocolos recomendados para evadir el seguimiento en [Radio y Teléfonos Satelitales Avanzado](umbrella://lesson/radio-and-satellite-phones/1))
+(Aprenda los protocolos recomendados para evadir el seguimiento en [Radio y Teléfonos Satelitales Avanzado](umbrella://communications/radios-and-satellite-phones/advanced))

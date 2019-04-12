@@ -4,11 +4,11 @@ title: 現在怎樣?
 ---
 滑動右側到課程檢查表。
 
-在[音頻和衛星電話-初學者課程](umbrella://lesson/radios-and-satellite-phones/0)中學習使用無線電。
+在[音頻和衛星電話-初學者課程](umbrella://communications/radios-and-satellite-phones/beginner)中學習使用無線電。
 
 ### 相關課程與工具
 
-*   [通話](umbrella://lesson/making-a-call)
+*   [通話](umbrella://communications/making-a-call)
 
 ### 進一步閱讀
 

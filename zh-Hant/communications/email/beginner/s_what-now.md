@@ -4,13 +4,13 @@ title: 現在怎樣?
 ---
 滑動右側到課程檢查表。
 
-到[電子郵件-進階課程](umbrella://lesson/email/1)了解如何加密帶有敏感信息的電子郵件。
+到[電子郵件-進階課程](umbrella://communications/email/advanced)了解如何加密帶有敏感信息的電子郵件。
 
 ### 相關課程與工具
 
-*   [惡意軟體](umbrella://lesson/malware)
-*   [互聯網](umbrella://lesson/the-internet)
-*   [密碼](umbrella://lesson/passwords)
+*   [惡意軟體](umbrella://information/malware)
+*   [互聯網](umbrella://communications/the-internet)
+*   [密碼](umbrella://information/passwords)
 
 ### 進一步閱讀
 

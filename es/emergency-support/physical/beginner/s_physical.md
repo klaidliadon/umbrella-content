@@ -102,7 +102,7 @@ Hong Kong, Tel: 852-2698 6339
 **Sitio web:** [cpj.org] (https://cpj.org/)
 Nueva York, Tel: (+1) 212 465-1004
 **Correo electrónico:** report_violations@cpj.org
-**Dirección de Drop Segura:** 2x2hb5ykeu4qlxqe.onion (solo accesible a través del navegador Tor. Para obtener instrucciones, haga clic [aquí] (https://cpj.org/emergency-response/how-to-get-help.php. Más información de cómo usar el navegador Tor para [Windows](umbrella://lesson/tor-for-windows), [Mac] (umbrella://lesson/tor-for-mac-os-x), y [Linux] (umbrella://lesson/tor-for-linux).)
+**Dirección de Drop Segura:** 2x2hb5ykeu4qlxqe.onion (solo accesible a través del navegador Tor. Para obtener instrucciones, haga clic [aquí] (https://cpj.org/emergency-response/how-to-get-help.php. Más información de cómo usar el navegador Tor para [Windows](umbrella://tools/tor/s_tor-for-windows.md), [Mac] (umbrella://tools/tor/s_tor-for-mac-os-x.md), y [Linux] (umbrella://tools/tor/s_tor-for-linux.md).)
 
 ## European Interagency Security Forum
 

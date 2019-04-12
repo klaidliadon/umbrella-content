@@ -8,7 +8,7 @@ Estos atacantes investigan el objetivo y diseñan mensajes específicamente para
 
 Si esto es un problema o no para usted dependerá de su modelo de amenaza.
 
-(Obtenga más información sobre los modelos de amenazas en [gestión de la información.](umbrella://lesson/managing-information))
+(Obtenga más información sobre los modelos de amenazas en [gestión de la información.](umbrella://information/managing-information))
 
 Si puede correr el riesgo de un ataque, o si se comunica con otras personas que podrían estar en riesgo:
 

@@ -20,7 +20,7 @@ Ask these questions when securing your workplace, or assessing the security of a
 * Is there an intercom for announcements? 
 * Are people using the network trained in digital threats like malware and phishing? 
 
-(Learn about [malware](umbrella://information/malware/beginner) and [phishing](umbrella://lesson/phishing/beginner).)
+(Learn about [malware](umbrella://information/malware/beginner) and [phishing](umbrella://communications/phishing/beginner).)
 
 * Is the space clean? Would it be easy to hide a malicious package? 
 * Are unidentified or unaccompanied visitors challenged?  

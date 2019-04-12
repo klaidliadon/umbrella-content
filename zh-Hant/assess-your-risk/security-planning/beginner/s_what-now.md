@@ -6,14 +6,14 @@ title: 現在怎樣?
 
 ### 相關課程與工具
 
-*   [管理資訊課程](umbrella://lesson/managing-information)
-*   [旅行準備](umbrella://lesson/backing-up)
-*   [保護您的工作區](umbrella://lesson/protect-your-workspace)
-*   [安全刪除課程](umbrella://lesson/backing-up)
-*   [撒離](umbrella://lesson/evacuation)
-*   [逮捕](umbrella://lesson/arrests)
-*   [綁架](umbrella://lesson/kidnapping)
-*   [性侵犯](umbrella://lesson/sexual-assault)
+*   [管理資訊課程](umbrella://information/managing-information)
+*   [旅行準備](umbrella://information/backing-up)
+*   [保護您的工作區](umbrella://information/protect-your-workspace)
+*   [安全刪除課程](umbrella://information/backing-up)
+*   [撒離](umbrella://incident-response/evacuation)
+*   [逮捕](umbrella://incident-response/arrests)
+*   [綁架](umbrella://incident-response/kidnapping)
+*   [性侵犯](umbrella://incident-response/sexual-assault)
 
 ### 來源
 

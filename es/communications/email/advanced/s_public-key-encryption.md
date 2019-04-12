@@ -28,8 +28,8 @@ Si otra persona obtiene su clave privada, puede leer los correos electrónicos d
 
 *   Guardar su clave privada en un lugar seguro.
 
-(Obtenga más información sobre [proteger archivos](umbrella://lesson/passwords).)
+(Obtenga más información sobre [proteger archivos](umbrella://information/passwords).)
 
 *   Proteger su clave privada con una contraseña segura.
 
-(Obtenga más información sobre [contraseñas](umbrella://lesson/passwords).)
+(Obtenga más información sobre [contraseñas](umbrella://information/passwords).)

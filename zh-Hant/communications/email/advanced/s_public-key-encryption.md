@@ -28,8 +28,8 @@ PGP是一個採用公鑰加密的加密系統。
 
 *   將您的私鑰存放在安全的地方。
 
-(在(umbrella://lesson/protecting-files)了解有關[保護文件]的更多信息。）
+(在(umbrella://information/protecting-files)了解有關[保護文件]的更多信息。）
 
 *   使用強密碼保護您的私鑰。
 
-(在(umbrella://lesson/passwords)了解有關[密碼]的更多信息。)
+(在(umbrella://information/passwords)了解有關[密碼]的更多信息。)

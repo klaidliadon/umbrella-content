@@ -16,7 +16,7 @@ Si envía un correo electrónico a un disidente político, lo que diga podría n
 
 Usar una herramienta adicional como el navegador Tor le ayudará a limitar la cantidad de metadatos que expone.
 
-(Obtenga más información sobre Tor en la [lección de Internet](umbrella://lesson/the-internet).)
+(Obtenga más información sobre Tor en la [lección de Internet](umbrella://communications/the-internet).)
 
 # El cifrado puede ser una bandera roja
 

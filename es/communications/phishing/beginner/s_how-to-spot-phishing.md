@@ -16,7 +16,7 @@ Pero no todos los ataques serán detectados. Aprenda a reconocer un intento de p
 
     *¿El mensaje fue enviado a usted personalmente, y se dirige a usted por su nombre? Un remitente que usted conoce probablemente lo haría.
     * ¿Fue incluido en un mensaje enviado a un grupo grande? Los atacantes a menudo envían mensajes a varias personas, en busca de aquellos que no saben o no prestan atención.
-    *Aprenda a identificar los ataques dirigidos en [Cómo Detectar el Spear Phishing](umbrella//lesson/phishing/how-to-spot-spear-phishing).
+    *Aprenda a identificar los ataques dirigidos en [Cómo Detectar el Spear Phishing](umbrella://communications/phishing/beginner/s_how-to-spot-spear-phishing.md).
 
 ## El contenido.
 

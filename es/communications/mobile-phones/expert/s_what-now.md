@@ -4,11 +4,11 @@ title: ¿Ahora qué?
 ---
 Pase a la derecha para la lista de verificación de esta lección.
 
-Conozca los peligros de usar teléfonos móviles en [Teléfonos Móviles Principiante.](umbrella://lesson/mobile-phones/0)
+Conozca los peligros de usar teléfonos móviles en [Teléfonos Móviles Principiante.](umbrella://communications/mobile-phones/beginner)
 
 ### LECCIONES / HERRAMIENTAS RELACIONADAS
 
-*   [K-9 y Open Keychain](umbrella://lesson/k9-apg)
+*   [K-9 y Open Keychain](umbrella://tools/encryption/s_k9-apg.md)
 
 ### OTRAS LECTURAS
 

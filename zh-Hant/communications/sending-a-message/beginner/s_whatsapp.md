@@ -21,13 +21,13 @@ WhatsApp為各種設備和操作系統上的個人和團體提供免費短信服
 *   攻擊者可能會嘗試通過更改聯繫人的安全代碼來攔截WhatsApp通信。轉到設置>帳戶>安全性>顯示安全通知以打開有關此活動的警告。
 *   WhatsApp已被Facebook收購，並與該公司至少共享一些用戶數據。
 
-*我們仍然推薦Signal用於安全消息和電話。*（瞭解如何使用適用於[安卓](umbrella://lesson/signal-for-android)和[iOS](umbrella://lesson/singal-for-ios)的Signal。）
+*我們仍然推薦Signal用於安全消息和電話。*（瞭解如何使用適用於[安卓](umbrella://tools/messagging/s_signal-for-android.md)和[iOS](umbrella://tools/messagging/s_signal-for-ios.md)的Signal。）
 
 ## 打開2FA
 
 通過啟用兩步驗證（一種雙因素身份驗證（2FA）形式）為您的WhatsApp帳戶添加安全性。
 
-（在[密碼-進階課程](umbrella://lesson/passwords/1)中了解2FA）
+（在[密碼-進階課程](umbrella://information/passwords/advanced)中了解2FA）
 
 *   轉到設置>帳戶>兩步驗證>啟用。
 *   創建一個六位數的PIN。 WhatsApp會定期提示您輸入它。

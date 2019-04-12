@@ -38,4 +38,4 @@ title: 無線電程序
 
 *   討論現金或貨物的轉移。
 
-（在[無綫電和衛星電話-進階課程](umbrella://lesson/radio-and-satellite-phones/1)中學習推薦的方案以規避他人的跟踪）
+（在[無綫電和衛星電話-進階課程](umbrella://communications/radios-and-satellite-phones/advanced)中學習推薦的方案以規避他人的跟踪）

@@ -4,19 +4,19 @@ title: 改善電子郵件安全的竅門
 ---
 # 少用電子郵件。
 
-請注意你所寫的信息内容，並瞭解如果它落入第三者之手的後果。如有疑問，請勿通過電子郵件發送。 通過[Sending message] (umbrella://lesson/sending-a-message) 更為安全。
+請注意你所寫的信息内容，並瞭解如果它落入第三者之手的後果。如有疑問，請勿通過電子郵件發送。 通過[Sending message] (umbrella://communications/sending-a-message) 更為安全。
 
 ## 保護您的帳戶
 
-使用[高强度密碼] (umbrella://lesson/passwords/0) 與 [2FA.] (umbrella://lesson/passwords/1)
+使用[高强度密碼] (umbrella://information/passwords/beginner) 與 [2FA.] (umbrella://information/passwords/advanced)
 
 ## 使用最新版本的防病毒軟件。
 
-如果設備上的間諜軟件可以記錄您的類型，則電子郵件安全服務將無法保護您。請勿忽略瀏覽器或網絡郵件中的安全警告。(學會防止[惡意軟件](umbrella://lesson/malware) )
+如果設備上的間諜軟件可以記錄您的類型，則電子郵件安全服務將無法保護您。請勿忽略瀏覽器或網絡郵件中的安全警告。(學會防止[惡意軟件](umbrella://information/malware) )
 
 ## 請勿點擊可疑鏈接或附件。
 
-學會識別[網絡釣魚] (umbrella://lesson/phishing)。
+學會識別[網絡釣魚] (umbrella://communications/phishing)。
 
 ## 使用pseudeonym。
 
@@ -38,4 +38,4 @@ title: 改善電子郵件安全的竅門
 
 Tor瀏覽器等匿名軟件有助於隱藏您的電子郵件服務遠離可能監控您互聯網連接的第三者。
 
-(在[互聯網](umbrella://lesson/the-internet)課程中了解有關Tor的更多信息.)
+(在[互聯網](umbrella://communications/the-internet)課程中了解有關Tor的更多信息.)

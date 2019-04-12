@@ -4,19 +4,19 @@ title: Sugerencias para mejorar la seguridad de su correo electrónico
 ---
 # Utilice menos el email.
 
-Sea consciente de lo que escribe y de lo que sucedería si cayera en las manos equivocadas. En caso de duda, no lo envíe por correo electrónico. [Enviar un mensaje](umbrella://lesson/sending-a-message) es más seguro.
+Sea consciente de lo que escribe y de lo que sucedería si cayera en las manos equivocadas. En caso de duda, no lo envíe por correo electrónico. [Enviar un mensaje](umbrella://communications/sending-a-message) es más seguro.
 
 ## Proteja sus cuentas
 
-Utilice [contraseñas seguras](umbrella://lesson/passwords/0) y [2FA.] (umbrella://lesson/passwords/1)
+Utilice [contraseñas seguras](umbrella://information/passwords/beginner) y [2FA.] (umbrella://information/passwords/advanced)
 
 ## Utilice un software antivirus actualizado.
 
-La seguridad del correo electrónico no lo protegerá si el spyware en su dispositivo puede grabar su tipo. No ignore las advertencias de seguridad en su navegador o correo web. (Aprenda a prevenir [malware](umbrella://lesson/malware).)
+La seguridad del correo electrónico no lo protegerá si el spyware en su dispositivo puede grabar su tipo. No ignore las advertencias de seguridad en su navegador o correo web. (Aprenda a prevenir [malware](umbrella://information/malware).)
 
 ## No haga clic en enlaces o archivos adjuntos inesperados.
 
-Aprenda a detectar [phishing](umbrella://lesson/phishing).
+Aprenda a detectar [phishing](umbrella://communications/phishing).
 
 ## Use un seudónimo.
 
@@ -38,4 +38,4 @@ Use palabras de código en lugar de nombres y ubicaciones confidenciales. Acuerd
 
 El software de anonimato como Tor Browser le ayuda a ocultar su servicio de correo electrónico a cualquier persona que pueda estar monitoreando su conexión a Internet.
 
-(Obtenga más información sobre Tor en la lección [Internet](umbrella://lesson/the-internet) lesson.)
+(Obtenga más información sobre Tor en la lección [Internet](umbrella://communications/the-internet) lesson.)

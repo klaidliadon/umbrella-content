@@ -16,13 +16,13 @@ title: 電子郵件已遭駭的處理方式
 
 為您的電子郵件和所有關聯帳戶選擇新的強密碼。關聯帳戶使用您的電子郵件登錄，恢復登錄信息或驗證您的身份。
 
-（使用[高强度密碼](umbrella://lesson/passwords/0) 和 [2FA.] (umbrella://lesson/passwords/1)。）
+（使用[高强度密碼](umbrella://information/passwords/beginner) 和 [2FA.] (umbrella://information/passwords/advanced)。）
 
 ## 保護您的設備
 
-從被盜用的帳戶訪問電子郵件的任何設備都很容易受到攻擊。掃描您的計算機以查找[惡意軟件](umbrella://lesson/malware/0)並刷新您的[手機](umbrella://lesson/mobile-phones/0)安全性。
+從被盜用的帳戶訪問電子郵件的任何設備都很容易受到攻擊。掃描您的計算機以查找[惡意軟件](umbrella://information/malware/beginner)並刷新您的[手機](umbrella://communications/mobile-phones/beginner)安全性。
 
-（學習[Android的基本安全性](umbrella://lesson/android) 以及如何[加密你的iPhone](umbrella://lesson/encrypt-your-iphone)。）
+（學習[Android的基本安全性](umbrella://tools/other/s_android.md) 以及如何[加密你的iPhone](umbrella://tools/encryption/s_encrypt-your-iphone.md)。）
 
 ## 檢查帳戶設置和活動。
 
@@ -56,7 +56,7 @@ title: 電子郵件已遭駭的處理方式
 
 考慮免費的開源電子郵件軟件，如Thunderbird。
 
-（在[惡意軟件-進階課程]([惡意軟件](umbrella://lesson/malware/1) 中了解開源軟件以及如何在[電子郵件進階課程](umbrella://lesson/email/1)中添加加密。）
+（在[惡意軟件-進階課程]([惡意軟件](umbrella://information/malware/advanced) 中了解開源軟件以及如何在[電子郵件進階課程](umbrella://communications/email/advanced)中添加加密。）
 
 ## 交換提供商。
 

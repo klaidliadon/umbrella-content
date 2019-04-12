@@ -8,8 +8,8 @@ Pero muchos programas están disponibles para hacerlo más fácil.
 
 ## Aprenda a usar:
 
-*   [Mailvelope (PGP para webmail)] (umbrella://lesson/mailvelope)
-*   [PGP para Mac OS](umbrella://lesson/pgp-for-mac-os-x)
-*   [PGP para Windows](umbrella://lesson/pgp-for-windows)
-*   [PGP para Linux](umbrella://lesson/pgp-for-linux)
-*   [K-9 y Open Keychain (PGP para Android)](umbrella://lesson/k9-apg) (Storing your private encryption key on a mobile device can be risky but may be worth the benefit in some cases.)
+*   [Mailvelope (PGP para webmail)] (umbrella://tools/messagging/s_mailvelope.md)
+*   [PGP para Mac OS](umbrella://tools/pgp/s_pgp-for-mac-os-x.md)
+*   [PGP para Windows](umbrella://tools/pgp/s_pgp-for-windows.md)
+*   [PGP para Linux](umbrella://tools/pgp/s_pgp-for-linux.md)
+*   [K-9 y Open Keychain (PGP para Android)](umbrella://tools/encryption/s_k9-apg.md) (Storing your private encryption key on a mobile device can be risky but may be worth the benefit in some cases.)

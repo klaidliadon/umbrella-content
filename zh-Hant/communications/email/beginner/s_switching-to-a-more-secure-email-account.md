@@ -16,7 +16,7 @@ Google提供了一些安全功能，但不建議用於敏感電子郵件。
 *   但是，Google會出於各種目的掃描和記錄電子郵件內容，並承認政府過去限制數字自由的要求。
 *   始終打開兩步驗證，這是一種雙因素驗證（2FA）。設置很[簡單](https://support.google.com/accounts/answer/185839?hl=en)。
 
-（在[密碼-進階課程](umbrella://lesson/passwords/1)中了解2FA。）
+（在[密碼-進階課程](umbrella://information/passwords/advanced)中了解2FA。）
 
 ## Protonmail和Tutanota
 

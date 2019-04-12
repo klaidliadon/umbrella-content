@@ -4,11 +4,11 @@ title: 現在怎樣?
 ---
 滑動右側到課程檢查表。
 
-在[移動手機-初學者課程](umbrella://lesson/mobile-phones/0)中了解使用移動手機的危險。
+在[移動手機-初學者課程](umbrella://communications/mobile-phones/beginner)中了解使用移動手機的危險。
 
 ### 相關課程與工具
 
-*   [K-9 & Open Keychain](umbrella://lesson/k9-apg)
+*   [K-9 & Open Keychain](umbrella://tools/encryption/s_k9-apg.md)
 
 ### 進一步閱讀
 

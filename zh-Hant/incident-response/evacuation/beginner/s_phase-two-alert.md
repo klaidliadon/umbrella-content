@@ -22,15 +22,15 @@ title: 警報
 
 *   保護您將採取的敏感文件。
 
-（了解[protecting files](umbrella://information/protecting-files)。）
+（了解有關[保護文件](umbrella://information/protecting-files)的更多信息。）
 
 *   刪除您將留下的敏感文件。
 
-（了解 [safely deleting](umbrella://information/safely-deleting)。)
+（了解有關[安全刪除](umbrella://information/safely-deleting)的更多信息。)
 
 *   銷毀敏感文件。
 
-（在[邊界](umbrella://travel/borders)中了解更多相關信息。）
+（在[邊界](umbrella://travel/borders)課程中了解更多相關信息。）
 
 _銷毀可能被解釋為有罪的信息或設備（例如軍事行動的報告;與安全有關的科目的圖像）._
 
@@ -40,11 +40,11 @@ _銷毀可能被解釋為有罪的信息或設備（例如軍事行動的報告;
 
 *   攜帶ID和恆定的伴侶。
 
-（在 [preparation](umbrella://travel/preparation)中了解更多相關信息。）
+（在 [準備](umbrella://travel/preparation)課程中了解更多相關信息。）
 
 *   在疏散或緊急情況下，準備一袋個人物品的救生包。
 
-（在[protective equipment](umbrella://travel/protective-equipment)中了解更多相關信息。）
+（在[防護裝備](umbrella://travel/protective-equipment)課程中了解更多相關信息。）
 
 ## 如果開車
 

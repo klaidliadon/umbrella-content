@@ -1,0 +1,16 @@
+index: 100
+list:
+- check: Revise o cree su política de [copia de seguridad](umbrella://information/backing-up)
+    como parte de su plan de seguridad física.
+- check: Enumere los canales de comunicación que usa para el trabajo y cómo los usa.
+- check: Enumere en qué almacena la información confidencial y su ubicación física.
+- check: Indique si cada dispositivo de almacenamiento está cifrado y quién puede
+    descifrarlos.
+- check: ¿Cuándo y cómo destruye la información confidencial para evitar que otros
+    accedan a ella?
+- check: ¿Qué información es vulnerable al robo físico, pérdida o destrucción?
+- check: ¿Qué está haciendo actualmente para proteger su información? Escríbalo en
+    pasos que usted y otros puedan seguir fácilmente.
+- check: ¿Qué pasos adicionales puede tomar para proteger su información? Escríbalos.
+- check: ¿Qué necesitará hacer si algo sale mal? ¿Qué información necesitará? Escríbalo.
+- check: Comparte la política con tu familia y tu equipo. Pida entrada.

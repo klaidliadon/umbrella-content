@@ -8,7 +8,7 @@ title: 如果你受到騷擾
 
 如果您在網上遭到騷擾，這可能需要阻止濫用帳戶。
 
-（在[在線濫用](umbrella://communications/online-abuse/expert)中了解更多相關信息。）
+（在[在線濫用](umbrella://communications/online-abuse/expert)課程中了解更多相關信息。）
 
 ## 面對騷擾者。
 

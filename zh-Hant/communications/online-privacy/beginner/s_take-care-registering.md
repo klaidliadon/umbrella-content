@@ -14,7 +14,7 @@ title: 注意註冊
 
 * 創建一組身份，使其他人更難讓一個人負責敏感活動。 （明智的做法是，承諾的對手仍然能夠識別該組的成員。）
 
-*注意：檢查網站的政策。例如，Facebook [要求]（https://www.facebook.com/help/112146705538576?helpref=faq_content）用戶可以使用“日常生活中的名字”。許多人對此進行了廣泛的解釋或忽略了它，但是對手可能會[報告]（https://www.facebook.com/help/1216349518398524?helpref=hc_global_nav）一個假裝成某事或不是某人的假名帳戶存在。”*
+*注意：檢查網站的政策。例如，Facebook [要求](https://www.facebook.com/help/112146705538576?helpref=faq_content)用戶可以使用“日常生活中的名字”。許多人對此進行了廣泛的解釋或忽略了它，但是對手可能會[報告](https://www.facebook.com/help/1216349518398524?helpref=hc_global_nav)一個假裝成某事或不存在的人的假名帳戶”*
 
 ## 非必要的信息。
 

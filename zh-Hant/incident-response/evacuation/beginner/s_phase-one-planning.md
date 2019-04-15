@@ -9,7 +9,7 @@ title: 規畫
 
 _酌情給予大使館，聯合國機構或非政府組織配合。_
 
-（了解[安全性規劃](umbrella://assess-your-risk/security-planning)。）
+（了解有關[安全性規劃](umbrella://assess-your-risk/security-planning)的更多信息。）
 
 # 規劃問題
 
@@ -43,7 +43,7 @@ _如有需要，組織一個安全屋._
 
 你需要簽證嗎？你到達時需要什麼？
 
-（在[準備](umbrella://travel/preparation)中了解更多相關信息。）
+（在[準備](umbrella://travel/preparation)課程中了解更多相關信息。）
 
 ## 怎麼樣？
 
@@ -57,7 +57,7 @@ _如有需要，組織一個安全屋._
 
 *   選擇旅行方式。
 
-（了解[車輛](umbrella://travel/vehicles)。）
+（了解有關[車輛](umbrella://travel/vehicles)的更多信息。）
 
 _確保路線在緊急情況下開放._
 
@@ -67,7 +67,7 @@ _確保路線在緊急情況下開放._
 
 確定要：
 
-*   **拿：**必要或敏感的文件和設備。
+*   **拿走：**必要或敏感的文件和設備。
 
 *   **留下：**非必要的非敏感文件。
 
@@ -75,7 +75,7 @@ _確保路線在緊急情況下開放._
 
 *   **銷毀：**非必要的敏感文件或筆記。
 
-（了解[管理信息](umbrella://information/managing-information)和[備份](umbrella://information/backing-up)。）
+（了解有關[管理信息](umbrella://information/managing-information)和[備份](umbrella://information/backing-up)的更多信息。）
 
 _如有疑問，摧毀可能會使那些撤離的人在被對手抓獲時冒險的信息._
 

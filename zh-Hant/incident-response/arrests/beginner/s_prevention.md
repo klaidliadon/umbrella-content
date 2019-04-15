@@ -14,7 +14,7 @@ title: 預防
 
 *   了解當地情況並儘可能遵守當地法律和習俗。
 
-（了解[公共通訊](umbrella://work/public-communications)。）
+（了解有關[公共通訊](umbrella://work/public-communications)的更多信息。）
 
 ## 理解境況
 
@@ -30,4 +30,4 @@ title: 預防
 
 *   請注意，如果您不合作的團體感到受到歧視。
 
-（了解[境況](umbrella://assess-your-risk/security-planning/beginner/s_context.md)。）
+（了解有關[境況](umbrella://assess-your-risk/security-planning/beginner/s_context.md)的更多信息。）

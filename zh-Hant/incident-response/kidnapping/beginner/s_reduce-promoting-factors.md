@@ -10,7 +10,7 @@ title: 減少刺激因素
 *   避免前往鎮上的“禁區”;
 *   不炫耀資產
 
-（了解[車輛](umbrella://travel/vehicles)。）
+（了解有關[車輛](umbrella://travel/vehicles)的更多信息。）
 
 ## 建立重要關係。
 
@@ -21,7 +21,7 @@ title: 減少刺激因素
    *  管家是否對客人的福利負起責任？
    *  你可以與當地代表一起旅行或工作嗎？
 
-（了解[公共通訊](umbrella://work/public-communications)。）
+（了解有關[公共通訊](umbrella://work/public-communications)的更多信息。）
 
 ## 監控環境。
 
@@ -29,6 +29,6 @@ title: 減少刺激因素
 *   如有必要，請準備好暫停您的計劃。
 *   如有必要，請離開該國一段時間。
 
-（了解[疏散](umbrella://incident-response/evacuation)。）
+（了解有關[疏散](umbrella://incident-response/evacuation)的更多信息。）
 
 ## 有明確公開的不付贖金政策

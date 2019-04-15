@@ -14,7 +14,7 @@ title: 裁減機會
 
 *   在回應之前驗證事件或事故。
 
-（了解[危險任務](umbrella://work/dangerous-assignments)。）
+（了解有關[危險任務](umbrella://work/dangerous-assignments)的更多信息。）
 
 ## 不可預測。
 
@@ -26,23 +26,23 @@ title: 裁減機會
 
 *   可能會出現路障或車禍，為偽裝成官員的綁架者提供保險。
 
-（了解[檢查點](umbrella://travel/checkpoints)。）
+（了解有關[檢查點](umbrella://travel/checkpoints)的更多信息。）
 
 ## 降低能見度。
 
 * 旅遊低調。例如，考慮一個受信任的出租車而不是正式的工作車輛。
 
-（在[駕駛員和車輛](umbrella://travel/vehicles/beginner/s_drivers-and-vehicles.md)中了解更多相關信息。）
+（在[駕駛員和車輛](umbrella://travel/vehicles/beginner/s_drivers-and-vehicles.md)課程中了解更多相關信息。）
 
 * 保護您的通信。
 
-（了解[發送消息](umbrella://communications/sending-a-message)和[撥打電話](umbrella://communications/making-a-call)。）
+（了解有關[發送消息](umbrella://communications/sending-a-message)和[撥打電話](umbrella://communications/making-a-call)的更多信息。）
 
 * 如果您可能被無意中聽到，請不要討論個人信息或計劃。
 
 * 將代碼字用於名稱，位置和旅行信息。
 
-（了解[無線電](umbrella://communications/radios-and-satellite-phones/beginner)和[衛星電話](umbrella://communications/radios-and-satellite-phones/advanced)。）
+（了解有關[無線電](umbrella://communications/radios-and-satellite-phones/beginner)和[衛星電話](umbrella://communications/radios-and-satellite-phones/advanced)的更多信息。）
 
 ## 確保良好的站點安全。
 

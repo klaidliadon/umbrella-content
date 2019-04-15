@@ -12,7 +12,7 @@ title: 隱私政策
 
 * 2018年4月4日，Facebook [稱](https://newsroom.fb.com/news/2018/04/restricting-data-access/)多達8700萬人的Facebook信息可能與劍橋分析公司不當分享Analytica，一家英國公司，向企業和政界人士承諾，它可以使用數據來改變受眾的行為。*
 
-*這些信息是由第三方應用程序收集的，名為“這是你的數字生活”，[包含]（https://www.theguardian.com/uk-news/2018/apr/13/revealed-aleksandr-kogan-collected- facebook-users-direct-messages）在安裝了應用程序的Facebook用戶之間交換了至少一些直接的私人消息，並且不假思索地授予其訪問郵箱的權限。*
+*這些信息是由第三方應用程序收集的，名為“這是你的數字生活”，[包含](https://www.theguardian.com/uk-news/2018/apr/13/revealed-aleksandr-kogan-collected-facebook-users-direct-messages)在安裝了應用程序的Facebook用戶之間交換了至少一些直接的私人消息，並且不假思索地授予其訪問郵箱的權限。*
 
 ## 閱讀小字
 

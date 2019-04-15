@@ -1,0 +1,16 @@
+index: 100
+list:
+- check: Implementar una política de 'necesidad de saber'
+- check: Elimine información sensible innecesaria
+- check: Observe la información que guarda, dónde se guarda, quién tiene acceso a
+    ella y qué impide que otros la accedan.
+- check: Lista posibles adversarios
+- check: Tenga en cuenta lo que su adversario podría querer hacer con su información
+- check: Tenga en cuenta la posibilidad de que sus adversarios atacan
+- check: Tenga en cuenta la capacidad de sus adversarios para atacar
+- check: Tome nota de las consecuencias si el ataque tiene éxito.
+- check: Tome nota de lo que está dispuesto a hacer para prevenirlos.
+- check: Si es apropiado para su modelo de amenaza, destruya o asegure sus notas de
+    evaluación
+- check: Establezca un recordatorio de calendario futuro para revisar su modelo de
+    amenaza

@@ -85,4 +85,4 @@ title: 如何應對濫用行為
 
 # 幫助別人
 
-* Read: PEN America，[盟友和證人的最佳實踐]（https: // onlineharassmentfieldmanual.pen.org / best-practices-for-allies-and-witnesses /）*和* [作家雇主的最佳實踐和Journalists]（ https: // onlineharassmentfieldmanual.pen.org /最佳實踐換雇主 -   - 作家和新聞工作者的/）*
+* 參考資料: PEN America，[盟友和證人的最佳實踐](https://onlineharassmentfieldmanual.pen.org/best-practices-for-allies-and-witnesses/)*和* [適用於作家和記者雇主的最佳實踐](https://onlineharassmentfieldmanual.pen.org/best-practices-for-employers-of-writers-and-journalists/)*

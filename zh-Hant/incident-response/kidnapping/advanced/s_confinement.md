@@ -10,7 +10,7 @@ title: 禁閉
 
 *如果您面臨攻擊或性暴力，您的目標應該是生存，並儘量減少您的身心傷害。*
 
-（了解[歧視和酷刑](umbrella://incident-response/arrests/beginner/s_discrimination-and-torture.md)。)
+（了解有關[歧視和酷刑](umbrella://incident-response/arrests/beginner/s_discrimination-and-torture.md)的更多信息。)
 
 ## 尊重
 
@@ -22,7 +22,7 @@ title: 禁閉
 
 *與警衛建立關係可以降低您遭受攻擊的風險。*
 
-（了解更多關於[性侵犯](umbrella://incident-response/sexual-assault)。）
+（了解更多關於[性侵犯](umbrella://incident-response/sexual-assault)的信息。）
 
 ## 保持尊嚴。
 
@@ -34,7 +34,7 @@ title: 禁閉
 *   盡量保留個人物品，如衣服，身份證，手錶或書籍;
 *   要求提供實用的物品，如洗漱用品，藥品或鍛煉時間。
 
-_避免與綁匪交換衣服，這可能使救援人員更難識別你._
+_避免與綁匪交換衣服，這可能使救援人員更難識別你。_
 
 ## 不要威脅
 
@@ -67,7 +67,7 @@ _避免與綁匪交換衣服，這可能使救援人員更難識別你._
 *   練習冥想;
 *   精神上重建書籍或電影;
 *   不要絕望或害怕你被遺棄;
-*   請記住，您的同事和家人正在為您請求釋放的策略而努力。
+*   請記住，您的同事和家人正在為您做出請求釋放的策略。
 
 ## 合作
 

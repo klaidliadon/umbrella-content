@@ -1,0 +1,13 @@
+index: 100
+list:
+- label: 找出辦公室裏的監控情況
+- check: 決定底線
+- check: 察覺與記錄不㝷常的活動
+- check: 排除巧合
+- check: 通知他人
+- check: 信任你的直覺
+- label: 如果受到監控
+- check: 考慮對抗的風險
+- check: 降低你被觀注的能力
+- check: 提高保護
+- check: 持續監察

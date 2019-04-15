@@ -36,4 +36,4 @@ _潛在的綁架者可以將自己作為服務人員來了解房屋或辦公室�
 
 _潛在的綁匪可能會跟踪目標以識別例行程序並指向攻擊點._
 
-（了解[被跟踪](umbrella://work/being-followed/beginner)。）
+（了解有關[被跟踪](umbrella://work/being-followed/beginner)的更多信息。）

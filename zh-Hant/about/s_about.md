@@ -14,7 +14,7 @@ Security First還為活動家，記者和援助工作者提供實體和數位安
 
 *   Rok Biderman  - >構建事物
 *   Rory Byrne  - >保護事物
-*   Alex Guerrieri  - > 更多事物
+*   Alex Guerrieri  - > 推薦事物
 *   Holly Kilroy  - >編寫文章
 *   Vesna Planko  - >設計事物
 

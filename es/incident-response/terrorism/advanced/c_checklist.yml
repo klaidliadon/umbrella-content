@@ -1,0 +1,37 @@
+index: 100
+list:
+- label: PLANIFICACIÓN PARA AMENAZAS ESPECÍFICAS
+- check: Busque capacitación y publique orientación para recibir llamadas amenazantes
+    y evaluar amenazas de bomba
+- check: Acuerde señales de advertencia y herramientas de comunicación de crisis.
+- check: Cree un plan de evacuación, incluyendo un punto de reunión.
+- check: Identifique rutas de salida y escondites.
+- check: Haga una lista de dónde buscar paquetes sospechosos
+- check: Haga espacio libre para facilitar búsquedas rutinarias.
+- check: Programe búsquedas rutinarias
+- check: Busque capacitación y orientación para investigar entregas
+- check: Monitoree objetos inesperados o sospechosos
+- label: AL RECIBIR AMENAZAS DE BOMBAS
+- check: Participe tranquilamente
+- check: Escriba la amenaza exacta
+- check: Haga preguntas (cuándo, dónde, qué, cómo, quién, por qué)
+- check: Indique que personas inocentes serán asesinadas o heridas.
+- check: Busque ayuda
+- check: Tenga en cuenta el tiempo, los ruidos de fondo, las características de identificación
+- label: SI ENCUENTRA UN PAQUETE SOSPECHOSO
+- check: No toque nada
+- check: Busque ayuda
+- check: Aíslelo o despeje el área.
+- check: Abrir ventanas podría ayudar a difundir humos u ondas de presión
+- label: DURANTE LA EVACUACIÓN DEL SITIO
+- check: Visualice con calma su próximo paso.
+- check: Proceda al punto de montaje acordado.
+- check: Evite ascensores y escaleras mecánicas si puede
+- check: Siga las instrucciones de los servicios de emergencia
+- label: SI SE ENCUENTRA UN TIRADOR ACTIVO
+- check: Huya
+- check: Escóndase en un espacio confinado si no puede correr. Haga barricadas en
+    puertas, apague teléfonos y luces.
+- check: Grite, distraiga o ataque a su atacante si no puede esconderse
+- check: Llame para pedir ayuda, brindando tantos detalles como pueda
+- check: Identifíquese y coopere con el personal de emergencia

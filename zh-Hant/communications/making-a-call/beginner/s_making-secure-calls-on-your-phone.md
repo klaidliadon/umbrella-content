@@ -27,11 +27,11 @@ Signal是一款免費，簡單的開源工具，可通過端到端加密保護�
 *   Signal開發人員[Open Whisper Systems](https://signal.org/about/)運行中央服務器。您無法自行運行，這可以讓您更好地控制您的安全性。
 *   然而，他們無法聽到您的談話，因此其他任何人都無法聽到。
 
-（在適用於[Android](umbrella://tools/messagging/s_signal-for-android.md)和[iOS](umbrella://tools/messagging/s_signal-for-ios.md)的Signal中了解更多信息。）
+（在適用於[Android](umbrella://tools/messagging/s_signal-for-android.md)和[iOS](umbrella://tools/messagging/s_signal-for-ios.md)的Signal的課程中了解更多信息。）
 
 *某些國家/地區攔截Signal服務器以阻止安全通信。要繞過攔截，請使用VPN。*
 
-（在[互聯網](umbrella://communications/the-internet/beginner)中了解更多相關信息。）
+（在[互聯網](umbrella://communications/the-internet/beginner)課程中了解更多相關信息。）
 
 # JitsiMeet
 

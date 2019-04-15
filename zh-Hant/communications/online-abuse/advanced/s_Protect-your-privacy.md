@@ -27,7 +27,7 @@ title: 保護您的隱私
 
 一些博客使用假名或根據其名稱的變體進行書寫。
 
-(了解[Online Privacy](umbrella://communications/online-privacy))
+(了解[在線隱私](umbrella://communications/online-privacy))
 
 ## 熟悉政策，服務條款或社區準則。
 

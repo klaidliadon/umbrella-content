@@ -2,7 +2,7 @@
 index: 3
 title: 針對婦女的暴力
 ---
-大赦國際在[2017]調查的八個國家中近四分之一的女性（https://www.amnesty.org/en/latest/news/2017/11/amnesty-reveals-alarming-impact-of-online-abuse -against-women /）表示他們至少經歷過一次在線虐待或騷擾。
+大赦國際在[2017]調查的八個國家中近四分之一的女性(https://www.amnesty.org/en/latest/news/2017/11/amnesty-reveals-alarming-impact-of-online-abuse-against-women/)表示他們至少經歷過一次在線虐待或騷擾。
 
 在這些女性中，41％的人表示這些在線體驗讓他們覺得自己的身體安全受到了威脅。
 

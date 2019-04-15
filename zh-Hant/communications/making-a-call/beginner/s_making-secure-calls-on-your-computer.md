@@ -8,7 +8,7 @@ title: 不太安全的選項
 
 雖然竊聽者無法收聽，提供商可能會收聽到。這是否給您帶來問題將取決於您的威脅模型。
 
-（在[管理信息]中了解有關威脅模型的更多信息(umbrella://information/managing-information)。)
+（在[管理信息](umbrella://information/managing-information)課程中了解有關威脅模型的更多信息。)
 
 # 不要使用Skype
 

@@ -36,4 +36,4 @@ title: 如果你被毆打
 
 *如果在逮捕或綁架後發生性侵犯，您的選擇可能有限。與您的警衛或俘虜建立關係可以降低各種形式的攻擊風險。保護您的生命是首要目標。*
 
-（了解[逮捕](umbrella://incident-response/arrests)和[綁架](umbrella://incident-response/kidnapping)）
+（了解有關[逮捕](umbrella://incident-response/arrests)和[綁架](umbrella://incident-response/kidnapping)的更多信息）

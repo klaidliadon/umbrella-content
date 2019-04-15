@@ -18,4 +18,4 @@ title: 分享資訊
 
 *   在許多情況下，國際關注可能足以迫使當局釋放被拘留者。
 
-（了解[緊急支持](umbrella://emergency-support)。）
+（了解[緊急支援](umbrella://emergency-support)的更多信息。）

@@ -24,4 +24,4 @@ title: 現在怎樣?
 ### 進一步閱讀
 
 * Wirecutter，[如何保護智能家居技術免受家庭虐待者的侵害](https://thewirecutter.com/blog/keep-your-smart-home-secure-from-domestic-abusers/)，2018年10月23日。
-* Rory Peck Trust，[社交媒體：Trolling和Doxxing]（https://rorypecktrust.org/resources/Digital-Security-Guide/Social-Media-Trolling-and-Doxxing?cu=en-GB）。
+* Rory Peck Trust，[社交媒體：Trolling和Doxxing](https://rorypecktrust.org/resources/Digital-Security-Guide/Social-Media-Trolling-and-Doxxing?cu=en-GB)。

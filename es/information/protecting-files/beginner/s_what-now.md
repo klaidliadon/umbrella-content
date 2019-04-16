@@ -19,4 +19,4 @@ Aprenda a cifrar archivos en [Protección de Archivos Avanzado](umbrella://infor
 
 ### FUENTES
 
-*   EFF, Security Self-Defense, [Mantener sus Datos Seguros] (https://ssd.eff.org/en/module/keeping-your-data-safe), revisado por última vez el 2 de noviembre de 2018.
+*   EFF, Security Self-Defense, [Mantener sus Datos Seguros](https://ssd.eff.org/en/module/keeping-your-data-safe), revisado por última vez el 2 de noviembre de 2018.

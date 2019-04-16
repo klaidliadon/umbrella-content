@@ -4,7 +4,7 @@ title: ¿Ahora qué?
 ---
 Deslice a la derecha para ver la lista de verificación de esta lección.
 
-Aprenda a cifrar archivos en [Protección de Archivos Avanzado](umbrella://lesson/protect-files/1).
+Aprenda a cifrar archivos en [Protección de Archivos Avanzado](umbrella://information/protect-files/advanced).
 
 ### LECCIONES/HERRAMIENTAS RELACIONADAS
 
@@ -13,7 +13,7 @@ Aprenda a cifrar archivos en [Protección de Archivos Avanzado](umbrella://lesso
 *   [Teléfonos Móviles](umbrella://communications/mobile-phones/beginner)
 *   [Malware ](umbrella://information/malware)
 *   [Internet Avanzado](umbrella://communications/the-internet/advanced)
-*   Tor para [Windows](umbrella://lección/tor-para-windows), [Mac] (umbrella://lección/tor-for-mac-os-x), y [Linux](umbrella://lección/tor-for-linux)
+*   Tor para [Windows](umbrella://tools/tor/tor-for-windows), [Mac] (umbrella://tools/tor/tor-for-mac-os-x), y [Linux](umbrella://tools/tor/tor-for-linux)
 *   [Encripte su iPhone](umbrella://tools/encryption/s_encrypt-your-iphone.md)
 *   [Configuración de seguridad básica para Android](umbrella://tools/other/s_android.md)
 

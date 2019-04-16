@@ -13,7 +13,7 @@ Aprenda a cifrar archivos en [Protección de Archivos Avanzado](umbrella://infor
 *   [Teléfonos Móviles](umbrella://communications/mobile-phones/beginner)
 *   [Malware ](umbrella://information/malware)
 *   [Internet Avanzado](umbrella://communications/the-internet/advanced)
-*   Tor para [Windows](umbrella://tools/tor/tor-for-windows), [Mac] (umbrella://tools/tor/tor-for-mac-os-x), y [Linux](umbrella://tools/tor/tor-for-linux)
+*   Tor para [Windows](umbrella://tools/tor/s_tor-for-windows.md), [Mac](umbrella://tools/tor/s_tor-for-mac-os-x.md), y [Linux](umbrella://tools/tor/s_tor-for-linux.md)
 *   [Encripte su iPhone](umbrella://tools/encryption/s_encrypt-your-iphone.md)
 *   [Configuración de seguridad básica para Android](umbrella://tools/other/s_android.md)
 

@@ -4,7 +4,7 @@ title: ¿Ahora qué?
 ---
 Deslice a la derecha para ver la lista de verificación de esta lección.
 
-Aprenda a cifrar archivos en [Protección de Archivos Avanzado](umbrella://lesson/protect-files/1).
+Aprenda a cifrar archivos en [Protección de Archivos Avanzado](umbrella://information/protect-files/advanced).
 
 ### LECCIONES/HERRAMIENTAS RELACIONADAS
 

@@ -1,0 +1,39 @@
+index: 100
+list:
+- check: No realice llamadas telefónicas regulares para conversaciones sobre temas
+    delicados
+- check: No use su teléfono regular para mensajes SMS delicados
+- check: Use códigos si es necesario
+- check: Cifre su teléfono
+- check: No guarde información delicada en su teléfono
+- check: Borre regularmente registros de llamada, mensajes, fotos, etc.
+- check: Haga copia de seguridad de su teléfono
+- check: No deje su tarjeta SIM cuando lleve su teléfono a reparar.
+- check: Use sólo talleres de reparación y tiendas de confianza
+- check: Borre los datos de su teléfono antes de entregarlo
+- check: No entregue su SIM card o tarjeta de memoria externa
+- check: Use ObscuraCam para fotos delicadas
+- check: Deje su teléfono en una habitación diferente cuando tenga reuniones importantes
+- check: No haga llamadas telefónicas delicadas en lugares públicos
+- check: Lleve siempre su teléfono consigo
+- check: Mantenga su teléfono bloqueado
+- check: Siempre cambie el código PIN de su buzón de voz
+- check: Marque su teléfono, batería y tarjeta SIM
+- check: Use cinta de seguridad a prueba de manipulación
+- check: Desbloquee su teléfono
+- check: Escriba el código IMEI de su teléfono
+- check: Piense cuidadosamente si debería o no registrar su teléfono
+- check: Actualice regularmente el software
+- check: 'No acepte nunca ejecuciones inesperadas de aplicaciones '
+- check: Conecte su teléfono sólo a computadoras libres de malware
+- check: Otorgue permisos de ubicación sólo a las aplicaciones en las que confíe
+- check: Deshabilite o desinstale aquellas aplicaciones que no use
+- check: Evite conectarse a redes WIFI que no estén protegidas por contraseña
+- check: Apague el WIFI, Bluetooth e infrarojos cuando no esten en uso
+- check: utilize WIFI, Bluetooth e infrarojos sólo en sitios de confianza
+- label: Para teléfonos desechables
+- check: Utilice teléfonos prepagados no registrados, pague por ellos en efectivo
+- check: Use tarjetas SIM no registradas prepagadas, pague por ellas en efectivo
+- check: No reutilice teléfonos o tarjetas SIM para contactos diferentes
+- check: No lo encienda cuando esté con su teléfono regular
+- check: No lo encienda en sitios asociados con usted

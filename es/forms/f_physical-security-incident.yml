@@ -1,0 +1,106 @@
+screens:
+- items:
+  - name: name
+    type: text_input
+    label: 'Nombre: '
+  - name: title
+    type: text_input
+    label: 'Título:'
+  - name: phone
+    type: text_input
+    label: 'Teléfono:'
+  - name: email-address
+    type: text_input
+    label: 'Dirección de correo electrónico:'
+  - name: secure-communication-method-e-g-signal-safety-number-pgp-email-id
+    type: text_input
+    label: 'Método de comunicación seguro (por ej. Número de señal segura, ID de correo
+      electrónico PGP):'
+  title: Información de contacto
+- items:
+  - name: provide-brief-description
+    type: text_area
+    label: 'Proporcione una breve descripción:'
+  title: Descripción del incidente
+- items:
+  - name: type-incident
+    type: multiple_choice
+    label: Tipo de incidente
+    options:
+    - label: Amenaza / Acoso
+      value: Threat / Harassment
+    - label: Difícil encuentro con autoridades / fuerzas militares.
+      value: Difficult encounter with authorities/ military forces
+    - label: Detención / Arresto
+      value: Detention / Arrest
+    - label: Robo / Emboscada
+      value: Robbery / Ambush
+    - label: Robo de auto
+      value: Carjacking
+    - label: Asalto personal
+      value: Personal Assault
+    - label: Abuso Sexual
+      value: Sexual Assault
+    - label: Secuestro / Rapto
+      value: Kidnap / Abduction
+    - label: Disparo
+      value: Shooting
+    - label: Bombardeo / Fuego Cruzado
+      value: Bombardment / Crossfire
+    - label: Mina de tierra
+      value: Landmine
+    - label: Otro
+      value: Other
+  - name: type-incident-other
+    type: text_input
+  title: Tipo de incidente
+- items:
+  - name: nature-injuries-damage-threats-property-stolen
+    type: text_area
+    label: Naturaleza de las lesiones o daños / amenazas hechas / propiedad robada,
+      etc.
+  title: Impacto / impacto potencial
+- items:
+  - name: provide-brief-description-2
+    type: text_area
+  title: ¿Pasos de respuesta tomados?
+- items:
+  - name: provide-brief-description-3
+    type: text_area
+  title: ¿Motivo o perpetradores?
+- items:
+  - name: incident-reported-locally
+    type: text_area
+    label: ¿A quién se ha informado el incidente a nivel local?
+  title: ¿A quién se ha informado el incidente a nivel local?
+- items:
+  - name: security-guidelines-cover-type-incident-guidelines-followed
+    type: text_area
+    label: ¿Sus pautas de seguridad cubren este tipo de incidente? ¿Se siguieron las
+      pautas?
+  title: ¿Sus pautas de seguridad cubren este tipo de incidente? ¿Se siguieron las
+    pautas?
+- items:
+  - name: guidelines-aspect-security-management-need-revised-way
+    type: text_area
+    label: ¿Las pautas o cualquier otro aspecto de la gestión de seguridad deben revisarse
+      de alguna manera?
+  title: ¿Las pautas o cualquier otro aspecto de la gestión de seguridad deben revisarse
+    de alguna manera?
+- items:
+  - name: lessons-learned
+    type: text_area
+    label: 'Lecciones aprendidas:'
+  title: Sugiera medidas específicas que puedan ayudar a evitar este tipo de incidentes
+    en el futuro.
+- items:
+  - name: action-requested
+    type: text_area
+    label: ¿Alguna acción solicitada?
+  title: ¿Alguna acción solicitada?
+- items:
+  - name: supporting-information
+    type: text_area
+    label: ¿Alguna información de apoyo?
+  title: ¿Alguna información de apoyo?
+title: Incidente de seguridad física

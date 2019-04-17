@@ -1,0 +1,14 @@
+index: 100
+list:
+- label: 文件
+- check: 你在嘗試訪問什麽？
+- check: 時間和日期
+- check: 提供您的互聯網服務的公司
+- check: 您使用的設備
+- check: 錯誤的屏幕截圖顯示頁面離綫
+- check: 您認為有用的任何其他信息
+- check: 如果可以，請與他人共享您的數據
+- label: 衡量
+- check: 通過衡量審查來評估您的風險
+- check: 如果它對您安全，請從瀏覽器的[NetBlocks](https://netblocks.org/scan/)掃描您的網絡
+- check: 如果它對您安全，請安裝OONI Probe)

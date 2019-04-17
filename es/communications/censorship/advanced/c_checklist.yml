@@ -1,0 +1,20 @@
+index: 100
+list:
+- label: PREPÁRESE PARA LOS CIERRES
+- check: Evalúe si la red es vulnerable a cierres deliberados o accidentales
+- check: Evalúe la probabilidad de que las autoridades cerrarán Internet.
+- check: Identifique conexiones cableadas y líneas fijas para uso de emergencia
+- check: Obtenga VPN y tarjetas SIM de respaldo según sea necesario
+- check: Los planes de seguridad actualizados para garantizar que las medidas que
+    requieren una conexión incluyen un plan de respaldo fuera de línea
+- label: DURANTE UNA APAGADO
+- check: Investigue exactamente qué servicios están interrumpidos y mantenga registros
+- check: Verifique la información antes de actuar
+- check: Permanezca con personas de confianza hasta que haya establecido una manera
+    de comunicarse
+- check: Manténgase alejado de multitudes impredecibles, o identifique una ruta de
+    escape
+- check: Resista la tentación de descargar software no confiable para comunicarse
+    o conectarse.
+- check: Resista la tentación de compartir información confidencial utilizando software
+    o redes que pueden monitorearse

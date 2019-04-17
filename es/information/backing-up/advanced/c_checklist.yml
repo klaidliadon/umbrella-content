@@ -1,0 +1,10 @@
+index: 100
+list:
+- check: Confeccione una tabla con la clase de información, dispositivo y ubicación
+- check: Identifique su información vulnerable
+- check: Averigüe qué dispositivo de almacenamiento es adecuado para usted
+- check: Instale Cobian Backup
+- check: Organice sus archivos para realizar copias de seguridad
+- check: Respalde su información de forma frecuente
+- check: Instale Recuva
+- check: Si recupera archivos, haga lo menos posible antes de usar Recuva

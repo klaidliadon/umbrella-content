@@ -1,0 +1,77 @@
+index: 100
+list:
+- check: UTILICE EL CINTURÓN DE SEGURIDAD
+- check: Estacione en lugares transitados y bien iluminados
+- check: Cierre las ventanas y baje los seguros cuando deje el vehículo
+- check: Tenga las llaves a la mano al momento de regresar al vehículo
+- check: Cierre los seguros al entrar
+- check: No abra las ventanas mas de 5 centímetros
+- check: No maneje demasiado rápido
+- check: Observe las regulaciones de tránsito locales
+- check: Evite conducir de noche/solo
+- check: Evite que el nivel de gasolina baje de medio tanque
+- check: Tenga llaves de repuesto en la oficina
+- check: No lleve pasajeros no autorizados a menos que sea amenazado
+- check: Encuéntrese con otros miembros del equipo en la primera parada al hacer viajes
+- check: Varíe tiempos y rutas de viajes regulares
+- check: Tenga rutas alternativas planeadas
+- check: Evite zonas con alta criminalidad y puntos de control
+- check: Consulte con otras organizaciones
+- check: Notifique a su equipo sobre planes de viaje
+- check: Marque los vehículos de forma apropiada
+- check: Evite transportar objetos delicados en zonas complicadas
+- label: Consideraciones de viaje
+- check: Incidentes recientes
+- check: Clima
+- check: Longitud
+- check: Comunicaciones
+- check: Puntos de control/ otros puntos peligrosos
+- check: Puntos de referencia "seguros"
+- check: Paradas de recarga de combustible
+- check: Paradas de comida
+- check: Plan en caso de imprevistos
+- check: Tipo de vehículo apropiado
+- check: Grupo étnico del conductor en zonas peligrosas
+- label: Chequeos
+- check: Neumáticos/Cauchos/Llantas
+- check: Cinturones de seguridad
+- check: Combustible
+- check: Frenos
+- check: Aceite
+- check: Dirección
+- check: Peso en el vehículo
+- label: Mantener en el vehículo
+- check: Equipo de comunicaciones y números de teléfono importantes
+- check: Combustible y aceite adicionales
+- check: Agua
+- check: Mapas
+- check: GPS
+- check: Repuestos del carro adicionales
+- check: Ruedas de repuesto (x2) y gato
+- check: Herramientas básicas
+- check: Triángulo de seguridad fluorescente
+- check: Soga/cuerda de remolque
+- check: Kit de primeros auxilios
+- check: Linterna
+- check: Permisología para viajar si es requerida
+- check: Visas
+- check: Documentos del carro
+- check: Licencia de conducir y seguro
+- check: Identificación personal
+- check: Identificación de la organización si es posible
+- check: Certificación de vacunas
+- check: Comida
+- check: Agua
+- check: Ropa para clima frío/caliente
+- check: Cobertor / estructura para dar sombra
+- label: En caso de accidente
+- check: Determinar el riesgo de permanecer
+- check: No deje el sitio a menos que esté en riesgo
+- check: Si está en riesgo, diríjase al puesto de policía / militar más cercano
+- check: Hacer sitio seguro y visible a los demás
+- check: Proporcionar asistencia según corresponda
+- check: Contacte y coopere con las autoridades
+- check: Póngase en contacto con su oficina
+- check: Tomar imágenes de la escena y los detalles de los involucrados
+- check: Complete el formulario de informe de accidente en el libro de registro, si
+    corresponde

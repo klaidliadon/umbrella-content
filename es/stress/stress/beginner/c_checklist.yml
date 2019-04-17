@@ -1,0 +1,21 @@
+index: 100
+list:
+- label: Para individuos
+- check: Aprenda sobre el estrés
+- check: Conózcase usted mismo
+- check: Coma bien y haga ejercicio
+- check: Descanse y relájese
+- check: Practique sistemas de creencias
+- check: Mantenga el humor y la perspectiva.
+- check: Esté informado
+- check: Hable con las personas
+- check: Cambie el ambiente estresante
+- check: Piense positivo
+- label: Para gerentes
+- check: Reconzca sus limitaciones
+- check: Obtenga el apoyo de su gerente
+- check: Delegue
+- check: Haga amigos
+- check: Reconozca los esfuerzos del personal
+- check: Tome tiempo libre regularmente
+- check: Dé un buen ejemplo

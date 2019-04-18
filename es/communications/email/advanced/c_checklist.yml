@@ -1,0 +1,7 @@
+index: 100
+list:
+- check: Instalar y usar PGP
+- check: Si necesita proteger tus metadatos, utilice Tor
+- check: Considere utilizar un seudónimo con su clave pública.
+- check: Para disfrazar por completo el contacto, ambas partes deben utilizar cuentas
+    de correo anónimas, Tor y PGP

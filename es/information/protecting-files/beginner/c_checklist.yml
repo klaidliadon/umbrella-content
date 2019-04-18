@@ -1,0 +1,15 @@
+index: 100
+list:
+- check: Bloquee sus dispositivos, pero no asuma que el contenido de cada dispositivo
+    bloqueado es seguro
+- check: Identifique cómo cifrar sus dispositivos según la marca y el sistema operativo
+- check: Cifre todos sus dispositivos con frases de contraseña seguras, cuando sea
+    posible
+- check: Evalúe su riesgo para comprender su necesidad de dispositivos extra seguros
+    o dispositivos desechables inseguros
+- check: Decida qué datos o actividades va a aislar en qué dispositivo
+- check: Obtenga dispositivos adicionales, según sea necesario
+- check: Asegure dispositivos adicionales desconectándolos, ocultándolos o instalando
+    Tails, según sea necesario
+- check: Cree un plan de mantenimiento para actualizar, realizar copias de seguridad
+    o eliminar datos de dispositivos seguros, según sea necesario

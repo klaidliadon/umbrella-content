@@ -22,19 +22,19 @@ Take these steps to minimize the risk of exposing personal information about you
 
 If the device allows encryption under settings, apply it.
 
-(Learn [basic security for Android](umbrella://lesson/android) and how to [encrypt your iPhone] (umbrella://lesson/encrypt-your-iphone).)
+(Learn [basic security for Android](umbrella://tools/other/s_android.md) and how to [encrypt your iPhone](umbrella://tools/encryption/s_encrypt-your-iphone.md).)
 
 ## Move data.
 
 Move confidential files and photos from your phone to a secure location as soon as possible.
 
-(Learn about [protecting files] (umbrella://lesson/protecting-files) and [backing up](umbrella://lesson/backing-up).) 
+(Learn about [protecting files](umbrella://information/protecting-files) and [backing up](umbrella://information/backing-up).) 
 
 ## Erase data.
 
 Erase sensitive information regularing, including call records, messages, contacts, or photos.
 
-(Learn more about [safely deleting] (umbrella://lesson/safely-deleting).)
+(Learn more about [safely deleting](umbrella://information/safely-deleting).)
 
 ## Protect your device
 
@@ -61,7 +61,7 @@ ObscuraCam can:
 *	Delete the original photos;
 *	Upload media to your server if you set one up.
 
-(Learn how to use [ObscuraCam](umbrella://tools/obscuracam).)  
+(Learn how to use [ObscuraCam](umbrella://tools/messagging/s_obscuracam.md).)  
 
 ## Use CameraV
 

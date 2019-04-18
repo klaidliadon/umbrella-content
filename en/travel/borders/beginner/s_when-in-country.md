@@ -20,7 +20,7 @@ Sensitive paper could include:
 
 *	When meeting people, ask for digital publications, links, or emails instead of paper.
 
-(Learn about [meetings](umbrella://lesson/meetings).)
+(Learn about [meetings](umbrella://work/meetings).)
 
 ## Secure your notes: 
 
@@ -30,7 +30,7 @@ Sensitive paper could include:
 
 *	Type up, or photograph notes. Encrypt the files. 
 
-(Learn about [protecting files](umbrella://lesson/protecting-files).)
+(Learn about [protecting files](umbrella://information/protecting-files).)
 
 ## Destroy sensitive paper: 
 
@@ -66,4 +66,4 @@ Sensitive paper could include:
 
 *   Always wear a seatbelt.
 
-(Learn more about this in [vehicles](umbrella://lesson/vehicles).)
+(Learn more about this in [vehicles](umbrella://travel/vehicles).)

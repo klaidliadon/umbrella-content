@@ -1,0 +1,6 @@
+index: 100
+list:
+- check: Compruebe si obtener acceso superusuario (rooting) en su teléfono es apropiado
+    para usetd
+- check: Instale un firmware alternativo en el dispositivo
+- check: Cifre archivos y correos

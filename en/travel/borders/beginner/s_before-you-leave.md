@@ -13,7 +13,7 @@ First, understand:
 *	The reasons for your trip; 
 *	Possible sensitivities of your trip. 
 
-(Learn about risk assessment for travel [preparation](umbrella://lesson/preparation).)
+(Learn about risk assessment for travel [preparation](umbrella://travel/preparation).)
 
 This may depend on: 
 
@@ -28,7 +28,7 @@ This may depend on:
 *   Embarrassing or incriminating information;
 *	Itineraries, standard operating procedures, and security protocols.
 
-(Learn about procedures in travel [preparation](umbrella://lesson/preparation).)
+(Learn about procedures in travel [preparation](umbrella://travel/preparation).)
 
 ## 2. Sensitive information may be stored in: 
 
@@ -37,7 +37,7 @@ This may depend on:
 *	Notebooks and publications;
 *	USB stick, portable hard drives, SD card, or CD-ROMs.
  
-(Learn about identifying and organising information in [backing up](umbrella://lesson/backing-up).)
+(Learn about identifying and organising information in [backing up](umbrella://information/backing-up).)
 
 ## Protect your information
 
@@ -47,7 +47,7 @@ This may depend on:
 * Back up information securely and remotely before travel.
 * Carry sensitive information securely. (If necessary, keep a small USB stick or microSD card somewhere harder to find.)
 
-(Learn about [backing up](umbrella://lesson/backing-up), [safely deleting](umbrella://lesson/safely-deleting), and [protecting files](umbrella://lesson/protecting-files).)
+(Learn about [backing up](umbrella://information/backing-up), [safely deleting](umbrella://information/safely-deleting), and [protecting files](umbrella://information/protecting-files).)
 
 ### Carry sensitive information and equipment in hand luggage.
 If sensitive items are with you, you will know if they have been tampered with. 

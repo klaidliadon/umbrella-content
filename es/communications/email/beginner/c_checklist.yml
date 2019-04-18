@@ -1,0 +1,28 @@
+index: 100
+list:
+- check: Asegúrese que la barra de direcciones del navegador indica HTTPS antes de
+    iniciar sesión.
+- check: |2-
+
+    Descargue el complemento del navegador HTTPS Everywhere
+- check: Si utiliza Gmail, configure la verificación en 2 pasos
+- check: Cree una cuenta RiseUp si es posible
+- check: Utilice servicios seguros de correo electrónico alojados en países seguros
+- check: Use el mismo proveedor de correo electrónico que los contactos sensibles
+- check: Tenga cuidado al abrir los archivos adjuntos de correo electrónico
+- check: Si es necesario, utilice diferentes cuentas de correo electrónico para diferentes
+    grupos
+- check: Si es necesario, utilice un código para información sensible
+- check: Use contraseñas seguras
+- check: Proteja su computadora del malware
+- check: No utilice el teléfono como medio principal para el correo electrónico
+- label: Si su correo electrónico ha sido hackeado
+- check: No envíe ninguna información confidencial
+- check: Cambie su contraseña
+- check: Recupere su cuenta
+- check: Determine a quién alertar/qué cancelar
+- check: Averigüe cómo se vio comprometido
+- check: Revise la seguridad en todos los dispositivos
+- check: Considere la posibilidad de informar
+- check: Considere la posibilidad de pasar a una cuenta más segura
+- check: Evite almacenar mensajes de correo electrónico leídos

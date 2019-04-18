@@ -1,0 +1,7 @@
+index: 100
+list:
+- check: Instale KeePassXC
+- check: Cree una contraseña segura para KeePassXC
+- check: Haga copia de seguridad de la base de datos KeePassXC
+- check: Asegúrese de que la computadora no tenga malware
+- check: Instale la autenticación de dos pasos

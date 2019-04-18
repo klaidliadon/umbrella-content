@@ -28,8 +28,8 @@ If someone else gets your private key, they can read emails intended for you, an
 
 *	Store your private key somewhere safe.
 
-(Learn more about [protecting files] (umbrella://lesson/protecting-files).)  
+(Learn more about [protecting files](umbrella://information/protecting-files).)  
 
 *	Protect your private key with a strong password.
 
-(Learn more about [passwords](umbrella://lesson/passwords).)
+(Learn more about [passwords](umbrella://information/passwords).)

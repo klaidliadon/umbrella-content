@@ -6,7 +6,7 @@ title: Software and settings
 
 - Password protect your devices and encrypt the storage. 
 
-(Learn about [protecting files](umbrella://lesson/protecting-files), [basic security for Android](umbrella://lesson/android) and [encrypt your iPhone] (umbrella://lesson/encrypt-your-iphone).)
+(Learn about [protecting files](umbrella://information/protecting-files), [basic security for Android](umbrella://tools/other/s_android.md) and [encrypt your iPhone](umbrella://tools/encryption/s_encrypt-your-iphone.md).)
 
 - If you run any servers in your office, work with whoever maintains them to ensure that the information they contain will be encrypted if they are turned off or unplugged.
 
@@ -16,6 +16,6 @@ title: Software and settings
 
 - If you store the login and BIOS passwords for your computer in a password manager, keep a copy of the database on a different device to avoid getting locked out. 
 
-(Learn more about this in [passwords](umbrella://lesson/passwords/1).)
+(Learn more about this in [passwords](umbrella://information/passwords/advanced).)
 
 - Consider activating "Find my Device" features so that you can locate or wipe the contents on a lost, stolen or confiscated device.

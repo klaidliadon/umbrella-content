@@ -1,0 +1,14 @@
+index: 100
+list:
+- label: Cree una contraseña segura
+- check: Que sea larga
+- check: Que sea compleja
+- check: Asegúrese de que no sea personal
+- check: Mantenla en secreto
+- check: Que sea única
+- check: Cambie la contraseña regularmente
+- check: Que sea memorable
+- check: Use respuestas falsas para preguntas de seguridad
+- check: Compruebe la fuerza de las contraseñas en Passfault
+- check: Cambie contraseñas viejas o débiles
+- check: Cambie respuestas débiles a preguntas de seguridad

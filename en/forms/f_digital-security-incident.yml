@@ -20,20 +20,20 @@ screens:
     options:
     - label: Private data was accessed or exposed
       value: Private data was accessed or exposed
-    - label: ' I’m shut out of my account or device'
-      value: ' I’m shut out of my account or device'
-    - label: ' I''ve encountered a virus or malware'
-      value: ' I''ve encountered a virus or malware'
-    - label: ' My system or device is damaged'
-      value: ' My system or device is damaged'
-    - label: ' My website or service is disabled'
-      value: ' My website or service is disabled'
-    - label: ' Information or assets have been stolen'
-      value: ' Information or assets have been stolen'
-    - label: ' The incident is confidential, contact me for details'
-      value: ' The incident is confidential, contact me for details'
-    - label: ' I have another digital security problem (please describe)'
-      value: ' I have another digital security problem (please describe)'
+    - label: I’m shut out of my account or device
+      value: I’m shut out of my account or device
+    - label: I've encountered a virus or malware
+      value: I've encountered a virus or malware
+    - label: My system or device is damaged
+      value: My system or device is damaged
+    - label: My website or service is disabled
+      value: My website or service is disabled
+    - label: Information or assets have been stolen
+      value: Information or assets have been stolen
+    - label: The incident is confidential, contact me for details
+      value: The incident is confidential, contact me for details
+    - label: I have another digital security problem (please describe)
+      value: I have another digital security problem (please describe)
   - name: provide-brief-description-2
     type: text_area
     label: Please provide details
@@ -51,14 +51,14 @@ screens:
     options:
     - label: Someone’s physical security is at risk
       value: Someone’s physical security is at risk
-    - label: ' information or assets are at risk'
-      value: ' information or assets are at risk'
-    - label: ' Someone’s reputation is at risk'
-      value: ' Someone’s reputation is at risk'
-    - label: ' I’m not sure'
-      value: ' I’m not sure'
-    - label: ' Other (please describe)'
-      value: ' Other (please describe)'
+    - label: information or assets are at risk
+      value: information or assets are at risk
+    - label: Someone’s reputation is at risk
+      value: Someone’s reputation is at risk
+    - label: I’m not sure
+      value: I’m not sure
+    - label: Other (please describe)
+      value: Other (please describe)
   - name: provide-brief-description-5
     type: text_area
     label: Please provide details
@@ -71,24 +71,24 @@ screens:
     options:
     - label: Email
       value: Email
-    - label: ' Website'
-      value: ' Website'
-    - label: ' Social media'
-      value: ' Social media'
-    - label: ' Messaging or VOIP'
-      value: ' Messaging or VOIP'
-    - label: ' Mobile phone or tablet'
-      value: ' Mobile phone or tablet'
-    - label: ' Mobile computer'
-      value: ' Mobile computer'
-    - label: ' Desktop computer'
-      value: ' Desktop computer'
-    - label: ' Server'
-      value: ' Server'
-    - label: ' External storage device'
-      value: ' External storage device'
-    - label: ' Other'
-      value: ' Other'
+    - label: Website
+      value: Website
+    - label: Social media
+      value: Social media
+    - label: Messaging or VOIP
+      value: Messaging or VOIP
+    - label: Mobile phone or tablet
+      value: Mobile phone or tablet
+    - label: Mobile computer
+      value: Mobile computer
+    - label: Desktop computer
+      value: Desktop computer
+    - label: Server
+      value: Server
+    - label: External storage device
+      value: External storage device
+    - label: Other
+      value: Other
   - name: provide-brief-description-8
     type: text_area
     label: Please provide details
@@ -100,29 +100,27 @@ screens:
   title: Scale
 - items:
   - name: incident-resolved
-    type: multiple_choice
+    type: single_choice
     label: Has the incident been resolved?
     options:
     - label: Yes, I’m using this form to document what happened
       value: Yes, I’m using this form to document what happened
-    - label: ' No, I’m using this form to help me seek support'
-      value: ' No, I’m using this form to help me seek support'
+    - label: No, I’m using this form to help me seek support
+      value: No, I’m using this form to help me seek support
   title: Status
 - items:
   - name: security-guidelines-cover-type-incident-guidelines-followed
-    type: multiple_choice
+    type: single_choice
     label: Are you following guidelines to resolve this incident?
     options:
     - label: Yes, I am following guidelines
       value: Yes, I am following guidelines
-    - label: ' No,  I am using information available in Umbrella and other free sources
-        to resolve the incident'
-      value: ' No,  I am using information available in Umbrella and other free sources
-        to resolve the incident'
-    - label: ' I have guidelines but I have not been able to follow them. (Please
-        explain:)'
-      value: ' I have guidelines but I have not been able to follow them. (Please
-        explain:)'
+    - label: No,  I am using information available in Umbrella and other free sources
+        to resolve the incident
+      value: No,  I am using information available in Umbrella and other free sources
+        to resolve the incident
+    - label: I have guidelines but I have not been able to follow them. (Please explain:)
+      value: I have guidelines but I have not been able to follow them. (Please explain:)
   - name: provide-brief-description-4
     type: text_area
   title: Guidelines
@@ -133,22 +131,22 @@ screens:
     options:
     - label: I’ve disconnected the devices involved from the Internet
       value: I’ve disconnected the devices involved from the Internet
-    - label: ' I’ve  documented what happened securely (taken screenshots, stored
-        the antivirus log files)'
-      value: ' I’ve  documented what happened securely (taken screenshots, stored
-        the antivirus log files)'
-    - label: ' I’ve changed my passwords and notified my contacts from a clean device'
-      value: ' I’ve changed my passwords and notified my contacts from a clean device'
-    - label: ' I’ve reported the incident to service providers'
-      value: ' I’ve reported the incident to service providers'
-    - label: ' I’ve notified an IT or security expert, or law enforcement if appropriate'
-      value: ' I’ve notified an IT or security expert, or law enforcement if appropriate'
-    - label: ' I’ve reinstalled the operating system, if necessary, and restored backup
-        files from before the attack'
-      value: ' I’ve reinstalled the operating system, if necessary, and restored backup
-        files from before the attack'
-    - label: ' Other – please describe:'
-      value: ' Other – please describe:'
+    - label: I’ve  documented what happened securely (taken screenshots, stored the
+        antivirus log files)
+      value: I’ve  documented what happened securely (taken screenshots, stored the
+        antivirus log files)
+    - label: I’ve changed my passwords and notified my contacts from a clean device
+      value: I’ve changed my passwords and notified my contacts from a clean device
+    - label: I’ve reported the incident to service providers
+      value: I’ve reported the incident to service providers
+    - label: I’ve notified an IT or security expert, or law enforcement if appropriate
+      value: I’ve notified an IT or security expert, or law enforcement if appropriate
+    - label: I’ve reinstalled the operating system, if necessary, and restored backup
+        files from before the attack
+      value: I’ve reinstalled the operating system, if necessary, and restored backup
+        files from before the attack
+    - label: 'Other – please describe:'
+      value: 'Other – please describe:'
   - name: provide-brief-description-3
     type: text_area
   title: Response
@@ -163,15 +161,15 @@ screens:
   title: Notification
 - items:
   - name: inclination-motive-perpetrators
-    type: multiple_choice
+    type: single_choice
     label: Who carried out the attack?
     options:
     - label: The attacker identified themselves (please provide details)
       value: The attacker identified themselves (please provide details)
-    - label: ' The attack was anonymous but I have suspicions (please provide details)'
-      value: ' The attack was anonymous but I have suspicions (please provide details)'
-    - label: ' I don''t know'
-      value: ' I don''t know'
+    - label: The attack was anonymous but I have suspicions (please provide details)
+      value: The attack was anonymous but I have suspicions (please provide details)
+    - label: I don't know
+      value: I don't know
   - name: provide-brief-description-6
     type: text_area
     label: 'Details:'
@@ -188,12 +186,12 @@ screens:
     options:
     - label: Screenshots
       value: Screenshots
-    - label: ' Something I was sent as an attachment'
-      value: ' Something I was sent as an attachment'
-    - label: ' Emails or messages'
-      value: ' Emails or messages'
-    - label: ' Other (please describe:)'
-      value: ' Other (please describe:)'
+    - label: Something I was sent as an attachment
+      value: Something I was sent as an attachment
+    - label: Emails or messages
+      value: Emails or messages
+    - label: Other (please describe:)
+      value: Other (please describe:)
   - name: provide-brief-description-7
     type: text_area
   title: Evidence

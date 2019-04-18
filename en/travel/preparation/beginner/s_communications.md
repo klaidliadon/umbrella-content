@@ -5,7 +5,7 @@ title: Communications
 1. Choose a communications method.
 2. Obtain and learn to use equipment.
 
-(Learn about [sending a message](umbrella://lesson/sending-a-message) and [making a call](umbrella://lesson/making-a-call).) 
+(Learn about [sending a message](umbrella://communications/sending-a-message) and [making a call](umbrella://communications/making-a-call).) 
 
 ## Burner phones
 
@@ -16,7 +16,7 @@ title: Communications
 
 *	Buy a disposable device. (Check it will work at your destination.)  
 
-(Learn about burner [mobile phones](umbrella://lesson/mobile-phones/0).)
+(Learn about burner [mobile phones](umbrella://communications/mobile-phones/beginner).)
 
 ## Radio or Satphones
 
@@ -24,7 +24,7 @@ These may be necessary if telecommunications networks are unreliable or may be s
 
 *Note: radio antennae are conspicuous. Use mobile phones with a satphone as backup if you are travelling low profile.*
 
-(Learn about [radio](umbrella://lesson/radio-and-satellite-phones/0) and [satellite phones](umbrella://lesson/radio-and-satellite-phones/1).)
+(Learn about [radio](umbrella://communications/radios-and-satellite-phones/beginner) and [satellite phones](umbrella://communications/radios-and-satellite-phones/advanced).)
 
 ## Contacts
 
@@ -37,4 +37,4 @@ These may be necessary if telecommunications networks are unreliable or may be s
 
 *Disguise numbers as dates, measurements, coordinates, quantities on a shopping list, or another formulation.*   
 
-(Learn about [protecting files] (umbrella://lesson/protecting-files).)
+(Learn about [protecting files](umbrella://information/protecting-files).)

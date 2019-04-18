@@ -4,14 +4,14 @@ title: What now?
 ---
 Swipe right for this lesson's checklist.
 
-Learn how to create a strong password in [Passwords Beginner](umbrella://lesson/passwords/0).
+Learn how to create a strong password in [Passwords Beginner](umbrella://information/passwords/beginner).
 
-Learn how to manage your passwords in [Passwords Advanced](umbrella://lesson/passwords/1).
+Learn how to manage your passwords in [Passwords Advanced](umbrella://information/passwords/advanced).
 
 ### RELATED LESSONS/TOOLS
 
-*   [Protecting Files](umbrella://lesson/protecting-files)
-*   [Preparation](umbrella://lesson/preparation) 
+*   [Protecting Files](umbrella://information/protecting-files)
+*   [Preparation](umbrella://travel/preparation) 
 
 ### SOURCES
 

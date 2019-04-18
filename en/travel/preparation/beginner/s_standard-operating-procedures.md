@@ -9,7 +9,7 @@ title: Standard Operating Procedures
 
 If required, inform authorities or embassies of your travel plans.
 
-(Learn how to prepare for sensitive [meetings](umbrella://lesson/meetings).)
+(Learn how to prepare for sensitive [meetings](umbrella://work/meetings).)
 
 *	Create a communication schedule. 
 
@@ -19,7 +19,7 @@ Check in regularly with someone who is not travelling with you and can provide s
 
 *	Assess the territory for known danger points like checkpoints and landmines.
 
-(Learn more about this in [Vehicles](umbrella://lesson/vehicles).)
+(Learn more about this in [Vehicles](umbrella://travel/vehicles).)
 
 *	Arrange to be met on arrival in insecure locations or high-crime areas like airports and stations. 
 
@@ -34,7 +34,7 @@ In order of preference, choose:
 ## Secure your information 
 *    Prepare a cover story for airports and elsewhere. 
 
-(Learn about [borders](umbrella://lesson/borders) and [checkpoints](umbrella://lesson/checkpoints).)
+(Learn about [borders](umbrella://travel/borders) and [checkpoints](umbrella://travel/checkpoints).)
 
 *   Only carry information you really need.  
 
@@ -42,11 +42,11 @@ In order of preference, choose:
 	* Back up information securely before travel.
     * Carry sensitive information securely. 
        
-(Learn about [backing up](umbrella://lesson/backing-up), [safely deleting](umbrella://lesson/safely-deleting), and [protecting files](umbrella://lesson/protecting-files).)
+(Learn about [backing up](umbrella://information/backing-up), [safely deleting](umbrella://information/safely-deleting), and [protecting files](umbrella://information/protecting-files).)
 
 *	Establish protocols for detention or questioning.
 
-(Learn about [arrests](umbrella://lesson/arrests).)
+(Learn about [arrests](umbrella://incident-response/arrests).)
 
 *	Schedule security or equipment training if required. 
 
@@ -61,7 +61,7 @@ In order of preference, choose:
 
 A constant companion contains essentials in case of evacuation or emergency. 
 
-(Learn about [evacuation](umbrella://lesson/evacuation).)
+(Learn about [evacuation](umbrella://incident-response/evacuation).)
 
 Consider:
 
@@ -74,7 +74,7 @@ Consider:
 
 A grab bag contains personal belongings in case of evacuation or emergency. 
 
-(Learn more about this in [protective equipment](umbrella://lesson/protective-equipment).)
+(Learn more about this in [protective equipment](umbrella://travel/protective-equipment).)
 
 ## Prepare for serious security incidents
 
@@ -82,4 +82,4 @@ A grab bag contains personal belongings in case of evacuation or emergency.
 
 * Schedule personal security training if necessary. 
 
-(Learn about [kidnapping](umbrella://lesson/kidnapping).)
+(Learn about [kidnapping](umbrella://incident-response/kidnapping).)

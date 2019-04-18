@@ -8,7 +8,7 @@ Telling fewer people about your trip helps keep it more secure. But travel prepa
 
 Balance security and practicality with a need to know policy. 
 
-(Learn more about this in [managing information](umbrella://lesson/managing-information).)
+(Learn more about this in [managing information](umbrella://information/managing-information).)
 
 Information you have prepared about your trip may include: 
 

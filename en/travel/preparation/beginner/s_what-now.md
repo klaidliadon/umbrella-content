@@ -6,14 +6,14 @@ Swipe right for this lesson's checklist.
 
 ### RELATED LESSONS/TOOLS
 
-*   [Security Planning](umbrella://lesson/security-planning)
-*   [Borders](umbrella://lesson/borders)
-*   [Meetings](umbrella://lesson/meetings)
-*   [Vehicles](umbrella://lesson/vehicles)
-*   [Arrests](umbrella://lesson/arrests)
-*   [Kidnapping](umbrella://lesson/kidnapping)
-*   [Protecting Files](umbrella://lesson/protecting-files)
-*   [Managing Information](umbrella://lesson/managing-information)
+*   [Security Planning](umbrella://assess-your-risk/security-planning)
+*   [Borders](umbrella://travel/borders)
+*   [Meetings](umbrella://work/meetings)
+*   [Vehicles](umbrella://travel/vehicles)
+*   [Arrests](umbrella://incident-response/arrests)
+*   [Kidnapping](umbrella://incident-response/kidnapping)
+*   [Protecting Files](umbrella://information/protecting-files)
+*   [Managing Information](umbrella://information/managing-information)
 
 ### SOURCES
 
@@ -23,4 +23,5 @@ Swipe right for this lesson's checklist.
 
 ### FURTHER READING
 
-*   Frontline Defenders, [Workbook on Security: Practical Steps for Human Rights Defenders at Risk](https://www.frontlinedefenders.org/en/resource-publication/workbook-security-practical-steps-human-rights-defenders-risk), June 23, 2016.
+*   Frontline Defenders, [Workbook on Security: Practical Steps for Human Rights Defenders at Risk](https://www.frontlinedefenders.org/en/resource-publication/workbook-security-practical-steps-human-rights-defenders-risk), June 23, 2016.  
+* Open Briefing, [Security Risk Assessment Tool](https://www.openbriefing.org/resources/security-risk-assessment-tool/), a free resource for experienced NGO security managers and those new to risk assessments.

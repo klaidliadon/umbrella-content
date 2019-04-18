@@ -1,0 +1,7 @@
+index: 100
+list:
+- check: 安裝KeePassXC
+- check: 為KeePassXC創建高强度密碼
+- check: 備份KeePassXC數據庫
+- check: 確認電腦上沒有惡意軟體
+- check: 安裝兩步驗證

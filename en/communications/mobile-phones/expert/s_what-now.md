@@ -4,11 +4,11 @@ title: What now?
 ---
 Swipe right for this lesson's checklist.
 
-Learn the dangers of using mobile phones in [Mobile Phones Beginner.](umbrella://lesson/mobile-phones/0)
+Learn the dangers of using mobile phones in [Mobile Phones Beginner.](umbrella://communications/mobile-phones/beginner)
 
 ### RELATED LESSONS/TOOLS
 
-*   [K-9 & Open Keychain](umbrella://lesson/k9-apg)
+*   [K-9 & Open Keychain](umbrella://tools/encryption/s_k9-apg.md)
 
 ### FURTHER READING
 

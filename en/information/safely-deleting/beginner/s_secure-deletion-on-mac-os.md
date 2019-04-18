@@ -15,4 +15,4 @@ Protect sensitive files using encryption instead:
 * Make sure the built-in FileVault utility is enabled (this requires you to enter a password to use your Mac).  
 * Use VeraCrypt, a free, open-source tool for file encryption. 
 
-Learn more about [protecting files] (umbrella://lesson/protecting-files) and using [VeraCrypt] (umbrella://lesson/veracrypt).
+Learn more about [protecting files](umbrella://information/protecting-files) and using [VeraCrypt](umbrella://tools/files/s_veracrypt.md).

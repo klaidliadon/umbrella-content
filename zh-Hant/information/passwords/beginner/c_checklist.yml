@@ -1,0 +1,14 @@
+index: 100
+list:
+- label: 設定一組高強度的密碼
+- check: 讓它變更長
+- check: 讓它更複雜
+- check: 確認其非為私人的
+- check: 保密
+- check: 讓它更獨特
+- check: 定期更換
+- check: 讓它好記
+- check: 在設定安全問題上給予錯誤的答案
+- check: 利用Passfault來檢查密碼的強度
+- check: 改變老舊或易破解的密碼
+- check: 更改安全問題的簡單答案

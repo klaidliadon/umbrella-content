@@ -21,7 +21,7 @@ For support within the first 24 hours, contact your embassy first. Front Line De
 
 **Description:** Front Line protects Human Rights Defenders through a 24hour emergency hotline (phone and encrypted email), international advocacy, security training and training manuals, grants and fellowships (including emergency funding), and evacuation support. Front Line's Dublin Platform links grassroots human rights defenders with UN mechanisms, international human rights networks, and each other.  
 
-**Website:** [frontlinedefenders.org] (https://www.frontlinedefenders.org/)  
+**Website:** [frontlinedefenders.org](https://www.frontlinedefenders.org/)  
 
 24 hour emergency support, Tel: (+353) 1 210 0489
 
@@ -58,7 +58,7 @@ London, Tel: (+44) 203 219 7860
 
 **Description:** The U.S. government agency is a public source for information on common diseases, disorders, and treatments. The CDC website provides information about sickness and disease, healthy living, safety and emergency care, and disaster preparedness and response.  
 
-**Web site:** [cdc.gov] (www.cdc.gov)  
+**Web site:** [cdc.gov](www.cdc.gov)  
 
 Atlanta, Tel: +1-800-232-4636 (24-hour health information hotline, Monday through Friday)
 
@@ -74,7 +74,7 @@ Atlanta, Tel: +1-800-232-4636 (24-hour health information hotline, Monday throug
 
 **Description:** Amnesty International leads a global movement of research, solidarity, and action on behalf of victims of human rights violations. Amnesty International campaigns to end discrimination, abuse, and infringements on human rights, physical and mental integrity, and the freedom of thought and expression.  
 
-**Web site:** [amnesty.org] (https://www.amnesty.org/en/)  
+**Web site:** [amnesty.org](https://www.amnesty.org/en/)  
 New York, Tel: (+1) 212 807-8400  
 London, Tel: (+44) 20-74135500
 
@@ -89,9 +89,9 @@ London, Tel: (+44) 20-74135500
 
 **Description:** The Asian Human Rights Commission monitors, investigates, advocates, and takes solidarity action around human rights violations across Asia. AHRC's Urgent Appeal Programme mobilizes thousands of individu- als to speak out around particular cases. (Directed by Ashoka Fellow Basil Fernando.)  
 
-**Web site:** [humanrights.asia] (http://www.humanrights.asia/)
+**Web site:** [humanrights.asia](http://www.humanrights.asia/)
 Hong Kong, Tel: 852-2698 6339  
-**Online contact form:** [http://www.humanrights.asia/contact-us] (http://www.humanrights.asia/contact-us)
+**Online contact form:** [http://www.humanrights.asia/contact-us](http://www.humanrights.asia/contact-us)
 
 ## Committee to Protect Journalists
 
@@ -110,7 +110,7 @@ New York, Tel: (+1) 212 465-1004
 
 **Email:** report_violations@cpj.org 
 
-**Secure Drop address:** 2x2hb5ykeu4qlxqe.onion (only accessible via the Tor browser. For instructions, click [here] (https://cpj.org/emergency-response/how-to-get-help.php. Learn how to use the Tor browser for [Windows](umbrella://lesson/tor-for-windows), [Mac] (umbrella://lesson/tor-for-mac-os-x), and [Linux] (umbrella://lesson/tor-for-linux).) 
+**Secure Drop address:** 2x2hb5ykeu4qlxqe.onion (only accessible via the Tor browser. For instructions, click [here](https://cpj.org/emergency-response/how-to-get-help.php. Learn how to use the Tor browser for [Windows](umbrella://tools/tor/s_tor-for-windows.md), [Mac](umbrella://tools/tor/s_tor-for-mac-os-x.md), and [Linux](umbrella://tools/tor/s_tor-for-linux.md).) 
 
 ## European Interagency Security Forum
 
@@ -188,7 +188,7 @@ New York, Tel: (+1) 212-290-4700
 
 **Description:** ISHR provides information, training, and support to human rights defenders around the world. Their Human Rights Defenders Offices strengthens UN procedures to support Human Rights Defenders, and is promoting similar mechanisms in Africa and the Americas. They do not take urgent appeals, as they focus on training and aggregating knowledge.  
 
-**Web site:** [ishr.ch] (http://www.ishr.ch/)  
+**Web site:** [ishr.ch](http://www.ishr.ch/)  
 Geneva, Tel: (+41) 22 733 51 23
 
 ## Observatory for the Protection of Human Rights Defenders
@@ -201,7 +201,7 @@ Geneva, Tel: (+41) 22 733 51 23
 
 **Description:** The Observatory is among the largest coalitions of NGOs (nearly 300 local, national, and regional organizations) fighting against arbitrary detention and executions, torture, forced disappearances, and other forms of violence. The Observatory has denounced and stopped attacks against human rights defenders through urgent appeals, fact-finding missions, lobbying, training, and reports. They do take urgent appeals.  
 
-**Web site:** [omct.org/human-rights-defenders] (http://www.omct.org/human-rights-defenders/observatory/)   
+**Web site:** [omct.org/human-rights-defenders](http://www.omct.org/human-rights-defenders/observatory/)   
 **Email:** omct@omct.org  
 Switzerland, Tel: (+41) 22 809 4939
 
@@ -219,7 +219,7 @@ London, Tel: (+44) 20 7065 0775
 
 ## Urgent Action Fund for Women's Human Rights 
 
-**Where:** Global (regional funds operate in [Africa] (http://www.uaf-africa.org/), [Latin America] (http://www.fondoaccionurgente.org.co/), and [Asia Pacific] (https://www.uafanp.org/).) 
+**Where:** Global (regional funds operate in [Africa](http://www.uaf-africa.org/), [Latin America](http://www.fondoaccionurgente.org.co/), and [Asia Pacific](https://www.uafanp.org/).) 
 
 **Type of Threat:** Threats of Violence, Physical Assault, Imprisonment, Lawsuit,Infringement on Rights, Discrimination, Attack on Freedom of Expression  
 **Language:** Arabic, Albanian, Bahasa, English, French, Nepali, Spanish, Russian,  
@@ -273,7 +273,7 @@ New York, Tel: (+1) 212 382-4718
 **Where:** India, South Asia
 Description: HRLN uses the legal system to advance human rights. HRLN lawyers collaborate with human rights organizations and grass-roots develop- ment collectives to defend the rights of marginalized and vulnerable groups. HRLN provides pro bono legal services and conducts public interest litigation, engages in advocacy and campaigns, conducts legal awareness programs, investigates violations, and publishes "Know Your Rights" materials.  
 
-**Web site:** [hrln.org] (http://hrln.org/)
+**Web site:** [hrln.org](http://hrln.org/)
 New Delhi, Tel: +91-11-24374501, 24376922
 
 ## International Senior Lawyers Project
@@ -317,8 +317,8 @@ Geneva, Tel: (+41) 22 917 1234
 
 **Additional Resources:**
 
-*   Guidelines for submitting complaints: [www2.ohchr.org/english/issues/ defenders/complaints.htm](http://www2.ohchr.org/english/issues/ defenders/complaints.htm)
-*   UN Declaration on Human Rights Defendershttp://[www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/)declaration.htm
+*   Guidelines for submitting complaints: [www2.ohchr.org/english/issues/ defenders/complaints.htm](http://www2.ohchr.org/english/issues/defenders/complaints.htm)
+*   UN Declaration on Human Rights Defenders [www2.ohchr.org/english/issues/defenders/declaration.htm](www2.ohchr.org/english/issues/defenders/declaration.htm)
 
 ## U.N. Office of the High Commissioner for Human Rights
 
@@ -328,12 +328,12 @@ Geneva, Tel: (+41) 22 917 1234
 
 **Web site:** [www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/)  
 Geneva, Tel: (+41) 22 917 0656  
-**Email a complaint:** urgent-action@ohchr.org (Follow the instructions [here] (http://www2.ohchr.org/english/bodies/chr/special/communications.htm))
+**Email a complaint:** urgent-action@ohchr.org (Follow the instructions [here](http://www2.ohchr.org/english/bodies/chr/special/communications.htm))
 
 **Additional Resources:**
 
 *   [Universal Declaration of Human Rights](http://www.ohchr.org/EN/UDHR/Pages/UDHRIndex.aspx)
-*   [International human rights law] (http://www.ohchr.org/EN/ProfessionalInterest/Pages/InternationalLaw.aspx)
+*   [International human rights law](http://www.ohchr.org/EN/ProfessionalInterest/Pages/InternationalLaw.aspx)
 
 ## Inter-American Commission of Human Rights (Washington, DC) and Inter-American Court of Human Rights (San Jose)
 
@@ -344,8 +344,8 @@ Geneva, Tel: (+41) 22 917 0656
 **Description:** The Inter-American Commission a) receives, analyzes, and investigates petitions alleging human rights violations; b) observes the general human rights situation in member states; c) carries out on-site visits to analyze specific situations; and d) submits cases to the Inter-American Court for litigation. The Inter-American Court issues and enforces judgments. Both are comprised of representatives from members of the Organization of American States.  
 **Note:** Individuals and citizen sector organizations may directly petition the Inter-American Commission, only after exhausting all options within their State to address the situation.  
 
-**Websites:** [Inter-American Commission] (https://www.oas.org/es/cidh/)  
-[Inter-American Court] (http://www.corteidh.or.cr/)
+**Websites:** [Inter-American Commission](https://www.oas.org/es/cidh/)  
+[Inter-American Court](http://www.corteidh.or.cr/)
 
 ## African Commission on Human and People's Rights
 
@@ -370,10 +370,10 @@ Languages: English, French
 
 **Note:** Individuals may file complaints directly to the Court, only after exhausting all options within their State to address the situation.  
 
-**Web Site:** [echr.coe.int] (https://www.echr.coe.int/Pages/home.aspx?p=home)
+**Web Site:** [echr.coe.int](https://www.echr.coe.int/Pages/home.aspx?p=home)
 
 ## International Criminal Court
 
 **Description:** Founded in part by the United Nations and based in The Hague, the International Criminal Court tries individuals accused of international crimes including genocide, crimes against humanity, and war crimes. Only States and the international communicate can bring cases to the ICC. The ICC is an independent body and is based on a treaty, joined by 105 countries.  
 
-**Web Site:** [icc-cpi.int] (https://www.icc-cpi.int/)
+**Web Site:** [icc-cpi.int](https://www.icc-cpi.int/)

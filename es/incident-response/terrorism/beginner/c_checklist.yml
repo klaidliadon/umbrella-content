@@ -1,0 +1,9 @@
+index: 100
+list:
+- check: Defina las amenazas específicas que enfrenta y decida cómo las describirá
+    en la planificación de seguridad
+- check: Busque información confiable para evaluar qué tan probable es que enfrentará
+    estas amenazas
+- check: Considere qué espacios y personas involucradas en su trabajo representan
+    una posible debilidad de seguridad
+- check: Decida quién es responsable de qué acción durante un ataque

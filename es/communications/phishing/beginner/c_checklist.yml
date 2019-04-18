@@ -1,0 +1,25 @@
+index: 100
+list:
+- label: 'Para evitar el phishing:'
+- check: ¿De quién es el mensaje? ¿Podría ser falso?
+- check: ¿Hay algo incorrecto o extraño, como la ortografía o el logotipo?
+- check: ¿El mensaje hace promesas o requiere una acción urgente?
+- check: ¿El mensaje incluye adjunto o enlace?
+- check: En los mensajes de contactos, ¿suenan como ellos mismos?
+- check: Pase con el puntero sobre enlaces para comprobar las URL.
+- check: Desvincule las URL en https://unshorten.it/.
+- check: Escriba las URL usted mismo, especialmente antes de iniciar sesión.
+- check: Abra archivos adjuntos a través de Google Drive, o por lo menos, un programa
+    en su computadora
+- check: Póngase en contacto con el remitente a través de un canal diferente y seguro
+    para confirmar que envió mensajes inusuales
+- check: Revise enlaces y archivos adjuntos en VirusTotal
+- label: 'Si ha sido víctima de phishing:'
+- check: Desconecte y apague los dispositivos infectados con malware
+- check: Cambie contraseñas
+- check: Avise a los contactos
+- check: Reporte el ataque a TI o experto en seguridad
+- check: Considere volver a instalar su sistema operativo en dispositivos infectados
+    con malware
+- label: 'CONSEJO: comparta esta lista de verificación por correo electrónico e imprima
+    una copia para publicarla en su área de trabajo.'

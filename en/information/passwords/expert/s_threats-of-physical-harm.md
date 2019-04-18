@@ -6,7 +6,7 @@ title: Threats of Physical Harm
 
 Decide if this is a possibility for you, for example, if you plan to cross a hostile border with sensitive information. 
 
-(Learn more about this in [managing information] (umbrella://lesson/managing-information).)
+(Learn more about this in [managing information](umbrella://information/managing-information).)
 
 If so: 
 
@@ -14,7 +14,7 @@ If so:
 
 Do not trust that you will never hand over the password. Consider how to hide the existence of the data or device you are protecting with a password.  
 
-(Learn more about this in [protecting files](umbrella://lesson/protecting-files/1).)
+(Learn more about this in [protecting files](umbrella://information/protecting-files/advanced).)
 
 ## Maintain a decoy
 

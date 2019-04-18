@@ -18,4 +18,4 @@ Bleachbit is a free, open-source secure deletion tool for Windows. It is much be
 
 This will attempt to remove any traces of files you have already deleted by overwriting supposedly empty parts of the hard drive with random data. The process can take a while. 
 
-Documentation is available [here] (https://docs.bleachbit.org/).
+Documentation is available [here](https://docs.bleachbit.org/).

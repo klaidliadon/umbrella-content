@@ -6,12 +6,12 @@ Swipe right for this lesson's checklist.
 
 ### RELATED LESSONS/TOOLS
 
-*   [Security Planning](umbrella://lesson/security-planning)
-*   [Protecting Files](umbrella://lesson/protecting-files)
-*   [Safely Deleting](umbrella://lesson/safely-deleting)
-*   [VeraCrypt](umbrella://lesson/veracrypt)
-*   [Cobian Backup](umbrella://lesson/cobian-backup)
-*   [Recuva](umbrella://lesson/recuva)
+*   [Security Planning](umbrella://assess-your-risk/security-planning)
+*   [Protecting Files](umbrella://information/protecting-files)
+*   [Safely Deleting](umbrella://information/safely-deleting)
+*   [VeraCrypt](umbrella://tools/files/s_veracrypt.md)
+*   [Cobian Backup](umbrella://tools/files/s_cobian-backup.md)
+*   [Recuva](umbrella://tools/files/s_recuva.md)
 
 ### FURTHER READING
 

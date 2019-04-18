@@ -8,7 +8,7 @@ title: At Checkpoint
 *	Demonstrate that you are not a threat.
 *	Follow local etiquette. 
 
-(Research etiquette when you [plan your route](umbrella://lesson/vehicles).)
+(Research etiquette when you [plan your route](umbrella://travel/vehicles).)
 
 ## Your vehicle
 
@@ -42,7 +42,7 @@ title: At Checkpoint
 *	Report incidents to your team. 
 *   Refuse lifts to armed or uniformed personnel if at all possible. 
 
-(Learn more about passengers in [vehicles](umbrella://lesson/vehicles))
+(Learn more about passengers in [vehicles](umbrella://travel/vehicles))
 
 ## When you leave
 

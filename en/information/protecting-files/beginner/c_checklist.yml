@@ -1,0 +1,14 @@
+index: 100
+list:
+- check: Lock your devices, but don't assume content on every locked device is secure
+- check: Identify how to encrypt your devices according to the make and operating
+    system
+- check: Encrypt all your devices with strong passphrases, where possible
+- check: Assess your risk to understand your need for extra secure devices or insecure
+    burner devices
+- check: Decide what data or activities you will isolate on which device
+- check: Obtain additional devices, as needed
+- check: Secure additional devices by disconnecting them, hiding them, or installing
+    Tails, as needed
+- check: Create a maintenance plan to update, back up, or delete data from secure
+    devices, as needed

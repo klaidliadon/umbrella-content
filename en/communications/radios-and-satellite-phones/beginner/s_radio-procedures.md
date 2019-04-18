@@ -38,4 +38,4 @@ title: Radio procedures
 
 *	Discuss transfer of cash or goods.
 
-(Learn recommended protocols to evade tracking in [Radio and Satellite Phones Advanced](umbrella://lesson/radio-and-satellite-phones/1))
+(Learn recommended protocols to evade tracking in [Radio and Satellite Phones Advanced](umbrella://communications/radios-and-satellite-phones/advanced))

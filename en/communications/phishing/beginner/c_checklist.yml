@@ -1,6 +1,8 @@
 index: 100
 list:
 - label: 'To prevent phishing:'
+- check: Share this checklist with yourself by email and print a copy to post in your
+    workspace.
 - check: Who is message from—could it be fake?
 - check: Is anything wrong or odd, like spelling or logo?
 - check: Does message make promises or require urgent action?
@@ -20,5 +22,3 @@ list:
 - check: Warn contacts
 - check: Report the attack to IT or security expert
 - check: Consider reinstalling your operating system on malware-infected devices
-- label: 'TIP: Share this checklist with yourself by email and print a copy to post
-    in your workspace.'

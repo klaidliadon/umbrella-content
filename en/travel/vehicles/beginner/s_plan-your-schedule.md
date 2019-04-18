@@ -12,7 +12,7 @@ title: Plan your schedule
 
 *   Create a communications schedule to check in regularly.
 
-(Learn about communications schedules and other standard operating procedures in [preparation](umbrella://lesson/preparation).)
+(Learn about communications schedules and other standard operating procedures in [preparation](umbrella://travel/preparation).)
 
 *   In insecure locations, arrange to be met on arrival by someone carrying identification.
 

@@ -6,7 +6,7 @@ title: Tips for using password managers
 
 If you lose or accidentally delete your only copy of a password database, you will lose access to your accounts. This makes it extremely important that you back up your KeePassXC database. 
 
-(Learn more about [Backing Up](umbrella://lesson/backing-up).)
+(Learn more about [Backing Up](umbrella://information/backing-up).)
 
 ## Create a secure, memorable master password.
 
@@ -18,7 +18,7 @@ If you forget your KeePassXC master password, there is no way to recover it or t
 
 Your password manager is only as strong as the security of the device you use it on. If your device is compromised, an attacker could watch you type your master password and access all your accounts. Keep your device free of malware when using a password manager. 
 
-(Learn about [Malware](umbrella://lesson/malware).)
+(Learn about [Malware](umbrella://information/malware).)
 
 *  **In the cloud.** 
 

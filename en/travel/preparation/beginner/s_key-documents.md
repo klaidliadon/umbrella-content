@@ -19,7 +19,7 @@ title: Key Documents
 *	Obtain proof of immunization and create emergency medical card (see "Medical").
 *	Obtain permits to travel to restricted areas or transport restricted items if required.
 
-(Learn more about restricted routes in [vehicles](umbrella://lesson/vehicles).)
+(Learn more about restricted routes in [vehicles](umbrella://travel/vehicles).)
 
 *   Obtain or establish written procedures. For example: 
 
@@ -35,11 +35,11 @@ title: Key Documents
     * Consider carrying the copy and securing the original. 
     * Consider securely emailing copies of key documents to yourself.
         
-(Learn [beginner](umbrella://lesson/email/0) and [advanced](umbrella://lesson/email/1) email security.)
+(Learn [beginner](umbrella://communications/email/beginner) and [advanced](umbrella://communications/email/advanced) email security.)
 
 * Consider securing a storage device like a USB stick to carry copies. 
 
-(Learn about [protecting files](umbrella://lesson/protecting-files).)  
+(Learn about [protecting files](umbrella://information/protecting-files).)  
 
 *   Share key documents with the right people. For example: 
 

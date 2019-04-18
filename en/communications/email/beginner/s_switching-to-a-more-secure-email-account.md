@@ -17,7 +17,7 @@ Google offers some security features, but it's not recommended for sensitive ema
 *	Always turn on 2-step verification, a kind of two-factor authentication (2FA). Setting it up is [simple](https://support.google.com/accounts/answer/185839?hl=en).
 
 (Learn about 2FA in 
-[Passwords Advanced](umbrella://lesson/passwords/1).) 
+[Passwords Advanced](umbrella://information/passwords/advanced).) 
 
 ## Protonmail and Tutanota
 

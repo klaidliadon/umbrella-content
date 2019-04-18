@@ -1,0 +1,12 @@
+index: 100
+list:
+- check: Evite las llamadas telefónicas regulares para conversaciones sensibles
+- check: Use Signal para llamadas seguras
+- check: Use JitsiMeet para la videoconferencia.
+- label: Si debe utilizar opciones menos seguras
+- check: Descargue desde la web oficial
+- check: Cambie la contraseña regularmente
+- check: Ajuste la configuración para no mantener el historial de chat.
+- check: Verifique con quién está hablando
+- check: Considere usar un nombre de usuario anónimo
+- check: Use códigos para temas sensibles

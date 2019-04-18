@@ -13,9 +13,9 @@ title: 現在怎樣?
 *   [在線濫用](umbrella://communications/online-abuse)
 *   [審查](umbrella://communications/censorship)
 *   [如何更改您的Facebook隱私設置](umbrella://tools/other/s_facebook.md)
-*   [ObscuraCam](umbrella://tools/messagging/s_obscuracam.md)
+*   [ObscuraCam](umbrella://tools/messaging/s_obscuracam.md)
 *   [發送消息](umbrella://communications/sending-a-message)
-*   [Pidgin](umbrella://tools/messagging/s_pidgin.md)
+*   [Pidgin](umbrella://tools/messaging/s_pidgin.md)
 
 ### 來源
 

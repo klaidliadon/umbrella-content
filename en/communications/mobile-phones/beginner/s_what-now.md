@@ -13,7 +13,7 @@ Learn how to root and encrypt your phone in [Mobile Phone Expert](umbrella://com
 *   [Backing Up](umbrella://information/backing-up)
 *   [Safe Deleting](umbrella://information/safely-deleting)
 *   [Malware](umbrella://information/malware)
-*   [ObscuraCam](umbrella://tools/messagging/s_obscuracam.md)
+*   [ObscuraCam](umbrella://tools/messaging/s_obscuracam.md)
 *   [Basic Security Setup for Android](umbrella://tools/other/s_android.md)
 
 ### FURTHER READING

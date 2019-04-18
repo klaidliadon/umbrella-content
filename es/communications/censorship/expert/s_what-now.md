@@ -12,7 +12,7 @@ Aprenda a evitar la censura en [Censura Principiante] (umbrella://communications
 * [Privacidad en Línea](umbrella://communications/online-privacy)
 *   [Gestión de la Información](umbrella://information/managing-information)
 *   [Protestas](umbrella://work/protests/beginner)
-*   [Psiphon](umbrella://tools/messagging/s_psiphon.md)
+*   [Psiphon](umbrella://tools/messaging/s_psiphon.md)
 
 ### OTRAS LECTURAS
 

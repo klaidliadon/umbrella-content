@@ -21,7 +21,7 @@ WhatsApp ofrece mensajería gratuita a individuos y grupos en una variedad de di
 *   Un atacante puede intentar interceptar las comunicaciones de WhatsApp cambiando el código de seguridad de su contacto. Vaya a Configuración > Cuenta > Seguridad > Mostrar notificaciones de seguridad para activar las advertencias sobre esta actividad.
 *   WhatsApp es propiedad de Facebook y comparte al menos algunos datos del usuario con la empresa.
 
-*Aún recomendamos Signal para mensajes y llamadas seguras.* (Aprenda cómo usar Signal para [Android] (umbrella://tools/messagging/s_signal-for-android.md) y [iOS] (umbrella://tools/messagging/s_signal-for-ios.md).)
+*Aún recomendamos Signal para mensajes y llamadas seguras.* (Aprenda cómo usar Signal para [Android] (umbrella://tools/messaging/s_signal-for-android.md) y [iOS] (umbrella://tools/messaging/s_signal-for-ios.md).)
 
 ## Active 2FA
 

@@ -13,9 +13,9 @@ Learn how to stay anonymous online in [Online Privacy advanced](umbrella://commu
 *   [Online Abuse](umbrella://communications/online-abuse)
 *   [Censorship](umbrella://communications/censorship)
 *   [How to change your Facebook privacy settings](umbrella://tools/other/s_facebook.md)
-*   [ObscuraCam](umbrella://tools/messagging/s_obscuracam.md)
+*   [ObscuraCam](umbrella://tools/messaging/s_obscuracam.md)
 *   [Sending a Message](umbrella://communications/sending-a-message)
-*   [Pidgin](umbrella://tools/messagging/s_pidgin.md)
+*   [Pidgin](umbrella://tools/messaging/s_pidgin.md)
 
 ### SOURCES
 

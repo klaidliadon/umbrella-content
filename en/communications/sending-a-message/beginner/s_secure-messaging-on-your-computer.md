@@ -8,7 +8,7 @@ For secure messaging on a computer, we also recommend:
 
 Pidgin is a secure, free, open source chat program which lets you log in to accounts on different chat networks. Pidgin runs on Windows, Linux, and other UNIX operating systems. 
 
-Learn how to use [Pidgin](umbrella://tools/messagging/s_pidgin.md).
+Learn how to use [Pidgin](umbrella://tools/messaging/s_pidgin.md).
 
 ## Adium
 

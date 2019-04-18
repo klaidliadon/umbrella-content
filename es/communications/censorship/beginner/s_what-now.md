@@ -9,7 +9,7 @@ Aprenda a probar y recopilar evidencia de censura en [Censura Experto] (umbrella
 ### LECCIONES/HERRAMIENTAS RELACIONADAS
 
 *   [Gestión de la Información](umbrella://information/managing-information)
-*   [Psiphon](umbrella://tools/messagging/s_psiphon.md)
+*   [Psiphon](umbrella://tools/messaging/s_psiphon.md)
 
 ### OTRAS LECTURAS
 

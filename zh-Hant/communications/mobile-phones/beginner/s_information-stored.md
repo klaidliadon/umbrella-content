@@ -62,7 +62,7 @@ ObscuraCam可以：
 *   刪除原始照片;
 *   如果您設置了媒體，請將媒體上載到服務器。
 
-（了解如何使用[ObscuraCam](umbrella://tools/messagging/s_obscuracam.md)。）
+（了解如何使用[ObscuraCam](umbrella://tools/messaging/s_obscuracam.md)。）
 
 ## 使用CameraV
 

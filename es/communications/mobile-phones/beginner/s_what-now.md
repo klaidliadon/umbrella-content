@@ -13,7 +13,7 @@ Aprenda a rootear y cifrar su teléfono en [Teléfono Móvil Experto](umbrella:/
 *   [Copia de Seguridad](umbrella://information/backing-up)
 *   [Eliminación Segura](umbrella://information/safely-deleting)
 *   [Malware](umbrella://information/malware)
-*   [ObscuraCam](umbrella://tools/messagging/s_obscuracam.md)
+*   [ObscuraCam](umbrella://tools/messaging/s_obscuracam.md)
 *   [Configuración de Seguridad Básica para Android](umbrella://tools/other/s_android.md)
 
 ### OTRAS LECTURAS

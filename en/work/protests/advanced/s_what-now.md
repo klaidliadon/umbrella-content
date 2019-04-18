@@ -15,9 +15,9 @@ Learn about witnessing protests in [protests beginner](umbrella://work/protests/
 
 ### RELATED TOOL GUIDES
 
-* 	[Signal for Android](umbrella://tools/messagging/s_signal-for-android.md) 
-* 	[Signal for iOS](umbrella://tools/messagging/s_signal-for-ios.md)
-*	[ObscuraCam](umbrella://tools/messagging/s_obscuracam.md)
+* 	[Signal for Android](umbrella://tools/messaging/s_signal-for-android.md) 
+* 	[Signal for iOS](umbrella://tools/messaging/s_signal-for-ios.md)
+*	[ObscuraCam](umbrella://tools/messaging/s_obscuracam.md)
 
 ### SOURCES
 

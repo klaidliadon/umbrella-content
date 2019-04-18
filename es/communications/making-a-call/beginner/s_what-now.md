@@ -7,8 +7,8 @@ Pase a la derecha para la lista de verificación de esta lección.
 ### LECCIONES/HERRAMIENTAS RELACIONADAS
 
 *   [Teléfonos Móviles](umbrella://communications/mobile-phones)
-*   Signal para [Android](umbrella://tools/messagging/s_signal-for-android.md)
-*   Signal para [iOS](umbrella://tools/messagging/s_signal-for-ios.md)
+*   Signal para [Android](umbrella://tools/messaging/s_signal-for-android.md)
+*   Signal para [iOS](umbrella://tools/messaging/s_signal-for-ios.md)
 
 ### OTRAS LECTURAS
 

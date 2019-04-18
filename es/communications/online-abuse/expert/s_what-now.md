@@ -13,7 +13,7 @@ Aprende sobre el discurso del odio en [Abuso en Línea avanzado] (umbrella://com
 * [Censura](umbrella://communications/censorship)
 * [Privacidad en Línea](umbrella://communications/online-privacy)
 * [Cómo cambiar sus configuraciones de privacidad de Facebook](umbrella://tools/other/s_facebook.md)
-*   [ObscuraCam](umbrella://tools/messagging/s_obscuracam.md)
+*   [ObscuraCam](umbrella://tools/messaging/s_obscuracam.md)
 
 ### FUENTES
 

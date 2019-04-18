@@ -7,8 +7,8 @@ Swipe right for this lesson's checklist.
 ### RELATED LESSONS/TOOLS
 
 *   [Mobile Phones](umbrella://communications/mobile-phones)
-*   Signal for [Android](umbrella://tools/messagging/s_signal-for-android.md)
-* 	Signal for [iOS](umbrella://tools/messagging/s_signal-for-ios.md)
+*   Signal for [Android](umbrella://tools/messaging/s_signal-for-android.md)
+* 	Signal for [iOS](umbrella://tools/messaging/s_signal-for-ios.md)
 
 ### FURTHER READING
 

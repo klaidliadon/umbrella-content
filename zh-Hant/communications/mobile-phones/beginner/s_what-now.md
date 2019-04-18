@@ -14,7 +14,7 @@ title: 現在怎樣?
 *   [備份資料課](umbrella://information/backing-up)
 *   [安全刪除課](umbrella://information/safely-deleting)
 *   [惡意軟體](umbrella://information/malware)
-*   [ObscuraCam工具](umbrella://tools/messagging/s_obscuracam.md)
+*   [ObscuraCam工具](umbrella://tools/messaging/s_obscuracam.md)
 *   [Android手機的基本安全設定](umbrella://tools/other/s_android.md)
 
 ### 進階閱讀材料

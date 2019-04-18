@@ -8,7 +8,7 @@ title: 其他安全信息選項
 
 Pidgin是一個安全，免費的開源聊天程序，可讓您登錄不同聊天網絡上的帳戶。 Pidgin可在Windows，Linux和其他UNIX操作系統上運行。
 
-學習如何使用[Pidgin] (umbrella://tools/messagging/s_pidgin.md)
+學習如何使用[Pidgin] (umbrella://tools/messaging/s_pidgin.md)
 
 ## Adium工具指南
 

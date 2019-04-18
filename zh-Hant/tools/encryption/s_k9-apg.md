@@ -37,7 +37,7 @@ title: K9和Open Keychain
 - 支持安全POP3或IMAP連接的電子郵件帳戶。 （[此處](https://k9mail.github.io/documentation/accounts/providerSettings.html)查看您將與最常見的電子郵件提供商一起使用的設置。
 - **程度：**進階
 
-（在[電子郵件](umbrella://communications/email)課程中了解有關公鑰/私鑰加密的更多信息。了解如何在[Mailvelope](umbrella://tools/messagging/s_mailvelope.md)工具指南，或者適用於[LINUX](umbrella://tools/pgp/s_pgp-for-linux.md)，[Mac OSX](umbrella://tools/pgp/s_pgp-for-mac-os-x.md)或[Windows](umbrella://tools/pgp/s_pgp-for-windows.md)的PGP中生成自己的密鑰。）
+（在[電子郵件](umbrella://communications/email)課程中了解有關公鑰/私鑰加密的更多信息。了解如何在[Mailvelope](umbrella://tools/messaging/s_mailvelope.md)工具指南，或者適用於[LINUX](umbrella://tools/pgp/s_pgp-for-linux.md)，[Mac OSX](umbrella://tools/pgp/s_pgp-for-mac-os-x.md)或[Windows](umbrella://tools/pgp/s_pgp-for-windows.md)的PGP中生成自己的密鑰。）
 
 # 2. 安裝並配置K9 Mail
 

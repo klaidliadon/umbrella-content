@@ -8,7 +8,7 @@ PGP建立在舊設計之上，因其難以使用而聞名。
 
 ## 學習如何使用：
 
-*   [Mailvelope(適用於網絡郵件的PGP)](umbrella://tools/messagging/s_mailvelope.md)
+*   [Mailvelope(適用於網絡郵件的PGP)](umbrella://tools/messaging/s_mailvelope.md)
 *   [適用於Mac OS的PGP](umbrella://tools/pgp/s_pgp-for-mac-os-x.md)
 *   [適用於Windows的PGP](umbrella://tools/pgp/s_pgp-for-windows.md)
 *   [適用於Linux的PGP](umbrella://tools/pgp/s_pgp-for-linux.md)

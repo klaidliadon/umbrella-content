@@ -6,8 +6,10 @@ title: ObscuraCam
 
 ## ObscuraCam Tool Guide
 
-**Lesson to read:** [Mobile Phones](umbrella://communications/mobile-phones), [Online Privacy](umbrella://communications/online-privacy/beginner)  
-**Download Location:** [ObscuraCam homepage](https://guardianproject.info/apps/obscuracam/)    
+**Lesson to read:**   
+- [Mobile Phones](umbrella://communications/mobile-phones)  
+- [Online Privacy](umbrella://communications/online-privacy/beginner) 
+**Download Location:** [ObscuraCam homepage](https://guardianproject.info/apps/obscuracam/)  
 **Phone requirements:** Android 2.3.3 and up  
 **Version used in this guide:** 2.0-RC2b  
 **License:** Free and Open Source Software (GPL v3)  
@@ -28,7 +30,6 @@ title: ObscuraCam
 ### 2.0 How to Install ObscuraCam
 
 **Step 1.** On your Android device, download and install the app from the [Google Play store here](https://play.google.com/store/apps/details?id=org.witness.sscphase1) by tapping "Install".
-
 ![image](tool_obscura1.png)
 
 **Step 2:** Before the installation process begins, you will be prompted to review the access that the application will have on your phone. Review this carefully. Once you are happy with the permissions that will be granted, press "Accept" and the installation will complete. If you do not agree with the permissions that will be granted, press the back button and the installation will be cancelled.
@@ -46,7 +47,6 @@ You can use ObscuraCam to hide some or all of the faces that appear in your phot
 To take a photo on your Android device without showing your subjects' faces, perform the following steps:
 
 **Step 1:** From the main screen of ObscuraCam tap "New Picture".
-
 ![image](tool_obscura2.png)
 
 **Step 2:** Your phone's camera app will open, take a photo as you normally would.
@@ -56,7 +56,6 @@ To take a photo on your Android device without showing your subjects' faces, per
 **Step 4:** ObscuraCam** will attempt to identify faces automatically.
 
 **Step 5:** If ObscuraCam can detect faces in the photo it will add an image "tag" (a rectangle used to select content that should be hidden) over the face and pixelate it. If ObscuraCam did not detect any faces or you need to obscure additional areas on the photo, tap on the area to add additional tags.
-
 ![image](tool_obscura3.png)
 
 **Step 6:** To see a preview of the photo you can tap the eye icon, to return to the edit screen tap anywhere on the preview image.
@@ -90,29 +89,23 @@ As well as obscuring photos as you take them, ObscuraCam can also obscure any ol
 While editing a photo in ObscuraCam, if you need to resize the tag, touch one of the four corners of the white outline box so that it turns green and drag it to make it larger or smaller.
 
 If you need to move the tag so that it is in a better position on the photo, touch the centre of the pixelated area so that the surrounding white box turns green, then drag the box to the location you want.
-
 ![image](tool_obscura4.png)
 
 ### 2.3.2 Change the obscure type
 
 ObscuraCam gives you a few options on how to obscure a photo. From the edit screen tap on an existing obscured area to bring up the obscuring options:
-
 ![image](tool_obscura5.png)
 
 **Pixelate** will obscure any part of the photo inside the tag by pixelating it
-
 ![image](tool_obscura6.png)
 
 **Redact** will obscure any part of the photo inside the tag by placing a black box over it
-
 ![image](tool_obscura7.png)
 
 **Mask** will obscure any part of the photo inside the tag by placing a funny mask over the person
-
 ![image](tool_obscura8.png)
 
 **Crowd Pixel** will obscure any part of the photo _outside_ the tag by pixelating the rest of it.
-
 ![image](tool_obscura9.png)
 
 **Clear Tag** will remove the selected tag from the photo.
@@ -132,11 +125,9 @@ Obscuracam can also obscure faces or objects in videos, however unlike with phot
 **Step 3:** The video will begin to play and ObscuraCam will attempt to detect faces. The process for detecting faces takes approximately _4 seconds_ for every _1 second_ of the video.
 
 **Step 4:** Once the face detection has completed, you can tap Play to review the video. This will show you the pixelated tags over the faces as well as a green trail showing the path the tag takes through the video as the face moves.
-
 ![image](tool_obscura10.png)
 
 **Step 5:** After reviewing the video and you are happy that all faces are obscured, tap the save icon at the top of the screen to save the video to your phones storage.
-
 ![image](tool_obscura11.png)
 
 **Note:** If ObscuraCam did not properly obscure faces or failed to detect some, you can see how to manually obscure them in section below.
@@ -172,7 +163,6 @@ To keep the obscured video in a higher resolution:
 **Step 1:** After either automatically or manually detecting faces and before saving the video, tap the three vertical dots icon to bring up the menu and select "Preferences".
 
 **Step 2:** Review and change the settings you want, where possibly ObscuraCam will give you the range by which each setting can be changed.
-
 ![image](tool_obscura12.png)
 
  **Step 3:** Once you have made the desired output changes, tap the back button on your phone and save the video.

@@ -36,7 +36,7 @@ Antes de comenzar a utilizar **K-9 Mail** necesitará:
 - Una cuenta de correo electrónico que admita conexiones POP3 o IMAP seguras. (Vea qué configuraciones usaría con los proveedores de correo electrónico más comunes [aquí] (https://k9mail.github.io/documentation/accounts/providerSettings.html).
 - Un par de claves OpenPGP y claves públicas de las personas con las que se comunicará.
 
-(Obtenga más información acerca del cifrado de clave pública/privada en la lección [email](umbrella://communications/email). Aprenda cómo generar su propia clave en las guías de herramientas para [Mailvelope] (umbrella://tools/messagging/s_mailvelope.md), o PGP para [LINUX] (umbrella://tools/pgp/s_pgp-for-linux.md), [Mac OSX] (umbrella://tools/pgp/s_pgp-for-mac-os-x.md), o [Windows] (umbrella://tools/pgp/s_pgp-for-windows.md).)
+(Obtenga más información acerca del cifrado de clave pública/privada en la lección [email](umbrella://communications/email). Aprenda cómo generar su propia clave en las guías de herramientas para [Mailvelope] (umbrella://tools/messaging/s_mailvelope.md), o PGP para [LINUX] (umbrella://tools/pgp/s_pgp-for-linux.md), [Mac OSX] (umbrella://tools/pgp/s_pgp-for-mac-os-x.md), o [Windows] (umbrella://tools/pgp/s_pgp-for-windows.md).)
 
 # 2. Instalar y configurar el K9 Mail
 

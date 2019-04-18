@@ -9,7 +9,7 @@ title: 現在怎樣?
 ### 相關課程與工具
 
 *   [互聯網](umbrella://communications/the-internet)
-*   [Mailvelope] (umbrella://tools/messagging/s_mailvelope.md)
+*   [Mailvelope] (umbrella://tools/messaging/s_mailvelope.md)
 *   適用於[Linux](umbrella://tools/pgp/s_pgp-for-linux.md), [Mac OS] (umbrella://tools/pgp/s_pgp-for-mac-os-x.md), 和 [Windows] (umbrella://tools/pgp/s_pgp-for-windows.md)的PGP
 *   [K-9 & Open Keychain](umbrella://tools/encryption/s_k9-apg.md)
 

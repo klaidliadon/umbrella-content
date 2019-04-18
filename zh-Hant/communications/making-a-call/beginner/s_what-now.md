@@ -7,8 +7,8 @@ title: 現在怎樣?
 ### 相關課程與工具
 
 *   [手機](umbrella://communications/mobile-phones)
-*   [Android](umbrella://tools/messagging/s_signal-for-android.md)的Signal
-*   適用於[iOS](umbrella://tools/messagging/s_signal-for-ios.md)的Signal
+*   [Android](umbrella://tools/messaging/s_signal-for-android.md)的Signal
+*   適用於[iOS](umbrella://tools/messaging/s_signal-for-ios.md)的Signal
 
 ### 進一步閱讀
 

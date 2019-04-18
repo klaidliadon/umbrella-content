@@ -12,7 +12,7 @@ Learn how to circumvent censorship in [Censorship beginner](umbrella://communica
 * [Online Privacy](umbrella://communications/online-privacy)
 *   [Managing Information](umbrella://information/managing-information)
 *	[Protests](umbrella://work/protests/beginner)
-*   [Psiphon](umbrella://tools/messagging/s_psiphon.md)
+*   [Psiphon](umbrella://tools/messaging/s_psiphon.md)
 
 ### FURTHER READING
 

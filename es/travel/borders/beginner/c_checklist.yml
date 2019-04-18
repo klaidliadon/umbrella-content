@@ -1,0 +1,43 @@
+index: 100
+list:
+- label: Antes de partir
+- check: Identifique toda la información sensible y en donde se transmite y almacena
+- check: Lleve la menor cantidad de datos posibles
+- check: Lleve equipamiento limpio
+- check: Lleve equipamiento en  el equipaje de mano
+- check: Lleve dispositivos de almacenamiento pequeños y cifrados
+- check: Traiga un cuaderno del que pueda sacar páginas
+- check: Traiga cinta adhesiva a prueba de manipulaciones
+- check: Revise su bolso/billeteras antes de viajar
+- label: Ingresando al país
+- check: Acuerde en lo que confesará/no confesará
+- check: No diga nada confidencial en el avión
+- check: Considere acercarse a la inmigración por separado
+- check: Proporcione información mínima sobre las actividades
+- check: Esté preparado para ser interrogado sobre el pasaporte
+- check: Sea educado pero firme
+- check: Decida qué alojamiento informar
+- check: Si se separa de su equipamiento, asuma que ha sido comprometido
+- check: Mantenga los teléfonos y Wi-Fi fuera hasta el aeropuerto
+- check: Acuerde un punto de encuentro con colegas
+- label: En el pais
+- check: Use códigos para información escrita sensible
+- check: Tenga cuidado con los recibos que podrían vincularlo a los activistas
+- check: Evite recopilar informes en papel
+- check: Mantenga información confidencial por separado/encriptada
+- check: Descarte las notas sensibles lo antes posible
+- check: Minimice la información sensible que comparta
+- check: Cambie sus rutas de viaje
+- check: Evite caminar solo por la noche
+- check: Pida al personal del hotel que no comparta información sobre usted
+- check: Memorice números de teléfono de emergencia
+- check: Acuerden una señal de emergencia con sus colegas
+- check: ¡Siempre use cinturones de seguridad!
+- label: Saliendo del país
+- check: Prepárese para ser detenido y cacheado
+- check: Asegúrese de que todas las notas sensibles estén remotas o cifradas
+- check: Haga copia de seguridad de todo el equipo remotamente
+- check: Revise compartimentos/bolsillos/billetera por papeles sensibles
+- check: Remoje papeles confidenciales antes de tirarlos
+- check: Acuerde qué decir en la frontera con los colegas
+- check: Mantenga el equipo con usted en todo momento

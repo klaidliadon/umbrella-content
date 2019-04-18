@@ -1,0 +1,16 @@
+index: 100
+list:
+- label: DOCUMENTO
+- check: Lo que estaba intentando acceder
+- check: La hora y fecha
+- check: La empresa que proporciona su servicio de internet.
+- check: El dispositivo que usa
+- check: Capturas de pantalla de la pantalla de error que muestra una página está
+    fuera de línea
+- check: Cualquier otra información que considere útil
+- check: Si puede, comparta sus datos con otros.
+- label: MEDIDA
+- check: Evalúe su riesgo al medir la censura
+- check: Si es seguro para usted, escanee su red desde su navegador con [NetBlocks]
+    (https://netblocks.org/scan/)
+- check: Si es seguro para usted, instale la sonda OONI)

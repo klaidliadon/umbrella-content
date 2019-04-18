@@ -1,0 +1,9 @@
+index: 100
+list:
+- check: Elija un chaleco clasificado de acuerdo a su amenaza esperada
+- check: Consiga un casco si opera en una zona de guerra.
+- check: Use armadura corporal si está incrustado
+- check: Cuide adecuadamente la armadura según las instrucciones.
+- check: Use chaleco contra puñaladas si es necesario en áreas de disturbios civiles
+- check: Tenga acceso a la máscara antigás pero tenga cuidado de no ser confundido
+    con un manifestante

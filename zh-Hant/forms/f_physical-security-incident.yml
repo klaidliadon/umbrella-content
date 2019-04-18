@@ -1,0 +1,99 @@
+screens:
+- items:
+  - name: name
+    type: text_input
+    label: 名稱：
+  - name: title
+    type: text_input
+    label: 标题：
+  - name: phone
+    type: text_input
+    label: 电话：
+  - name: email-address
+    type: text_input
+    label: 电子邮件地址：
+  - name: secure-communication-method-e-g-signal-safety-number-pgp-email-id
+    type: text_input
+    label: 安全通信方式（例如信號安全號碼，PGP電子郵件ID）：
+  title: 聯繫信息
+- items:
+  - name: provide-brief-description
+    type: text_area
+    label: 提供簡要說明：
+  title: 事件描述
+- items:
+  - name: type-incident
+    type: multiple_choice
+    label: 事件類型
+    options:
+    - label: 威脅/騷擾
+      value: Threat / Harassment
+    - label: 與當局/軍隊艱難接觸
+      value: Difficult encounter with authorities/ military forces
+    - label: 拘留/逮捕
+      value: Detention / Arrest
+    - label: 搶劫/埋伏
+      value: Robbery / Ambush
+    - label: 劫車
+      value: Carjacking
+    - label: 個人襲擊
+      value: Personal Assault
+    - label: 性侵犯
+      value: Sexual Assault
+    - label: 綁架/脅持
+      value: Kidnap / Abduction
+    - label: 射擊
+      value: Shooting
+    - label: 轟炸/交火
+      value: Bombardment / Crossfire
+    - label: 地雷
+      value: Landmine
+    - label: 其他
+      value: Other
+  - name: type-incident-other
+    type: text_input
+  title: 事件類型
+- items:
+  - name: nature-injuries-damage-threats-property-stolen
+    type: text_area
+    label: 受傷或受到威脅的性質/財產被盜等：
+  title: 影響/潛在影響
+- items:
+  - name: provide-brief-description-2
+    type: text_area
+  title: 應對步驟？
+- items:
+  - name: provide-brief-description-3
+    type: text_area
+  title: 動機還是肇事者？
+- items:
+  - name: incident-reported-locally
+    type: text_area
+    label: 誰將事件報告給當地人？
+  title: 誰將事件報告給當地人？
+- items:
+  - name: security-guidelines-cover-type-incident-guidelines-followed
+    type: text_area
+    label: 你的安全指引是否涵盖这类事件？指南是否遵循了？
+  title: 你的安全指南是否涵盖这类事件？您是否已遵循其指南？
+- items:
+  - name: guidelines-aspect-security-management-need-revised-way
+    type: text_area
+    label: 安全管理的指导方针或其他方面是否需要以任何方式修改？
+  title: 安全管理的指导方针或其他方面是否需要以任何方式修改？
+- items:
+  - name: lessons-learned
+    type: text_area
+    label: 相關課程：
+  title: 請提出具體措施，以避免日後發生這類事件。
+- items:
+  - name: action-requested
+    type: text_area
+    label: 任何要求的行動？
+  title: 任何要求的行动？
+- items:
+  - name: supporting-information
+    type: text_area
+    label: 任何支持信息？
+  title: 任何支持信息？
+title: 實體安全事件

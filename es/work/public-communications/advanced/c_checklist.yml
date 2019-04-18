@@ -1,0 +1,18 @@
+index: 100
+list:
+- label: EVALÚE SU EXPOSICIÓN
+- check: ¿El acceso a la información es limitado o es probable que haya inestabilidad
+    en las áreas donde opera?
+- check: Identifique dónde podría diseminarse la desinformación sobre usted y cree
+    un plan de monitoreo
+- check: Mejore la seguridad digital y física.
+- check: Esté atento a los signos de estrés e implemente el autocuidado.
+- check: Cree un plan de comunicaciones para gestionar los incidentes de desinformación.
+- check: Esté atento a los signos de estrés y aplique autocuidado.
+- label: EVALUANDO CAMPAÑAS EN CONTRA DE USTED
+- check: ¿Quién es responsable, por lo que se puede decir?
+- check: ¿Está coordinada la campaña y qué métodos se están utilizando?
+- check: Siga el plan de comunicaciones de crisis, o decida rápidamente si responder
+    públicamente o no
+- check: Mantenga registros y observe tendencias.
+- check: Reporte lo que le está pasando a alguien que puede ayudar si puede

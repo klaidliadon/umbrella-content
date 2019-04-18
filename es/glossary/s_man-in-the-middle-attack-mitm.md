@@ -1,0 +1,6 @@
+---
+title: Ataque de Intermediario​
+---
+# Ataque Man-in-the-middle (MITM) 
+
+Suponga que cree que estaba hablando con su amigo, Bahram, a través del mensajero instantáneo encriptado. Para comprobar que es él, le pide que le cuente la ciudad donde se conocieorn. "Estambul" es la respuesta. ¡Eso es correcto! Desafortunadamente, sin que tú o Bahram lo sepan, alguien más en línea ha interceptado todas sus comunicaciones. La primera vez que se conectó con Bahram, en realidad se conectó con esta persona, y ella, a su vez, se conectó con Bahram. Cuando piensa que haces una pregunta a Bahram, ella recibe tu mensaje, le pasa la pregunta a Bahram, recibe su respuesta y luego se la envía. A pesar de que piensa que se está comunicando de forma segura con Bahram, de hecho, solo está comunicándose de forma segura con el espía, ¡que también se está comunicando de forma segura con Bahram! Este es el ataque de intermediario. Los intermediarios pueden espiar las comunicaciones o incluso insertar mensajes falsos o engañosos en sus comunicaciones. El software de comunicaciones de Internet enfocado en la seguridad necesita defenderse contra el ataque del hombre en el medio para estar a salvo de los atacantes que tienen control de cualquier parte de Internet entre dos comunicadores.

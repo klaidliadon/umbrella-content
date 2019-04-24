@@ -36,6 +36,6 @@ OONI提供測試網絡，WhatsApp，Facebook Messenger和Telegram或特定網站
 
 *   閱讀運行OONI探針的[潛在風險](https://ooni.torproject.org/about/risks/);
 
-*   從[Install](https://ooni.torproject.org/install/ooniprobe/)安裝 OONI探針在Linux, MacOS, 或在 Raspberry Pi上;
+*   [安裝](https://ooni.torproject.org/install/ooniprobe/)OONI探針在Linux, MacOS, 或在 Raspberry Pi上;
 
 *   為[Android](https://play.google.com/store/apps/details?id=org.openobservatory.ooniprobe) 或 [iOS](https://itunes.apple.com/us/app/id1199566366)安裝OONI探針應用程式

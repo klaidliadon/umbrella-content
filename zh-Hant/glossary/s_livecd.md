@@ -1,4 +1,5 @@
 ---
+index: 69
 title: LiveCD 自生系統
 ---
 # LiveCD 自生系統

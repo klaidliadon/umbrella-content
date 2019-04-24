@@ -1,4 +1,5 @@
 ---
+index: 53
 title: Asociación de datos infrarrojos (IrDA)
 ---
 # Asociación de datos infrarrojos (IrDA) 

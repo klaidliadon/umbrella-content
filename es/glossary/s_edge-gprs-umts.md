@@ -1,4 +1,5 @@
 ---
+index: 31
 title: EDGE, GPRS, UMTS
 ---
 # EDGE, GPRS, UMTS 

@@ -20,7 +20,7 @@ title: 找出你的弱點
 * 公告是否有對講機？
 * 使用網絡的人是否受過惡意軟件和網絡釣魚等數字威脅的培訓？
 
-(了解有關[惡意軟件](umbrella://information/malware/beginner)和[網絡釣魚](umbrella://communications/phishing/beginner)的更多信息.)
+（了解有關[惡意軟件](umbrella://information/malware/beginner)和[網絡釣魚](umbrella://communications/phishing/beginner)的更多信息。）
 
 * 計算機空間乾淨嗎？隱藏惡意程序包會很容易嗎？
 * 身份不明或無人陪伴的訪客是否受到挑戰？

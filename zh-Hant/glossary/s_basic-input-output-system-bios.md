@@ -1,4 +1,5 @@
 ---
+index: 10
 title: 基本輸入/輸出系統（BIOS）
 ---
 # Basic Input/Output System (BIOS)

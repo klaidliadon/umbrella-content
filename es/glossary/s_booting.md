@@ -1,4 +1,5 @@
 ---
+index: 15
 title: Booteo o arranque
 ---
 # Booteo o arranque

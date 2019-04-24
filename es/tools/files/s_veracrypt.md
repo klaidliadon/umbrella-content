@@ -7,7 +7,7 @@ Guía de la Herramienta VeraCrypt
 
 Almacenamiento Seguro de Archivos
 
-**Lección a leer: [Protección de Archivos] (umbrella://lesson/protect-files) **
+**Lección a leer: [Protección de Archivos] (umbrella://information/protecting-files) **
 **Nivel:** Avanzado
 **Tiempo requerido:** 30-60 minutos
 
@@ -25,8 +25,8 @@ Almacenamiento Seguro de Archivos
 
 **Requisitos del sistema:**
 
-GNU / Linux  (versiones de 32 bits y 64 bits, kernel 2.6 o compatible)
-Apple Mac OS X ** 10.7 o superior, con la última versión de [FUSE para Mac OS] (https://osxfuse.github.io/)
+GNU/Linux (32-bit and 64-bit versions, kernel 2.6 or compatible)
+Apple Mac OS X 10.7 or later, running the latest version of [FUSE for Mac OS](https://osxfuse.github.io/).
 Microsoft Windows Server 2003, 2008, 2012; XP, Vista, 7, 8, 10
 
 Nota: Se Requiere una cuenta de administrador para la instalación y para crear volúmenes
@@ -77,7 +77,7 @@ Para instalar VeraCrypt en su computadora, siga los pasos a continuación:
 
 _Figura 1: El instalador VeraCrypt_
 
-Nota: a los usuarios de Mac OS se les pedirá que descarguen [FUSE para Mac OS] (https://osxfuse.github.io/), un paquete de software necesario para ejecutar VeraCrypt.
+Note: Mac OS users will be prompted to download [FUSE for Mac OS](https://osxfuse.github.io/), a software package needed to run VeraCrypt.  
 
 **VeraCrypt** le pedirá si desea permitir al instalador realizar cambios en su PC, com ose muestra debajo.
 
@@ -228,7 +228,7 @@ La ventana _Tamaño de Volumen_ le permite especificar el tamaño del _contenedo
 
 _Figura 9: Asistente de Creación de Volúmenes en la ventana de Contraseña de Volumen_
 
-**IMPORTANTE**: Elegir una contraseña segura es uno de los pasos más importantes que realizará al crear un volumen ** VeraCrypt **. Cuanto más fuerte sea la frase de contraseña, mejor. No tiene que elegir sus propias frases de contraseña (¡ni siquiera recordarlas!) Si usa un _gestor de contraseñas_ como **KeePassXC**. Consulte las lecciones **[Contraseñas]** (umbrella://information/passwords) y [**Guía de Herramienta KeePassXC**] (umbrella://tools/encryption/s_keepassxc.md)) para obtener más información sobre las buenas prácticas de frase de contraseña.
+**IMPORTANT**: Choosing a strong passphrase is one of the most important steps you will perform when creating a **VeraCrypt** volume. The stronger the passphrase, the better. You don't have to choose your own passphrases (or even remember them!) if you use a _password manager_ like **KeePassXC**. Please refer to the **[Passwords]** (umbrella://information/passwords) lesson and [**KeePassXC Tool Guide**](umbrella://tools/encryption/s_keepassxc.md) guides to learn more about good passphrase practices.
 
 **Paso 11**. **Escriba** su frase de contraseña y luego **vuelva a escribir** su frase de contraseña en el campo _Confirmar__ para activar el botón **\[Siguiente\]**.
 
@@ -384,7 +384,7 @@ Como cuando creó su _volumen estándar_, considere la cantidad y los tipos de a
 
 _Figura 12: Pantalla de creación de Contraseña para Volumen Oculto de VeraCrypt_
 
-Ahora debe elegir una frase de paso para el _volumen oculto_ que sea _diferente_ de la que eligió para su _volumen estándar_. Una vez más, recuerde elegir una frase de contraseña fuerte. Consulte la lección **[Contraseñas]** (umbrella://information/passwords) para obtener más información.
+You must now choose a passphrase for the _hidden volume_ that is _different_ from the one you chose for your _standard volume_. Again, remember to choose a strong passphrase. Please refer to the **[Passwords]** (umbrella://information/passwords) lesson to learn more.
 
 **Consejo**: si usa un _gestor de contraseñas_ como **KeePassXC** y le preocupa que lo presionen para revelar el contenido de su contenedor **VeraCrypt **, puede guardar la frase de contraseña de su _volumen estándar_ (señuelo) en **KeePassXC**, pero deberá memorizar la frase de contraseña para su _volumen oculto._ De lo contrario, al entregar su frase de contraseña de **KeePassXC**, también revelará su frase de contraseña del _volumen oculto_.
 

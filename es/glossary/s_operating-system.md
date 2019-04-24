@@ -1,4 +1,5 @@
 ---
+index: 80
 title: Sistema operativo
 ---
 # Sistema operativo 

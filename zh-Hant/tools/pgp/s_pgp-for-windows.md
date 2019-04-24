@@ -115,8 +115,7 @@ GPG4Win Vanilla軟件包沒有可供選擇的組件，因此請再次單擊“�
 
 ### 3.2 安裝Mozilla Thunderbird
 
-與GPG4Win類似，您可以通過雙擊Thunderbird Setup 24.6.0.exe文件來安裝Mozilla Thunderbird。像往常一樣，系統會詢問您是否要運行此文件。單擊“運行”按鈕。
-![圖像](tool_pgpwin16.png)
+與GPG4Win類似，您可以通過雙擊Thunderbird Setup 24.6.0.exe文件來安裝Mozilla Thunderbird。像往常一樣，系統會詢問您是否要運行此文件。單擊“運行”按鈕。![圖像](tool_pgpwin16.png)
 
 系統將詢問您是否允許Mozilla Thunderbird通過安裝軟件對您的計算機進行更改。單擊“是”按鈕。
 ![圖像](tool_pgpwin17.png)

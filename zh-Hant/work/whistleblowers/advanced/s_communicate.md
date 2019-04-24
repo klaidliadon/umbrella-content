@@ -17,10 +17,8 @@ title: 通信
 
 例子：
 
-* 在https://www.nytimes.com/tips](https://www.nytimes.com/tips)紐約時報。
-* 在[https://www.bartongellman.com/pgp]
-(https://www.bartongellman.com/pgp)
-了解有關記者Barton Gellman的更多信息。
+* 在[https://www.nytimes.com/tips](https://www.nytimes.com/tips) 紐約時報。
+* 在[https://www.bartongellman.com/pgp](https://www.bartongellman.com/pgp) 了解有關記者Barton Gellman的更多信息。
 
 ## 實際地址
 

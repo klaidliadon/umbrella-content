@@ -7,7 +7,7 @@ Guía de la Herramienta VeraCrypt
 
 Almacenamiento Seguro de Archivos
 
-**Lección a leer: [Protección de Archivos] (umbrella://lesson/protect-files) **
+**Lección a leer: [Protección de Archivos] (umbrella://information/protecting-files) **
 **Nivel:** Avanzado
 **Tiempo requerido:** 30-60 minutos
 

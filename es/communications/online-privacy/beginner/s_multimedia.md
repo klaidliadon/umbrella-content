@@ -30,7 +30,7 @@ Informado significa que entienden el propósito, la audiencia potencial y los ri
 
 *   ¿Podría su emisión causar daño involuntario?
 
-(Obtenga información sobre [documentar](umbrella://work/protests/beginner y [asistir](umbrella://work/protests/advanced) a protestas.)
+(Obtenga información sobre [documentar](umbrella://work/protests/beginner) y [asistir](umbrella://work/protests/advanced) a protestas.)
 
 ## Contenido compartido por otra persona
 

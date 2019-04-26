@@ -1,4 +1,5 @@
 ---
+index: 76
 title: NoScript工具
 ---
 # NoScript工具

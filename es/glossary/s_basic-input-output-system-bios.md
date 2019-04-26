@@ -1,4 +1,5 @@
 ---
+index: 10
 title: Sistema Básico de Entrada / Salida (BIOS)
 ---
 # Sistema Básico de Entrada / Salida (BIOS)

@@ -1,4 +1,5 @@
 ---
+index: 8
 title: 資產
 ---
 # 資產Asset

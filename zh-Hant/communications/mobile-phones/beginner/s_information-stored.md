@@ -14,7 +14,7 @@ title: 儲存的資訊
 *   瀏覽記錄;
 *   密碼;
 *   社交媒體活動;
-*   文件。
+*   文件
 
 採取這些措施可以最大限度地降低暴露您和您的同事的個人信息的風險。
 
@@ -24,14 +24,14 @@ title: 儲存的資訊
 
 （學習[Android的基本安全性](umbrella://tools/other/s_android.md)以及如何[加密你的iPhone](umbrella://tools/encryption/s_encrypt-your-iphone.md)。）
 
-## 移動數據。
+## 移動數據
 
 盡快將機密文件和照片從手機移動到安全的位置。
 
 （了解[保護文件](umbrella://information/protecting-files)和
 [備份](umbrella://information/backing-up)。）
 
-## 刪除數據。
+## 刪除數據
 
 定期銷毀敏感信息，包括通話記錄，消息，聯繫人或照片。
 
@@ -39,7 +39,7 @@ title: 儲存的資訊
 
 ## 保護您的設備
 
-*   退出活動的應用和帳戶。
+*   退出正在運行的應用程序和帳戶。
 *   只使用值得信賴的手機經銷商和維修店。
 *   在銷售，處理或處置您的手機之前刪除所有信息。
 
@@ -79,7 +79,7 @@ CameraV可以：
 
 ## 使用eyeWitness進行肆虐
 
-eyeWitness是一款免費的Android應用程序，可用於捕獲可能在試用中使用的敏感照片和視頻。
+eyeWitness是一款免費的Android應用程序，在試用中可以用來拍攝敏感照片和錄製敏感視頻。
 
 eyeWitness可以：
 

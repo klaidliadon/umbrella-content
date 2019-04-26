@@ -1,4 +1,5 @@
 ---
+index: 2
 title: Adversario
 ---
 # Adversario

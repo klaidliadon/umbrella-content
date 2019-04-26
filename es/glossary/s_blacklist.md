@@ -1,4 +1,5 @@
 ---
+index: 12
 title: Lista negra
 ---
 # Lista Negra

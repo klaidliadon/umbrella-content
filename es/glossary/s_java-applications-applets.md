@@ -1,4 +1,5 @@
 ---
+index: 60
 title: Aplicaciones Java (Applets)
 ---
 # Aplicaciones Java (Applets)

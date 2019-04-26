@@ -1,4 +1,5 @@
 ---
+index: 77
 title: Obscuracam工具
 ---
 # Obscuracam工具

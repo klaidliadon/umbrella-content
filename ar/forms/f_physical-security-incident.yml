@@ -1,0 +1,101 @@
+screens:
+- items:
+  - name: name
+    type: text_input
+    label: 'اسم:'
+  - name: title
+    type: text_input
+    label: 'العنوان:'
+  - name: phone
+    type: text_input
+    label: 'هاتف:'
+  - name: email-address
+    type: text_input
+    label: 'عنوان البريد الإلكتروني:'
+  - name: secure-communication-method-e-g-signal-safety-number-pgp-email-id
+    type: text_input
+    label: 'طريقة الاتصال الآمن (مثل رقم سلامة الإشارة ومعرف البريد الإلكتروني PGP):'
+  title: معلومات جهة الاتصال
+- items:
+  - name: provide-brief-description
+    type: text_area
+    label: 'تقديم وصف موجز:'
+  title: وصف الحدث
+- items:
+  - name: type-incident
+    type: multiple_choice
+    label: نوع الحادث
+    options:
+    - label: التهديد / التحرش
+      value: Threat / Harassment
+    - label: لقاء صعب مع السلطات / القوات العسكرية
+      value: Difficult encounter with authorities/ military forces
+    - label: الاحتجاز / الاعتقال
+      value: Detention / Arrest
+    - label: سرقة / كمين
+      value: Robbery / Ambush
+    - label: سرقة السيارات
+      value: Carjacking
+    - label: الاعتداء الشخصي
+      value: Personal Assault
+    - label: الاعتداء الجنسي
+      value: Sexual Assault
+    - label: خطف / اختطاف
+      value: Kidnap / Abduction
+    - label: اطلاق الرصاص
+      value: Shooting
+    - label: قصف / تبادل لاطلاق النار
+      value: Bombardment / Crossfire
+    - label: الألغام الأرضية
+      value: Landmine
+    - label: أخرى
+      value: Other
+  - name: type-incident-other
+    type: text_input
+  title: نوع الحادث
+- items:
+  - name: nature-injuries-damage-threats-property-stolen
+    type: text_area
+    label: 'طبيعة الإصابات أو الأضرار / التهديدات المصنوعة / الممتلكات المسروقة وغيرها:'
+  title: التأثير / التأثير المحتمل
+- items:
+  - name: provide-brief-description-2
+    type: text_area
+  title: خطوات الاستجابة المتخذة؟
+- items:
+  - name: provide-brief-description-3
+    type: text_area
+  title: الدافع أو الجناة؟
+- items:
+  - name: incident-reported-locally
+    type: text_area
+    label: من الذي تم الإبلاغ عن الحادث محليا؟
+  title: من الذي تم الإبلاغ عن الحادث محليا؟
+- items:
+  - name: security-guidelines-cover-type-incident-guidelines-followed
+    type: text_area
+    label: هل تغطي إرشاداتك الأمنية هذا النوع من الحوادث؟ هل اتبعت الإرشادات؟
+  title: هل تغطي إرشاداتك الأمنية هذا النوع من الحوادث؟ هل اتبعت الإرشادات؟
+- items:
+  - name: guidelines-aspect-security-management-need-revised-way
+    type: text_area
+    label: هل المبادئ التوجيهية أو أي جانب آخر من إدارة الأمن تحتاج إلى تنقيح بأي
+      شكل من الأشكال؟
+  title: هل المبادئ التوجيهية أو أي جانب آخر من إدارة الأمن تحتاج إلى تنقيح بأي شكل
+    من الأشكال؟
+- items:
+  - name: lessons-learned
+    type: text_area
+    label: 'الدروس المستفادة:'
+  title: يرجى اقتراح تدابير محددة قد تساعد على تجنب هذا النوع من الحوادث في المستقبل.
+- items:
+  - name: action-requested
+    type: text_area
+    label: أي إجراء المطلوبة؟
+  title: أي إجراء المطلوبة؟
+- items:
+  - name: supporting-information
+    type: text_area
+    label: أي معلومات داعمة؟
+  title: أي معلومات داعمة؟
+title: حادث الأمن المادي

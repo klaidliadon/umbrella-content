@@ -1,0 +1,66 @@
+screens:
+- items:
+  - name: s
+    type: text_area
+    label: الاسم(اء)
+  - name: travel-dates
+    type: text_area
+    label: تواريخ السفر
+  title: أسماء / تواريخ
+- items:
+  - name: destination-s
+    type: text_area
+    label: اتجاه(ات)
+  - name: purpose
+    type: text_area
+    label: غرض
+  title: الوجهة / الغرض
+- items:
+  - name: itinerary
+    type: text_area
+    label: مسار الرحلة
+  - name: travel-flight-information
+    type: text_area
+    label: السفر / معلومات الطيران
+  title: خط سير الرحلة / السفر
+- items:
+  - name: immigration-requirements
+    type: text_area
+    label: متطلبات الهجرة
+  - name: important-phone-numbers
+    type: text_area
+    label: أرقام الهاتف الهامة
+  title: الهجرة / أرقام الهاتف
+- items:
+  - name: organisational-emergency-contact-s
+    type: text_area
+    label: جهة اتصال الطوارئ التنظيمية
+  - name: check-in-procedure
+    type: text_area
+    label: إجراءات تسجيل الوصول
+  title: التنظيمية / الإجراءات
+- items:
+  - name: personal-emergency-contact-s
+    type: text_area
+    label: اتصالات الطوارئ الشخصية(ج)
+  - name: medical-information
+    type: text_area
+    label: معلومات طبية
+  title: الشخصية / الطبية
+- items:
+  - name: physical-security-situation
+    type: text_area
+    label: الحالة الأمنية المادية
+  - name: digital-security-situation
+    type: text_area
+    label: الوضع الأمن الرقمي
+  title: المادية / الرقمية
+- items:
+  - name: key-contacts-embassy-insurance
+    type: text_area
+    label: جهات الاتصال الرئيسية (السفارة ، التأمين ، إلخ)
+  - name: notes
+    type: text_area
+    label: الملاحظات الأخرى
+  title: جهات الاتصال الرئيسية / أخرى
+title: مذكرة الأمن السفر

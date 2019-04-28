@@ -1,0 +1,10 @@
+index: 100
+list:
+- check: خطط للسفر مع شخص تثق به.
+- check: شارك خطط سفرك مع أشخاص آخرين تثق بهم.
+- check: احمل هويتك الشخصية والمعلومات الطبية.
+- check: حدد خطة اتصالات احتياطية في حالة فقد تغطية المحمول.
+- check: ابحث عن الجهات الفاعلة المعادية المحلية.
+- check: قم بتجهيز [vehicles] من (umbrella://travel/vehicles) إذا كنت بحاجة إلى ذلك.
+- check: قم بإعداد [protective equipment] من (umbrella://travel/protective-equipment)
+    إذا كنت بحاجة إلى ذلك.

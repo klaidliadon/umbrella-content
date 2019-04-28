@@ -1,0 +1,42 @@
+screens:
+- items:
+  - name: write-questions-known-close
+    type: label
+    label: كتابة أربعة أسئلة معروفة فقط لك أو شخص قريب منك
+  - name: question
+    type: text_input
+    label: 'السؤال رقم 1:'
+  - name: answer
+    type: text_input
+    label: 'الإجابة 1:'
+  title: ""
+- items:
+  - name: question-2
+    type: text_input
+    label: 'السؤال 2:'
+  - name: answer-2
+    type: text_input
+    label: 'الاجابة 2:'
+  title: ""
+- items:
+  - name: question-3
+    type: text_input
+    label: 'سؤال 3:'
+  - name: answer-3
+    type: text_input
+    label: 'الاجابة 3:'
+  title: ""
+- items:
+  - name: question-4
+    type: text_input
+    label: 'السؤال 4:'
+  - name: answer-4
+    type: text_input
+    label: 'الاجابة 4:'
+  title: ""
+- items:
+  - name: personal-duress-word
+    type: text_input
+    label: كلمة إكرس الشخصية
+  title: ""
+title: دليل على نموذج الحياة

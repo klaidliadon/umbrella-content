@@ -1,0 +1,102 @@
+screens:
+- items:
+  - name: name
+    type: text_input
+    label: 'نام:'
+  - name: title
+    type: text_input
+    label: 'عنوان:'
+  - name: phone
+    type: text_input
+    label: 'تلفن:'
+  - name: email-address
+    type: text_input
+    label: 'آدرس ایمیل:'
+  - name: secure-communication-method-e-g-signal-safety-number-pgp-email-id
+    type: text_input
+    label: 'روش ارتباط امن (به عنوان مثال شماره ایمنی سیگنال، شناسه ایمیل PGP):'
+  title: اطلاعات تماس
+- items:
+  - name: provide-brief-description
+    type: text_area
+    label: 'شرح مختصری را ارائه دهید:'
+  title: شرح حادثه
+- items:
+  - name: type-incident
+    type: multiple_choice
+    label: نوع حادثه
+    options:
+    - label: تهدید / آزار و اذیت
+      value: Threat / Harassment
+    - label: مواجه شدن با مقامات / نیروهای نظامی دشوار است
+      value: Difficult encounter with authorities/ military forces
+    - label: بازداشت / دستگیری
+      value: Detention / Arrest
+    - label: سرقت / قاچاق
+      value: Robbery / Ambush
+    - label: سرقت ماشین
+      value: Carjacking
+    - label: حمله شخصی
+      value: Personal Assault
+    - label: حمله(تجاوز) جنسی
+      value: Sexual Assault
+    - label: آدم ربایی / ربودن
+      value: Kidnap / Abduction
+    - label: تیراندازی کردن
+      value: Shooting
+    - label: بمباران / آتش رگبار
+      value: Bombardment / Crossfire
+    - label: مین های زمینی
+      value: Landmine
+    - label: دیگر
+      value: Other
+  - name: type-incident-other
+    type: text_input
+  title: نوع حادثه
+- items:
+  - name: nature-injuries-damage-threats-property-stolen
+    type: text_area
+    label: 'ذات آسیب یا صدمه/ تهدید به وجود آمده / اموال به سرقت رفته و غیره:'
+  title: تاثیر / تاثیر بالقوه
+- items:
+  - name: provide-brief-description-2
+    type: text_area
+  title: اقدامات پاسخگویی صورت گرفته است؟
+- items:
+  - name: provide-brief-description-3
+    type: text_area
+  title: انگیزه یا مجرمان؟
+- items:
+  - name: incident-reported-locally
+    type: text_area
+    label: ' حادثه به صورت محلی به چه کسی گزارش شده است؟'
+  title: چه کسی حادثه به صورت محلی گزارش شده است؟
+- items:
+  - name: security-guidelines-cover-type-incident-guidelines-followed
+    type: text_area
+    label: آیا دستورالعمل های امنیتی شما این نوع حادثه را پوشش می دهد؟ آیا رهنمودها
+      دنبال شده اند؟
+  title: آیا دستورالعمل های امنیتی شما این نوع حادثه را پوشش می دهد؟ آیا رهنمودها
+    دنبال شد؟
+- items:
+  - name: guidelines-aspect-security-management-need-revised-way
+    type: text_area
+    label: آیا باید در دستورالعمل ها یا هر جنبه دیگری از مدیریت امنیت تجدید نظر شود؟
+  title: آیا باید در دستورالعمل ها یا هر جنبه دیگری از مدیریت امنیت تجدید نظر شود؟
+- items:
+  - name: lessons-learned
+    type: text_area
+    label: 'درسهای آموخته شده:'
+  title: لطفا اقدامات خاصی را پیشنهاد کنید که ممکن است در از بین بردن این حادثه در
+    آینده کمک کند.
+- items:
+  - name: action-requested
+    type: text_area
+    label: هیچ گونه اقدام مورد نیازی برای گفتن به ما ندارید؟
+  title: هیچ گونه اقدام مورد نیازی برای گفتن به ما ندارید؟
+- items:
+  - name: supporting-information
+    type: text_area
+    label: هیچ گونه اطلاعات پشتیبانی کننده ای برای گفتن به ما ندارید؟
+  title: هیچ گونه اطلاعات پشتیبانی کننده ای برای گفتن به ما ندارید؟
+title: حادثه امنیتی فیزیکی

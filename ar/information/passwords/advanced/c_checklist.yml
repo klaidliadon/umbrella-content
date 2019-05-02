@@ -1,0 +1,7 @@
+index: 100
+list:
+- check: تثبيت KeePassXC
+- check: إنشاء كلمة مرور قوية ل KeePassXC
+- check: نسخ احتياطي قاعدة بيانات KeePassXC
+- check: تأكد من عدم وجود برامج ضارة على الكمبيوتر
+- check: تثبيت مصادقة من خطوتين

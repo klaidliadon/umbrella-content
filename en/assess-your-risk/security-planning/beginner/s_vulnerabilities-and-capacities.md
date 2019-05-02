@@ -6,7 +6,7 @@ title: Vulnerabilities and Capacities
 
 ## Vulnerabilities
 
-A vulnerability is any factor which increases the liklihood of harm or loss. 
+A vulnerability is any factor which increases the likelihood of harm or loss. 
 
 *For example, if kidnapping is a threat, going to a meeting in an isolated area makes you more vulnerable.* 
 

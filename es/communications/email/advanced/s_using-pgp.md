@@ -8,7 +8,7 @@ Pero muchos programas están disponibles para hacerlo más fácil.
 
 ## Aprenda a usar:
 
-*   [Mailvelope (PGP para webmail)] (umbrella://tools/messagging/s_mailvelope.md)
+*   [Mailvelope (PGP para webmail)] (umbrella://tools/messaging/s_mailvelope.md)
 *   [PGP para Mac OS](umbrella://tools/pgp/s_pgp-for-mac-os-x.md)
 *   [PGP para Windows](umbrella://tools/pgp/s_pgp-for-windows.md)
 *   [PGP para Linux](umbrella://tools/pgp/s_pgp-for-linux.md)

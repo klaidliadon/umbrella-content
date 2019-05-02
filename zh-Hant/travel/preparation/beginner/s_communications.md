@@ -22,7 +22,7 @@ title: 通訊
 
 如果電信網絡不可靠或可能在危機中關閉，這些可能是必要的。檢查他們在您的目的地是否合法。
 
-*注意：無線電天線很明顯。如果您的旅行不足，請使用帶有衛星電話的手機作為備用。*
+*注意：無線電天線是很顯眼的物品。如果你低調旅行，請使用帶有衛星系統的手機作為備用手機。*
 
 （了解[收音機](umbrella://communications/radios-and-satellite-phones/beginner)和[衛星電話](umbrella://communications/radios-and-satellite-phones/advanced)。）
 

@@ -32,7 +32,7 @@ Move confidential files and photos from your phone to a secure location as soon 
 
 ## Erase data.
 
-Erase sensitive information regularing, including call records, messages, contacts, or photos.
+Erase sensitive information regularly, including call records, messages, contacts, or photos.
 
 (Learn more about [safely deleting](umbrella://information/safely-deleting).)
 
@@ -61,7 +61,7 @@ ObscuraCam can:
 *	Delete the original photos;
 *	Upload media to your server if you set one up.
 
-(Learn how to use [ObscuraCam](umbrella://tools/messagging/s_obscuracam.md).)  
+(Learn how to use [ObscuraCam](umbrella://tools/messaging/s_obscuracam.md).)  
 
 ## Use CameraV
 

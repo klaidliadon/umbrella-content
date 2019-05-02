@@ -13,7 +13,7 @@ title: 現在怎樣?
 * [審查](umbrella://communications/censorship)
 * [在線隱私](umbrella://communications/online-privacy)
 * [如何更改您的Facebook隱私設置](umbrella://tools/other/s_facebook.md)
-*   [ObscuraCam](umbrella://tools/messagging/s_obscuracam.md)
+*   [ObscuraCam](umbrella://tools/messaging/s_obscuracam.md)
 
 ### 來源
 

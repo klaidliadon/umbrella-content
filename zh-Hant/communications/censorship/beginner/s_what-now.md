@@ -9,7 +9,7 @@ title: 現在怎樣?
 ### 相關課程/工具
 
 *   [管理資訊](umbrella://information/managing-information)
-*   [Psiphon工具指南](umbrella://tools/messagging/s_psiphon.md)
+*   [Psiphon工具指南](umbrella://tools/messaging/s_psiphon.md)
 
 ### 進一步閱讀
 

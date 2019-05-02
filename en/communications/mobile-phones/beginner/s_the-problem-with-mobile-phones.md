@@ -12,7 +12,7 @@ Phones may expose this information to:
 
 # Eavesdroppers
 
-* In person; or.
+* In person; or
 * Using spyware.
 
 # A company
@@ -20,7 +20,7 @@ Phones may expose this information to:
 Companies that run mobile phone networks can: 
 
 *	Intercept calls and text messages;
-* 	Monitor your location.  
+* Monitor your location.  
 
 # The government
 

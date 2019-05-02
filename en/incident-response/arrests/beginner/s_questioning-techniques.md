@@ -22,7 +22,7 @@ Authorities may use established techniques to question you.
 
 Soviet dissidents used to share this advice for undergoing questioning.   
 
-* **Don't believe** what officers say about their intentions ("we will ask you a few questions and let you you go"), or your rights ("if you don't cooperate, we may detain you for 6 months"). 
+* **Don't believe** what officers say about their intentions ("we will ask you a few questions and let you go"), or your rights ("if you don't cooperate, we may detain you for 6 months"). 
 
 *Assume that whatever they say is in their interest, not yours.*
 

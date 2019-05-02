@@ -28,7 +28,7 @@ First, draw on your context and stakeholder analysis to identify as many possibl
 
 Which signs and events could indicate threats are increasing? Which could lead to a new threat? 
 
-*For example, or an attack on someone you know may be a sign that a threat is intesifying, or political instability may lead to street violence.*
+*For example, an attack on someone you know may be a sign that a threat is intesifying, or political instability may lead to street violence.*
 
 ## Analyse your threats
 

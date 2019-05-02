@@ -1,4 +1,5 @@
 ---
+index: 123
 title: Undelete Plus
 ---
 # Undelete Plus

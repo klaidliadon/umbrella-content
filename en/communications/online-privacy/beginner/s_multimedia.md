@@ -64,7 +64,7 @@ ObscuraCam can:
 *	Delete the original photos;
 *	Upload media to your server if you set one up.
 
-(Learn how to use [ObscuraCam](umbrella://tools/messagging/s_obscuracam.md).)  
+(Learn how to use [ObscuraCam](umbrella://tools/messaging/s_obscuracam.md).)  
 
 ## Use CameraV
 

@@ -10,7 +10,7 @@ title: Help others manage stress
 If you lead or manage a team, you may face stress due to:
 
 *	A volatile environment;
-*	Unrealistic expectations about how much you can do and how well you can do it
+*	Unrealistic expectations about how much you can do and how well you can do it;
 *	Significant responsibility;
 *	Work during weekends or holidays. 
 

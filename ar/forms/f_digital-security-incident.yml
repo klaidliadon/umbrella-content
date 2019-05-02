@@ -1,0 +1,215 @@
+screens:
+- items:
+  - name: name
+    type: text_input
+    label: 'اسم:'
+  - name: phone
+    type: text_input
+    label: 'هاتف:'
+  - name: email-address
+    type: text_input
+    label: 'البريد الإلكتروني:'
+  - name: secure-communication-method-e-g-signal-safety-number-pgp-email-id
+    type: text_input
+    label: 'معلومات الأمان (رقم أمان الإشارة ، معرف مفتاح PGP):'
+  title: معلومات التواصل الخاصة بك
+- items:
+  - name: provide-brief-description
+    type: multiple_choice
+    label: ماذا حدث؟ (تحقق من كل ما ينطبق)
+    options:
+    - label: تم الوصول إلى البيانات الخاصة أو كشفها
+      value: Private data was accessed or exposed
+    - label: أغلقت حسابي أو جهازي
+      value: ' I’m shut out of my account or device'
+    - label: لقد أواجه فيروسًا أو برامج ضارة
+      value: ' I''ve encountered a virus or malware'
+    - label: النظام أو الجهاز الخاص بي معطوب
+      value: ' My system or device is damaged'
+    - label: موقع الويب الخاص بي أو الخدمة معطلة
+      value: ' My website or service is disabled'
+    - label: ' قد سرقت المعلومات أو الأصول'
+      value: ' Information or assets have been stolen'
+    - label: الحادثة سرية ، اتصل بي للحصول على التفاصيل
+      value: ' The incident is confidential, contact me for details'
+    - label: لدي مشكلة أمنية رقمية أخرى (يرجى التوضيح)
+      value: ' I have another digital security problem (please describe)'
+  - name: provide-brief-description-2
+    type: text_area
+    label: من فضلك، زودنا بوصف قصير
+  title: التفاصيل
+- items:
+  - name: date-time-incident-discovered
+    type: text_input
+    hint: Date, time
+    label: متلا اكتشفت الحادثة؟
+  title: الوقت
+- items:
+  - name: sensitivity-data-information-involved-check-following-apply-incident
+    type: multiple_choice
+    label: ما مدى خطورة هذا الحادث؟ تحقق من كل ما ينطبق
+    options:
+    - label: الحماية المادي لشخص ما في خطر
+      value: Someone’s physical security is at risk
+    - label: المعلومات أو الأصولات في خطر
+      value: ' information or assets are at risk'
+    - label: سمعة شخص ما في خطر
+      value: ' Someone’s reputation is at risk'
+    - label: لست متأكداً
+      value: ' I’m not sure'
+    - label: أخرى (رجاءً، أوصف ذلك)
+      value: ' Other (please describe)'
+  - name: provide-brief-description-5
+    type: text_area
+    label: من فضلك، زودنا بوصف قصير
+  title: الأثر
+- items:
+  - name: devices-accounts-services
+    type: multiple_choice
+    label: ما هي الأجهزة أو الحسابات أو الخدمات التي قد يتم اختراقها؟ قم بتحديد كل
+      ما ينطبق عليه ذلك
+    options:
+    - label: البريد الإلكتروني
+      value: Email
+    - label: الموقع الإلكتروني
+      value: ' Website'
+    - label: وسائل التواصل الإجتماعي
+      value: ' Social media'
+    - label: رسالة نصية أو صوتية عبر الانترنت
+      value: ' Messaging or VOIP'
+    - label: جهاز الجوال أو اللوحي
+      value: ' Mobile phone or tablet'
+    - label: كمبيوتر متنقل
+      value: ' Mobile computer'
+    - label: كمبيوتر سطح المكتب
+      value: ' Desktop computer'
+    - label: خادم
+      value: ' Server'
+    - label: جهاز تخزين خارجي
+      value: ' External storage device'
+    - label: أخرى
+      value: ' Other'
+  - name: provide-brief-description-8
+    type: text_area
+    label: من فضلك، زودنا بوصف قصير
+  title: تفاصيل الأثر
+- items:
+  - name: approximate-number-users-affected-incident
+    type: text_input
+    label: كم عدد الأشخاص الذي من المحتمل تأثرهم؟
+  title: مقياس
+- items:
+  - name: incident-resolved
+    type: multiple_choice
+    label: هل تم حل الموضوع؟
+    options:
+    - label: نعم ، أنا استخدم هذا النموذج لتوثيق ما حدث
+      value: Yes, I’m using this form to document what happened
+    - label: لا ، أنا استخدم هذا النموذج لمساعدتي في طلب الدعم
+      value: ' No, I’m using this form to help me seek support'
+  title: الحالة
+- items:
+  - name: security-guidelines-cover-type-incident-guidelines-followed
+    type: multiple_choice
+    label: هل تتبع الإرشادات لحل هذه الحادثة؟
+    options:
+    - label: نعم ، أنا أتبع المبادئ التوجيهية
+      value: Yes, I am following guidelines
+    - label: لا ، أنا أستخدم المعلومات المتاحة في Umbrella والمصادر الحرة الأخرى لحل
+        هذا الحادث
+      value: ' No,  I am using information available in Umbrella and other free sources
+        to resolve the incident'
+    - label: لدي إرشادات لكنني لم أتمكن من متابعتها. (يرجى التوضيح:)
+      value: ' I have guidelines but I have not been able to follow them. (Please
+        explain:)'
+  - name: provide-brief-description-4
+    type: text_area
+  title: القواعد الارشادية
+- items:
+  - name: steps-taken-far-check-following-apply-incident
+    type: multiple_choice
+    label: ما الإجراء الذي اتخذته حتى الآن؟ تحقق من كل ما ينطبق.
+    options:
+    - label: لقد قمت بفصل الأجهزة المعنية من الإنترنت
+      value: I’ve disconnected the devices involved from the Internet
+    - label: لقد وثقت ما حدث بشكل آمن (تم التقاط لقطات الشاشة وتخزين ملفات سجل الحماية
+        من الفيروسات)
+      value: ' I’ve  documented what happened securely (taken screenshots, stored
+        the antivirus log files)'
+    - label: لقد غيرت كلمات المرور وأبلغت جهات الاتصال الخاصة بي من جهاز خالي من الفيروسات
+      value: ' I’ve changed my passwords and notified my contacts from a clean device'
+    - label: لقد أبلغت عن الحدث لمزودي الخدمات
+      value: ' I’ve reported the incident to service providers'
+    - label: لقد أخطرت خبيرًا في تقنية المعلومات أو الأمن، أو بإنفاذ القانون إذا كان
+        ذلك مناسبًا
+      value: ' I’ve notified an IT or security expert, or law enforcement if appropriate'
+    - label: لقد أعدت تثبيت نظام التشغيل ، إذا لزم الأمر ، واستعدت ملفات النسخ الاحتياطي
+        قبل الهجمة
+      value: ' I’ve reinstalled the operating system, if necessary, and restored backup
+        files from before the attack'
+    - label: أخرى - قم بوصف ذلك رجاءً
+      value: ' Other – please describe:'
+  - name: provide-brief-description-3
+    type: text_area
+  title: الإجابة
+- items:
+  - name: notified
+    type: text_input
+    hint: Name, title
+    label: من تم إشعاره؟
+  - name: needs-to-be-notified
+    type: text_input
+    label: من لا يزال بحاجة إلى إشعار؟
+  title: إشعار
+- items:
+  - name: inclination-motive-perpetrators
+    type: multiple_choice
+    label: من نفذ الهجوم؟
+    options:
+    - label: حدد المهاجم نفسه (من فضلك اذكر التفاصيل)
+      value: The attacker identified themselves (please provide details)
+    - label: كان الهجوم مجهولاً ولكن لدي شكوك (من فضلك اذكر التفاصيل)
+      value: ' The attack was anonymous but I have suspicions (please provide details)'
+    - label: لا أعلم
+      value: ' I don''t know'
+  - name: provide-brief-description-6
+    type: text_area
+    label: 'التفاصيل:'
+  title: المسؤولية
+- items:
+  - name: provide-brief-description-6
+    type: text_area
+    label: ما هو الدافع المحتمل؟
+  title: الدافع
+- items:
+  - name: supporting-information-screenshots-suspicious-attachment-emails
+    type: multiple_choice
+    label: لقد قمت بحفظ المعلومات التالية بشكل آمن (حدد كا ما ينطبق عليه ذلك)
+    options:
+    - label: لقطات شاشة
+      value: Screenshots
+    - label: شيء ما تم إرساله كمرفق
+      value: ' Something I was sent as an attachment'
+    - label: البريد الإلكتروني أو الرسائل
+      value: ' Emails or messages'
+    - label: أخرى (رجاءً، قم بوصفها:)
+      value: ' Other (please describe:)'
+  - name: provide-brief-description-7
+    type: text_area
+  title: دليل
+- items:
+  - name: guidelines-aspect-security-management-need-revised-way
+    type: text_area
+    label: ما الذي ستغيره لمنع حدوث هذا الحادث مرة أخرى؟
+  title: انعكاس
+- items:
+  - name: action-requested
+    type: text_area
+    label: ما الإجراء الذي تحتاج ان يقوم به شخص ما ليحل الحادثة؟
+  title: الخطوات التالية
+- items:
+  - name: provide-additional-information-feel-important-provided-form
+    type: text_input
+    label: ماذا تحتاج أن تخبر الناس أيضاَ بشأن ما حدث؟
+  title: أية أشياء أخرى؟
+title: حادث الأمن الرقمي

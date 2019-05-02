@@ -14,7 +14,7 @@ Treatment requires the victim's full understanding and agreement.
 
 PEP is an emergency medical response to protect individuals exposed to HIV. It involves medication, laboratory tests and counselling.
 
-Medication may still be beneficial if it is started *as soon as possible* after possible exposure to HIV and no later than 72 hours after, and continued for four weeks. It can cause side-effects and must be taken under medical supervision.(See World Health Organization 2013 guidelines ["Post-Exposure Prophylaxis for HIV"](http://www.who.int/hiv/pub/guidelines/arv2013/December2014-ARVsupplement-chap5.pdf).)
+Medication may still be beneficial if it is started *as soon as possible* after possible exposure to HIV and no later than 72 hours after, and continued for four weeks. It can cause side-effects and must be taken under medical supervision. (See World Health Organization 2013 guidelines ["Post-Exposure Prophylaxis for HIV"](http://www.who.int/hiv/pub/guidelines/arv2013/December2014-ARVsupplement-chap5.pdf).)
 
 Medical tests for sexually transmitted diseases and HIV have to be repeated intermittently for up to a
 year after the incident. 

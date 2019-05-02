@@ -13,7 +13,7 @@ Learn about hate speech in [Online Abuse advanced](umbrella://communications/onl
 * [Censorship](umbrella://communications/censorship)
 * [Online Privacy](umbrella://communications/online-privacy)
 * [How to change your Facebook privacy settings](umbrella://tools/other/s_facebook.md)
-*	[ObscuraCam](umbrella://tools/messagging/s_obscuracam.md)
+*	[ObscuraCam](umbrella://tools/messaging/s_obscuracam.md)
 
 ### SOURCES
 

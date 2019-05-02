@@ -6,12 +6,12 @@ title: At The Meeting
 
 *	Choose something small. Avoid long meals;
 *	Pay in cash to protect your identity;
-*	Pay up front if you can to leave quickly.
+*	Pay up front if you can to leave quickly;
 *	Do not let service staff overhear your meeting.
 
 ## Stay alert
 
-*	Continue to monitor the meeting place
+*	Continue to monitor the meeting place;
 *	Trust your instincts;
 *	Be prepared to leave immediately if something is not right.
 

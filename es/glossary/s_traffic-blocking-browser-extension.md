@@ -1,4 +1,5 @@
 ---
+index: 119
 title: Extensión del explorador con bloqueo de tráfico
 ---
 # Extensión de navegador con bloqueo de tráfico

@@ -6,9 +6,9 @@ Pase a la derecha para la lista de verificación de esta lección.
 
 ### LECCIONES/HERRAMIENTAS RELACIONADAS
 
-*   Signal para [Android](umbrella://tools/messagging/s_signal-for-android.md)
-*   Signal para [iOS](umbrella://tools/messagging/s_signal-for-ios.md)
-*   [Pidgin](umbrella://tools/messagging/s_pidgin.md)
+*   Signal para [Android](umbrella://tools/messaging/s_signal-for-android.md)
+*   Signal para [iOS](umbrella://tools/messaging/s_signal-for-ios.md)
+*   [Pidgin](umbrella://tools/messaging/s_pidgin.md)
 
 ### OTRAS LECTURAS
 

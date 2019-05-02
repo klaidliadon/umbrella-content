@@ -50,7 +50,7 @@ If you operate in a high-risk location:
 
 *	Identify a reputable company specialising in hostage negotiations.
 
-Connect with specialist advice in advance of a potential crisis.
+*	Connect with specialist advice in advance of a potential crisis.
 
 *	Share completed [proof of life](umbrella://forms/f_proof-life-form.yml) forms with your team.
 

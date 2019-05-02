@@ -9,7 +9,7 @@ Learn how to test your network and collect evidence of censorship in [Censorship
 ### RELATED LESSONS/TOOLS
 
 *   [Managing Information](umbrella://information/managing-information)
-*   [Psiphon](umbrella://tools/messagging/s_psiphon.md)
+*   [Psiphon](umbrella://tools/messaging/s_psiphon.md)
 
 ### FURTHER READING
 

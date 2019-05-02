@@ -1,4 +1,5 @@
 ---
+index: 42
 title: Software Libre y de Código Abierto (FOSS)
 ---
 # Software Libre y de Código Abierto (FOSS) 

@@ -24,7 +24,7 @@ title: Confinement
 
 (Learn more about [Sexual Assault](umbrella://incident-response/sexual-assault).) 
 
-## Keep your dignity. 
+## Keep your dignity
 
 *	Cooperate without being servile or aggressive; 
 *	Do not beg or plead. 
@@ -74,7 +74,7 @@ Look for information that may help establish communication, monitor potential ri
 *   Agree to talk on the radio, phone or video;
 *	Say only what you are told to say;
 *	Do not try to send a signal or message; 
-*	Follow orders such as sign a document or write a confession if not doing so threatens your wellbeing or that or others.
+*	Follow orders such as sign a document or write a confession if not doing so threatens your wellbeing or that or others;
 *	Provide details about your personal life if asked. These may offer proof of life during negotiations for your release. 
 
 _Never get directly involved in the negotiations for your release. This will only complicate matters._

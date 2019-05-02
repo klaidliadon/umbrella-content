@@ -27,7 +27,7 @@ The person you are communicating with must also install Signal.
 *	Signal developers [Open Whisper Systems](https://signal.org/about/) operate a central server. You can't run your own, which would give you more control over your security. 
 *	However, they cannot hear your conversations, so no one else can either. 
 
-(Learn more about this in Signal for [Android](umbrella://tools/messagging/s_signal-for-android.md) and [iOS](umbrella://tools/messagging/s_signal-for-ios.md).)
+(Learn more about this in Signal for [Android](umbrella://tools/messaging/s_signal-for-android.md) and [iOS](umbrella://tools/messaging/s_signal-for-ios.md).)
 
 *Some countries block Signal servers to prevent secure communications. To circumvent blocking, use a VPN.*
 

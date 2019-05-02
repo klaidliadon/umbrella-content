@@ -37,17 +37,17 @@ How should they communciate news of a threat?
 * Record audio or get someone else to listen in if you can, but take notes as well;
 * Write down the exact threat word by word; 
 * Ask when, where, what, how, who, why. 
-		* When will the bomb go off? 
-		* Where is it? 
-		* Is there more than one? 
-		* What does it look like? 
-		* What type or size of device is it? 
-		* How will it be detonated? 
-		* Will you detonate it yourself? 
-		* What is your name? 
-		* Are you acting alone? 
-		* How can we reach you? 
-		* Why is this attack being carried out? 
+	* When will the bomb go off?  
+	* Where is it?  
+	* Is there more than one?  
+	* What does it look like?  
+	* What type or size of device is it?  
+	* How will it be detonated?  
+	* Will you detonate it yourself?  
+	* What is your name?  
+	* Are you acting alone?  
+	* How can we reach you?  
+	* Why is this attack being carried out?  
 * Tell the caller that innocent people will be killed or injured if a bomb explodes.  
 
 As soon as you are able, write down any background information you remember: 

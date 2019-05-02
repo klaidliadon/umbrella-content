@@ -4,4 +4,4 @@ title: KeePassXC
 ---
 # KeePassXC
 
-A free, open source, cross platform secure password manager
+A free, open source, cross platform secure password manager.

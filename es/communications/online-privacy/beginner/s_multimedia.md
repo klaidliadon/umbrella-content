@@ -30,7 +30,7 @@ Informado significa que entienden el propósito, la audiencia potencial y los ri
 
 *   ¿Podría su emisión causar daño involuntario?
 
-(Obtenga información sobre [documentar](umbrella://work/protests/beginner y [asistir](umbrella://work/protests/advanced) a protestas.)
+(Obtenga información sobre [documentar](umbrella://work/protests/beginner) y [asistir](umbrella://work/protests/advanced) a protestas.)
 
 ## Contenido compartido por otra persona
 
@@ -64,7 +64,7 @@ ObscuraCam puede:
 *   Eliminar las fotos originales;
 *   Subir los medios a su servidor si configura uno.
 
-(Aprenda a usar [ObscuraCam](umbrella://tools/messagging/s_obscuracam.md).)
+(Aprenda a usar [ObscuraCam](umbrella://tools/messaging/s_obscuracam.md).)
 
 ## Use CameraV
 

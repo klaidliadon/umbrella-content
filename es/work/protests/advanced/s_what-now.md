@@ -15,9 +15,9 @@ Obtenga información sobre cómo presenciar protestas en [protestas principiante
 
 ### GUÍAS DE HERRAMIENTAS RELACIONADAS
 
-*   [Signal para Android](umbrella://tools/messagging/s_signal-for-android.md)
-*   [Signal para iOS](umbrella://tools/messagging/s_signal-for-ios.md)
-*   [ObscuraCam](umbrella://tools/messagging/s_obscuracam.md)
+*   [Signal para Android](umbrella://tools/messaging/s_signal-for-android.md)
+*   [Signal para iOS](umbrella://tools/messaging/s_signal-for-ios.md)
+*   [ObscuraCam](umbrella://tools/messaging/s_obscuracam.md)
 
 ### FUENTES
 

@@ -24,7 +24,7 @@ Checkpoints manned by regular army and police forces may be less problematic tha
 *	Mountain passes;
 *	Town entrances and exits. 
 
-**Be cautious of remove checkpoints away from habitation.** 
+**Be cautious of remote checkpoints away from habitation.** 
 
 ## Don't take a risk
 

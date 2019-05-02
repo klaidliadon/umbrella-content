@@ -1,0 +1,66 @@
+screens:
+- items:
+  - name: s
+    type: text_area
+    label: نام (ها)
+  - name: travel-dates
+    type: text_area
+    label: تاریخ سفر
+  title: نام ها / تاریخ ها
+- items:
+  - name: destination-s
+    type: text_area
+    label: مقصد (ها)
+  - name: purpose
+    type: text_area
+    label: هدف
+  title: مقصد / هدف
+- items:
+  - name: itinerary
+    type: text_area
+    label: برنامه سفر
+  - name: travel-flight-information
+    type: text_area
+    label: سفر / اطلاعات پرواز
+  title: برنامه سفر / سفر
+- items:
+  - name: immigration-requirements
+    type: text_area
+    label: الزامات مهاجرت
+  - name: important-phone-numbers
+    type: text_area
+    label: شماره تلفن های مهم
+  title: مهاجرت / شماره تلفن
+- items:
+  - name: organisational-emergency-contact-s
+    type: text_area
+    label: تماس(های) اضطراری سازمانی
+  - name: check-in-procedure
+    type: text_area
+    label: روش پذیرش
+  title: سازمانها / روشها
+- items:
+  - name: personal-emergency-contact-s
+    type: text_area
+    label: 'تماس(ها) اضطراری شخصی '
+  - name: medical-information
+    type: text_area
+    label: اطلاعات پزشکی
+  title: شخصی / پزشکی
+- items:
+  - name: physical-security-situation
+    type: text_area
+    label: وضعیت امنیتی فیزیکی
+  - name: digital-security-situation
+    type: text_area
+    label: وضعیت امنیتی دیجیتال
+  title: فیزیکی / دیجیتال
+- items:
+  - name: key-contacts-embassy-insurance
+    type: text_area
+    label: اطلاعات کلیدی (سفارت، بیمه و غیره)
+  - name: notes
+    type: text_area
+    label: دیگر / یادداشت ها
+  title: اطلاعات کلیدی/ دیگر
+title: یادداشت امنیتی مسافرتی

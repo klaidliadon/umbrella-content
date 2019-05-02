@@ -7,13 +7,15 @@ title: 適用於Windows的Tor
 ## 適用於WINDOWS的TOR工具指南
 在線匿名和規避
 
-**課程內容：[互聯網](umbrella://communications/the-internet)**
+**課程內容：[在線隱私](umbrella://communications/online-privacy/advanced)**
 **本指南概述如何在Windows上使用[Tor瀏覽器套件](https://www.torproject.org/projects/torbrowser.html.en)。****計算機要求：**互聯網連接，運行Windows的計算機
-**本指南中使用的版本：** Windows：Windows 7旗艦版; Tor瀏覽器套裝：3.6.2
-**許可證：**免費軟件;混合使用自由軟件許可證
+**本指南中使用的版本：** Windows：Windows 7旗艦版; Tor瀏覽器套件：3.6.2
+**許可證：**免費軟件; 混合使用自由軟件許可證
 **程度：**中級
 **其他參考資料：** [https://tor.stackexchange.com/](https://tor.stackexchange.com/)
-所需時間：15-30分鐘
+所需時間：
+15-30 分鐘
+
 
 **使用Tor會給你：**
 - 繞過互聯網審查的能力
@@ -49,8 +51,8 @@ title: 適用於Windows的Tor
 此時會出視一個關於軟體來源的警告視窗，你必須小心注意這些警告以確認是否為你要安裝的軟體、來自可信任的官方網址、透過安全的連線方式而取得等。如果一切都沒問題，那麼就繼續往下走，點擊執行鍵。
 ![image](tool_torwin6.png)
 
-雙擊Tor Browser安裝程序後，將打開一個窗口，其中包含有關軟件來源的警告。您應該始終認真對待這些警告，並確保您信任您要安裝的軟件，並通過安全連接從官方網站獲得正版。既然您知道自己想要什麼，並且知道從哪裡獲得該軟件，並且下載來自Tor Project的安全HTTPS站點，請繼續並單擊“運行”。
-！[圖像]（tool_torwin6.jpeg）
+雙擊Tor Browser安裝程序後，將打開一個窗口，其中包含有關軟件來源的警告。您應該始終認真看待這些警告，並確保您信任您要安裝的軟件，通過安全連接從官方網站獲得正版的軟件。既然您知道自己想要什麼，並且知道從哪裡獲得該軟件，與下載處是來自Tor Project的安全HTTPS站點，請繼續並單擊“運行”。
+![圖像](tool_torwin6.jpeg)
 
 這時候會出現一個新的小視窗告訴你　Tor 瀏覧器將要被安裝的位置。一般預設的位置是你的電腦桌面，當然你可以依習慣來改變你想要安裝的位置，不過現在我們先讓它維持預設的狀態。
 ![image](tool_torwin8.png)

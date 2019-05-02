@@ -12,7 +12,7 @@ title: Assess your risk
 * Would a raid embarrass the authorities, or further their agenda? 
 * How much will your work be disrupted if you lose devices and documents from your workplace or residence?  
 
-[Learn about [Security Planning](umbrella://assess-your-risk/security-planning))
+(Learn about [Security Planning](umbrella://assess-your-risk/security-planning))
 
 ## General preparation
 

@@ -12,7 +12,7 @@ title: 現在怎樣?
 * [綫上隱私](umbrella://communications/online-privacy)
 *   [管理資訊課程](umbrella://information/managing-information)
 *   [控訴](umbrella://work/protests/beginner)
-*   [Psiphon3的工具指南](umbrella://tools/messagging/s_psiphon.md)
+*   [Psiphon3的工具指南](umbrella://tools/messaging/s_psiphon.md)
 
 ### 進一步閱讀
 

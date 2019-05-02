@@ -15,9 +15,9 @@ title: 現在怎樣?
 
 ### 相關工具指南
 
-*   [適用於Android的Signal](umbrella://tools/messagging/s_signal-for-android.md)
-*   [適用於iOS的Signal](umbrella://tools/messagging/s_signal-for-ios.md)
-*   [ObscuraCam](umbrella://tools/messagging/s_obscuracam.md)
+*   [適用於Android的Signal](umbrella://tools/messaging/s_signal-for-android.md)
+*   [適用於iOS的Signal](umbrella://tools/messaging/s_signal-for-ios.md)
+*   [ObscuraCam](umbrella://tools/messaging/s_obscuracam.md)
 
 ### 來源
 

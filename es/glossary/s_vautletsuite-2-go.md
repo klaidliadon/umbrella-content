@@ -1,4 +1,5 @@
 ---
+index: 124
 title: VautletSuite 2 Go
 ---
 # VautletSuite 2 Go 

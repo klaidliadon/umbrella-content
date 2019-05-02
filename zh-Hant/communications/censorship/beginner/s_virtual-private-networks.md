@@ -37,7 +37,7 @@ VPN提供商可以是商業或非營利性的機構，託管在不同的國家�
 
 Psiphon是一款適用於Windows，Android和iOS的安全免費VPN。
 
-(了解如何使用[Psiphon](umbrella://tools/messagging/s_psiphon.md))
+(了解如何使用[Psiphon](umbrella://tools/messaging/s_psiphon.md))
 
 Psiphon用於審查突破。它不保障匿名。
 

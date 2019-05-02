@@ -15,8 +15,12 @@ Our team:
 *   Rok Biderman -> builds things
 *   Rory Byrne -> secures things
 *  	Alex Guerrieri -> moars things
-*   Holly Kilroy -> writes things
+*   Holly Kilroy -> founds things
 *   Vesna Planko -> designs things
+*   Douglas Mesquita -> droids things
+*   Lucas Correa -> apples things
+*   Gregor Stamejcic -> corrals things 
+*   Madeline Earp -> writes things
 
 Friends from the past now working on new things:
 *   Mitesh Patel -> improved things

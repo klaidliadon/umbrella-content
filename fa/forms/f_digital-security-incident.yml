@@ -1,0 +1,220 @@
+screens:
+- items:
+  - name: name
+    type: text_input
+    label: 'نام:'
+  - name: phone
+    type: text_input
+    label: 'تلفن:'
+  - name: email-address
+    type: text_input
+    label: 'پست الکترونیک:'
+  - name: secure-communication-method-e-g-signal-safety-number-pgp-email-id
+    type: text_input
+    label: 'اطلاعات امنیتی (شماره ایمنی سیگنال، شناسه کلیدی PGP):'
+  title: اطلاعات تماس شما
+- items:
+  - name: provide-brief-description
+    type: multiple_choice
+    label: چه اتفاقی افتاد؟ (بررسی همه موارد انجام شود)
+    options:
+    - label: داده های خصوصی در دسترس و یا در معرض قرار گرفت
+      value: Private data was accessed or exposed
+    - label: من خارج از حسابم یا دستگاهم هستم.
+      value: ' I’m shut out of my account or device'
+    - label: من با یک ویروس یا بدافزار مواجه شده ام
+      value: ' I''ve encountered a virus or malware'
+    - label: سیستم یا دستگاه من آسیب دیده است
+      value: ' My system or device is damaged'
+    - label: وبسایت یا سرویس من غیرفعال است
+      value: ' My website or service is disabled'
+    - label: اطلاعات یا دارایی ها به سرقت رفته است
+      value: ' Information or assets have been stolen'
+    - label: این حادثه محرمانه است، برای جزئیات بیشتر با من تماس بگیرید
+      value: ' The incident is confidential, contact me for details'
+    - label: من یک مشکل امنیتی دیجیتال دارم (لطفا توضیح دهید)
+      value: ' I have another digital security problem (please describe)'
+  - name: provide-brief-description-2
+    type: text_area
+    label: لطفا جزئیات را ارائه دهید
+  title: جزئیات
+- items:
+  - name: date-time-incident-discovered
+    type: text_input
+    hint: Date, time
+    label: چه زمانی این حادثه را کشف کردید؟
+  title: زمان
+- items:
+  - name: sensitivity-data-information-involved-check-following-apply-incident
+    type: multiple_choice
+    label: حادثه چقدر جدی است؟ همه مواردی را که اعمال می کنید را بررسی کنید
+    options:
+    - label: امنیت فیزیکی فردی در معرض خطر است
+      value: Someone’s physical security is at risk
+    - label: اطلاعات و یا دارایی ها در معرض خطر هستند
+      value: ' information or assets are at risk'
+    - label: شهرت کسی در معرض خطر است
+      value: ' Someone’s reputation is at risk'
+    - label: مطمئن نیستم
+      value: ' I’m not sure'
+    - label: موارد دیگر (لطفا شرح دهید)
+      value: ' Other (please describe)'
+  - name: provide-brief-description-5
+    type: text_area
+    label: لطفا جزئیات را ارائه دهید
+  title: ضربه
+- items:
+  - name: devices-accounts-services
+    type: multiple_choice
+    label: کدام دستگاه ها، حساب ها یا خدمات ممکن است به خطر بیافتد؟ همه مواردی را
+      که اعمال می کنید را بررسی کنید
+    options:
+    - label: پست الکترونیک
+      value: Email
+    - label: وب سایت
+      value: ' Website'
+    - label: رسانه های اجتماعی
+      value: ' Social media'
+    - label: پیام رسانی یا VOIP
+      value: ' Messaging or VOIP'
+    - label: تلفن همراه یا تبلت
+      value: ' Mobile phone or tablet'
+    - label: کامپیوتر همراه
+      value: ' Mobile computer'
+    - label: کامپیوتر رومیزی
+      value: ' Desktop computer'
+    - label: سرور
+      value: ' Server'
+    - label: دستگاه ذخیره سازی خارجی
+      value: ' External storage device'
+    - label: موارد دیگر
+      value: ' Other'
+  - name: provide-brief-description-8
+    type: text_area
+    label: لطفا جزئیات را ارائه دهید
+  title: ""
+- items:
+  - name: approximate-number-users-affected-incident
+    type: text_input
+    label: چه تعداد از مردم ممکن است تحت تأثیر قرار گیرند؟
+  title: مقیاس
+- items:
+  - name: incident-resolved
+    type: multiple_choice
+    label: آیا این حادثه حل شده است؟
+    options:
+    - label: بله، من از این فرم برای نشان دادن آنچه اتفاق افتاده است استفاده می کنم
+      value: Yes, I’m using this form to document what happened
+    - label: نه، من از این فرم استفاده میکنم تا به من کمک کنم
+      value: ' No, I’m using this form to help me seek support'
+  title: وضعیت
+- items:
+  - name: security-guidelines-cover-type-incident-guidelines-followed
+    type: multiple_choice
+    label: آیا رهنمودها را برای حل این حادثه دنبال میکنید؟
+    options:
+    - label: بله، من رهنمودها را دنبال می کنم
+      value: Yes, I am following guidelines
+    - label: نه، من از اطلاعات موجود در Umbrella و دیگر منابع رایگان برای حل این حادثه
+        استفاده می کنم
+      value: ' No,  I am using information available in Umbrella and other free sources
+        to resolve the incident'
+    - label: من دستورالعمل(راهنما) دارم، اما قادر به پیروی از آنها نیستم. (لطفا توضیح
+        دهید:)
+      value: ' I have guidelines but I have not been able to follow them. (Please
+        explain:)'
+  - name: provide-brief-description-4
+    type: text_area
+  title: دستورالعمل(راهنما)
+- items:
+  - name: steps-taken-far-check-following-apply-incident
+    type: multiple_choice
+    label: تا کنون چه اقداماتی انجام داده اید؟ همه مواردی را که اعمال می کنید را بررسی
+      کنید
+    options:
+    - label: من دستگاه های درگیر را از اینترنت قطع کرده ام
+      value: I’ve disconnected the devices involved from the Internet
+    - label: من آنچه اتفاق افتاده است را به صورت امن مستند کرده ام (تصاویر گرفته شده،
+        ذخیره فایل های ورود به سیستم آنتی ویروس)
+      value: ' I’ve  documented what happened securely (taken screenshots, stored
+        the antivirus log files)'
+    - label: من گذرواژه های خود را تغییر داده ام و از یک دستگاه سالم مخاطبینم را آگاه
+        کردم
+      value: ' I’ve changed my passwords and notified my contacts from a clean device'
+    - label: من حادثه را به ارائه دهندگان خدمات گزارش دادم
+      value: ' I’ve reported the incident to service providers'
+    - label: من به یک کارشناس فناوری اطلاعات یا امنیت، و یا اگر مناسب باشد به یک کارشناس
+        اجرایی قانون اطلاع داده ام.
+      value: ' I’ve notified an IT or security expert, or law enforcement if appropriate'
+    - label: در صورت لزوم سیستم عامل را مجددا نصب کردم و فایلهای پشتیبان قبل از حمله
+        را بازگردانی کردم
+      value: ' I’ve reinstalled the operating system, if necessary, and restored backup
+        files from before the attack'
+    - label: 'موارد دیگر - لطفا توضیح دهید:'
+      value: ' Other – please describe:'
+  - name: provide-brief-description-3
+    type: text_area
+  title: واکنش
+- items:
+  - name: notified
+    type: text_input
+    hint: Name, title
+    label: به چه کسی اطلاع داده شده است؟
+  - name: needs-to-be-notified
+    type: text_input
+    label: به چه کسی هنوز باید اطلاع داده شود؟
+  title: اطلاع
+- items:
+  - name: inclination-motive-perpetrators
+    type: multiple_choice
+    label: چه کسی این حمله را انجام داده است؟
+    options:
+    - label: مهاجم خود را شناسایی کرد (لطفا جزئیات را ارائه کنید)
+      value: The attacker identified themselves (please provide details)
+    - label: حمله به صورت ناشناس بود، اما من به بعضی از افراد شک دارم (لطفا جزئیات
+        را ارائه دهید)
+      value: ' The attack was anonymous but I have suspicions (please provide details)'
+    - label: من نمی دانم
+      value: ' I don''t know'
+  - name: provide-brief-description-6
+    type: text_area
+    label: 'جزئیات:'
+  title: مسئوليت
+- items:
+  - name: provide-brief-description-6
+    type: text_area
+    label: انگیزه احتمالی چیست؟
+  title: انگیزه
+- items:
+  - name: supporting-information-screenshots-suspicious-attachment-emails
+    type: multiple_choice
+    label: من اطلاعات زیر را به صورت ایمن ذخیره کرده ام (همه موارد انجام شده را بررسی
+      کنید)
+    options:
+    - label: تصاویر گرفته شده از روی صفحه
+      value: Screenshots
+    - label: چیزی را به عنوان ضمیمه ارسال کردم
+      value: ' Something I was sent as an attachment'
+    - label: ایمیل یا پیام
+      value: ' Emails or messages'
+    - label: موارد دیگر (لطفا توضیح دهید :)
+      value: ' Other (please describe:)'
+  - name: provide-brief-description-7
+    type: text_area
+  title: شواهد و مدارک
+- items:
+  - name: guidelines-aspect-security-management-need-revised-way
+    type: text_area
+    label: برای پیشگیری از وقوع این حادثه چه تغییری می کنید؟
+  title: بازتاب
+- items:
+  - name: action-requested
+    type: text_area
+    label: برای حل این حادثه به چه اقداماتی از طرف فردی دیگر نیاز دارید؟
+  title: مراحل بعدی
+- items:
+  - name: provide-additional-information-feel-important-provided-form
+    type: text_input
+    label: در مورد آنچه که اتفاق افتاده است، چه چیزهای دیگری نیاز است که به مردم بگوید؟
+  title: چیز دیگری نیست؟
+title: حادثه امنیتی دیجیتال

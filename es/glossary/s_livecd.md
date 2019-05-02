@@ -1,4 +1,5 @@
 ---
+index: 69
 title: LiveCD
 ---
 # LiveCD

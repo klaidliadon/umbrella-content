@@ -1,4 +1,5 @@
 ---
+index: 100
 title: Cable de seguridad
 ---
 # Cable de seguridad 

@@ -7,7 +7,7 @@ list:
 - check: 在可能的情況下選擇一個高強度密碼和2FA。
 - check: 在密碼管理器中保存安全問題的隨機答案。
 - check: 選擇公開使用的名稱。為不同的活動創建單獨的帳戶，例如宣傳活動，或識別為群組，而不是個人。
-- check: 保留可用於冒充或攻擊您的非必要信息。
+- check: 拒絕透露可用於冒充或攻擊您的非必要信息。
 - check: 調整您的隱私設置。
 - check: 下載工具，以幫助您管理您共享的信息（uBlock Origin，Privacy Badger，ObscuraCam，CameraV，eyeWitness
     和 Atrocities

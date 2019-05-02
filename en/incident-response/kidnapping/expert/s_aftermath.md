@@ -14,7 +14,7 @@ title: Aftermath
 ## Debrief
 
 *   Arrange for the authorities to meet and interview the victim.
-*   Manage the press; organise a short press conference with the victim and/ or their family, and retain control over press contacts.
+*   Manage the press; organise a short press conference with the victim and/or their family, and retain control over press contacts.
 *   Arrange for a debriefing with the organisation.
 
 ## Evaluate

@@ -1,4 +1,5 @@
 ---
+index: 75
 title: Dispositivo mnemotécnico
 ---
 # Dispositivo mnemónico

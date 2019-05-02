@@ -13,9 +13,9 @@ Aprenda a mantenerse en el anonimato en línea en [Privacidad en línea avanzada
 *   [Abuso en Linea](umbrella://communications/online-abuse)
 *   [Censura](umbrella://communications/censorship)
 *   [Cómo cambiar sus configuraciones de privacidad de Facebook](umbrella://tools/other/s_facebook.md)
-*   [ObscuraCam](umbrella://tools/messagging/s_obscuracam.md)
+*   [ObscuraCam](umbrella://tools/messaging/s_obscuracam.md)
 *   [Enviando un mensaje](umbrella://communications/sending-a-message)
-*   [Pidgin](umbrella://tools/messagging/s_pidgin.md)
+*   [Pidgin](umbrella://tools/messaging/s_pidgin.md)
 
 ### FUENTES
 

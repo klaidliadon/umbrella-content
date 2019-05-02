@@ -30,6 +30,6 @@ Kidnappers are likely to:
 *   Do not attempt escape;
 *	Fear and shock are normal reactions.
 
-## Stay together
+## Stay together.
 *   If in a group, try not to be separated;
 *	Appoint a spokesperson based on ability, not rank.

@@ -1,4 +1,5 @@
 ---
+index: 30
 title: Nombre de dominio
 ---
 # Nombre de dominio 

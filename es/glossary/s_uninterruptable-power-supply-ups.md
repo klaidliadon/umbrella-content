@@ -1,4 +1,5 @@
 ---
+index: 123
 title: Fuente de Alimentación Ininterrumpible (UPS)
 ---
 # Fuente de Alimentación Ininterrumpible (UPS)

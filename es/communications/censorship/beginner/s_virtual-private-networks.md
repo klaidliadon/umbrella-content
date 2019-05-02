@@ -37,7 +37,7 @@ No use una VPN en la que no confíe.
 
 Psiphon es una VPN segura y gratuita para Windows, Android e iOS.
 
-(Aprenda a usar [Psiphon](Learn how to use [Psiphon](umbrella://tools/messagging/s_psiphon.md).)
+(Aprenda a usar [Psiphon](Learn how to use [Psiphon](umbrella://tools/messaging/s_psiphon.md).)
 
 Psiphon es para eludir la censura. No garantiza el anonimato.
 
